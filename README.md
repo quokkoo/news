@@ -220,7 +220,8 @@ DEGRADED=1 npm run pipeline
 
 ## 关于数据源
 
-`config/sources.ts` 里的 95 个源都在 2026-08-06 实测过可达性。
+`config/sources.ts` 里共配置 99 个源，其中 95 个默认启用、4 个默认关闭。全部在 2026-08-06
+逐个实测过可达性 —— 没有一个是凭印象填的。
 
 **明确不可用、没有采用的**（记录在 `REJECTED_SOURCES`）：
 

@@ -6,13 +6,13 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:13:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 14:28:08 GMT</lastBuildDate>
     <item>
       <title>【2026-08-06 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
       <guid isPermaLink="false">brief-2026-08-06</guid>
-      <pubDate>Thu, 06 Aug 2026 14:13:05 GMT</pubDate>
-      <description>今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 77 分钟。建议先看下面 Top 3。</description>
+      <pubDate>Thu, 06 Aug 2026 14:28:08 GMT</pubDate>
+      <description>今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 78 分钟。建议先看下面 Top 3。</description>
     </item>
     <item>
       <title>非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%</title>
@@ -105,16 +105,6 @@
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Mario Meets Pareto</title>
-      <link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
-      <guid isPermaLink="false">ac8e37191251</guid>
-      <pubDate>Thu, 06 Aug 2026 11:24:53 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31
-
-来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
       <title>The left and right agree on one thing: no data centers</title>
       <link>https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan</link>
       <guid isPermaLink="false">7a15a172b308</guid>
@@ -135,14 +125,14 @@
 来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Senate Democrats advise party to break out economic populism</title>
-      <link>https://www.semafor.com/article/08/06/2026/senate-democrats-advise-party-to-break-out-economic-populism</link>
-      <guid isPermaLink="false">bfd131f08eec</guid>
-      <pubDate>Thu, 06 Aug 2026 11:15:59 GMT</pubDate>
+      <title>Mario Meets Pareto</title>
+      <link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
+      <guid isPermaLink="false">ac8e37191251</guid>
+      <pubDate>Thu, 06 Aug 2026 11:24:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Democrats should use Congress’ August recess to lean into economic populism and take on corporate interests — not just “simply oppose Trump and his billionaire friends,” according …
+      <description>Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31
 
-来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
       <title>Republicans sense advantage in ‘target-rich’ Michigan</title>
@@ -153,6 +143,16 @@
       <description>The News Senate Republicans needed good news. They think they got it in Michigan. The party sees its chances of keeping Senate control brightening after Abdul El-Sayed won the Demo…
 
 来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Introducing Muse Code and Muse Spark 1.2</title>
+      <link>https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything</link>
+      <guid isPermaLink="false">9ab1d0ca5a91</guid>
+      <pubDate>Wed, 05 Aug 2026 23:58:35 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their …
+
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
       <title>Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions</title>
@@ -285,16 +285,6 @@
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Media backlash in China after US think tank hails 46% drop in Chinese student visas</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3363195/chinese-media-hits-back-after-us-think-tank-hails-46-drop-chinese-student-visas?utm_source=rss_feed</link>
-      <guid isPermaLink="false">a2add9b47b82</guid>
-      <pubDate>Thu, 06 Aug 2026 11:19:32 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>A dramatic drop in US student visas issued to Chinese and Indian nationals is the latest flashpoint in the debate over education and security after an American think tank framed th…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
       <title>Nuclear startup Oklo splits its first atoms in test reactor</title>
       <link>https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor</link>
       <guid isPermaLink="false">4b07bac1c2fc</guid>
@@ -413,6 +403,26 @@
       <description>Governments that deploy internet shutdowns to thwart protesters have struggled to clamp down on offline messaging apps. India’s recent response to Jack Dorsey’s Bitchat suggests th…
 
 来源：Rest of World · 消费、出海与品牌 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income</title>
+      <link>https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">62ede8604205</guid>
+      <pubDate>Thu, 06 Aug 2026 12:10:44 GMT</pubDate>
+      <category>加密与金融科技</category>
+      <description>Bernstein said Circle&apos;s partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.
+
+来源：The Block · 加密与金融科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis</title>
+      <link>https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&amp;utm_medium=rss</link>
+      <guid isPermaLink="false">6be91db2db7a</guid>
+      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+      <category>加密与金融科技</category>
+      <description>Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.
+
+来源：The Block · 加密与金融科技 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>

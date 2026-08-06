@@ -1,10 +1,10 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T14:13:05.160Z",
+  "generatedAt": "2026-08-06T14:28:08.784Z",
   "degradedMode": true,
   "degradedReason": "手动指定 DEGRADED=1，跳过 AI 环节",
   "brief": {
-    "overview": "今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 77 分钟。建议先看下面 Top 3。",
+    "overview": "今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 78 分钟。建议先看下面 Top 3。",
     "topPicks": [
       {
         "itemId": "ad28206d8f14",
@@ -288,32 +288,6 @@
           "degraded": true
         },
         {
-          "id": "ac8e37191251",
-          "title": "Mario Meets Pareto",
-          "titleZh": "Mario Meets Pareto",
-          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-          "summary": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31",
-          "whyItMatters": "",
-          "sourceName": "Hacker News",
-          "publishedAt": "2026-08-06T11:24:53.000Z",
-          "topic": "ai",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.85,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
           "id": "7a15a172b308",
           "title": "The left and right agree on one thing: no data centers",
           "titleZh": "The left and right agree on one thing: no data centers",
@@ -366,24 +340,24 @@
           "degraded": true
         },
         {
-          "id": "bfd131f08eec",
-          "title": "Senate Democrats advise party to break out economic populism",
-          "titleZh": "Senate Democrats advise party to break out economic populism",
-          "url": "https://www.semafor.com/article/08/06/2026/senate-democrats-advise-party-to-break-out-economic-populism",
-          "summary": "Democrats should use Congress’ August recess to lean into economic populism and take on corporate interests — not just “simply oppose Trump and his billionaire friends,” according …",
+          "id": "ac8e37191251",
+          "title": "Mario Meets Pareto",
+          "titleZh": "Mario Meets Pareto",
+          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+          "summary": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31",
           "whyItMatters": "",
-          "sourceName": "Semafor",
-          "publishedAt": "2026-08-06T11:15:59.000Z",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-06T11:24:53.000Z",
           "topic": "ai",
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
           "score": 6.6,
           "scores": {
-            "importance": 6,
-            "novelty": 7,
-            "actionability": 5,
-            "depth": 7
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -408,6 +382,32 @@
           "scores": {
             "importance": 6,
             "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ab1d0ca5a91",
+          "title": "Introducing Muse Code and Muse Spark 1.2",
+          "titleZh": "Introducing Muse Code and Muse Spark 1.2",
+          "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
+          "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-05T23:58:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
             "actionability": 5,
             "depth": 8
           },
@@ -804,32 +804,6 @@
           "whyItMatters": "",
           "sourceName": "南华早报",
           "publishedAt": "2026-08-06T12:01:27.000Z",
-          "topic": "geopolitics",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.6,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "a2add9b47b82",
-          "title": "Media backlash in China after US think tank hails 46% drop in Chinese student visas",
-          "titleZh": "Media backlash in China after US think tank hails 46% drop in Chinese student visas",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363195/chinese-media-hits-back-after-us-think-tank-hails-46-drop-chinese-student-visas?utm_source=rss_feed",
-          "summary": "A dramatic drop in US student visas issued to Chinese and Indian nationals is the latest flashpoint in the debate over education and security after an American think tank framed th…",
-          "whyItMatters": "",
-          "sourceName": "南华早报",
-          "publishedAt": "2026-08-06T11:19:32.000Z",
           "topic": "geopolitics",
           "tags": [],
           "type": "快讯",
@@ -1266,6 +1240,74 @@
           "degraded": true
         }
       ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "62ede8604205",
+          "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
+          "titleZh": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
+          "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
+          "summary": "Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-06T12:10:44.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6be91db2db7a",
+          "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
+          "titleZh": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
+          "url": "https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&utm_medium=rss",
+          "summary": "Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-06T12:00:00.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
     }
   ],
   "topPickIds": [
@@ -1275,11 +1317,11 @@
   ],
   "stats": {
     "itemsConsidered": 42,
-    "itemsPublished": 40,
-    "itemsFiltered": 2,
+    "itemsPublished": 41,
+    "itemsFiltered": 1,
     "sourcesOk": 91,
     "sourcesFailed": 4,
-    "totalReadMinutes": 75,
+    "totalReadMinutes": 77,
     "usage": {
       "inputTokens": 0,
       "outputTokens": 0,

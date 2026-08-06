@@ -120,27 +120,31 @@ export async function callModel<T>(
   const c = getClient();
   const price = priceFor(opts.model);
 
-  const body: Record<string, unknown> = {
+  const outputConfig: Anthropic.OutputConfig = {};
+  if (opts.schema) {
+    outputConfig.format = {
+      type: "json_schema",
+      schema: opts.schema as Anthropic.JSONOutputFormat["schema"],
+    };
+  }
+  if (opts.effort) outputConfig.effort = opts.effort;
+
+  const body: Anthropic.MessageCreateParamsNonStreaming = {
     model: opts.model,
     max_tokens: opts.maxTokens ?? 16000,
     system: opts.cacheSystem
       ? [{ type: "text", text: opts.system, cache_control: { type: "ephemeral" } }]
       : opts.system,
     messages: [{ role: "user", content: opts.userContent }],
+    ...(Object.keys(outputConfig).length ? { output_config: outputConfig } : {}),
+    // 批量打分不需要思考，省 token。Opus 5 只在 effort ≤ high 时允许关闭，
+    // 所以导读那一步不传这个参数，走默认的 adaptive。
+    ...(opts.disableThinking ? { thinking: { type: "disabled" as const } } : {}),
   };
-
-  const outputConfig: Record<string, unknown> = {};
-  if (opts.schema) {
-    outputConfig["format"] = { type: "json_schema", schema: opts.schema };
-  }
-  if (opts.effort) outputConfig["effort"] = opts.effort;
-  if (Object.keys(outputConfig).length) body["output_config"] = outputConfig;
-
-  if (opts.disableThinking) body["thinking"] = { type: "disabled" };
 
   for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
     try {
-      const res = await c.messages.create(body as never);
+      const res = await c.messages.create(body);
 
       // 记账
       const u = res.usage;
@@ -170,7 +174,8 @@ export async function callModel<T>(
 
       // 安全分类器可能拒答；此时不该当成解析失败
       if (res.stop_reason === "refusal") {
-        log.warn(`${opts.label}: 模型拒答（${res.stop_details?.category ?? "unknown"}），该批降级`);
+        const category = res.stop_details?.type === "refusal" ? res.stop_details.category : null;
+        log.warn(`${opts.label}: 模型拒答（${category ?? "未知类别"}），该批降级`);
         usage.failedCalls += 1;
         return null;
       }

@@ -19,7 +19,7 @@
     "check-sources": "tsx scripts/check-sources.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.71.0",
+    "@anthropic-ai/sdk": "^0.115.0",
     "@extractus/article-extractor": "^8.0.16",
     "rss-parser": "^3.13.0"
   },
@@ -30,6 +30,10 @@
     "dotenv": "^17.2.5",
     "tailwindcss": "^4.2.5",
     "tsx": "^4.20.6",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vite": "^6.4.3"
+  },
+  "overrides": {
+    "vite": "^6.4.3"
   }
 }
