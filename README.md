@@ -1,10 +1,14 @@
 # 每日新闻精读
 
-> 我一大早只有 30 分钟。这个站替我从几百条资讯里挑出真正值得读的，并告诉我为什么值得读、该花多久读。
+> 我一大早只有 30 分钟。这个站替我从几百条资讯里挑出真正值得读的，并告诉我该花多久读。
 
 线上地址：**<https://quokkoo.github.io/news/>** · [RSS 订阅](https://quokkoo.github.io/news/feed.xml) · [历史归档](https://quokkoo.github.io/news/archive)
 
-每天北京时间 **7:00 前**自动完成抓取、AI 评估、生成、部署，全流程零人工干预。
+**本站按规则模型自动排序，不接入 AI**：不需要任何 API key，没有调用成本。每天北京时间
+**7:00 前**自动完成抓取、排序、生成、部署，全流程零人工干预。
+
+（代码库里其实保留了一套完整的可选 AI 精选路径——中文标题润色、摘要、「为什么重要」——
+默认关闭。想打开见文末[《可选：启用 AI 精选》](#可选启用-ai-精选进阶)。）
 
 ---
 
@@ -14,20 +18,16 @@
 95 个 RSS 源
    ↓  fetch      并发抓取 · 24h 窗口 · URL 规范化 + 标题模糊去重 · 记录报道家数
 ~1200 条
-   ↓  规则预筛    按来源权重 + 报道家数 + 新鲜度，每个领域压到条数上限的 5 倍
-~230 条
-   ↓  curate 分流  claude-sonnet-5，只出四项评分与噪音判定（输出极短，省钱）
-   ↓  筛选        按领域门槛与条数上限挑出最终入选
+   ↓  规则排序    按来源权重 + 报道家数 + 新鲜度打分，每个领域按门槛与条数上限截取
 ~40 条
-   ↓  curate 精写  claude-sonnet-5，只对入选条目生成中文标题 / 摘要 / 为什么重要
-   ↓  brief       claude-opus-5，一天一次，生成今日导读 + Top 3 + 今天可以跳过什么
+   ↓  brief       生成「今日概览」（按条数/栏目/预计阅读时间自动拼句）+ 排序分最高的 Top 3
    ↓  build-data   写 data/YYYY-MM-DD.json、更新归档索引、生成 feed.xml
 静态站点
 ```
 
-**为什么分成「分流 + 精写」两步：** 一天抓到一千多条，全量送模型精评每天要花 $1 以上。
-分流阶段只让模型输出评分（每条约 30 token），精写阶段只处理真正会显示在页面上的约 40 条。
-产出的数据格式和一次性精评完全一样，但成本降到约 1/3。
+排序公式在 `config/topics.ts` 里可调。**没有 AI 生成的中文润色或「为什么重要」**——
+标题是 RSS 原标题，摘要是原文内容的前 N 字精简，卡片和首页顶部横幅都会如实标注这一点，
+不会假装这是编辑判断。
 
 ---
 
@@ -39,11 +39,11 @@ config/
   sources.ts         RSS 源配置 —— 增删源只改这里
 scripts/
   fetch.ts           抓取 + 去重
-  curate.ts          AI 评估（分流 + 精写）
-  brief.ts           主编导读
+  curate.ts          规则排序（保留了可选的 AI 精选路径，默认不启用）
+  brief.ts           今日概览生成（规则拼句；启用 AI 后会替换为真正的主编导读）
   build-data.ts      写数据文件 + RSS
   check-sources.ts   源可达性体检
-  lib/               类型、工具、Anthropic 调用层
+  lib/               类型、工具、Anthropic 调用层（仅 AI 路径用到）
 src/                 Astro 站点
 data/
   YYYY-MM-DD.json    每日归档（提交回仓库，可回溯）
@@ -73,14 +73,11 @@ data/
   minItemsToShow: 2,              // 扩展栏目专用：不够这么多条就整个隐藏
   order: 13,                      // 首页排序
   accent: { light: "#3730a3", dark: "#a5b4fc" },
-  guidance: "优先：…… 剔除：……",   // 直接写进给 AI 的 prompt，最影响选文质量的一项
+  guidance: "优先：…… 剔除：……",   // 只在启用 AI 精选时生效，默认模式下不使用
 },
 ```
 
 然后去 `config/sources.ts` 给它挂上源（`topic: "space"`）。不用改任何其他文件。
-
-> `guidance` 值得认真写。它是唯一直接影响 AI 选文口味的地方，
-> 「优先什么 / 剔除什么」写得越具体，结果越好。
 
 ### 加一个新 RSS 源
 
@@ -133,32 +130,12 @@ export const SCORE_ADJUSTMENTS = {
 };
 ```
 
-综合分 = `importance×0.4 + novelty×0.25 + actionability×0.2 + depth×0.15`，
-再叠加来源权重、领域权重和报道家数加分。
+**在不启用 AI 的默认模式下**，这四项分数由 `scripts/curate.ts` 里的 `ruleScore()` 纯规则计算
+（来源权重 + 报道家数 + 新鲜度 + 正文长度），不是 AI 打的分。综合分公式和权重生效方式相同：
+`importance×0.4 + novelty×0.25 + actionability×0.2 + depth×0.15`，再叠加来源权重、领域权重和
+报道家数加分。
 
 想让内容更少更精 → 调高各领域的 `minScore`；想要更多 → 调低，或调大 `maxItems`。
-
-### 控制成本
-
-`config/topics.ts` 里的 `PREFILTER` 是成本主杠杆：
-
-```ts
-export const PREFILTER = {
-  multiplier: 5,      // 每个领域保留 maxItems × 5 条送 AI。调小更省，但更依赖来源权重准确性
-  capPerTopic: 40,    // 单领域送 AI 的绝对上限
-  triageChars: 240,   // 分流阶段每条正文截断长度
-  enrichChars: 1200,  // 精写阶段每条正文截断长度
-};
-```
-
-还想更便宜，可以把分流阶段换成 Haiku：
-
-```bash
-MODEL_CURATE=claude-haiku-4-5 npm run curate
-```
-
-每天的实际消耗会打印在 workflow 日志和 Job Summary 里。设计目标 ≤ $0.3/天，超过 $1 会在
-Summary 里显式告警。
 
 ---
 
@@ -166,39 +143,26 @@ Summary 里显式告警。
 
 ```bash
 npm install
-cp .env.example .env      # 然后把自己的 ANTHROPIC_API_KEY 填进去（.env 已被 gitignore）
 ```
 
-**四个步骤可以单独跑**，中间产物落在 `.cache/`，方便局部重试：
+**四个步骤可以单独跑**，中间产物落在 `.cache/`，方便局部重试。全部免费，不需要任何密钥：
 
 ```bash
-npm run fetch        # → .cache/fetch.json   （不花钱，可以随便跑）
-npm run curate       # → .cache/curate.json  （花钱的一步）
+npm run fetch        # → .cache/fetch.json
+npm run curate       # → .cache/curate.json
 npm run brief        # → .cache/brief.json
 npm run build-data   # → data/*.json + public/feed.xml
 
 npm run pipeline     # 以上四步串起来
 ```
 
-调页面样式时不用反复花钱调 AI —— 跑一次 `pipeline` 之后，`data/` 里就有真数据了，
-之后只跑 `npm run dev` 即可。
+跑一次 `pipeline` 之后 `data/` 里就有真数据了，调页面样式时只需要：
 
 ```bash
 npm run dev          # 本地开发服务器 http://localhost:4321/news/
 npm run build        # 构建到 dist/
 npm run preview      # 预览构建产物
 ```
-
-### 不花钱地跑通全流程
-
-```bash
-DEGRADED=1 npm run pipeline
-```
-
-跳过所有 AI 调用，用纯规则（来源权重 + 报道家数 + 新鲜度）排序出站，
-页面顶部会显示「今日为降级模式」横幅。用来验证抓取和构建链路很方便。
-
-也可以在 GitHub 上手动触发 workflow 时勾选 `degraded` 达到同样效果。
 
 ---
 
@@ -207,14 +171,12 @@ DEGRADED=1 npm run pipeline
 | 情况 | 行为 |
 |---|---|
 | 单个源抓取失败 | 跳过并记录，其余源不受影响；连续 3 天失败会在 Job Summary 里点名 |
-| Anthropic 返回 429 / 529 | 指数退避重试 3 次（2s / 4s / 8s + 抖动） |
-| 单批 AI 调用最终失败 | 该批降级为规则分，标 `degraded: true`，卡片上显示「未评估」，其余批次照常 |
-| API key 缺失或全部调用失败 | 整体降级为纯规则排序，页面顶部显示降级横幅，**站点照常出** |
-| 模型返回非法 JSON / 被截断 / 拒答 | 当作该批失败处理，走降级，不会崩掉管道 |
 | 当天入选 < 5 条 | 判定为抓取异常：不写任何数据文件，workflow 标红，**线上保持昨天的版本** |
 | 任一步骤失败 | 后续构建与部署步骤跳过，已发布的站点不受影响 |
 
 `data/source-health.json` 记录每个源近 7 天的成功率，即使当天管道失败也会提交回仓库。
+
+（如果启用了[可选 AI 精选](#可选启用-ai-精选进阶)，还会有额外的重试/降级机制，见该节。）
 
 ---
 
@@ -243,7 +205,7 @@ DEGRADED=1 npm run pipeline
 `data/source-health.json`，能通就把 `enabled` 改成 `true`。
 
 **付费墙源**（WSJ、Bloomberg、FT中文网、日经亚洲、Stratechery、SemiAnalysis、STAT、Endpoints 等）
-的 RSS 只有标题和导语，AI 基于这些生成摘要，卡片上会标「付费」。它们的来源权重额外 -0.5。
+的 RSS 只有标题和导语，卡片摘要就基于这些内容截断，卡片上会标「付费」。它们的来源权重额外 -0.5。
 
 ---
 
@@ -264,20 +226,55 @@ DEGRADED=1 npm run pipeline
 首次配置（已完成的话不用再做）：
 
 ```bash
-gh secret set ANTHROPIC_API_KEY          # 在终端里粘贴，不要写进任何文件
 gh api -X POST repos/quokkoo/news/pages -f build_type=workflow
 gh workflow run daily.yml
 gh run watch
 ```
 
-之后完全自动。想临时手动跑一次：
+不需要设置任何 secret ——默认模式没有 AI 调用。之后完全自动，想临时手动跑一次：
 
 ```bash
 gh workflow run daily.yml
 ```
 
-排查抓取问题时可以跳过 AI：
+---
+
+## 可选：启用 AI 精选（进阶）
+
+代码库保留了完整的两段式 AI 精选路径（分流打分 → 精写中文标题/摘要/为什么重要 → 主编导读），
+默认关闭。想打开：
 
 ```bash
-gh workflow run daily.yml -f degraded=true
+cp .env.example .env      # 填入 ANTHROPIC_API_KEY（.env 已被 gitignore，不会提交）
+npm run pipeline
 ```
+
+**成本设计**：一天实抓约 1200 条，`config/topics.ts` 里的 `PREFILTER` 会先用规则把每个领域压到
+条数上限的 5 倍（约 230 条）送 `claude-sonnet-5` 分流打分（每条约 30 token，很便宜），再只对
+最终入选的约 40 条用 `claude-sonnet-5` 精写中文内容，最后用 `claude-opus-5` 生成一次主编导读。
+设计目标 ≤ $0.3/天，实际消耗会打印在终端和（如果在 CI 里跑）Job Summary 里。
+
+还想更便宜，可以把分流阶段换成 Haiku：
+
+```bash
+MODEL_CURATE=claude-haiku-4-5 npm run curate
+```
+
+**要在 GitHub Actions 里也用 AI**，需要自己改 `.github/workflows/daily.yml`，把
+`ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}` 加回「运行数据管道」步骤的 `env:`，
+再设置 secret：
+
+```bash
+gh secret set ANTHROPIC_API_KEY          # 在终端里粘贴，不要写进任何文件
+```
+
+**启用 AI 后的健壮性机制**（默认规则模式不涉及，因为压根不调用 API）：
+
+| 情况 | 行为 |
+|---|---|
+| Anthropic 返回 429 / 529 | 指数退避重试 3 次（2s / 4s / 8s + 抖动） |
+| 单批 AI 调用最终失败 | 该批降级为规则分，标 `degraded: true`，卡片上显示「未评估」，其余批次照常 |
+| API key 缺失或全部调用失败 | 整体回退为纯规则排序，页面顶部显示提示横幅，**站点照常出** |
+| 模型返回非法 JSON / 被截断 / 拒答 | 当作该批失败处理，走规则兜底，不会崩掉管道 |
+
+即使开着 AI，规则排序始终是安全网——任何一步的 AI 调用失败都不会让站点开天窗。

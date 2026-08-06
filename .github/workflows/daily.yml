@@ -5,12 +5,7 @@ on:
     # UTC 22:40 = 北京时间次日 06:40。
     # GitHub Actions 的 cron 经常延迟 5-15 分钟，留 20 分钟余量确保 7:00 前上线。
     - cron: "40 22 * * *"
-  workflow_dispatch:
-    inputs:
-      degraded:
-        description: "跳过 AI 环节，只用规则排序（用于排查抓取问题）"
-        type: boolean
-        default: false
+  workflow_dispatch: {}
 
 permissions:
   contents: write # 把 data/*.json 提交回仓库
@@ -43,13 +38,10 @@ jobs:
       - name: 安装依赖
         run: npm ci
 
-      # 抓取 → AI 评估 → 主编导读 → 生成数据文件。
+      # 抓取 → 规则排序 → 生成数据文件（本站不接入 AI，纯规则模型）。
       # build-data 内置零结果保护：入选 < 5 条时以非 0 退出，
       # 后续构建与部署步骤会被跳过，线上仍是昨天的站点。
       - name: 运行数据管道
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DEGRADED: ${{ inputs.degraded && '1' || '' }}
         run: npm run pipeline
 
       # always()：即使管道失败也提交 source-health.json，

@@ -38,8 +38,8 @@ const minutes = totalMinutes(allItems);
     {
       day.degradedMode && (
         <p class="degraded-banner">
-          <strong>这一天为降级模式。</strong>
-          {day.degradedReason ?? "AI 评估环节不可用"}
+          <strong>本站基于规则模型排序，不使用 AI。</strong>
+          条目按来源权威度、报道家数与新鲜度自动打分；摘要为原文精简，没有「为什么重要」的编辑判断，请自行判断是否值得点开。
         </p>
       )
     }
@@ -102,7 +102,7 @@ const minutes = totalMinutes(allItems);
             <ul class="section-list">
               {s.items.map((item) => (
                 <li data-ten={keepIds.has(item.id) ? "1" : "0"}>
-                  <NewsCard item={item} refDate={day.date} />
+                  <NewsCard item={item} refDate={day.date} dayDegraded={day.degradedMode} />
                 </li>
               ))}
             </ul>

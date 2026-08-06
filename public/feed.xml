@@ -6,13 +6,23 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 06 Aug 2026 14:28:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 22:40:56 GMT</lastBuildDate>
     <item>
       <title>【2026-08-06 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
       <guid isPermaLink="false">brief-2026-08-06</guid>
-      <pubDate>Thu, 06 Aug 2026 14:28:08 GMT</pubDate>
-      <description>今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 78 分钟。建议先看下面 Top 3。</description>
+      <pubDate>Thu, 06 Aug 2026 22:40:56 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 30 条，覆盖 深度长文与思考、前沿科技与 AI 产业、学术前沿速递、商业模式与行业深度等 8 个领域，全部读完约需 72 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+    </item>
+    <item>
+      <title>详解存储长协：这轮周期的底部，已被抬至历史峰值之上</title>
+      <link>https://wallstreetcn.com/articles/3778808</link>
+      <guid isPermaLink="false">ccad9980f318</guid>
+      <pubDate>Thu, 06 Aug 2026 02:53:58 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>存储行业的定价权正在经历一次系统性重组。 8 月 5 日，闪迪交出了 FY2026 全年财报，业绩很亮眼，但股价盘后跌了 8%。市场失望的理由很简单：指引没超预期。但电话会里藏着另一个数字，比当季业绩重要得多。 闪迪披露，已签下的八份长期供货协议，按地板价计算的最低总收入是 939 亿美元。这批合同的加权平均期限四年多，摊下来年均约 200 亿美元——而闪迪…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
       <title>非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%</title>
@@ -45,34 +55,24 @@
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>无视AI资本支出担忧！Alphabet拟启动250亿美元发债，长端美债收益率急升</title>
-      <link>https://wallstreetcn.com/articles/3778864</link>
-      <guid isPermaLink="false">c2dd01a24703</guid>
-      <pubDate>Thu, 06 Aug 2026 12:33:55 GMT</pubDate>
+      <title>国产算力新战场、AI光互联新主线，NPO凭什么？</title>
+      <link>https://wallstreetcn.com/articles/3778847</link>
+      <guid isPermaLink="false">f8417001cb65</guid>
+      <pubDate>Thu, 06 Aug 2026 10:50:20 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Alphabet正寻求通过新一轮美元投资级债券发行筹资最多250亿美元，此举不仅考验投资者对AI相关债务的真实胃口，更直接推动长端美债收益率走高，令市场承压。 据报道6日援引知情人士透露，Alphabet此次债券发行分拆为10个部分，期限覆盖2年至40年，最长期限档的初始价格指导利差约为高于美国国债155个基点。最终发行规模尚未确定。 受上述消息影响，美债收…
+      <description>AI算力基础设施正在迎来一场架构变革。随着大模型训练和推理规模不断扩大，AI服务器正从几十张卡的小规模集群，向数百张、数千张卡的超节点演进。简单来说，未来AI芯片不仅要“算得快”，还要“连得快”，芯片之间的数据传输效率正在成为决定算力释放的关键。 在这一趋势下，传统可插拔光模块依赖较长电信号通道，正在逐渐逼近传输极限。“光进铜退”的趋势也正在从数据中心机柜之…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 2 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>报道：若未来几周通胀数据强劲，沃什将准备在9月加息</title>
-      <link>https://wallstreetcn.com/articles/3778865</link>
-      <guid isPermaLink="false">39e62d424f3b</guid>
-      <pubDate>Thu, 06 Aug 2026 12:22:09 GMT</pubDate>
+      <title>DeepSeek涨价，国产大模型&quot;免费午餐&quot;到头了！</title>
+      <link>https://wallstreetcn.com/articles/3778849</link>
+      <guid isPermaLink="false">7fb05bd42ffe</guid>
+      <pubDate>Thu, 06 Aug 2026 10:27:35 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>据英国《金融时报》周四报道，若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。 受此消息影响，美国短期国债收益率走高。尽管上周议息会议后美债遭遇大规模抛售，沃什坚持推行精简沟通策略。 报道称，熟悉沃什想法的人士称，他承认自就任美联储主席以来在沟通上存在失误，包括未能充分强化有关物价稳定的核心信息，以及在长期改革计划是否影响…
+      <description>国产大模型行业正在迎来定价逻辑的转折点。 8月6日，DeepSeek发布公告称，计划近期整体上调DeepSeek API服务定价，“预计涨幅较大”，具体方案以正式通知为准。虽然DeepSeek尚未公布调价幅度和时间表，但市场普遍认为，这意味着国产大模型行业正在告别此前靠低价抢占市场的阶段，进入以成本、效率和商业化为核心的新周期。 此次涨价背后，是AI应用需求…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
-    </item>
-    <item>
-      <title>AI行情的“金丝雀”仍在苦苦挣扎.....</title>
-      <link>https://wallstreetcn.com/articles/3778862</link>
-      <guid isPermaLink="false">ec0735f28c6a</guid>
-      <pubDate>Thu, 06 Aug 2026 12:14:57 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>AI行情的“金丝雀”还没有发出安全信号。 过去两年，韩国SK海力士、三星电子以及日本铠侠等亚洲半导体龙头，是全球AI热潮中最早受益的一批资产。它们受益于AI服务器需求爆发、高带宽内存（HBM）紧缺以及数据中心资本开支扩张，也被市场视为观察AI周期景气度的重要窗口。 但眼下，一个值得关注的背离正在形成：纳斯达克和费城半导体指数（SOX）已经强劲反弹，而这些最直…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
       <title>The Download: Google’s AI shake-up and Meta’s rogue model</title>
@@ -85,26 +85,6 @@
 来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???</title>
-      <link>https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc</link>
-      <guid isPermaLink="false">9af63dfd9ae8</guid>
-      <pubDate>Thu, 06 Aug 2026 04:34:11 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>It’s tempting to give Meta Spark 1.2 and Muse Code the title story today because of their success launching a 5.6 Terra-level model, together with innovative harness design with a …
-
-来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>AI isn’t enough to protect social media communities from AI</title>
-      <link>https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/</link>
-      <guid isPermaLink="false">efc2408b3743</guid>
-      <pubDate>Thu, 06 Aug 2026 11:00:44 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Sometimes you have to fight fire with fire. But when it comes to AI slop and hateful content threatening the safety and value of social media platforms, adding more fire—in this ca…
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
       <title>The left and right agree on one thing: no data centers</title>
       <link>https://www.theverge.com/podcast/971855/ai-data-center-backlash-protests-florida-bipartisan</link>
       <guid isPermaLink="false">7a15a172b308</guid>
@@ -115,24 +95,14 @@
 来源：The Verge · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场</title>
-      <link>http://www.geekpark.net/news/368503</link>
-      <guid isPermaLink="false">b667ea95b160</guid>
-      <pubDate>Thu, 06 Aug 2026 12:52:10 GMT</pubDate>
+      <title>[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???</title>
+      <link>https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc</link>
+      <guid isPermaLink="false">9af63dfd9ae8</guid>
+      <pubDate>Thu, 06 Aug 2026 04:34:11 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为…
+      <description>It’s tempting to give Meta Spark 1.2 and Muse Code the title story today because of their success launching a 5.6 Terra-level model, together with innovative harness design with a …
 
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>Mario Meets Pareto</title>
-      <link>https://www.mayerowitz.io/blog/mario-meets-pareto</link>
-      <guid isPermaLink="false">ac8e37191251</guid>
-      <pubDate>Thu, 06 Aug 2026 11:24:53 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31
-
-来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
       <title>Republicans sense advantage in ‘target-rich’ Michigan</title>
@@ -145,24 +115,44 @@
 来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Introducing Muse Code and Muse Spark 1.2</title>
-      <link>https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything</link>
-      <guid isPermaLink="false">9ab1d0ca5a91</guid>
-      <pubDate>Wed, 05 Aug 2026 23:58:35 GMT</pubDate>
+      <title>Crime Pays but Botany Doesn&apos;t</title>
+      <link>https://www.crimepaysbutbotanydoesnt.com/reading-list</link>
+      <guid isPermaLink="false">d1689d1625ed</guid>
+      <pubDate>Thu, 06 Aug 2026 04:46:35 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their …
+      <description>Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 365 # Comments: 120
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions</title>
-      <link>https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt</link>
-      <guid isPermaLink="false">465f03eb028f</guid>
-      <pubDate>Thu, 06 Aug 2026 13:50:05 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pand…
+      <title>对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场</title>
+      <link>http://www.geekpark.net/news/368503</link>
+      <guid isPermaLink="false">b667ea95b160</guid>
+      <pubDate>Thu, 06 Aug 2026 12:52:10 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为…
 
-来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>这枚不到 5 克的戒指，藏着 AI 交互的未来</title>
+      <link>http://www.geekpark.net/news/368497</link>
+      <guid isPermaLink="false">4af8bceb3a39</guid>
+      <pubDate>Thu, 06 Aug 2026 09:02:45 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>智能戒指是一个被行业反复捡起、又反复放下的品类。 过去十多年，从消息通知、移动支付、身份识别到手势控制，厂商几乎把所有对可穿戴设备的想象都装进过戒指。它足够贴身，又比手表更轻，理论上应该是最接近人的计算设备之一。但在真实使用中，一枚没有屏幕、算力和电池空间都极其有限的戒指，很难独立完成一套足够复杂的交互。 很多能力因此停留在发布会演示里：抬手翻一页 PPT，…
+
+来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>从会聊天到能管钱：Agent 进入交易时代</title>
+      <link>http://www.geekpark.net/news/368494</link>
+      <guid isPermaLink="false">893d9d35a30d</guid>
+      <pubDate>Thu, 06 Aug 2026 07:53:44 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>新加坡滨海湾花园，AGI Playground 2026 的主舞台灯光亮起。台下坐着 50 多家全球 VC、数百位 AI Builder，对 Agent 下一个阶段发展方向充满期待。 大家都在看一个问题： 当 Agent 从对话走向执行，我们离自动交付还有多远？ 圆桌上， Airwallex 空中云汇全球首席营收官吴 恺 给出了一个不同于多数人的 观点 。他…
+
+来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
     </item>
     <item>
       <title>00后坐上中国机器人牌桌之后</title>
@@ -173,6 +163,16 @@
       <description>本文来自微信公众号： 具身志 ，编辑：越十三，作者：仲庆元 一批还未远离校园的年轻CEO，正在同时学习造机器人、造公司，也学习承担一家公司的重量。 22岁这一年，黄一拿到了宁德时代的钱。 日前，RoboParty萝博派对披露，连续完成近5亿元天使++轮和Pre-A轮融资，宁德时代独家投资最新一轮。据报道，这家成立一年多的公司，在8个月里完成了6轮融资，估值上…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions</title>
+      <link>https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt</link>
+      <guid isPermaLink="false">465f03eb028f</guid>
+      <pubDate>Thu, 06 Aug 2026 13:50:05 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pand…
+
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
       <title>14年4次舆论转向，吴京剥下“战狼”标签了吗丨拆解2968条短评</title>
@@ -195,14 +195,14 @@
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>拉宏桑从上海徒步到深圳：预制意义的时代，谁来大火现炒？</title>
-      <link>https://www.huxiu.com/article/4881274.html?f=rss</link>
-      <guid isPermaLink="false">225e22dc12dc</guid>
-      <pubDate>Thu, 06 Aug 2026 13:38:08 GMT</pubDate>
+      <title>Welcome to the singularity: AI&apos;s architects say the next era of human history is here</title>
+      <link>https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion</link>
+      <guid isPermaLink="false">cd0d979882ca</guid>
+      <pubDate>Thu, 06 Aug 2026 09:48:12 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 知著网 ，作者：回响 「锅气，或者蔡康永所说的做面包的香气，不会在菜下锅、面团进烤箱以前升起。」 &gt;&gt;&gt; 从上海到深圳，高铁要坐七小时，飞机要飞两小时。 ——靠人的两条腿徒步，要花多长时间？ 最近，博主@拉宏桑正在用行动探索这个问题的答案。 五月底，她发布了「挑战从上海走回深圳」系列的第一个视频。时至八月份，这个系列已经更新至第12集。…
+      <description>Top AI architects say their technology has arrived at a threshold once confined to science fiction: the singularity, or the moment machines begin accelerating their own evolution. …
 
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
       <title>Superlinear Returns</title>
@@ -235,16 +235,6 @@
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>U.S. Manufacturing Activity Hits Four-Year High in July</title>
-      <link>https://www.eetimes.com/u-s-manufacturing-activity-hits-four-year-high-in-july/</link>
-      <guid isPermaLink="false">193b64699207</guid>
-      <pubDate>Thu, 06 Aug 2026 12:31:16 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>U.S. manufacturing activity expanded in July as AI demand surged. The acceleration resulted from a massive wave of capital spending on AI infrastructure and a sudden hiring turnaro…
-
-来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
       <title>Conference Report: Hybrid Bonding Advances at ECTC Meeting</title>
       <link>https://www.semiconductor-digest.com/conference-report-hybrid-bonding-advances-at-ectc-meeting/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=conference-report-hybrid-bonding-advances-at-ectc-meeting</link>
       <guid isPermaLink="false">97f5707bd01d</guid>
@@ -263,86 +253,6 @@
       <description>By Ajay Sekar Chandrasekaran, NVIDIA AI accelerator packages that dissipated 300-400W in 2020 routinely exceed 700W today, with roadmaps pointing past 1,000W — while the photonic I…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Will latest trade ‘speed bump’ slow China-US ties, or even stop Xi-Trump summit?</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3363156/will-latest-trade-speed-bump-slow-china-us-ties-or-even-stop-xi-trump-summit?utm_source=rss_feed</link>
-      <guid isPermaLink="false">96e683884d69</guid>
-      <pubDate>Thu, 06 Aug 2026 14:00:07 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Beijing and Washington’s latest tit-for-tat measures could test ties, but observers say they are little more than a “speed bump” on the road to a potential summit between president…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Chinese satellite captures video of SpaceX rocket debris crashing into the moon</title>
-      <link>https://www.scmp.com/news/china/science/article/3363199/chinese-satellite-captures-video-spacex-rocket-debris-crashing-moon?utm_source=rss_feed</link>
-      <guid isPermaLink="false">87f1cbc109e6</guid>
-      <pubDate>Thu, 06 Aug 2026 12:01:27 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>In a show of space surveillance strength, a newly launched Chinese satellite tracked a piece of a SpaceX Falcon 9 rocket crashing into the moon and captured footage of its impact. …
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Nuclear startup Oklo splits its first atoms in test reactor</title>
-      <link>https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor</link>
-      <guid isPermaLink="false">4b07bac1c2fc</guid>
-      <pubDate>Thu, 06 Aug 2026 12:13:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy tec…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Trump is blocking billions of dollars of grants that would fix the grid</title>
-      <link>https://www.canarymedia.com/articles/politics/trump-blocking-billions-to-fix-grid</link>
-      <guid isPermaLink="false">a4cbc954fb0b</guid>
-      <pubDate>Thu, 06 Aug 2026 07:30:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>In Wisconsin, utility Alliant Energy has called off a project meant to reduce power outages in disadvantaged and tribal communities, after the Trump administration terminated a fed…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Ohio steel giant aims to use Biden climate funds for polluting project</title>
-      <link>https://www.canarymedia.com/articles/green-steel/ohio-steel-giant-climate-funds</link>
-      <guid isPermaLink="false">8b889cf97e74</guid>
-      <pubDate>Thu, 06 Aug 2026 07:30:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Steel giant Cleveland-Cliffs was supposed to use up to $500 million from a Biden administration grant to usher in cleaner steelmaking in southwestern Ohio. Now, the company plans t…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms</link>
-      <guid isPermaLink="false">adf6f4915612</guid>
-      <pubDate>Wed, 05 Aug 2026 19:42:58 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>FDA News Release New drug is the first to directly restore orexin signaling, targeting the underlying biological cause of narcolepsy type 1 For Immediate Release: August 05, 2026 T…
-
-来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Pumas are drivers’ guardian angels</title>
-      <link>https://www.nature.com/articles/d41586-026-02429-0</link>
-      <guid isPermaLink="false">572edb919fbd</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0 Vehicles are less likely to smash into deer on the road where the big cats are on patrol.
-
-来源：Nature News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>AI agents are checking the scientific literature — and spotting decades-old errors</title>
-      <link>https://www.nature.com/articles/d41586-026-02235-8</link>
-      <guid isPermaLink="false">5879c263ab5c</guid>
-      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.
-
-来源：Nature News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
       <title>Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding</title>
@@ -375,26 +285,6 @@
 来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
     </item>
     <item>
-      <title>FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables</title>
-      <link>https://arxiv.org/abs/2608.04077</link>
-      <guid isPermaLink="false">431ca1c1c017</guid>
-      <pubDate>Thu, 06 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive crite…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Big-Box Briefing: This back-to-school season is all about low prices and social trends</title>
-      <link>https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/?utm_campaign=modernretaildis&amp;utm_medium=rss&amp;utm_source=general-rss</link>
-      <guid isPermaLink="false">6801bee28605</guid>
-      <pubDate>Thu, 06 Aug 2026 14:00:00 GMT</pubDate>
-      <category>消费、出海与品牌</category>
-      <description>For major brick-and-mortar retailers, back-to-school season this year is largely about a race to the bottom in price and a push to offer the most popular products seen on social me…
-
-来源：Modern Retail · 消费、出海与品牌 · 约 1 分钟</description>
-    </item>
-    <item>
       <title>The offline messaging apps challenging internet shutdowns</title>
       <link>https://restofworld.org/2026/india-github-geoblock-jack-dorsey-bitchat/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
       <guid isPermaLink="false">2d057986082c</guid>
@@ -405,24 +295,14 @@
 来源：Rest of World · 消费、出海与品牌 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income</title>
-      <link>https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">62ede8604205</guid>
-      <pubDate>Thu, 06 Aug 2026 12:10:44 GMT</pubDate>
-      <category>加密与金融科技</category>
-      <description>Bernstein said Circle&apos;s partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.
+      <title>Big-Box Briefing: This back-to-school season is all about low prices and social trends</title>
+      <link>https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/?utm_campaign=modernretaildis&amp;utm_medium=rss&amp;utm_source=general-rss</link>
+      <guid isPermaLink="false">6801bee28605</guid>
+      <pubDate>Thu, 06 Aug 2026 14:00:00 GMT</pubDate>
+      <category>消费、出海与品牌</category>
+      <description>For major brick-and-mortar retailers, back-to-school season this year is largely about a race to the bottom in price and a push to offer the most popular products seen on social me…
 
-来源：The Block · 加密与金融科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis</title>
-      <link>https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&amp;utm_medium=rss</link>
-      <guid isPermaLink="false">6be91db2db7a</guid>
-      <pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-      <category>加密与金融科技</category>
-      <description>Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.
-
-来源：The Block · 加密与金融科技 · 约 1 分钟</description>
+来源：Modern Retail · 消费、出海与品牌 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>

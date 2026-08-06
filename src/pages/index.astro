@@ -39,9 +39,8 @@ const description = day
 
           {day.degradedMode && (
             <p class="degraded-banner">
-              <strong>今日为降级模式。</strong>
-              {day.degradedReason ?? "AI 评估环节不可用"}
-              ——下面的排序基于来源权重与报道家数，没有经过 AI 评估，摘要与「为什么重要」也不会出现。请自行判断。
+              <strong>本站基于规则模型排序，不使用 AI。</strong>
+              条目按来源权威度、报道家数与新鲜度自动打分；摘要为原文精简，没有「为什么重要」的编辑判断，请自行判断是否值得点开。
             </p>
           )}
 
@@ -111,7 +110,7 @@ const description = day
                 <ul class="section-list">
                   {s.items.map((item) => (
                     <li data-ten={keepIds.has(item.id) ? "1" : "0"}>
-                      <NewsCard item={item} refDate={day.date} />
+                      <NewsCard item={item} refDate={day.date} dayDegraded={day.degradedMode} />
                     </li>
                   ))}
                 </ul>

@@ -1,25 +1,25 @@
 {
   "date": "2026-08-06",
-  "generatedAt": "2026-08-06T14:28:08.784Z",
+  "generatedAt": "2026-08-06T22:40:56.375Z",
   "degradedMode": true,
-  "degradedReason": "手动指定 DEGRADED=1，跳过 AI 环节",
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
   "brief": {
-    "overview": "今日为降级模式（手动指定 DEGRADED=1，跳过 AI 环节），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 78 分钟。建议先看下面 Top 3。",
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 30 条，覆盖 深度长文与思考、前沿科技与 AI 产业、学术前沿速递、商业模式与行业深度等 8 个领域，全部读完约需 72 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
     "topPicks": [
       {
-        "itemId": "ad28206d8f14",
-        "reason": "MIT Technology Review，综合排序最高"
-      },
-      {
         "itemId": "4639984632fb",
-        "reason": "Paul Graham，综合排序最高"
+        "reason": "Paul Graham，规则排序分数最高"
       },
       {
         "itemId": "f11db37935cd",
-        "reason": "Paul Graham，综合排序最高"
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
       }
     ],
-    "skip": "降级模式下无法判断哪些可跳过，建议按领域快速扫标题。",
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
     "degraded": true
   },
   "sections": [
@@ -38,6 +38,37 @@
       },
       "items": [
         {
+          "id": "ccad9980f318",
+          "title": "详解存储长协：这轮周期的底部，已被抬至历史峰值之上",
+          "titleZh": "详解存储长协：这轮周期的底部，已被抬至历史峰值之上",
+          "url": "https://wallstreetcn.com/articles/3778808",
+          "summary": "存储行业的定价权正在经历一次系统性重组。 8 月 5 日，闪迪交出了 FY2026 全年财报，业绩很亮眼，但股价盘后跌了 8%。市场失望的理由很简单：指引没超预期。但电话会里藏着另一个数字，比当季业绩重要得多。 闪迪披露，已签下的八份长期供货协议，按地板价计算的最低总收入是 939 亿美元。这批合同的加权平均期限四年多，摊下来年均约 200 亿美元——而闪迪…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T02:53:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "虎嗅",
+              "url": "https://www.huxiu.com/article/4881167.html?f=rss"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
           "id": "c367245488c7",
           "title": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
           "titleZh": "非农与美伊协议落地前市场谨慎，美股涨跌互现，存储芯片股延续跌势，西部数据跌20%，布油涨2%",
@@ -50,11 +81,11 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 4,
-          "score": 7.3,
+          "score": 6.2,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
             "depth": 8
           },
           "coverageCount": 1,
@@ -76,11 +107,11 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 4,
-          "score": 7.3,
+          "score": 6.2,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
             "depth": 8
           },
           "coverageCount": 1,
@@ -102,11 +133,11 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 3,
-          "score": 7.3,
+          "score": 6.2,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
             "depth": 8
           },
           "coverageCount": 1,
@@ -116,24 +147,24 @@
           "degraded": true
         },
         {
-          "id": "c2dd01a24703",
-          "title": "无视AI资本支出担忧！Alphabet拟启动250亿美元发债，长端美债收益率急升",
-          "titleZh": "无视AI资本支出担忧！Alphabet拟启动250亿美元发债，长端美债收益率急升",
-          "url": "https://wallstreetcn.com/articles/3778864",
-          "summary": "Alphabet正寻求通过新一轮美元投资级债券发行筹资最多250亿美元，此举不仅考验投资者对AI相关债务的真实胃口，更直接推动长端美债收益率走高，令市场承压。 据报道6日援引知情人士透露，Alphabet此次债券发行分拆为10个部分，期限覆盖2年至40年，最长期限档的初始价格指导利差约为高于美国国债155个基点。最终发行规模尚未确定。 受上述消息影响，美债收…",
+          "id": "f8417001cb65",
+          "title": "国产算力新战场、AI光互联新主线，NPO凭什么？",
+          "titleZh": "国产算力新战场、AI光互联新主线，NPO凭什么？",
+          "url": "https://wallstreetcn.com/articles/3778847",
+          "summary": "AI算力基础设施正在迎来一场架构变革。随着大模型训练和推理规模不断扩大，AI服务器正从几十张卡的小规模集群，向数百张、数千张卡的超节点演进。简单来说，未来AI芯片不仅要“算得快”，还要“连得快”，芯片之间的数据传输效率正在成为决定算力释放的关键。 在这一趋势下，传统可插拔光模块依赖较长电信号通道，正在逐渐逼近传输极限。“光进铜退”的趋势也正在从数据中心机柜之…",
           "whyItMatters": "",
           "sourceName": "华尔街见闻",
-          "publishedAt": "2026-08-06T12:33:55.000Z",
+          "publishedAt": "2026-08-06T10:50:20.000Z",
           "topic": "macro",
           "tags": [],
           "type": "快讯",
-          "readMinutes": 2,
-          "score": 7.15,
+          "readMinutes": 4,
+          "score": 6.2,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 7
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -142,50 +173,24 @@
           "degraded": true
         },
         {
-          "id": "39e62d424f3b",
-          "title": "报道：若未来几周通胀数据强劲，沃什将准备在9月加息",
-          "titleZh": "报道：若未来几周通胀数据强劲，沃什将准备在9月加息",
-          "url": "https://wallstreetcn.com/articles/3778865",
-          "summary": "据英国《金融时报》周四报道，若未来几周通胀数据偏热且市场加息预期升温，美联储主席沃什已准备好在9月利率决议上加息。 受此消息影响，美国短期国债收益率走高。尽管上周议息会议后美债遭遇大规模抛售，沃什坚持推行精简沟通策略。 报道称，熟悉沃什想法的人士称，他承认自就任美联储主席以来在沟通上存在失误，包括未能充分强化有关物价稳定的核心信息，以及在长期改革计划是否影响…",
+          "id": "7fb05bd42ffe",
+          "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "titleZh": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
+          "url": "https://wallstreetcn.com/articles/3778849",
+          "summary": "国产大模型行业正在迎来定价逻辑的转折点。 8月6日，DeepSeek发布公告称，计划近期整体上调DeepSeek API服务定价，“预计涨幅较大”，具体方案以正式通知为准。虽然DeepSeek尚未公布调价幅度和时间表，但市场普遍认为，这意味着国产大模型行业正在告别此前靠低价抢占市场的阶段，进入以成本、效率和商业化为核心的新周期。 此次涨价背后，是AI应用需求…",
           "whyItMatters": "",
           "sourceName": "华尔街见闻",
-          "publishedAt": "2026-08-06T12:22:09.000Z",
+          "publishedAt": "2026-08-06T10:27:35.000Z",
           "topic": "macro",
           "tags": [],
           "type": "快讯",
-          "readMinutes": 3,
-          "score": 7.15,
+          "readMinutes": 4,
+          "score": 6.2,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 7
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "ec0735f28c6a",
-          "title": "AI行情的“金丝雀”仍在苦苦挣扎.....",
-          "titleZh": "AI行情的“金丝雀”仍在苦苦挣扎.....",
-          "url": "https://wallstreetcn.com/articles/3778862",
-          "summary": "AI行情的“金丝雀”还没有发出安全信号。 过去两年，韩国SK海力士、三星电子以及日本铠侠等亚洲半导体龙头，是全球AI热潮中最早受益的一批资产。它们受益于AI服务器需求爆发、高带宽内存（HBM）紧缺以及数据中心资本开支扩张，也被市场视为观察AI周期景气度的重要窗口。 但眼下，一个值得关注的背离正在形成：纳斯达克和费城半导体指数（SOX）已经强劲反弹，而这些最直…",
-          "whyItMatters": "",
-          "sourceName": "华尔街见闻",
-          "publishedAt": "2026-08-06T12:14:57.000Z",
-          "topic": "macro",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 3,
-          "score": 7.15,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 7
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -222,64 +227,12 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 7.55,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 8
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": true,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "9af63dfd9ae8",
-          "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-          "titleZh": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-          "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-          "summary": "It’s tempting to give Meta Spark 1.2 and Muse Code the title story today because of their success launching a 5.6 Terra-level model, together with innovative harness design with a …",
-          "whyItMatters": "",
-          "sourceName": "Latent Space",
-          "publishedAt": "2026-08-06T04:34:11.000Z",
-          "topic": "ai",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 7.1,
+          "score": 7.05,
           "scores": {
             "importance": 7,
             "novelty": 5,
             "actionability": 6,
             "depth": 8
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "efc2408b3743",
-          "title": "AI isn’t enough to protect social media communities from AI",
-          "titleZh": "AI isn’t enough to protect social media communities from AI",
-          "url": "https://arstechnica.com/gadgets/2026/08/ai-isnt-enough-to-protect-social-media-communities-from-ai/",
-          "summary": "Sometimes you have to fight fire with fire. But when it comes to AI slop and hateful content threatening the safety and value of social media platforms, adding more fire—in this ca…",
-          "whyItMatters": "",
-          "sourceName": "Ars Technica",
-          "publishedAt": "2026-08-06T11:00:44.000Z",
-          "topic": "ai",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.95,
-          "scores": {
-            "importance": 7,
-            "novelty": 6,
-            "actionability": 6,
-            "depth": 6
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -300,10 +253,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 6.75,
+          "score": 6.5,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 5,
             "depth": 8
           },
@@ -314,50 +267,24 @@
           "degraded": true
         },
         {
-          "id": "b667ea95b160",
-          "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
-          "titleZh": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
-          "url": "http://www.geekpark.net/news/368503",
-          "summary": "未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为…",
+          "id": "9af63dfd9ae8",
+          "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "titleZh": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+          "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+          "summary": "It’s tempting to give Meta Spark 1.2 and Muse Code the title story today because of their success launching a 5.6 Terra-level model, together with innovative harness design with a …",
           "whyItMatters": "",
-          "sourceName": "极客公园",
-          "publishedAt": "2026-08-06T12:52:10.000Z",
-          "topic": "ai",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 4,
-          "score": 6.65,
-          "scores": {
-            "importance": 6,
-            "novelty": 7,
-            "actionability": 5,
-            "depth": 8
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "ac8e37191251",
-          "title": "Mario Meets Pareto",
-          "titleZh": "Mario Meets Pareto",
-          "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
-          "summary": "Article URL: https://www.mayerowitz.io/blog/mario-meets-pareto Comments URL: https://news.ycombinator.com/item?id=49195231 Points: 179 # Comments: 31",
-          "whyItMatters": "",
-          "sourceName": "Hacker News",
-          "publishedAt": "2026-08-06T11:24:53.000Z",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-06T04:34:11.000Z",
           "topic": "ai",
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 6.6,
+          "score": 6.25,
           "scores": {
-            "importance": 7,
-            "novelty": 6,
-            "actionability": 6,
-            "depth": 4
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -378,10 +305,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 6.5,
+          "score": 6.25,
           "scores": {
             "importance": 6,
-            "novelty": 6,
+            "novelty": 5,
             "actionability": 5,
             "depth": 8
           },
@@ -392,19 +319,102 @@
           "degraded": true
         },
         {
-          "id": "9ab1d0ca5a91",
-          "title": "Introducing Muse Code and Muse Spark 1.2",
-          "titleZh": "Introducing Muse Code and Muse Spark 1.2",
-          "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12/#atom-everything",
-          "summary": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their …",
+          "id": "d1689d1625ed",
+          "title": "Crime Pays but Botany Doesn't",
+          "titleZh": "Crime Pays but Botany Doesn't",
+          "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list",
+          "summary": "Article URL: https://www.crimepaysbutbotanydoesnt.com/reading-list Comments URL: https://news.ycombinator.com/item?id=49192566 Points: 365 # Comments: 120",
           "whyItMatters": "",
-          "sourceName": "Simon Willison",
-          "publishedAt": "2026-08-05T23:58:35.000Z",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-06T04:46:35.000Z",
           "topic": "ai",
           "tags": [],
           "type": "快讯",
-          "readMinutes": 2,
-          "score": 6.45,
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.crimepaysbutbotanydoesnt.com/reading-list"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b667ea95b160",
+          "title": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
+          "titleZh": "对话刘靖康：镜头之外的「智能」和「审美」，才是 Camera Agent 的主战场",
+          "url": "http://www.geekpark.net/news/368503",
+          "summary": "未来的影像设备，应该是「前轻后重」的。 这是影石Insta360 创始人刘靖康在 AGI Playground 2026 上对影像行业未来趋势的判断。上个月，影石刚刚宣布了「打造 Cameraman」的最新产品愿景——它代表着一种「更简单操作+更好的交付」的影像体验。 刘靖康说：「也可以认为这是一种 Camera Agent」。 产品形态大概率是多样的。因为…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-08-06T12:52:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4af8bceb3a39",
+          "title": "这枚不到 5 克的戒指，藏着 AI 交互的未来",
+          "titleZh": "这枚不到 5 克的戒指，藏着 AI 交互的未来",
+          "url": "http://www.geekpark.net/news/368497",
+          "summary": "智能戒指是一个被行业反复捡起、又反复放下的品类。 过去十多年，从消息通知、移动支付、身份识别到手势控制，厂商几乎把所有对可穿戴设备的想象都装进过戒指。它足够贴身，又比手表更轻，理论上应该是最接近人的计算设备之一。但在真实使用中，一枚没有屏幕、算力和电池空间都极其有限的戒指，很难独立完成一套足够复杂的交互。 很多能力因此停留在发布会演示里：抬手翻一页 PPT，…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-08-06T09:02:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "893d9d35a30d",
+          "title": "从会聊天到能管钱：Agent 进入交易时代",
+          "titleZh": "从会聊天到能管钱：Agent 进入交易时代",
+          "url": "http://www.geekpark.net/news/368494",
+          "summary": "新加坡滨海湾花园，AGI Playground 2026 的主舞台灯光亮起。台下坐着 50 多家全球 VC、数百位 AI Builder，对 Agent 下一个阶段发展方向充满期待。 大家都在看一个问题： 当 Agent 从对话走向执行，我们离自动交付还有多远？ 圆桌上， Airwallex 空中云汇全球首席营收官吴 恺 给出了一个不同于多数人的 观点 。他…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-08-06T07:53:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.15,
           "scores": {
             "importance": 6,
             "novelty": 5,
@@ -434,32 +444,6 @@
       },
       "items": [
         {
-          "id": "465f03eb028f",
-          "title": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
-          "titleZh": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
-          "url": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt",
-          "summary": "A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pand…",
-          "whyItMatters": "",
-          "sourceName": "Axios",
-          "publishedAt": "2026-08-06T13:50:05.000Z",
-          "topic": "business",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 2,
-          "score": 7.25,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 8
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
           "id": "694d7fc8106d",
           "title": "00后坐上中国机器人牌桌之后",
           "titleZh": "00后坐上中国机器人牌桌之后",
@@ -472,11 +456,11 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 4,
-          "score": 6.9,
+          "score": 6.45,
           "scores": {
             "importance": 7,
-            "novelty": 6,
-            "actionability": 6,
+            "novelty": 5,
+            "actionability": 5,
             "depth": 8
           },
           "coverageCount": 2,
@@ -486,6 +470,32 @@
               "url": "https://www.tmtpost.com/8094155.html"
             }
           ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "465f03eb028f",
+          "title": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
+          "titleZh": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
+          "url": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt",
+          "summary": "A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pand…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T13:50:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
           "mustRead": false,
           "paywall": false,
           "degraded": true
@@ -503,10 +513,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 4,
-          "score": 6.55,
+          "score": 6.3,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 5,
             "depth": 8
           },
@@ -529,10 +539,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 4,
-          "score": 6.55,
+          "score": 6.3,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 5,
             "depth": 8
           },
@@ -543,22 +553,22 @@
           "degraded": true
         },
         {
-          "id": "225e22dc12dc",
-          "title": "拉宏桑从上海徒步到深圳：预制意义的时代，谁来大火现炒？",
-          "titleZh": "拉宏桑从上海徒步到深圳：预制意义的时代，谁来大火现炒？",
-          "url": "https://www.huxiu.com/article/4881274.html?f=rss",
-          "summary": "本文来自微信公众号： 知著网 ，作者：回响 「锅气，或者蔡康永所说的做面包的香气，不会在菜下锅、面团进烤箱以前升起。」 >>> 从上海到深圳，高铁要坐七小时，飞机要飞两小时。 ——靠人的两条腿徒步，要花多长时间？ 最近，博主@拉宏桑正在用行动探索这个问题的答案。 五月底，她发布了「挑战从上海走回深圳」系列的第一个视频。时至八月份，这个系列已经更新至第12集。…",
+          "id": "cd0d979882ca",
+          "title": "Welcome to the singularity: AI's architects say the next era of human history is here",
+          "titleZh": "Welcome to the singularity: AI's architects say the next era of human history is here",
+          "url": "https://www.axios.com/2026/08/06/ai-singularity-intelligence-explosion",
+          "summary": "Top AI architects say their technology has arrived at a threshold once confined to science fiction: the singularity, or the moment machines begin accelerating their own evolution. …",
           "whyItMatters": "",
-          "sourceName": "虎嗅",
-          "publishedAt": "2026-08-06T13:38:08.000Z",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T09:48:12.000Z",
           "topic": "business",
           "tags": [],
           "type": "快讯",
-          "readMinutes": 4,
-          "score": 6.55,
+          "readMinutes": 1,
+          "score": 6.15,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 5,
             "actionability": 5,
             "depth": 8
           },
@@ -594,10 +604,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 7.55,
+          "score": 7.3,
           "scores": {
             "importance": 7,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 6,
             "depth": 8
           },
@@ -620,10 +630,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 7.55,
+          "score": 7.3,
           "scores": {
             "importance": 7,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 6,
             "depth": 8
           },
@@ -646,16 +656,16 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 2,
-          "score": 7.55,
+          "score": 7.3,
           "scores": {
             "importance": 7,
-            "novelty": 7,
+            "novelty": 6,
             "actionability": 6,
             "depth": 8
           },
           "coverageCount": 1,
           "alsoCovered": [],
-          "mustRead": false,
+          "mustRead": true,
           "paywall": false,
           "degraded": true
         }
@@ -676,32 +686,6 @@
       },
       "items": [
         {
-          "id": "193b64699207",
-          "title": "U.S. Manufacturing Activity Hits Four-Year High in July",
-          "titleZh": "U.S. Manufacturing Activity Hits Four-Year High in July",
-          "url": "https://www.eetimes.com/u-s-manufacturing-activity-hits-four-year-high-in-july/",
-          "summary": "U.S. manufacturing activity expanded in July as AI demand surged. The acceleration resulted from a massive wave of capital spending on AI infrastructure and a sudden hiring turnaro…",
-          "whyItMatters": "",
-          "sourceName": "EE Times",
-          "publishedAt": "2026-08-06T12:31:16.000Z",
-          "topic": "semi",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.7,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
           "id": "97f5707bd01d",
           "title": "Conference Report: Hybrid Bonding Advances at ECTC Meeting",
           "titleZh": "Conference Report: Hybrid Bonding Advances at ECTC Meeting",
@@ -714,10 +698,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 6.45,
+          "score": 5.95,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 5,
             "actionability": 5,
             "depth": 7
           },
@@ -740,281 +724,15 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 6.45,
+          "score": 5.95,
           "scores": {
             "importance": 6,
-            "novelty": 7,
+            "novelty": 5,
             "actionability": 5,
             "depth": 7
           },
           "coverageCount": 1,
           "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        }
-      ]
-    },
-    {
-      "topicId": "geopolitics",
-      "name": "地缘政治与政策监管",
-      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
-      "core": false,
-      "targetMinutes": [
-        4,
-        6
-      ],
-      "accent": {
-        "light": "#9f1239",
-        "dark": "#fda4af"
-      },
-      "items": [
-        {
-          "id": "96e683884d69",
-          "title": "Will latest trade ‘speed bump’ slow China-US ties, or even stop Xi-Trump summit?",
-          "titleZh": "Will latest trade ‘speed bump’ slow China-US ties, or even stop Xi-Trump summit?",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3363156/will-latest-trade-speed-bump-slow-china-us-ties-or-even-stop-xi-trump-summit?utm_source=rss_feed",
-          "summary": "Beijing and Washington’s latest tit-for-tat measures could test ties, but observers say they are little more than a “speed bump” on the road to a potential summit between president…",
-          "whyItMatters": "",
-          "sourceName": "南华早报",
-          "publishedAt": "2026-08-06T14:00:07.000Z",
-          "topic": "geopolitics",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.6,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "87f1cbc109e6",
-          "title": "Chinese satellite captures video of SpaceX rocket debris crashing into the moon",
-          "titleZh": "Chinese satellite captures video of SpaceX rocket debris crashing into the moon",
-          "url": "https://www.scmp.com/news/china/science/article/3363199/chinese-satellite-captures-video-spacex-rocket-debris-crashing-moon?utm_source=rss_feed",
-          "summary": "In a show of space surveillance strength, a newly launched Chinese satellite tracked a piece of a SpaceX Falcon 9 rocket crashing into the moon and captured footage of its impact. …",
-          "whyItMatters": "",
-          "sourceName": "南华早报",
-          "publishedAt": "2026-08-06T12:01:27.000Z",
-          "topic": "geopolitics",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.6,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        }
-      ]
-    },
-    {
-      "topicId": "energy",
-      "name": "能源与气候科技",
-      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
-      "core": false,
-      "targetMinutes": [
-        3,
-        5
-      ],
-      "accent": {
-        "light": "#15803d",
-        "dark": "#86efac"
-      },
-      "items": [
-        {
-          "id": "4b07bac1c2fc",
-          "title": "Nuclear startup Oklo splits its first atoms in test reactor",
-          "titleZh": "Nuclear startup Oklo splits its first atoms in test reactor",
-          "url": "https://www.canarymedia.com/articles/nuclear/nuclear-startup-oklo-splits-its-first-atoms-in-test-reactor",
-          "summary": "Oklo , a publicly traded small-modular-reactor firm backed by OpenAI chief Sam Altman, has become one of the highest-profile companies working on next-generation nuclear energy tec…",
-          "whyItMatters": "",
-          "sourceName": "Canary Media",
-          "publishedAt": "2026-08-06T12:13:00.000Z",
-          "topic": "energy",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.7,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "a4cbc954fb0b",
-          "title": "Trump is blocking billions of dollars of grants that would fix the grid",
-          "titleZh": "Trump is blocking billions of dollars of grants that would fix the grid",
-          "url": "https://www.canarymedia.com/articles/politics/trump-blocking-billions-to-fix-grid",
-          "summary": "In Wisconsin, utility Alliant Energy has called off a project meant to reduce power outages in disadvantaged and tribal communities, after the Trump administration terminated a fed…",
-          "whyItMatters": "",
-          "sourceName": "Canary Media",
-          "publishedAt": "2026-08-06T07:30:00.000Z",
-          "topic": "energy",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.45,
-          "scores": {
-            "importance": 7,
-            "novelty": 6,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "8b889cf97e74",
-          "title": "Ohio steel giant aims to use Biden climate funds for polluting project",
-          "titleZh": "Ohio steel giant aims to use Biden climate funds for polluting project",
-          "url": "https://www.canarymedia.com/articles/green-steel/ohio-steel-giant-climate-funds",
-          "summary": "Steel giant Cleveland-Cliffs was supposed to use up to $500 million from a Biden administration grant to usher in cleaner steelmaking in southwestern Ohio. Now, the company plans t…",
-          "whyItMatters": "",
-          "sourceName": "Canary Media",
-          "publishedAt": "2026-08-06T07:30:00.000Z",
-          "topic": "energy",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.45,
-          "scores": {
-            "importance": 7,
-            "novelty": 6,
-            "actionability": 6,
-            "depth": 4
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        }
-      ]
-    },
-    {
-      "topicId": "bio",
-      "name": "生物医药与健康科技",
-      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
-      "core": false,
-      "targetMinutes": [
-        3,
-        5
-      ],
-      "accent": {
-        "light": "#be185d",
-        "dark": "#f9a8d4"
-      },
-      "items": [
-        {
-          "id": "adf6f4915612",
-          "title": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
-          "titleZh": "FDA Approves First Drug to Treat the Full Range of Narcolepsy Type 1 Symptoms",
-          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-full-range-narcolepsy-type-1-symptoms",
-          "summary": "FDA News Release New drug is the first to directly restore orexin signaling, targeting the underlying biological cause of narcolepsy type 1 For Immediate Release: August 05, 2026 T…",
-          "whyItMatters": "",
-          "sourceName": "FDA 公告",
-          "publishedAt": "2026-08-05T19:42:58.000Z",
-          "topic": "bio",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.55,
-          "scores": {
-            "importance": 7,
-            "novelty": 4,
-            "actionability": 6,
-            "depth": 7
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "572edb919fbd",
-          "title": "Pumas are drivers’ guardian angels",
-          "titleZh": "Pumas are drivers’ guardian angels",
-          "url": "https://www.nature.com/articles/d41586-026-02429-0",
-          "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02429-0 Vehicles are less likely to smash into deer on the road where the big cats are on patrol.",
-          "whyItMatters": "",
-          "sourceName": "Nature News",
-          "publishedAt": "2026-08-06T00:00:00.000Z",
-          "topic": "bio",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.55,
-          "scores": {
-            "importance": 8,
-            "novelty": 5,
-            "actionability": 6,
-            "depth": 3
-          },
-          "coverageCount": 2,
-          "alsoCovered": [
-            {
-              "sourceName": "Nature 研究论文",
-              "url": "https://www.nature.com/articles/d41586-026-02429-0"
-            }
-          ],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "5879c263ab5c",
-          "title": "AI agents are checking the scientific literature — and spotting decades-old errors",
-          "titleZh": "AI agents are checking the scientific literature — and spotting decades-old errors",
-          "url": "https://www.nature.com/articles/d41586-026-02235-8",
-          "summary": "Nature, Published online: 06 August 2026; doi:10.1038/d41586-026-02235-8 The technology is proving adept at finding faults in decades-old papers and reference databases.",
-          "whyItMatters": "",
-          "sourceName": "Nature News",
-          "publishedAt": "2026-08-06T00:00:00.000Z",
-          "topic": "bio",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.55,
-          "scores": {
-            "importance": 8,
-            "novelty": 5,
-            "actionability": 6,
-            "depth": 3
-          },
-          "coverageCount": 2,
-          "alsoCovered": [
-            {
-              "sourceName": "Nature 研究论文",
-              "url": "https://www.nature.com/articles/d41586-026-02235-8"
-            }
-          ],
           "mustRead": false,
           "paywall": false,
           "degraded": true
@@ -1048,10 +766,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 7.2,
+          "score": 6.95,
           "scores": {
             "importance": 8,
-            "novelty": 5,
+            "novelty": 4,
             "actionability": 6,
             "depth": 7
           },
@@ -1083,10 +801,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 7.2,
+          "score": 6.95,
           "scores": {
             "importance": 8,
-            "novelty": 5,
+            "novelty": 4,
             "actionability": 6,
             "depth": 7
           },
@@ -1118,10 +836,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 7.2,
+          "score": 6.95,
           "scores": {
             "importance": 8,
-            "novelty": 5,
+            "novelty": 4,
             "actionability": 6,
             "depth": 7
           },
@@ -1134,37 +852,6 @@
             {
               "sourceName": "arXiv cs.CL",
               "url": "https://arxiv.org/abs/2608.04407"
-            }
-          ],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
-          "id": "431ca1c1c017",
-          "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-          "titleZh": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-          "url": "https://arxiv.org/abs/2608.04077",
-          "summary": "arXiv:2608.04077v1 Announce Type: new Abstract: Evaluating financial AI agents requires criteria aligned with real professional work. Existing rubric methods typically derive crite…",
-          "whyItMatters": "",
-          "sourceName": "arXiv cs.AI",
-          "publishedAt": "2026-08-06T04:00:00.000Z",
-          "topic": "papers",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.5,
-          "scores": {
-            "importance": 7,
-            "novelty": 5,
-            "actionability": 6,
-            "depth": 7
-          },
-          "coverageCount": 2,
-          "alsoCovered": [
-            {
-              "sourceName": "arXiv cs.CL",
-              "url": "https://arxiv.org/abs/2608.04077"
             }
           ],
           "mustRead": false,
@@ -1188,32 +875,6 @@
       },
       "items": [
         {
-          "id": "6801bee28605",
-          "title": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
-          "titleZh": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
-          "url": "https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
-          "summary": "For major brick-and-mortar retailers, back-to-school season this year is largely about a race to the bottom in price and a push to offer the most popular products seen on social me…",
-          "whyItMatters": "",
-          "sourceName": "Modern Retail",
-          "publishedAt": "2026-08-06T14:00:00.000Z",
-          "topic": "consumer",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.7,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 5
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
-        },
-        {
           "id": "2d057986082c",
           "title": "The offline messaging apps challenging internet shutdowns",
           "titleZh": "The offline messaging apps challenging internet shutdowns",
@@ -1226,10 +887,10 @@
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 6.5,
+          "score": 6.25,
           "scores": {
             "importance": 7,
-            "novelty": 6,
+            "novelty": 5,
             "actionability": 6,
             "depth": 4
           },
@@ -1238,68 +899,26 @@
           "mustRead": false,
           "paywall": false,
           "degraded": true
-        }
-      ]
-    },
-    {
-      "topicId": "crypto",
-      "name": "加密与金融科技",
-      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
-      "core": false,
-      "targetMinutes": [
-        3,
-        4
-      ],
-      "accent": {
-        "light": "#a16207",
-        "dark": "#fde047"
-      },
-      "items": [
-        {
-          "id": "62ede8604205",
-          "title": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-          "titleZh": "Bernstein says Circle’s Q2 counters bearish concerns over competition, reserve income",
-          "url": "https://www.theblock.co/post/410979/bernstein-says-circles-q2-counters-bearish-concerns-over-competition-reserve-income?utm_source=rss&utm_medium=rss",
-          "summary": "Bernstein said Circle's partnerships, regulatory approvals, and Arc launch provide additional revenue streams not reflected in estimates.",
-          "whyItMatters": "",
-          "sourceName": "The Block",
-          "publishedAt": "2026-08-06T12:10:44.000Z",
-          "topic": "crypto",
-          "tags": [],
-          "type": "快讯",
-          "readMinutes": 1,
-          "score": 6.3,
-          "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 3
-          },
-          "coverageCount": 1,
-          "alsoCovered": [],
-          "mustRead": false,
-          "paywall": false,
-          "degraded": true
         },
         {
-          "id": "6be91db2db7a",
-          "title": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
-          "titleZh": "More than $30 million stolen in violent crypto attacks in 2026 as France emerges as ‘wrench attack’ hotspot: Chainalysis",
-          "url": "https://www.theblock.co/post/410984/more-than-30-million-stolen-in-violent-crypto-attacks-in-2026-as-france-emerges-as-wrench-attack-hotspot-chainalysis?utm_source=rss&utm_medium=rss",
-          "summary": "Chainalysis says more than $30M was stolen in violent crypto attacks in 2026 through mid-year, with France the top hotspot.",
+          "id": "6801bee28605",
+          "title": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
+          "titleZh": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
+          "url": "https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "For major brick-and-mortar retailers, back-to-school season this year is largely about a race to the bottom in price and a push to offer the most popular products seen on social me…",
           "whyItMatters": "",
-          "sourceName": "The Block",
-          "publishedAt": "2026-08-06T12:00:00.000Z",
-          "topic": "crypto",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-08-06T14:00:00.000Z",
+          "topic": "consumer",
           "tags": [],
           "type": "快讯",
           "readMinutes": 1,
-          "score": 6.3,
+          "score": 5.85,
           "scores": {
-            "importance": 7,
-            "novelty": 7,
-            "actionability": 6,
-            "depth": 3
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
           },
           "coverageCount": 1,
           "alsoCovered": [],
@@ -1311,17 +930,17 @@
     }
   ],
   "topPickIds": [
-    "ad28206d8f14",
     "4639984632fb",
-    "f11db37935cd"
+    "f11db37935cd",
+    "f45b5ff1ffe9"
   ],
   "stats": {
-    "itemsConsidered": 42,
-    "itemsPublished": 41,
+    "itemsConsidered": 30,
+    "itemsPublished": 29,
     "itemsFiltered": 1,
     "sourcesOk": 91,
     "sourcesFailed": 4,
-    "totalReadMinutes": 77,
+    "totalReadMinutes": 71,
     "usage": {
       "inputTokens": 0,
       "outputTokens": 0,

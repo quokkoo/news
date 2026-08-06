@@ -67,8 +67,11 @@ function buildPayload(items: CuratedItem[]): string {
   return `今日入选条目共 ${items.length} 条：\n\n${lines.join("\n\n")}`;
 }
 
-/** 降级导读：不假装有洞察，只如实说明情况 */
-function fallbackBrief(items: CuratedItem[], reason: string): DailyBrief {
+/**
+ * 规则导读：本站默认不接入 AI，这不是「出错了的兜底」，是正常运行模式。
+ * 所以文案不写"降级""失败"，只如实说明排序依据是什么、不能替读者做什么判断。
+ */
+function fallbackBrief(items: CuratedItem[]): DailyBrief {
   const top = items.slice(0, 3);
   const topics = [...new Set(items.map((i) => TOPIC_BY_ID[i.topic]?.name).filter(Boolean))];
   const minutes = items.reduce((n, i) => n + i.readMinutes, 0);
@@ -76,17 +79,17 @@ function fallbackBrief(items: CuratedItem[], reason: string): DailyBrief {
   const overview =
     items.length === 0
       ? "今天没有抓取到足够的内容，可能是数据源出了问题。"
-      : `今日为降级模式（${reason}），以下排序基于来源权重与报道家数，未经 AI 评估，请自行判断。` +
+      : `本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。` +
         `共收录 ${items.length} 条，覆盖 ${topics.slice(0, 4).join("、")}${topics.length > 4 ? "等" : ""} ${topics.length} 个领域，` +
-        `全部读完约需 ${minutes} 分钟。建议先看下面 Top 3。`;
+        `全部读完约需 ${minutes} 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。`;
 
   return {
     overview,
     topPicks: top.map((it) => ({
       itemId: it.id,
-      reason: `${it.sourceName}${it.coverageCount > 1 ? ` 等 ${it.coverageCount} 家报道` : ""}，综合排序最高`,
+      reason: `${it.sourceName}${it.coverageCount > 1 ? ` 等 ${it.coverageCount} 家报道` : ""}，规则排序分数最高`,
     })),
-    skip: "降级模式下无法判断哪些可跳过，建议按领域快速扫标题。",
+    skip: "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
     degraded: true,
   };
 }
@@ -106,8 +109,8 @@ async function main() {
 
   if (curated.degradedMode || !hasApiKey() || items.length === 0) {
     const reason = curated.degradedReason ?? "未配置 API key";
-    brief = fallbackBrief(items, reason);
-    log.warn(`降级导读：${reason}`);
+    brief = fallbackBrief(items);
+    log.info(`规则导读：${reason}`);
   } else {
     const res = await callModel<BriefResult>(
       {
@@ -123,8 +126,8 @@ async function main() {
     );
 
     if (!res) {
-      brief = fallbackBrief(items, "主编导读调用失败");
-      log.warn("导读调用失败，已降级");
+      brief = fallbackBrief(items);
+      log.warn("导读调用失败，已回退到规则排序");
     } else {
       const validIds = new Set(items.map((i) => i.id));
       const picks = (res.top_picks ?? [])

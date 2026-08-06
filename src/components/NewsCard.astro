@@ -5,9 +5,11 @@ import { formatTime } from "../lib/data.ts";
 interface Props {
   item: PublishedItem;
   refDate: string;
+  /** 当天是否整体处于规则排序模式（没有接入 AI）。用来决定要不要在卡片上单独标「未评估」。 */
+  dayDegraded?: boolean;
 }
 
-const { item, refDate } = Astro.props;
+const { item, refDate, dayDegraded = false } = Astro.props;
 ---
 
 <article class="card" data-mustread={item.mustRead ? "" : undefined}>
@@ -37,7 +39,13 @@ const { item, refDate } = Astro.props;
     <span class="tag">{item.type}</span>
     {item.coverageCount > 1 && <span class="tag tag-cov">{item.coverageCount} 家报道</span>}
     {item.paywall && <span class="tag tag-lock" title="原文有付费墙">付费</span>}
-    {item.degraded && <span class="tag" title="该条未经 AI 评估">未评估</span>}
+    {
+      /* 整天都没接 AI 时，页面顶部横幅已经说明了，逐条再标一遍是噪音；
+         只在「本来该有 AI 但这一条单独失败」时才提示。 */
+      item.degraded && !dayDegraded && (
+        <span class="tag" title="该条 AI 评估失败，已回退到规则排序">未评估</span>
+      )
+    }
   </p>
 
   {
