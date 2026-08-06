@@ -1,0 +1,21 @@
+{
+  "extends": "astro/tsconfigs/strict",
+  "compilerOptions": {
+    "target": "ES2022",
+    "module": "ESNext",
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "verbatimModuleSyntax": false,
+    "noEmit": true,
+    "strict": true,
+    "skipLibCheck": true,
+    "resolveJsonModule": true,
+    "baseUrl": ".",
+    "paths": {
+      "@config/*": ["config/*"],
+      "@lib/*": ["scripts/lib/*"]
+    }
+  },
+  "include": ["config/**/*.ts", "scripts/**/*.ts", "src/**/*", "*.ts", "*.mjs"],
+  "exclude": ["node_modules", "dist", ".astro"]
+}

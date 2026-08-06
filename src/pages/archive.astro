@@ -1,0 +1,47 @@
+---
+import Base from "../layouts/Base.astro";
+import { formatDateCN, loadArchive } from "../lib/data.ts";
+
+const archive = loadArchive();
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<Base
+  title="历史归档 · 每日精读"
+  description="按日期回看往期简报，每一天的今日导读与入选条目都完整保留。"
+>
+  <div class="wrap">
+    <div class="dayhead">
+      <h1>历史归档</h1>
+      <p class="meta">
+        共 {archive.days.length} 天。每天的数据都以 JSON 形式提交回仓库，可回溯、可自己再加工。
+      </p>
+    </div>
+
+    {
+      archive.days.length === 0 ? (
+        <p class="empty">还没有任何归档。</p>
+      ) : (
+        <ul class="archive-list">
+          {archive.days.map((d) => (
+            <li class="archive-item">
+              <a class="archive-date" href={`${base}/day/${d.date}`}>
+                {formatDateCN(d.date)}
+                <span style="color:var(--text-muted);font-weight:400;font-size:14px;margin-left:8px">{d.date}</span>
+              </a>
+              <p class="archive-meta">
+                {d.itemCount} 条
+                {d.degradedMode && <> · <span style="color:var(--accent)">降级模式</span></>}
+              </p>
+              {d.topPickTitles.length > 0 && (
+                <ol class="archive-titles">
+                  {d.topPickTitles.map((t) => <li>{t}</li>)}
+                </ol>
+              )}
+            </li>
+          ))}
+        </ul>
+      )
+    }
+  </div>
+</Base>

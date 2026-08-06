@@ -1,0 +1,82 @@
+name: 每日简报
+
+on:
+  schedule:
+    # UTC 22:40 = 北京时间次日 06:40。
+    # GitHub Actions 的 cron 经常延迟 5-15 分钟，留 20 分钟余量确保 7:00 前上线。
+    - cron: "40 22 * * *"
+  workflow_dispatch:
+    inputs:
+      degraded:
+        description: "跳过 AI 环节，只用规则排序（用于排查抓取问题）"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write # 把 data/*.json 提交回仓库
+  pages: write # 部署 GitHub Pages
+  id-token: write # Pages 部署的 OIDC 鉴权
+
+# 不取消进行中的部署：宁可排队，也不要留下半完成的发布
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 安装 Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+          cache: npm
+
+      - name: 安装依赖
+        run: npm ci
+
+      # 抓取 → AI 评估 → 主编导读 → 生成数据文件。
+      # build-data 内置零结果保护：入选 < 5 条时以非 0 退出，
+      # 后续构建与部署步骤会被跳过，线上仍是昨天的站点。
+      - name: 运行数据管道
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          DEGRADED: ${{ inputs.degraded && '1' || '' }}
+        run: npm run pipeline
+
+      # always()：即使管道失败也提交 source-health.json，
+      # 失败当天的源健康数据恰恰是最需要留存的。
+      - name: 提交当日数据
+        if: always()
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "data: ${{ github.run_id }} 自动更新每日简报"
+          file_pattern: "data/*.json public/feed.xml"
+          commit_user_name: github-actions[bot]
+          commit_user_email: 41898282+github-actions[bot]@users.noreply.github.com
+
+      - name: 构建站点
+        run: npm run build
+
+      - name: 配置 Pages
+        uses: actions/configure-pages@v5
+
+      - name: 上传构建产物
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: 部署到 GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: 输出线上地址
+        run: echo "🌐 ${{ steps.deployment.outputs.page_url }}" >> "$GITHUB_STEP_SUMMARY"

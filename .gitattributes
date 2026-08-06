@@ -1,0 +1,5 @@
+# 仓库内统一用 LF，避免 Windows 开发与 Linux runner 之间的换行符噪音
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.ico binary

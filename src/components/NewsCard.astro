@@ -1,0 +1,58 @@
+---
+import type { PublishedItem } from "../../scripts/lib/types.ts";
+import { formatTime } from "../lib/data.ts";
+
+interface Props {
+  item: PublishedItem;
+  refDate: string;
+}
+
+const { item, refDate } = Astro.props;
+---
+
+<article class="card" data-mustread={item.mustRead ? "" : undefined}>
+  <h3 style="margin:0">
+    <a class="card-title" href={item.url} target="_blank" rel="noopener noreferrer">
+      {item.titleZh}
+    </a>
+  </h3>
+
+  {item.summary && <p class="card-summary">{item.summary}</p>}
+
+  {
+    item.whyItMatters && (
+      <p class="card-why">
+        <b>为什么重要</b>
+        {item.whyItMatters}
+      </p>
+    )
+  }
+
+  <p class="card-meta">
+    <span>{item.sourceName}</span>
+    <span class="sep" aria-hidden="true">·</span>
+    <time datetime={item.publishedAt}>{formatTime(item.publishedAt, refDate)}</time>
+    <span class="sep" aria-hidden="true">·</span>
+    <span>{item.readMinutes} 分钟</span>
+    <span class="tag">{item.type}</span>
+    {item.coverageCount > 1 && <span class="tag tag-cov">{item.coverageCount} 家报道</span>}
+    {item.paywall && <span class="tag tag-lock" title="原文有付费墙">付费</span>}
+    {item.degraded && <span class="tag" title="该条未经 AI 评估">未评估</span>}
+  </p>
+
+  {
+    item.alsoCovered.length > 0 && (
+      <p class="also">
+        另见：
+        {item.alsoCovered.map((c, i) => (
+          <>
+            {i > 0 && <span aria-hidden="true">、</span>}
+            <a href={c.url} target="_blank" rel="noopener noreferrer">
+              {c.sourceName}
+            </a>
+          </>
+        ))}
+      </p>
+    )
+  }
+</article>

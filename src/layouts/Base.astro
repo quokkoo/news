@@ -1,0 +1,180 @@
+---
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description: string;
+  /** 首页才显示 10 分钟模式开关 */
+  showTenMinute?: boolean;
+}
+
+const { title, description, showTenMinute = false } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+---
+
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <meta name="color-scheme" content="light dark" />
+    <link rel="alternate" type="application/rss+xml" title="每日新闻精读" href={`${base}/feed.xml`} />
+    <link rel="canonical" href={new URL(Astro.url.pathname, Astro.site ?? "https://quokkoo.github.io").href} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:type" content="website" />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%231c1b19'/%3E%3Cpath d='M8 10h16M8 16h16M8 22h10' stroke='%23fbfaf8' stroke-width='2.4' stroke-linecap='round'/%3E%3C/svg%3E"
+    />
+    <script is:inline>
+      // 在首屏绘制前应用主题与阅读模式，避免闪烁。
+      // 不设 data-theme 时 CSS 会自动跟随 prefers-color-scheme，所以无 JS 也正常。
+      (function () {
+        try {
+          var t = localStorage.getItem("theme");
+          if (t === "light" || t === "dark") {
+            document.documentElement.setAttribute("data-theme", t);
+          }
+          if (localStorage.getItem("mode") === "ten") {
+            document.documentElement.setAttribute("data-mode", "ten");
+          }
+        } catch (e) {}
+      })();
+    </script>
+  </head>
+  <body>
+    <a href="#main" class="visually-hidden">跳到主要内容</a>
+
+    <header class="topbar">
+      <div class="wrap topbar-inner">
+        <a href={`${base}/`} class="brand">每日精读<span>30 分钟读完今天</span></a>
+
+        {
+          showTenMinute && (
+            <button
+              type="button"
+              id="ten-toggle"
+              class="ctrl"
+              aria-pressed="false"
+              aria-label="切换 10 分钟模式，只显示今日必读"
+            >
+              <svg class="ctrl-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+                <circle cx="12" cy="13" r="8" stroke="currentColor" stroke-width="2" />
+                <path d="M12 9.5V13l2.5 1.5M9 2h6" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+              </svg>
+              <span id="ten-label">10 分钟模式</span>
+            </button>
+          )
+        }
+
+        <button type="button" id="theme-toggle" class="ctrl" aria-label="切换深色或浅色主题">
+          <svg class="ctrl-icon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+            <path
+              d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linejoin="round"></path>
+          </svg>
+          <span class="visually-hidden">切换主题</span>
+        </button>
+      </div>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="foot">
+      <div class="wrap">
+        <p>
+          每天北京时间 7:00 前自动更新。抓取 · AI 评估 · 生成全流程零人工干预。
+        </p>
+        <p>
+          <a href={`${base}/`}>今天</a> ·
+          <a href={`${base}/archive`}>历史归档</a> ·
+          <a href={`${base}/feed.xml`}>RSS 订阅</a> ·
+          <a href="https://github.com/quokkoo/news" rel="noopener">源码</a>
+        </p>
+      </div>
+    </footer>
+
+    <script is:inline>
+      (function () {
+        var root = document.documentElement;
+
+        // ── 主题切换 ──
+        var themeBtn = document.getElementById("theme-toggle");
+        if (themeBtn) {
+          themeBtn.addEventListener("click", function () {
+            var current =
+              root.getAttribute("data-theme") ||
+              (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+            var next = current === "dark" ? "light" : "dark";
+            root.setAttribute("data-theme", next);
+            try { localStorage.setItem("theme", next); } catch (e) {}
+          });
+        }
+
+        // ── 10 分钟模式 ──
+        var tenBtn = document.getElementById("ten-toggle");
+        var tenLabel = document.getElementById("ten-label");
+        if (tenBtn) {
+          var syncTen = function (on) {
+            tenBtn.setAttribute("aria-pressed", on ? "true" : "false");
+            if (tenLabel) tenLabel.textContent = on ? "显示全部" : "10 分钟模式";
+          };
+          syncTen(root.getAttribute("data-mode") === "ten");
+          tenBtn.addEventListener("click", function () {
+            var on = root.getAttribute("data-mode") !== "ten";
+            if (on) root.setAttribute("data-mode", "ten");
+            else root.removeAttribute("data-mode");
+            try { localStorage.setItem("mode", on ? "ten" : "all"); } catch (e) {}
+            syncTen(on);
+            window.scrollTo({ top: 0, behavior: "smooth" });
+          });
+        }
+
+        // ── 领域筛选（多选，纯前端）──
+        var chips = Array.prototype.slice.call(document.querySelectorAll(".chip[data-topic]"));
+        if (chips.length) {
+          var sections = Array.prototype.slice.call(document.querySelectorAll(".section[data-topic]"));
+          var active = new Set();
+
+          var apply = function () {
+            for (var i = 0; i < sections.length; i++) {
+              var t = sections[i].getAttribute("data-topic");
+              sections[i].hidden = active.size > 0 && !active.has(t);
+            }
+            for (var j = 0; j < chips.length; j++) {
+              var on = active.has(chips[j].getAttribute("data-topic"));
+              chips[j].setAttribute("aria-pressed", on ? "true" : "false");
+            }
+            var allBtn = document.getElementById("chip-all");
+            if (allBtn) allBtn.setAttribute("aria-pressed", active.size === 0 ? "true" : "false");
+          };
+
+          chips.forEach(function (chip) {
+            chip.addEventListener("click", function () {
+              var t = chip.getAttribute("data-topic");
+              if (active.has(t)) active.delete(t);
+              else active.add(t);
+              apply();
+            });
+          });
+
+          var allBtn = document.getElementById("chip-all");
+          if (allBtn) {
+            allBtn.addEventListener("click", function () {
+              active.clear();
+              apply();
+            });
+          }
+          apply();
+        }
+      })();
+    </script>
+  </body>
+</html>

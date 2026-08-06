@@ -1,0 +1,35 @@
+{
+  "name": "news",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "description": "每日新闻精读站 — 自动抓取、AI 筛选、每天北京时间 7:00 前更新",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "fetch": "tsx scripts/fetch.ts",
+    "curate": "tsx scripts/curate.ts",
+    "brief": "tsx scripts/brief.ts",
+    "build-data": "tsx scripts/build-data.ts",
+    "pipeline": "npm run fetch && npm run curate && npm run brief && npm run build-data",
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "check-sources": "tsx scripts/check-sources.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.71.0",
+    "@extractus/article-extractor": "^8.0.16",
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "@tailwindcss/vite": "^4.2.5",
+    "astro": "^5.16.5",
+    "dotenv": "^17.2.5",
+    "tailwindcss": "^4.2.5",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}

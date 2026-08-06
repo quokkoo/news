@@ -1,0 +1,117 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import NewsCard from "../../components/NewsCard.astro";
+import { formatDateCN, listDates, loadDay, tenMinuteKeepIds, totalMinutes } from "../../lib/data.ts";
+
+export const getStaticPaths: GetStaticPaths = () =>
+  listDates().map((date) => ({ params: { date } }));
+
+const { date } = Astro.params;
+const day = loadDay(date!);
+const base = import.meta.env.BASE_URL.replace(/\/$/, "");
+
+if (!day) return Astro.redirect(`${base}/archive`);
+
+const allItems = day.sections.flatMap((s) => s.items);
+const itemById = new Map(allItems.map((i) => [i.id, i]));
+const keepIds = tenMinuteKeepIds(day);
+const minutes = totalMinutes(allItems);
+---
+
+<Base
+  title={`${day.date} 每日精读`}
+  description={day.brief.overview.slice(0, 110)}
+  showTenMinute={true}
+>
+  <div class="wrap">
+    <div class="dayhead">
+      <p style="margin:0 0 6px;font-size:13.5px;color:var(--text-muted)">
+        <a href={`${base}/archive`} style="text-decoration:underline;text-underline-offset:2px">← 历史归档</a>
+      </p>
+      <h1>{formatDateCN(day.date)}</h1>
+      <p class="meta">
+        收录 {day.stats.itemsPublished} 条 · 全部读完约 {minutes} 分钟 · 数据源 {day.stats.sourcesOk} 个正常
+      </p>
+    </div>
+
+    {
+      day.degradedMode && (
+        <p class="degraded-banner">
+          <strong>这一天为降级模式。</strong>
+          {day.degradedReason ?? "AI 评估环节不可用"}
+        </p>
+      )
+    }
+
+    <section class="brief" aria-labelledby="brief-h">
+      <h2 id="brief-h" class="brief-label">今 日 导 读</h2>
+      <p class="brief-overview">{day.brief.overview}</p>
+
+      {
+        day.brief.topPicks.length > 0 && (
+          <ol class="picks">
+            {day.brief.topPicks.map((p) => {
+              const it = itemById.get(p.itemId);
+              if (!it) return null;
+              return (
+                <li>
+                  <div>
+                    <a class="pick-title" href={it.url} target="_blank" rel="noopener noreferrer">
+                      {it.titleZh}
+                    </a>
+                    {p.reason && <p class="pick-reason">{p.reason}</p>}
+                  </div>
+                </li>
+              );
+            })}
+          </ol>
+        )
+      }
+
+      {day.brief.skip && <p class="brief-skip"><b>可以跳过</b>{day.brief.skip}</p>}
+    </section>
+
+    <nav class="filterbar" aria-label="按领域筛选">
+      <div class="chips" role="group">
+        <button type="button" id="chip-all" class="chip" aria-pressed="true">全部</button>
+        {day.sections.map((s) => (
+          <button type="button" class="chip" data-topic={s.topicId} aria-pressed="false">{s.name}</button>
+        ))}
+      </div>
+    </nav>
+
+    {
+      day.sections.map((s) => {
+        const hiddenInTen = s.items.filter((i) => !keepIds.has(i.id)).length;
+        return (
+          <section
+            class="section"
+            id={s.topicId}
+            data-topic={s.topicId}
+            data-core={s.core ? "true" : "false"}
+            aria-labelledby={`h-${s.topicId}`}
+          >
+            <div class="section-head">
+              <h2 id={`h-${s.topicId}`}>{s.name}</h2>
+              <span class="badge-time">
+                {s.targetMinutes ? `${s.targetMinutes[0]}–${s.targetMinutes[1]} 分钟` : "不限时"}
+              </span>
+            </div>
+            <p class="section-desc">{s.description}</p>
+            <ul class="section-list">
+              {s.items.map((item) => (
+                <li data-ten={keepIds.has(item.id) ? "1" : "0"}>
+                  <NewsCard item={item} refDate={day.date} />
+                </li>
+              ))}
+            </ul>
+            {hiddenInTen > 0 && (
+              <p class="ten-note">10 分钟模式下已折叠该栏目其余 {hiddenInTen} 条。</p>
+            )}
+          </section>
+        );
+      })
+    }
+  </div>
+</Base>

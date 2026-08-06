@@ -1,0 +1,1149 @@
+{
+  "updatedAt": "2026-08-06T14:02:09.272Z",
+  "sources": {
+    "wsj-markets": {
+      "name": "WSJ Markets",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 31
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "wsj-world": {
+      "name": "WSJ World News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 14
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "wsj-business": {
+      "name": "WSJ Business",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 30
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "bloomberg-markets": {
+      "name": "Bloomberg Markets",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 20
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "bloomberg-economics": {
+      "name": "Bloomberg Economics",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 20
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "cnbc-economy": {
+      "name": "CNBC Economy",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "cnbc-finance": {
+      "name": "CNBC Finance",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 5
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "marketwatch-top": {
+      "name": "MarketWatch",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 10
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "ftchinese": {
+      "name": "FT中文网",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 10
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "wallstreetcn": {
+      "name": "华尔街见闻",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 60
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "eastmoney": {
+      "name": "东方财富",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 6
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "fed-press": {
+      "name": "美联储公告",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "ecb-press": {
+      "name": "欧洲央行公告",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "calculated-risk": {
+      "name": "Calculated Risk",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "reuters-gnews": {
+      "name": "Reuters（经 Google News）",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 40
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "techcrunch": {
+      "name": "TechCrunch",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 20
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "theverge": {
+      "name": "The Verge",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 10
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arstechnica": {
+      "name": "Ars Technica",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 15
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "hn-front": {
+      "name": "Hacker News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 14
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "hn-best": {
+      "name": "Hacker News Best",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 15
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "mit-tr": {
+      "name": "MIT Technology Review",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "openai-news": {
+      "name": "OpenAI",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "deepmind": {
+      "name": "Google DeepMind",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "google-research": {
+      "name": "Google Research",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "huggingface": {
+      "name": "Hugging Face",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "import-ai": {
+      "name": "Import AI",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "latent-space": {
+      "name": "Latent Space",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "interconnects": {
+      "name": "Interconnects",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "simonwillison": {
+      "name": "Simon Willison",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 5
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "semafor-tech": {
+      "name": "Semafor",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 25
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "ifanr": {
+      "name": "爱范儿",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 8
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "geekpark": {
+      "name": "极客公园",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 5
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "cnbeta": {
+      "name": "cnBeta",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 80
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "solidot": {
+      "name": "Solidot",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 10
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "stratechery": {
+      "name": "Stratechery",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "the-generalist": {
+      "name": "The Generalist",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "huxiu": {
+      "name": "虎嗅",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 80
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "tmtpost": {
+      "name": "钛媒体",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 18
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "axios": {
+      "name": "Axios",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 19
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "exponential-view": {
+      "name": "Exponential View",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "paulgraham": {
+      "name": "Paul Graham",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 20
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "notboring": {
+      "name": "Not Boring",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "sequoia": {
+      "name": "Sequoia Capital",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "acx": {
+      "name": "Astral Codex Ten",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "marginalrevolution": {
+      "name": "Marginal Revolution",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 4
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "benedictevans": {
+      "name": "Benedict Evans",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "oneusefulthing": {
+      "name": "One Useful Thing",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "construction-physics": {
+      "name": "Construction Physics",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "noahpinion": {
+      "name": "Noahpinion",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "pragmatic-engineer": {
+      "name": "The Pragmatic Engineer",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "semianalysis": {
+      "name": "SemiAnalysis",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "digitimes": {
+      "name": "DigiTimes Asia",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 75
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "eetimes": {
+      "name": "EE Times",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 3
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "nikkei-asia": {
+      "name": "日经亚洲",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 50
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "tomshardware": {
+      "name": "Tom's Hardware",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 14
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "trendforce": {
+      "name": "TrendForce",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "semiconductor-digest": {
+      "name": "Semiconductor Digest",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 4
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "politico": {
+      "name": "Politico",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 6
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "foreignaffairs": {
+      "name": "Foreign Affairs",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "scmp-china": {
+      "name": "南华早报",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 16
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "gnews-export-controls": {
+      "name": "出口管制（Google News）",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 40
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "canarymedia": {
+      "name": "Canary Media",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 4
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "carbonbrief": {
+      "name": "Carbon Brief",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "utilitydive": {
+      "name": "Utility Dive",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "heatmap": {
+      "name": "Heatmap News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        }
+      ],
+      "consecutiveFailures": 1,
+      "successRate7d": 0
+    },
+    "statnews": {
+      "name": "STAT News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 18
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "endpoints": {
+      "name": "Endpoints News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 14
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "fiercepharma": {
+      "name": "FiercePharma",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": false,
+          "itemCount": 0,
+          "error": "html.replace is not a function"
+        }
+      ],
+      "consecutiveFailures": 1,
+      "successRate7d": 0
+    },
+    "nature-news": {
+      "name": "Nature News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "science-news": {
+      "name": "Science News",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "fda-press": {
+      "name": "FDA 公告",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "github-blog": {
+      "name": "GitHub Blog",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "hn-show": {
+      "name": "Hacker News Show HN",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 502"
+        }
+      ],
+      "consecutiveFailures": 1,
+      "successRate7d": 0
+    },
+    "infoq-en": {
+      "name": "InfoQ",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 7
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "infoq-cn": {
+      "name": "InfoQ 中文",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        }
+      ],
+      "consecutiveFailures": 1,
+      "successRate7d": 0
+    },
+    "changelog": {
+      "name": "Changelog",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "golang-blog": {
+      "name": "Go Blog",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "rust-blog": {
+      "name": "Rust Blog",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "thenewstack": {
+      "name": "The New Stack",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "sspai": {
+      "name": "少数派",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 4
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arxiv-ai": {
+      "name": "arXiv cs.AI",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 120
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arxiv-lg": {
+      "name": "arXiv cs.LG",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 120
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arxiv-cl": {
+      "name": "arXiv cs.CL",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 120
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arxiv-econ": {
+      "name": "arXiv econ.GN",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 7
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "arxiv-qbio": {
+      "name": "arXiv q-bio",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 22
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "nature-research": {
+      "name": "Nature 研究论文",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 2
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "restofworld": {
+      "name": "Rest of World",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 1
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "bof": {
+      "name": "Business of Fashion",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 9
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "modernretail": {
+      "name": "Modern Retail",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 3
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "technode": {
+      "name": "TechNode",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 11
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "theblock": {
+      "name": "The Block",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 17
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "coindesk": {
+      "name": "CoinDesk",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 19
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "blockworks": {
+      "name": "Blockworks",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "bankless": {
+      "name": "Bankless",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 3
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    },
+    "fintech-weekly": {
+      "name": "Fintech Business Weekly",
+      "history": [
+        {
+          "date": "2026-08-06",
+          "ok": true,
+          "itemCount": 0
+        }
+      ],
+      "consecutiveFailures": 0,
+      "successRate7d": 1
+    }
+  }
+}

@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.astro/
+.cache/
+.env
+.env.local
+*.log
+.DS_Store
+Thumbs.db
+
+# 本地工具配置与个人笔记，不进公开仓库
+.claude/settings.local.json
+daily-brief-prompt.md
+news-site-prompt.md
