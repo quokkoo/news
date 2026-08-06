@@ -1,0 +1,1274 @@
+{
+  "date": "2026-08-07",
+  "generatedAt": "2026-08-06T22:52:50.232Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 65 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "c367245488c7",
+          "title": "非农与美伊协议落地前市场谨慎，美股三大指数集体下跌，西部数据跌超13%，原油走强",
+          "titleZh": "非农与美伊协议落地前市场谨慎，美股三大指数集体下跌，西部数据跌超13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "summary": "地缘政治风险重燃，油价急涨逾3%，通胀压力再度浮现，美股承压收跌，市场焦点转向周五非农就业报告。 伊朗国家媒体披露一份霍尔木兹海峡管理草案，内容较市场预期更为严苛，布伦特原油盘中升至每桶83美元，打破此前因美伊谈判乐观预期形成的跌势。 油价上涨重新点燃通胀担忧，市场对美联储年内加息的预期随之升温，美债收益率全线上行，美元走强，美股三大指数均告收跌。 标普50…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T22:00:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8fb876cc3a7d",
+          "title": "ChatGPT时代首次！“科技七巨头”财报引爆超预期波动，美股分化创三十余年新高",
+          "titleZh": "ChatGPT时代首次！“科技七巨头”财报引爆超预期波动，美股分化创三十余年新高",
+          "url": "https://wallstreetcn.com/articles/3778890",
+          "summary": "到7月底，美股“科技七巨头”（Magnificent 7）中，已有六家都公布了最新季度财报，美股AI主线并未趋于平静，反而进入剧烈重估阶段。 美银股票衍生品团队日前的报告公布了一个令人意外的发现：自OpenAI的ChatGPT问世以来，“科技七巨头”首次几乎全部出现财报后实际波动率超过财报前期权隐含波动率，显示期权市场首次系统性低估了大型科技股的业绩冲击。 …",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T21:06:49.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ac7de32b3c1f",
+          "title": "SpaceX千亿解禁日涨超6%！周三14%的暴跌，才是真正的“解禁出货”",
+          "titleZh": "SpaceX千亿解禁日涨超6%！周三14%的暴跌，才是真正的“解禁出货”",
+          "url": "https://wallstreetcn.com/articles/3778885",
+          "summary": "8月6日，SpaceX首批9.115亿股内部人士限售股正式解禁，潜在释放市值约1000亿美元——但市场此前广泛定价的二次踩踏并未发生。 股价开盘后不跌反涨约5%，开盘半小时成交量约9300万股，相当于前一交易日全天的约四成。可交易股票总数从约6.39亿股增至约15.5亿股，规模翻倍有余，而价格并未下跌。 SpaceX周四最终收涨6.14%，全天成交量2.51…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T20:57:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f600a47440f6",
+          "title": "谷歌“第30号员工”Jeff Dean携三位科学家集体出走，Gurley开出药方：复刻Android开源剧本是最后一张牌",
+          "titleZh": "谷歌“第30号员工”Jeff Dean携三位科学家集体出走，Gurley开出药方：复刻Android开源剧本是最后一张牌",
+          "url": "https://wallstreetcn.com/articles/3778884",
+          "summary": "谷歌正经历一场深层次的AI战略重组。高管离职、组织架构调整与前沿研究方向转变同步发生 华尔街见闻提及，谷歌第30号员工、首席科学家Jeff Dean宣布离职，结束27年任职生涯，携三位顶尖科学家共同创办自动化科研公司Discovery Loop。 知名投资人Bill Gurley在X平台公开反驳市场\"game over\"论调，称谷歌尚未出局，但唯一选择是\"从…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T20:38:13.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14534f84506a",
+          "title": "伊朗与阿曼协议拟禁美以船只霍尔木兹通行，伊媒称伊方在海峡附近打击敌方目标",
+          "titleZh": "伊朗与阿曼协议拟禁美以船只霍尔木兹通行，伊媒称伊方在海峡附近打击敌方目标",
+          "url": "https://wallstreetcn.com/articles/3778881",
+          "summary": "伊朗与阿曼拟签署的霍尔木兹海峡新通航协议再曝重磅细节，显示伊朗寻求将海峡控制权掌握在手中。而且伊朗已采取行动，打击海峡附近的“敌方目标”。 伊朗媒体法尔斯通讯社（FARS）当地时间6日周四的报道称，伊朗议会正在审议这份协议。根据协议，美国及以色列船只将被禁止通过霍尔木兹海峡，对“曾对伊朗造成损害”的国家也将无法获得霍尔木兹海峡通航许可。 上述消息传出后，市场…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T20:06:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 5,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "72cf7fdba8c8",
+          "title": "报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺",
+          "titleZh": "报道：英伟达拟下调Rubin Ultra显存配置，应对高端HBM短缺",
+          "url": "https://wallstreetcn.com/articles/3778895",
+          "summary": "AI基础设施热潮正在逼近供应链极限。 据The Information报道，英伟达正评估一项颇为激进的调整方案——为下一代AI GPU Rubin Ultra推出低于原计划显存配置的版本，以缓解高端高带宽内存（HBM）供应不足带来的量产压力。 这意味着，即便是掌握GPU市场主导权的英伟达，也不得不在产品规格与供应能力之间寻求平衡。 这一变化不仅反映出HBM供…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-06T22:12:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "e9ef1d0121b3",
+          "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "titleZh": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+          "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+          "summary": "August 6, 2026 Science WeatherNext team WeatherNext enables accurate cyclone forecasts that can give an extra day of warning. Now we are open sourcing the model. Predicting how dan…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-08-06T15:06:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7085be8e3fac",
+          "title": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "titleZh": "Explosive drone found hovering near Ukrainian cargo aircraft at German airport",
+          "url": "https://arstechnica.com/gadgets/2026/08/germany-disarms-explosive-drone-found-at-airport-hunts-possible-second-drone/",
+          "summary": "German police disarmed a drone carrying explosives after it was discovered near Ukrainian cargo aircraft parked at Leipzig airport—and authorities are looking into the possibility …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T22:01:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9e72aee6c955",
+          "title": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+          "titleZh": "X wants to keep suing advertisers, asks 5th Circuit to overrule district judge",
+          "url": "https://arstechnica.com/tech-policy/2026/08/elon-musks-x-isnt-done-suing-advertisers-asks-court-to-revive-boycott-case/",
+          "summary": "Elon Musk's X is trying to revive a lawsuit against advertisers it's accusing of illegally boycotting the social media platform, despite previously reaching a settlement to end lit…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T20:29:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b2f566876a7d",
+          "title": "Suno hopes to go legit with watermarks for AI-generated music",
+          "titleZh": "Suno hopes to go legit with watermarks for AI-generated music",
+          "url": "https://arstechnica.com/ai/2026/08/suno-hopes-to-go-legit-with-watermarks-for-ai-generated-music/",
+          "summary": "The Internet is awash in AI content, and it's not always easy to tell it apart from genuine human creations. While images and videos are perhaps the most obvious type of AI slop, s…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T20:17:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0cb43ed2cf02",
+          "title": "Large genome models used to design new viruses",
+          "titleZh": "Large genome models used to design new viruses",
+          "url": "https://arstechnica.com/science/2026/08/large-genome-models-used-to-design-new-viruses/",
+          "summary": "A lot of the AI work in biology has been focused on designing proteins. That's partly because proteins do most of the business of life, catalyzing the interesting chemistry and str…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T19:04:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c9f41ca0ad1f",
+          "title": "Parasitic zombie-ant fungus thrives in mosses, too",
+          "titleZh": "Parasitic zombie-ant fungus thrives in mosses, too",
+          "url": "https://arstechnica.com/science/2026/08/parasitic-zombie-fungus-thrives-in-mosses-too/",
+          "summary": "The parasitic fungi in the Cordyceps genus are a favorite subject of nature documentaries. They've also infiltrated popular culture via the zombie-apocalypse video game The Last of…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T17:13:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "79534d468731",
+          "title": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
+          "titleZh": "Moderna's mRNA flu shot earns FDA approval after rollercoaster review",
+          "url": "https://arstechnica.com/health/2026/08/modernas-mrna-flu-shot-earns-fda-approval-after-rollercoaster-review/",
+          "summary": "Despite significant drama from Trump officials this year, the Food and Drug Administration has for the first time approved a flu vaccine that uses mRNA technology. On Thursday, vac…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T16:31:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3702a77bf577",
+          "title": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+          "titleZh": "Cloudflare open-sources vibe-coding platform for people who aren't coders",
+          "url": "https://arstechnica.com/ai/2026/08/cloudflare-open-sources-vibe-coding-platform-for-people-who-arent-coders/",
+          "summary": "Cloudflare has open-sourced its Cloudflare OS platform, which it first developed as an internal workspace for employees to build apps using AI agents—including people who are not s…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-06T16:15:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "4fa02598895f",
+          "title": "Cyberattacks expose deeper vulnerabilities in U.S. water systems",
+          "titleZh": "Cyberattacks expose deeper vulnerabilities in U.S. water systems",
+          "url": "https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks",
+          "summary": "Suspected Iran-linked cyberattacks re exposing long-standing vulnerabilities in fragmented U.S. drinking water systems facing aging infrastructure and intensifying climate threats.…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T22:25:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "465f03eb028f",
+          "title": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
+          "titleZh": "Senate panel holds Fauci in contempt over refusal to answer COVID-19 questions",
+          "url": "https://www.axios.com/2026/08/06/anthony-fauci-covid-senate-contempt",
+          "summary": "A Senate panel voted Thursday to hold Anthony Fauci in contempt for repeatedly declining to answer questions last week from lawmakers investigating the origins of the COVID-19 pand…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T21:07:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c7859cb6faa1",
+          "title": "AI designs new virus not found in nature",
+          "titleZh": "AI designs new virus not found in nature",
+          "url": "https://www.axios.com/2026/08/06/ai-virus-designed-bacteria-viruses",
+          "summary": "A Stanford-led research team has used generative AI to design a synthetic virus — the first time artificial intelligence has been harnessed to create a organism that has never been…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T21:00:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b368978ffc6",
+          "title": "Trump targets birth tourism and citizenship in new executive orders",
+          "titleZh": "Trump targets birth tourism and citizenship in new executive orders",
+          "url": "https://www.axios.com/2026/08/06/trump-birth-tourism-birthright-citizenship",
+          "summary": "President Trump plans to sign two executive orders Thursday seeking to narrow birthright citizenship in several circumstances and intensify the federal crackdown on commercial \"bir…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T19:39:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "35c634e39e83",
+          "title": "Jan. 6 prosecutions are over, but the fight lingers",
+          "titleZh": "Jan. 6 prosecutions are over, but the fight lingers",
+          "url": "https://www.axios.com/2026/08/06/jan-6-cases-oath-keepers-proud-boys",
+          "summary": "The years-long saga of prosecuting the Jan. 6 attack effectively came to an end this week, when a judge dismissed a remaining indictment against Oath Keepers members already freed …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-06T19:08:04.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-06T22:52:41.553Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-06T22:52:41.553Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-06T22:52:41.553Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "b19e4ceefe32",
+          "title": "AI Chip Startup Taalas Acquired by AMD",
+          "titleZh": "AI Chip Startup Taalas Acquired by AMD",
+          "url": "https://www.eetimes.com/ai-chip-startup-taalas-acquired-by-amd/",
+          "summary": "AMD has acquired Taalas, the AI inference chip startup co-founded by former Tenstorrent CEO Ljubisa Bajic. Bajic, a former AMD executive, and the Taalas team will join AMD under Va…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-06T20:05:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ab76287eea9f",
+          "title": "Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers",
+          "titleZh": "Everspin Technologies and MaxLinear Collaborate to Advance Memory Efficiency in AI Servers",
+          "url": "https://www.semiconductor-digest.com/everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2/?utm_source=rss&utm_medium=rss&utm_campaign=everspin-technologies-and-maxlinear-collaborate-to-advance-memory-efficiency-in-ai-servers-2",
+          "summary": "Everspin Technologies, Inc. (NASDAQ: MRAM), a developer and manufacturer of MRAM solutions, and MaxLinear, Inc., a provider of high-performance connectivity and storage acceleratio…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-06T21:13:39.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e27d4b260ba9",
+          "title": "AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters",
+          "titleZh": "AlixLabs Expands Footprint at RISE ProNano in Lund by 400 Square Meters",
+          "url": "https://www.semiconductor-digest.com/alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters/?utm_source=rss&utm_medium=rss&utm_campaign=alixlabs-expands-footprint-at-rise-pronano-in-lund-by-400-square-meters",
+          "summary": "AlixLabs AB, a Swedish semiconductor technology company pioneering Atomic Pitch Splitting, APS, today announced that it is expanding its cleanroom space at the Lund-based RISE ProN…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-06T21:11:30.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ff4bc2ea7966",
+          "title": "SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing",
+          "titleZh": "SEMI Applauds Statement from Senators Crapo and Wyden Supporting U.S. Tax Credit for Semiconductor Manufacturing",
+          "url": "https://www.semiconductor-digest.com/semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=semi-applauds-statement-from-senators-crapo-and-wyden-supporting-u-s-tax-credit-for-semiconductor-manufacturing",
+          "summary": "Following Senate Finance Committee Chairman Mike Crapo (R-ID) and Ranking Member Ron Wyden (D-OR) reaffirming support for the Section 48D Advanced Manufacturing Investment Credit (…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-06T21:05:39.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "877efbecd412",
+          "title": "US sets 15% polysilicon tariff, price floors to challenge China’s dominance",
+          "titleZh": "US sets 15% polysilicon tariff, price floors to challenge China’s dominance",
+          "url": "https://www.scmp.com/news/us/article/3363224/us-sets-15-polysilicon-tariff-price-floors-challenge-chinas-dominance?utm_source=rss_feed",
+          "summary": "The United States has announced new tariffs and price floors on polysilicon and related products, targeting China’s dominance in key materials used in solar panels and semiconducto…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-06T22:51:35.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e57df84e9cb",
+          "title": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
+          "titleZh": "Trump signs new orders targeting birthright citizenship and ‘birth tourism’",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3363223/trump-signs-new-orders-targeting-birthright-citizenship-and-birth-tourism?utm_source=rss_feed",
+          "summary": "US President Donald Trump signed two executive orders on Thursday seeking to narrow birthright citizenship and intensify a crackdown on “birth tourism”, making a new attempt to res…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-06T21:41:30.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0ccfb97cd0ec",
+          "title": "US presses China over alleged scam bosses despite growing police cooperation",
+          "titleZh": "US presses China over alleged scam bosses despite growing police cooperation",
+          "url": "https://www.scmp.com/news/us/article/3363222/us-presses-china-over-alleged-scam-bosses-despite-growing-police-cooperation?utm_source=rss_feed",
+          "summary": "US President Donald Trump has personally pressed Chinese President Xi Jinping over transnational criminal organisations involved in Southeast Asia’s sprawling online scam industry,…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-06T21:13:40.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "9ce300443e60",
+          "title": "Q&A: What is in China’s new five-year plan for climate change?",
+          "titleZh": "Q&A: What is in China’s new five-year plan for climate change?",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-chinas-new-five-year-plan-for-climate-change",
+          "summary": "Print article Share China has released a five-year plan dedicated to addressing climate change. The 15th five-year plan for a national response to climate change is the latest in a…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-08-06T14:48:40.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "33eee4f89423",
+          "title": "The Pentagon's wind farm blockade is over — for now",
+          "titleZh": "The Pentagon's wind farm blockade is over — for now",
+          "url": "https://www.canarymedia.com/articles/wind/pentagon-wind-farm-blockade-over",
+          "summary": "The U.S. Department of Defense has for months refused to conduct routine military evaluations of proposed onshore wind farms, creating a de facto moratorium on the clean energy sou…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-06T21:53:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "42dd66e51292",
+          "title": "Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’",
+          "titleZh": "Why Trump’s claim that offshore wind is a security risk is ‘ludicrous’",
+          "url": "https://www.canarymedia.com/articles/offshore-wind/trump-offshore-wind-claim-ludicrous",
+          "summary": "When the Trump administration issued stop-work orders on all five offshore wind projects under construction late last year, it offered one justification: The turbines could comprom…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-06T18:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "e47807027982",
+          "title": "A guide to slash commands in the GitHub Copilot app",
+          "titleZh": "A guide to slash commands in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+          "summary": "If you&rsquo;ve used slash commands in the GitHub Copilot CLI, you already know how powerful a quick / can be. In the GitHub Copilot app, slash commands take that idea further, giv…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-06T19:49:34.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "22d12dcb591c",
+          "title": "How we took malware advisories beyond npm",
+          "titleZh": "How we took malware advisories beyond npm",
+          "url": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+          "summary": "A compromised package can steal credentials the moment you install it, and until recently, GitHub could only flag those in npm. Not anymore. This is the story of how the supply cha…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-06T16:51:12.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "ef0f7d525081",
+          "title": "Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding",
+          "titleZh": "Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding",
+          "url": "https://arxiv.org/abs/2608.04054",
+          "summary": "arXiv:2608.04054v1 Announce Type: cross Abstract: Multimodal intent recognition requires understanding not only what textual, acoustic, and visual signals share, but also how they …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-06T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.04054"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.04054"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8ac6789e25f4",
+          "title": "Training-Free Hashing-Based Attention via Binary Principal Components",
+          "titleZh": "Training-Free Hashing-Based Attention via Binary Principal Components",
+          "url": "https://arxiv.org/abs/2608.04405",
+          "summary": "arXiv:2608.04405v1 Announce Type: cross Abstract: Long-context large language models (LLMs) are increasingly deployed in real-world applications, yet self-attention remains a major…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-06T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.04405"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.04405"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af2e91f93572",
+          "title": "MESH: Memory-Efficient Sinkhorn Optimization for Mixture-of-Experts Training",
+          "titleZh": "MESH: Memory-Efficient Sinkhorn Optimization for Mixture-of-Experts Training",
+          "url": "https://arxiv.org/abs/2608.04407",
+          "summary": "arXiv:2608.04407v1 Announce Type: cross Abstract: Memory-efficient matrix optimizers such as Sinkhorn gradient descent remove most AdamW optimizer state for dense Transformer matri…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-06T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.04407"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.04407"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "ded8f227bd3a",
+          "title": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
+          "titleZh": "Crypto bill ethics provision could let Trump defer millions in taxes: Bloomberg",
+          "url": "https://www.theblock.co/post/411065/crypto-bill-ethics-provision-could-let-trump-defer-millions-in-taxes-bloomberg?utm_source=rss&utm_medium=rss",
+          "summary": "President Trump is reviewing ethics language in a bid to pass cryptocurrency legislation — which could result in a personal tax benefit.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-06T21:52:43.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2600eb1db8b6",
+          "title": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+          "titleZh": "Wintermute registers as SEC broker-dealer to trade stocks, options and crypto ETFs",
+          "url": "https://www.theblock.co/post/411060/wintermute-registers-as-sec-broker-dealer-to-trade-stocks-options-and-crypto-etfs?utm_source=rss&utm_medium=rss",
+          "summary": "Wintermute USA is a New York-based subsidiary that has registered as a broker-dealer with the SEC and FINRA.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-06T21:29:13.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9dcb415741e2",
+          "title": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
+          "titleZh": "Bitcoin miners MARA and CleanSpark post double-digital revenue drops as AI infrastructure pivot continues",
+          "url": "https://www.theblock.co/post/411049/bitcoin-miners-mara-cleanspark-double-digital-revenue-drops-ai-infrastructure-pivot?utm_source=rss&utm_medium=rss",
+          "summary": "MARA's net loss widened to $611.3 million, or $1.60 per diluted share, while CleanSpark’s was $239.8 million, or $0.89 per basic share.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-06T21:10:23.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 40,
+    "itemsFiltered": 2,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 63,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
