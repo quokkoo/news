@@ -1,9 +1,14 @@
 {
-  "updatedAt": "2026-08-06T22:52:49.190Z",
+  "updatedAt": "2026-08-07T23:08:49.032Z",
   "sources": {
     "wsj-markets": {
       "name": "WSJ Markets",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 27
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -22,6 +27,11 @@
       "name": "WSJ World News",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 15
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 11
@@ -38,6 +48,11 @@
     "wsj-business": {
       "name": "WSJ Business",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 30
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -56,6 +71,11 @@
       "name": "Bloomberg Markets",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 17
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 18
@@ -72,6 +92,11 @@
     "bloomberg-economics": {
       "name": "Bloomberg Economics",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 19
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -90,6 +115,11 @@
       "name": "CNBC Economy",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 3
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 1
@@ -106,6 +136,11 @@
     "cnbc-finance": {
       "name": "CNBC Finance",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -124,6 +159,11 @@
       "name": "MarketWatch",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 10
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 10
@@ -140,6 +180,11 @@
     "ftchinese": {
       "name": "FT中文网",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -158,6 +203,11 @@
       "name": "华尔街见闻",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 48
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 57
@@ -174,6 +224,11 @@
     "eastmoney": {
       "name": "东方财富",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 7
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -192,6 +247,11 @@
       "name": "美联储公告",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -208,6 +268,11 @@
     "ecb-press": {
       "name": "欧洲央行公告",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -226,6 +291,11 @@
       "name": "Calculated Risk",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -242,6 +312,11 @@
     "reuters-gnews": {
       "name": "Reuters（经 Google News）",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 40
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -260,6 +335,11 @@
       "name": "TechCrunch",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 14
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 20
@@ -276,6 +356,11 @@
     "theverge": {
       "name": "The Verge",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -294,6 +379,11 @@
       "name": "Ars Technica",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 14
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 12
@@ -310,6 +400,11 @@
     "hn-front": {
       "name": "Hacker News",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -328,6 +423,11 @@
       "name": "Hacker News Best",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 7
@@ -344,6 +444,11 @@
     "mit-tr": {
       "name": "MIT Technology Review",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -362,6 +467,11 @@
       "name": "OpenAI",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 3
@@ -378,6 +488,11 @@
     "deepmind": {
       "name": "Google DeepMind",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -396,6 +511,11 @@
       "name": "Google Research",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -412,6 +532,11 @@
     "huggingface": {
       "name": "Hugging Face",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -430,6 +555,12 @@
       "name": "Import AI",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -441,12 +572,17 @@
           "itemCount": 0
         }
       ],
-      "consecutiveFailures": 1,
-      "successRate7d": 0.5
+      "consecutiveFailures": 2,
+      "successRate7d": 0.3333333333333333
     },
     "latent-space": {
       "name": "Latent Space",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -465,6 +601,11 @@
       "name": "Interconnects",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -481,6 +622,11 @@
     "simonwillison": {
       "name": "Simon Willison",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -499,6 +645,11 @@
       "name": "Semafor",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 30
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 21
@@ -516,6 +667,12 @@
       "name": "爱范儿",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Invalid character in entity name\nLine: 949\nColumn: 255\nChar: <"
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -527,12 +684,17 @@
           "itemCount": 8
         }
       ],
-      "consecutiveFailures": 1,
-      "successRate7d": 0.5
+      "consecutiveFailures": 2,
+      "successRate7d": 0.3333333333333333
     },
     "geekpark": {
       "name": "极客公园",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 6
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -551,6 +713,11 @@
       "name": "cnBeta",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 80
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 80
@@ -567,6 +734,11 @@
     "solidot": {
       "name": "Solidot",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 9
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -585,6 +757,11 @@
       "name": "Stratechery",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -601,6 +778,11 @@
     "the-generalist": {
       "name": "The Generalist",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -619,6 +801,11 @@
       "name": "虎嗅",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 3
@@ -635,6 +822,11 @@
     "tmtpost": {
       "name": "钛媒体",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 14
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -653,6 +845,11 @@
       "name": "Axios",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 10
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 19
@@ -669,6 +866,11 @@
     "exponential-view": {
       "name": "Exponential View",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -687,6 +889,11 @@
       "name": "Paul Graham",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 20
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 20
@@ -703,6 +910,11 @@
     "notboring": {
       "name": "Not Boring",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -721,6 +933,11 @@
       "name": "Sequoia Capital",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -737,6 +954,11 @@
     "acx": {
       "name": "Astral Codex Ten",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -755,6 +977,11 @@
       "name": "Marginal Revolution",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 4
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 5
@@ -771,6 +998,11 @@
     "benedictevans": {
       "name": "Benedict Evans",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -789,6 +1021,11 @@
       "name": "One Useful Thing",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -805,6 +1042,11 @@
     "construction-physics": {
       "name": "Construction Physics",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -823,6 +1065,11 @@
       "name": "Noahpinion",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 1
@@ -839,6 +1086,11 @@
     "pragmatic-engineer": {
       "name": "The Pragmatic Engineer",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -857,6 +1109,11 @@
       "name": "SemiAnalysis",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -873,6 +1130,11 @@
     "digitimes": {
       "name": "DigiTimes Asia",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 65
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -891,6 +1153,11 @@
       "name": "EE Times",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 6
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 4
@@ -907,6 +1174,11 @@
     "nikkei-asia": {
       "name": "日经亚洲",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 50
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -925,6 +1197,11 @@
       "name": "Tom's Hardware",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 14
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 14
@@ -941,6 +1218,11 @@
     "trendforce": {
       "name": "TrendForce",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -959,6 +1241,11 @@
       "name": "Semiconductor Digest",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 4
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 5
@@ -975,6 +1262,11 @@
     "politico": {
       "name": "Politico",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -993,6 +1285,11 @@
       "name": "Foreign Affairs",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 2
@@ -1009,6 +1306,11 @@
     "scmp-china": {
       "name": "南华早报",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 18
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1027,6 +1329,11 @@
       "name": "出口管制（Google News）",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 40
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 40
@@ -1043,6 +1350,11 @@
     "canarymedia": {
       "name": "Canary Media",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1061,6 +1373,11 @@
       "name": "Carbon Brief",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 1
@@ -1077,6 +1394,11 @@
     "utilitydive": {
       "name": "Utility Dive",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1095,6 +1417,12 @@
       "name": "Heatmap News",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -1107,12 +1435,17 @@
           "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "successRate7d": 0
     },
     "statnews": {
       "name": "STAT News",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 9
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1131,6 +1464,11 @@
       "name": "Endpoints News",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 6
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 13
@@ -1148,6 +1486,12 @@
       "name": "FiercePharma",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "html.replace is not a function"
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -1160,12 +1504,17 @@
           "error": "html.replace is not a function"
         }
       ],
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "successRate7d": 0
     },
     "nature-news": {
       "name": "Nature News",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1184,6 +1533,11 @@
       "name": "Science News",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 3
@@ -1200,6 +1554,11 @@
     "fda-press": {
       "name": "FDA 公告",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1218,6 +1577,11 @@
       "name": "GitHub Blog",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 2
@@ -1235,6 +1599,11 @@
       "name": "Hacker News Show HN",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 1
@@ -1247,11 +1616,16 @@
         }
       ],
       "consecutiveFailures": 0,
-      "successRate7d": 0.5
+      "successRate7d": 0.6666666666666666
     },
     "infoq-en": {
       "name": "InfoQ",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1270,6 +1644,12 @@
       "name": "InfoQ 中文",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -1282,12 +1662,17 @@
           "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 3,
       "successRate7d": 0
     },
     "changelog": {
       "name": "Changelog",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1306,6 +1691,11 @@
       "name": "Go Blog",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 0
@@ -1322,6 +1712,11 @@
     "rust-blog": {
       "name": "Rust Blog",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1340,6 +1735,11 @@
       "name": "The New Stack",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 6
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 9
@@ -1356,6 +1756,11 @@
     "sspai": {
       "name": "少数派",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1374,6 +1779,11 @@
       "name": "arXiv cs.AI",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 120
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 120
@@ -1390,6 +1800,11 @@
     "arxiv-lg": {
       "name": "arXiv cs.LG",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 120
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1408,6 +1823,11 @@
       "name": "arXiv cs.CL",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 120
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 120
@@ -1424,6 +1844,11 @@
     "arxiv-econ": {
       "name": "arXiv econ.GN",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 6
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1442,6 +1867,11 @@
       "name": "arXiv q-bio",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 31
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 22
@@ -1458,6 +1888,11 @@
     "nature-research": {
       "name": "Nature 研究论文",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1476,6 +1911,11 @@
       "name": "Rest of World",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 1
@@ -1493,6 +1933,12 @@
       "name": "Business of Fashion",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -1504,12 +1950,17 @@
           "itemCount": 9
         }
       ],
-      "consecutiveFailures": 1,
-      "successRate7d": 0.5
+      "consecutiveFailures": 2,
+      "successRate7d": 0.3333333333333333
     },
     "modernretail": {
       "name": "Modern Retail",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1528,6 +1979,11 @@
       "name": "TechNode",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 8
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 11
@@ -1544,6 +2000,11 @@
     "theblock": {
       "name": "The Block",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 12
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1562,6 +2023,11 @@
       "name": "CoinDesk",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 23
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 17
@@ -1578,6 +2044,11 @@
     "blockworks": {
       "name": "Blockworks",
       "history": [
+        {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-08-07",
           "ok": true,
@@ -1596,6 +2067,11 @@
       "name": "Bankless",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-08-07",
           "ok": true,
           "itemCount": 4
@@ -1613,6 +2089,12 @@
       "name": "Fintech Business Weekly",
       "history": [
         {
+          "date": "2026-08-08",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-08-07",
           "ok": false,
           "itemCount": 0,
@@ -1624,8 +2106,8 @@
           "itemCount": 0
         }
       ],
-      "consecutiveFailures": 1,
-      "successRate7d": 0.5
+      "consecutiveFailures": 2,
+      "successRate7d": 0.3333333333333333
     }
   }
 }

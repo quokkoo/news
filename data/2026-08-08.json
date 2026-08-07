@@ -1,0 +1,1274 @@
+{
+  "date": "2026-08-08",
+  "generatedAt": "2026-08-07T23:08:50.442Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、学术前沿速递等 12 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "2790b160ae1f",
+          "title": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
+          "titleZh": "SpaceX解禁后两日暴涨23%，期权成交创纪录，空头回补或进一步推升股价",
+          "url": "https://wallstreetcn.com/articles/3778979",
+          "summary": "SpaceX股票连续第二个交易日大涨，距离重新站上135美元的IPO发行价仅一步之遥。周五，公司股价上涨约16%，推动两日累计涨幅达到约23%，期间市值增加超过3270亿美元。 这轮强势反弹发生在首批大规模限售股解禁之后。周四，约9.115亿股SpaceX股票解除出售限制，可流通股数量由此前的约6.39亿股增至15.5亿股，市场此前一度担心早期投资者集中抛售…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-07T22:48:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f88ad005d82d",
+          "title": "伊朗与阿曼已明确协议总体框架，伊朗酝酿禁美以船只通行，特朗普却说谈判“取得进展”",
+          "titleZh": "伊朗与阿曼已明确协议总体框架，伊朗酝酿禁美以船只通行，特朗普却说谈判“取得进展”",
+          "url": "https://wallstreetcn.com/articles/3778974",
+          "summary": "伊朗国内霍尔木兹海峡管控协议的争议仍在持续，与此同时特朗普表示谈判正在取得进展。协议能否落地，仍面临多重不确定因素。 美国方面，据央视新闻报道，当地时间8月6日，美国总统特朗普表示，关于重新开放霍尔木兹海峡的协议“尚不能说已经正式达成”，但海峡目前“某种程度上已经开放”，美方正参与相关谈判，整体进展良好。 8月7日，美国官员表示，阿曼与伊朗在霍尔木兹海峡问题…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-07T21:53:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f9949c889431",
+          "title": "非农爆冷打击加息预期，标普创历史新高，光通信板块大涨，Coherent涨超13%",
+          "titleZh": "非农爆冷打击加息预期，标普创历史新高，光通信板块大涨，Coherent涨超13%",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "summary": "就业市场意外走弱，为美联储维持利率按兵不动提供了依据，推动美股本周强势收涨。2年期美债收益率下行5个基点，美元指数下跌。 据报美国将在达成霍尔木兹海峡协议、恢复航运后解除对伊朗港口的封锁，油价随之回落，进一步缓和了市场对通胀的顾虑。 美国7月非农就业意外减少2.3万，远低于市场预期的增加8万，5月和6月数据合计下修10.3万，劳动参与率降至五年多最低。就业爆…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-07T21:36:13.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9215d0d6776e",
+          "title": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
+          "titleZh": "美国财政部“改口”引爆市场猜测：美国或削减长债供给，引导长端利率下行",
+          "url": "https://wallstreetcn.com/articles/3778977",
+          "summary": "美国财政部一处措辞调整，在全球最大债券市场掀起一场罕见争论：政府是否真的会缩减长期国债拍卖规模？ 周三，美国财政部在季度再融资声明中将对利息类证券拍卖的表述从考量\"潜在的未来增加\"改为\"潜在的未来变化\"。 这一细微改动立即引发市场广泛猜测：鉴于财长贝森特长期将10年期收益率视为经济关键晴雨表，当局或有意压缩超长期国债供给，以引导长端利率下行。 这一信号对市场…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-07T21:58:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ad123c63af88",
+          "title": "ECB publishes consolidated banking data for end-March 2026",
+          "titleZh": "ECB publishes consolidated banking data for end-March 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+          "summary": "PRESS RELEASE 7 August 2026 The aggregate of total assets of EU-headquartered credit institutions increased by 3.63%, from €33.13 trillion in March 2025 to €34.33 trillion in March…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-08-07T08:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e21d6259aa8b",
+          "title": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
+          "titleZh": "日程安排显示：沃什不曾在6月份与特朗普有过任何通话",
+          "url": "https://wallstreetcn.com/articles/3778978",
+          "summary": "沃什担任美联储主席后的首个完整月份日程显示，他曾与国会议员、白宫官员以及私营部门经济学家通电话或会面，但日程中没有列出与美国总统特朗普的任何会面或通话。 与国会议员的通话和会面包括：众议院金融服务委员会主席弗伦奇·希尔（French Hill）、内华达州民主党参议员凯瑟琳·科尔特斯·马斯托（Catherine Cortez Masto），以及宾夕法尼亚州共和…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-07T21:53:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "e0257e850562",
+          "title": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "titleZh": "Flesh-eating screwworms feast on humans in Mexico; human cases top 500",
+          "url": "https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/",
+          "summary": "Since the flesh-eating screwworm fly reinvaded Mexico in 2024, human cases of the voracious parasite have been mounting. According to a July surveillance report from Mexico's Minis…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-07T21:09:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "946c9297c11a",
+          "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "titleZh": "The Download: a censorship conspiracy theory and the first virus created by AI",
+          "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
+          "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network mo…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-07T14:20:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8fe2f33352a0",
+          "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "titleZh": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+          "url": "https://huggingface.co/blog/allenai/tutormoments",
+          "summary": "Back to Articles What makes a good tutor? How TutorMoments works Preliminary results Limitations and next steps 📄 Tech Report: https://tutormoments.allen.ai/static/paper/tutormome…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-08-07T17:53:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c75833d2d36f",
+          "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+          "titleZh": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+          "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem/#atom-everything",
+          "summary": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-07T19:18:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2777feb3a29d",
+          "title": "How snails engineer their slime",
+          "titleZh": "How snails engineer their slime",
+          "url": "https://arstechnica.com/science/2026/08/how-snails-engineer-their-slime/",
+          "summary": "Snails are well-known for their mucus. The slime is highly valued as an anti-inflammatory and anti-aging ingredient in certain skin care products, and snails can secrete different …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-07T17:25:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c72f344f1cf5",
+          "title": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "titleZh": "Judge rules Meta caused \"public nuisance\" and must fund mental health treatment",
+          "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
+          "summary": "A New Mexico judge yesterday ordered Meta to pay $567 million for a fund that would alleviate the \"public nuisance\" created by its social media services. The order to pay for youth…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-07T19:49:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "774fe170e49d",
+          "title": "Volkswagen plans to win America back with a pickup, report says",
+          "titleZh": "Volkswagen plans to win America back with a pickup, report says",
+          "url": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
+          "summary": "A US-made pickup truck by 2030 is part of Volkswagen Group's plan to revive its American business. According to a Reuters report , entering this competitive but high-margin market,…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-07T17:13:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "95ec4aa0c6e3",
+          "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "titleZh": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+          "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
+          "summary": "This article was produced in partnership with Type Investigations , with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US St…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-07T14:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "8cdd6ea495ce",
+          "title": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
+          "titleZh": "White House revives unprecedented effort to remove Fed governor Lisa Cook",
+          "url": "https://www.axios.com/2026/08/07/trump-white-house-fed-cook",
+          "summary": "The Trump administration has launched a new effort to remove Federal Reserve Gov. Lisa Cook , notifying her that President Trump is considering her removal and giving her 21 days t…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-07T18:40:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c31a630568f",
+          "title": "Summer jobs report is a double whammy for workers",
+          "titleZh": "Summer jobs report is a double whammy for workers",
+          "url": "https://www.axios.com/2026/08/07/bls-jobs-report-rates-july",
+          "summary": "Data: Bureau of Labor Statistics ; Chart: Courtenay Brown/Axios America's labor market appeared to be gaining momentum this spring. The latest data makes that rebound look much les…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-07T15:55:04.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4522a33b9f37",
+          "title": "2026.32: Earnings and Learnings",
+          "titleZh": "2026.32: Earnings and Learnings",
+          "url": "https://stratechery.com/2026/earnings-and-learnings/",
+          "summary": "(Photo by Ethan Miller/Getty Images) Welcome back to This Week in Stratechery! As a reminder, each week, every Friday, we’re sending out this overview of content in the Stratechery…",
+          "whyItMatters": "",
+          "sourceName": "Stratechery",
+          "publishedAt": "2026-08-07T17:29:02.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "06e17c22d53a",
+          "title": "Murkowski will oppose Blanche, threatening his confirmation",
+          "titleZh": "Murkowski will oppose Blanche, threatening his confirmation",
+          "url": "https://www.axios.com/2026/08/07/blanche-murkowski-ag-senate-confirmation",
+          "summary": "Sen. Lisa Murkowski (R-Alaska) will vote against Todd Blanche's nomination for attorney general , becoming the second known Republican to oppose him. Why it matters: Murkowski's op…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-07T11:06:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0ffb5a2cfe58",
+          "title": "Trump won't drop war, tariffs or monuments to save the GOP",
+          "titleZh": "Trump won't drop war, tariffs or monuments to save the GOP",
+          "url": "https://www.axios.com/2026/08/07/trump-iran-war-tariffs-monuments-unpopular",
+          "summary": "Read the polls, watch economic indicators and talk to President Trump's inner circle in private, and the verdict on his second term seems clear: Even some longtime insiders fear he…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-07T09:34:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-07T23:08:41.213Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-07T23:08:41.213Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-07T23:08:41.213Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "8aba32dfb5ed",
+          "title": "After Seven CEOs in 10 Years, Imagination Is Sticking to Its Strategy",
+          "titleZh": "After Seven CEOs in 10 Years, Imagination Is Sticking to Its Strategy",
+          "url": "https://www.eetimes.com/after-seven-ceos-in-10-years-imagination-is-sticking-to-its-strategy/",
+          "summary": "KINGS LANGLEY, U.K. — As Imagination Technologies’ seventh CEO in a decade takes the helm at the British IP firm, the company has abandoned its CPU and NPU ambitions to strengthen …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-07T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "64dec0093100",
+          "title": "New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing",
+          "titleZh": "New ‘Shape-Shifting’ Architecture Brings Versatility to Photonic Quantum Computing",
+          "url": "https://www.semiconductor-digest.com/new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing/?utm_source=rss&utm_medium=rss&utm_campaign=new-shape-shifting-architecture-brings-versatility-to-photonic-quantum-computing",
+          "summary": "Using light to process quantum information is one of the most promising approaches to building future quantum computers. Light particles, known as photons, are excellent carriers o…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-07T19:33:28.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "983cbcabe74e",
+          "title": "Emergence Appoints Ian Eslick as Chief Executive Officer",
+          "titleZh": "Emergence Appoints Ian Eslick as Chief Executive Officer",
+          "url": "https://www.semiconductor-digest.com/emergence-appoints-ian-eslick-as-chief-executive-officer/?utm_source=rss&utm_medium=rss&utm_campaign=emergence-appoints-ian-eslick-as-chief-executive-officer",
+          "summary": "Emergence, a frontier agentic AI lab advancing safe autonomous AI, today announced the appointment of Ian Eslick as Chief Executive Officer. Eslick will lead the company’s next pha…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-07T19:29:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4d2519bc075a",
+          "title": "Intel Announces Leadership Appointment",
+          "titleZh": "Intel Announces Leadership Appointment",
+          "url": "https://www.semiconductor-digest.com/intel-announces-leadership-appointment/?utm_source=rss&utm_medium=rss&utm_campaign=intel-announces-leadership-appointment",
+          "summary": "Intel Corporation today announced the appointment of Dean Jarnac as executive vice president and chief sales officer. Jarnac will lead Intel’s global sales organization—strengtheni…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-07T19:24:58.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "48d18a2f27d4",
+          "title": "US judge blocks Pentagon’s ‘Chinese military’ label for WuXi AppTec",
+          "titleZh": "US judge blocks Pentagon’s ‘Chinese military’ label for WuXi AppTec",
+          "url": "https://www.scmp.com/news/us/article/3363369/us-judge-blocks-pentagons-chinese-military-label-wuxi-apptec?utm_source=rss_feed",
+          "summary": "A US federal judge on Friday temporarily blocked the Pentagon from designating Chinese biotechnology group WuXi AppTec as a “Chinese military company”, finding that defence officia…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-07T20:38:37.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "92eca2b7544f",
+          "title": "US unveils critical minerals deals in latest push to counter China",
+          "titleZh": "US unveils critical minerals deals in latest push to counter China",
+          "url": "https://www.scmp.com/news/us/article/3363367/us-unveils-critical-minerals-deals-latest-push-counter-china?utm_source=rss_feed",
+          "summary": "The United States on Friday announced several critical minerals agreements with multiple mining companies, marking its latest push to curb China’s dominance over the production and…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-07T20:29:56.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "41da06afd30a",
+          "title": "Trump launched big new solar tariffs. Here's what it means.",
+          "titleZh": "Trump launched big new solar tariffs. Here's what it means.",
+          "url": "https://www.canarymedia.com/articles/solar/trump-new-solar-tariffs",
+          "summary": "A far-reaching new tariff on solar imports promises to both raise the cost of installing the clean energy source and strengthen efforts to reshore solar manufacturing. The White Ho…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-07T22:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "01b90b7e69aa",
+          "title": "Can Ford’s affordable new electric truck hit the sweet spot?",
+          "titleZh": "Can Ford’s affordable new electric truck hit the sweet spot?",
+          "url": "https://www.canarymedia.com/articles/electric-vehicles/can-fords-new-electric-truck-hit-the-sweet-spot",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Ford’s first all-electric pickup truck didn’t exactly fly off the lot. …",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-07T15:12:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3e4412bc365f",
+          "title": "The utility billing system is preventing rate and program innovation",
+          "titleZh": "The utility billing system is preventing rate and program innovation",
+          "url": "https://www.utilitydive.com/news/utility-billing-system-preventing-rate-program-innovation/826053/",
+          "summary": "Utilities are spending billions to modernize the grid but the system responsible for billing customers is not keeping up, writes GridX CCO Scott Engstrom.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-07T15:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "0eb2bdd1b8df",
+          "title": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
+          "titleZh": "FDA Issues Emergency Use Authorization for Drug to Prevent New World Screwworm in Multiple Species, Including Sheep, Cattle, Goats, and Swine",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drug-prevent-new-world-screwworm-multiple-species-including",
+          "summary": "FDA today issued an Emergency Use Authorization (EUA) for CLiK Extra (dicyclanil topical suspension) wound spray for application on or around wounds for the prevention of New World…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-08-07T13:00:09.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "07b6e492d97b",
+          "title": "Planned satellite megaconstellations could generate runaway space debris",
+          "titleZh": "Planned satellite megaconstellations could generate runaway space debris",
+          "url": "https://www.science.org/content/article/planned-satellite-megaconstellations-could-generate-runaway-space-debris",
+          "summary": "Modeling suggests infamous “Kessler syndrome” would make the swarms unsustainable",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-07T12:15:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "2407060819bf",
+          "title": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+          "titleZh": "Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare has introduced Cloudflare Computer, a new open-source runtime designed to give AI agents something closer to a real \"computer\" instead of just ephemeral containers. It l…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-08-07T21:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "811049d16bb1",
+          "title": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+          "titleZh": "Auto Mode will soon be the default in Claude Code — because humans can’t be trusted",
+          "url": "https://thenewstack.io/claude-code-auto-mode/",
+          "summary": "In the early days of Claude Code , it felt like you either had to approve everything the coding agent did &mdash; which was incredibly annoying &mdash; or give it free rein, which …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-07T21:42:44.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3b271cab8f7",
+          "title": "The AI model OpenAI won’t release yet — and what it found in testing",
+          "titleZh": "The AI model OpenAI won’t release yet — and what it found in testing",
+          "url": "https://thenewstack.io/openai-astra-cybersecurity-delay/",
+          "summary": "OpenAI is reducing work on Astra after internal testing indicated the upcoming model may have reached a cybersecurity limit that no previous OpenAI model has ever hit. Although no …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-07T20:56:38.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8b8fd6e049c9",
+          "title": "The npm attack that turned provenance attestations into camouflage",
+          "titleZh": "The npm attack that turned provenance attestations into camouflage",
+          "url": "https://thenewstack.io/npm-supply-chain-worm-attack/",
+          "summary": "⁠ Security researchers this week disclosed an npm supply-chain attack affecting more than 400 packages, including projects connected to Keyv and Cacheable. The attackers used stole…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-07T18:31:59.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "b07f3babb2be",
+          "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+          "titleZh": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
+          "url": "https://arxiv.org/abs/2608.05160",
+          "summary": "arXiv:2608.05160v1 Announce Type: new Abstract: We introduce the Ignition Index (I), a validated scalar metric that operationalizes Global Workspace Theory's (GWT) all-or-none igni…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-07T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.05160"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.05160"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6af016d688c7",
+          "title": "EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents",
+          "titleZh": "EcoAgent-Bench: Evaluating Economic Decision-Making in Budget-Constrained LLM Agents",
+          "url": "https://arxiv.org/abs/2608.05519",
+          "summary": "arXiv:2608.05519v1 Announce Type: new Abstract: Agent benchmarks usually measure task completion and treat resource use as an auxiliary statistic. In deployment, however, the choic…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-07T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.05519"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.05519"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41b25783d291",
+          "title": "A Study of ASR Adaptation and Representation Dimensionality Reduction in Persian Speech Emotion Recognition Using Whisper",
+          "titleZh": "A Study of ASR Adaptation and Representation Dimensionality Reduction in Persian Speech Emotion Recognition Using Whisper",
+          "url": "https://arxiv.org/abs/2608.05165",
+          "summary": "arXiv:2608.05165v1 Announce Type: cross Abstract: Speech Emotion Recognition (SER) in low-resource languages remains a challenging problem due to limited labeled data. In this work…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-07T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.05165"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.05165"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 40,
+    "itemsFiltered": 2,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 61,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
