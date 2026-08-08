@@ -1,0 +1,828 @@
+{
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-08T23:00:55.447Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 29 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 8 个领域，全部读完约需 49 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "b28dc13bfd58",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "33b8fa916397",
+          "title": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "titleZh": "苹果终于把千问接进Siri：中国版Apple Intelligence来了",
+          "url": "https://wallstreetcn.com/articles/3778992",
+          "summary": "苹果与阿里的AI合作，正在从传闻和监管备案，真正走进苹果的操作系统。 近日，苹果中国官网的《Mac使用手册》中，已经出现了一个相当醒目的新页面——“在 Mac 上配合 Apple 智能使用千问”。 从苹果给出的说明来看，千问并不是以一个独立AI应用的形式进入Mac，而是直接嵌入Apple Intelligence的核心使用场景。 比如，当Siri无法直接完成…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-08T09:13:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "cnBeta",
+              "url": "https://www.cnbeta.com.tw/articles/tech/1572310.htm"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "257caef55319",
+          "title": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "titleZh": "伯克希尔Q2净利润翻倍，单季回购规模创5年来最大，谷歌进入前五大持仓 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778993",
+          "summary": "伯克希尔哈撒韦公司二季度运营业绩稳健增长，净利润翻倍，投资收益是主要推手。此外，当季净买入股票约198亿美元，其中包括斥资约100亿美元买入Alphabet普通股，以及约45亿美元用于回购伯克希尔自身股份。 8月8日，伯克希尔公布的最新数据显示，受益于股票投资组合未实现收益大幅回升，二季度GAAP口径净利润同比几乎翻倍，达256.67亿美元，较上年同期的12…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-08T13:12:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3678f84da43c",
+          "title": "British Columbia declares provincial state of emergency as wildfires grow - Reuters",
+          "titleZh": "British Columbia declares provincial state of emergency as wildfires grow - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQczlJZmFSMlhEZDBYS2E3ejJZR1VxWkdEYjZQTm00NGVvemhMSjV1SUZTdkdIZTA4cFFLSXg5cHlsOGZPSjNlVjhSaXNDX09uZzYtaFN0TS1WZndRLVlIRktrdGtMVUszMWZIYklQYTJsbkZaLVN3ZXB1SGlTb05DY0RHa1VXUkFPMGN3STBSeVNHRl9Uc1RZVzZCaHdhbWJrQ29MQ0NsMkpOV0lfeGw0QWRERmFRbGNsQ0VkdnJxcDFfUQ?oc=5",
+          "summary": "British Columbia declares provincial state of emergency as wildfires grow Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-08T20:21:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae7154f86ce6",
+          "title": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
+          "titleZh": "Thousands told to evacuate in British Columbia's wine region as wildfire grows - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQeUg1Y1BqdGNyMk45Z19zcUlaNXlrQWc5MDRMc1cydHgzSjhBeERvNDc5TXZ4NVBSOVFyd1gybkM5Um11Z1lGcXdxQ1pZUFptLVdtd0ZZWXhsa1lfem13aUNkVnIyNDlSckhSSk12b1VNMkc2U0VoVlJzQzlXVlp1T0VVRi1LUVVQQ3lYWVNTMjVaWVE0SU5EeENDRUVVVXNQWjlVZkx6eXZpZ2JjemhoTW8zdlhkdmNnd0ZabTEweWNibkFpcFBmUGh1Y2k?oc=5",
+          "summary": "Thousands told to evacuate in British Columbia's wine region as wildfire grows Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-08T21:06:04.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7491e6dbeaf",
+          "title": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+          "titleZh": "US Senate advances landmark crypto bill before heading on August recess - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMVhmVXltaDhxQW1BeWtBZktQbmNhUGI1Y0s5X2xJSDVaSkZPLXZlckdUMWRoSmcwX0NvUmtERjBrc3dRc1lPQXMxZzVlVmFVMnpXMjEwTGZzaEs0anJPdzJ4UU9RMFRpVjFHMWJKekFNaThIZjA4cUZZMm85MVhfbGt2YlNKV2d3SHY5TGI5UjdXOWlocTdiQ1RqMUtQMXBDZHlzTUdTZDNGbW5yeWtwWl81TTZ0ZTNSeHNlTTdB?oc=5",
+          "summary": "US Senate advances landmark crypto bill before heading on August recess Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-08T20:24:41.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "17fc41648f73",
+          "title": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win - Reuters",
+          "titleZh": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOd2NUaFI0UHV6VzhMMlhKSnlmU2F3Y3kyMFdPNE95U1FzZVFBd3lmUU9RNWp4TzJNcWdqSVY4bDR0RlFWTTVUcnI2ajZVZ1JMTGZFbU1FVEFqRkdOb2M1ZmFFSzVIM0I4MjFYZTVDdnJkcjhZV19KSWhHb3RPbG5oZEJNbnNGUXVjZkRGb2k0LVJzdnF3bzZvMTBJUjVTczhfUjI5ZGtWMTFkWXFadks4?oc=5",
+          "summary": "Vollering snatches overall lead in Tour de France Femmes with dramatic stage eight win Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-08T22:00:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "b28dc13bfd58",
+          "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "titleZh": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
+          "url": "https://simonwillison.net/2026/Aug/8/auto-mode/#atom-everything",
+          "summary": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the defaul…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-08T22:36:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9088deb743b0",
+          "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "titleZh": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+          "url": "https://simonwillison.net/2026/Aug/8/now-we-have-a-timeline-of-the-openai-accidental-attack-against-h/#atom-everything",
+          "summary": "My comment on Now we have a timeline of the OpenAI accidental attack against Hugging Face &mdash; Hacker News. I think one of the most interesting details here might be tucked away…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-08T14:06:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "69444a400414",
+          "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "titleZh": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+          "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+          "summary": "Article URL: https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/ Comments URL: https://news.ycombinator.com/item?id=49224294 Points: 409 # Comments: 193",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-08T18:09:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a00bc5205d09",
+          "title": "Fastmail offers EU data region",
+          "titleZh": "Fastmail offers EU data region",
+          "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+          "summary": "Article URL: https://www.fastmail.com/blog/fastmail-offers-eu-data-region/ Comments URL: https://news.ycombinator.com/item?id=49223082 Points: 274 # Comments: 121",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-08T16:04:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7ee4e374d98b",
+          "title": "\"Code was never the hard part\" is an insult to all programmers",
+          "titleZh": "\"Code was never the hard part\" is an insult to all programmers",
+          "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+          "summary": "Article URL: https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers Comments URL: https://news.ycombinator.com/item?id=49222189 Points: 473 # Comments:…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-08T14:32:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b3553c0cd63c",
+          "title": "Amazon Is Creating the Biggest Pollution Source in the Country",
+          "titleZh": "Amazon Is Creating the Biggest Pollution Source in the Country",
+          "url": "https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country",
+          "summary": "Article URL: https://newrepublic.com/post/214111/amazon-data-center-biggest-pollution-source-entire-country Comments URL: https://news.ycombinator.com/item?id=49223845 Points: 170 …",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-08T17:27:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41eb3fc5a97b",
+          "title": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+          "titleZh": "X replaces its revenue-sharing program with ‘Original Content Rewards’",
+          "url": "https://www.theverge.com/tech/977143/x-revenue-sharing-original-content-rewards",
+          "summary": "X wants to make money on previously used handles. | Image: The Verge X is ending its controversial revenue-sharing program for content creators, which has seen numerous revisions u…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-08-08T21:15:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6d2f680441d7",
+          "title": "A domain can now say it is for sale, in DNS",
+          "titleZh": "A domain can now say it is for sale, in DNS",
+          "url": "https://specification.website/spec/foundations/for-sale-dns/",
+          "summary": "Article URL: https://specification.website/spec/foundations/for-sale-dns/ Comments URL: https://news.ycombinator.com/item?id=49221668 Points: 306 # Comments: 123",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-08T13:26:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://specification.website/spec/foundations/for-sale-dns/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "e0494689a8ed",
+          "title": "一人公司的狂欢里，赚钱的从来不是创始人",
+          "titleZh": "一人公司的狂欢里，赚钱的从来不是创始人",
+          "url": "https://www.huxiu.com/article/4881718.html?f=rss",
+          "summary": "本文来自微信公众号： 听风译码 ，作者：安申 截至2025年中，全国一人公司存量突破1600万家，占企业总量27.4%，90%活不过三年，30.8%从未产生任何营收，月收入中位数不足7000元。 与此同时，38座城市建成143个创业社区，算力补贴、免费工位、创业贷款全面铺开，一套AI创业课销售额超过600万。 这不是一个关于创业的故事，是一个关于谁在创业泡沫…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-08T22:51:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c3bac8a115f6",
+          "title": "没有AI聊天的童年，将成为富人孩子的特权？",
+          "titleZh": "没有AI聊天的童年，将成为富人孩子的特权？",
+          "url": "https://www.huxiu.com/article/4881717.html?f=rss",
+          "summary": "本文来自微信公众号： 不懂经 ，作者：不懂经也叔的Rust 阿加莎·克里斯蒂（Agatha Christie），推理小说女王，在一生卖出二十亿册书之后，晚年在自传里留下了一句话，后来被经济学家反复引用。她说，我从未想过自己有一天能富裕到买得起一辆车，也没想过会穷到连仆人都雇不起。 在她出生的1890年，汽车是顶级富豪才养得起的新鲜玩意儿。而人力，女仆、厨娘、…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-08T16:07:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b9699c511b3",
+          "title": "Senate passes stopgap to avert pre-election shutdown",
+          "titleZh": "Senate passes stopgap to avert pre-election shutdown",
+          "url": "https://www.axios.com/2026/08/08/senate-government-funding-shutdown-stopgap",
+          "summary": "The Senate passed a stopgap spending bill early Saturday that would keep the government funded through Dec. 11, moving Washington closer to avoiding another shutdown before the Nov…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-08T13:04:25.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b549460b9709",
+          "title": "Simplify: How to exponentially improve work, life",
+          "titleZh": "Simplify: How to exponentially improve work, life",
+          "url": "https://www.axios.com/2026/08/08/simplify-book-axios-smart-brevity",
+          "summary": "Nothing has improved my work and life more than my new operating philosophy: Simplify . I've seen such a dramatic improvement at Axios, and in my personal life, that I co-wrote a n…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-08T12:53:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a8a5405ad67d",
+          "title": "Suspected AI use is the entertainment industry's scarlet letter",
+          "titleZh": "Suspected AI use is the entertainment industry's scarlet letter",
+          "url": "https://www.axios.com/2026/08/08/generative-ai-accusations-hank-green-jerry-falade",
+          "summary": "The slightest hint of generative AI usage is fast becoming a kiss of death in creative circles. Why it matters: It's turning into a purity test that has the potential to blow up ca…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-08T10:00:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-08T23:00:39.680Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-08T23:00:39.680Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-08T23:00:39.680Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "7b220222f56b",
+          "title": "AI adoption isn’t the same as AI usage",
+          "titleZh": "AI adoption isn’t the same as AI usage",
+          "url": "https://thenewstack.io/ai-adoption-versus-usage/",
+          "summary": "Every engineering org I’ve talked to this year has some version of the same chart. Seat activations climbing. Token spend climbing. Somebody’s slide says 80% weekly active. Then yo…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-08T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ce755bbe197d",
+          "title": "Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it",
+          "titleZh": "Why your KubeVirt VMs can’t move between clusters — and how EVPN fixes it",
+          "url": "https://thenewstack.io/kubevirt-evpn-vm-migration/",
+          "summary": "Your team has moved VMs to Kubernetes with KubeVirt . The workloads are running. The team is gaining confidence. Then someone asks: can we live-migrate a VM to the other cluster? D…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-08T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "67a304bf4bf2",
+          "title": "Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers.",
+          "titleZh": "Five AI rivals just backed a shared plugin standard. Here’s why it matters for developers.",
+          "url": "https://thenewstack.io/agent-plugins-open-standard/",
+          "summary": "OpenAI , AWS , Cursor , GitHub and Microsoft have backed Agent Plugins 1.0.0, a portable package format for reusable components that extends AI agents. Agentic infrastructure compa…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-08T13:50:59.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ad3b8aa5ff7",
+          "title": "AI skills start on laptops. Enterprises inherit the mess.",
+          "titleZh": "AI skills start on laptops. Enterprises inherit the mess.",
+          "url": "https://thenewstack.io/speakeasy-enterprise-agent-skills/",
+          "summary": "&ldquo; It&rsquo;s unrealistic to expect an admin to have context over how every skill in a company should be optimally performing,&rdquo; Sagar Batchu , founder and CEO of Speakea…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-08T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "b28dc13bfd58",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 29,
+    "itemsPublished": 26,
+    "itemsFiltered": 3,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 45,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
