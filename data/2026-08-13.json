@@ -1,0 +1,1291 @@
+{
+  "date": "2026-08-13",
+  "generatedAt": "2026-08-12T23:19:41.774Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度等 11 个领域，全部读完约需 76 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "f3b5db1299a4",
+          "title": "Cerebras大跌！硬件营收意外下滑，“挑战英伟达”之路遇需求波动｜财报见闻",
+          "titleZh": "Cerebras大跌！硬件营收意外下滑，“挑战英伟达”之路遇需求波动｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779313",
+          "summary": "Cerebras Systems硬件销售意外下滑，暴露其芯片产品销售的不稳定性，但云计算业务的强劲增长在一定程度上缓冲了市场担忧。 Cerebras周三公布的2026年第二季度财报显示，公司GAAP营收同比增长74%至1.801亿美元。公司核心口径营收则达到2.1亿美元，同比增长103%。 二季度硬件收入为5410万美元，同比下降23%，而云计算及其他服务收…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T22:15:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e35749bccc64",
+          "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "titleZh": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "summary": "温和的通胀数据为市场提供了喘息空间，美股指涨跌不一，标普500指数逼近历史高位，纳斯达克100指数触及近一个月高点。与此同时，美联储加息预期明显降温，短端美债收益率下行。 7月核心CPI环比上涨0.2%，同比上涨2.5%，与预期吻合，创下2021年3月以来最慢涨速。 这一数据与上周疲软的非农就业报告形成组合，令市场对美联储9月加息的押注大幅收缩——货币市场目…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T21:47:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "66b63d9dc0ed",
+          "title": "光通信巨头Coherent业绩与指引全面超预期，称新财年需求异常强劲，盘后仍跳水｜财报见闻",
+          "titleZh": "光通信巨头Coherent业绩与指引全面超预期，称新财年需求异常强劲，盘后仍跳水｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779317",
+          "summary": "得益于AI数据中心需求激增，光模块和光通信供应商Coherent上一财季的业绩与本财季的指引均强于华尔街预期，股价盘后却大幅回落。 美东时间12日周三美股盘后，Coherent公布，截至2026年6月30日的公司第四财季，营收同比增长34%至20.5亿美元，较市场预期高约3%；调整后每股收益（EPS）同比增长74%至1.74美元，较分析师预期高逾7%。 盈利…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T21:13:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "313941215635",
+          "title": "思科上季营收创纪录，AI订单爆发、狂揽40亿，本财年指引更超预期｜财报见闻",
+          "titleZh": "思科上季营收创纪录，AI订单爆发、狂揽40亿，本财年指引更超预期｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779315",
+          "summary": "思科公布了比华尔街预期增长更迅猛的上一财季业绩和本财年指引。 美东时间12日周三美股盘后，思科公布，截至2026年7月25日的公司第四财季，营收同比增长18%至创单季纪录的173亿美元，较市场预期高将近3%；非GAAP口径下调整后每股收益（EPS）同比增长23%至1.22美元，较市场预期高逾4%；调整后营业利润同比增长23%至62亿美元，较市场预期高近6%，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T20:43:41.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7302b29821b",
+          "title": "AI交易不再齐涨齐跌：光学网络与数据中心领跑，内存与电力主题掉队",
+          "titleZh": "AI交易不再齐涨齐跌：光学网络与数据中心领跑，内存与电力主题掉队",
+          "url": "https://wallstreetcn.com/articles/3779309",
+          "summary": "高盛衍生品交易员警告，AI板块齐涨齐跌时代或已终结，市场进入更具选择性的主题分化阶段；与此同时，美联储预期从\"恐惧\"转向\"自满\"，令大盘指数风险回报趋于平淡。 高盛ETF及定制篮子波动率交易负责人Shawn Tuteja在最新市场评估报告中指出，AI交易的高度联动性正在瓦解。今年4月至6月的上涨行情与7月的抛售中，各AI子主题几乎同步运动，但过去两周已出现明…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T20:31:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "409271107ada",
+          "title": "大幅增持后被迫砍仓，AI“神童”折戟日股MLCC龙头太阳诱电",
+          "titleZh": "大幅增持后被迫砍仓，AI“神童”折戟日股MLCC龙头太阳诱电",
+          "url": "https://wallstreetcn.com/articles/3779311",
+          "summary": "一场押注日本MLCC龙头的豪赌，最终以被迫减仓收场。 当地时间周三，太阳诱电（Taiyo Yuden）股价大涨7.51%，领跑日经225指数成分股。 推动股价上涨的并非最新财报，而是一份姗姗来迟的大额持股报告：美国人工智能对冲基金“态势感知”（Situational Awareness）披露，基金此前曾大举买入太阳诱电，持股比例一度达到16.61%，随后又迅…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-12T20:30:26.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "2e5e79041326",
+          "title": "Scientists just created female clones of male mice",
+          "titleZh": "Scientists just created female clones of male mice",
+          "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+          "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cell…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-12T18:59:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "40e5e15b3af3",
+          "title": "Scaling AI agents with trustworthy data",
+          "titleZh": "Scaling AI agents with trustworthy data",
+          "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+          "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents , and few executives doubt the technology’s potent…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-12T16:51:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "12ff3c943f5a",
+          "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "titleZh": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+          "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+          "summary": "Back to Articles Computing embeddings in Studio What you can do with OlmoEarth embeddings Similarity search: Finding \"more like this\" Few-shot segmentation: Labeling the landscape …",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-08-12T16:14:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4d936f9408ac",
+          "title": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "titleZh": "Two hydrogen-burning engines powered this car to a new land speed record",
+          "url": "https://arstechnica.com/cars/2026/08/jcb-sets-a-new-406-mph-speed-record-for-hydrogen-powered-cars/",
+          "summary": "It's been far too long since I've been able to report a new land speed record. For a while, it looked like Bloodhound might have been able to make good on its 1,000 mph (1,609 km/h…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-12T17:01:11.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "08760b511661",
+          "title": "Terabytes of credentials leaked in massive supply-chain attack",
+          "titleZh": "Terabytes of credentials leaked in massive supply-chain attack",
+          "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack/",
+          "summary": "Terabytes worth of credentials, many belonging to the world’s biggest and most sensitive organizations, have been exposed in a supply-chain attack on LiteLLM, an open source tool t…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-12T21:43:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "17b164e21423",
+          "title": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "titleZh": "Have physicists finally discovered glueballs? New evidence points to yes.",
+          "url": "https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/",
+          "summary": "Physicists with the Beijing Spectrometer III (BES III) experiment have uncovered convincing new evidence of the existence of so-called glueballs , an elusive composite particle mad…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-12T21:13:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3c44baf032f4",
+          "title": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "titleZh": "Trump sued over \"brazen\" scheme to sell Truth Social API access for $100K a month",
+          "url": "https://arstechnica.com/tech-policy/2026/08/trump-sued-over-brazen-scheme-to-sell-truth-social-api-access-for-100k-a-month/",
+          "summary": "President Trump was sued by nonprofit news groups today over Truth Social's \"Truth API\" that sells real-time access to posts from Trump and other top users of the social network. T…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-12T20:20:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "40a7ade77e26",
+          "title": "I wrote an AI textbook — how long until AI can do it better?",
+          "titleZh": "I wrote an AI textbook — how long until AI can do it better?",
+          "url": "https://www.interconnects.ai/p/i-wrote-an-ai-textbook-how-long-until",
+          "summary": "There are a lot of criticisms of AI writing, but most of them are focused on more creative, high-voice writing like this blog. Those — including my own piece — often argue that it …",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-08-12T13:01:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "633b0e5bc69e",
+          "title": "Why House Dems may go easy on one of GOP's most vulnerable members",
+          "titleZh": "Why House Dems may go easy on one of GOP's most vulnerable members",
+          "url": "https://www.axios.com/2026/08/12/mike-lawler-2026-midterms-new-york-democrats",
+          "summary": "Rep. Mike Lawler 's (R-N.Y.) fight to hold on to a key battleground seat is getting a behind-the-scenes assist — for now, at least — from an unlikely group: House Democrats. Why it…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-12T22:18:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "235d81762444",
+          "title": "演唱会卖的不是音乐，是一代人的青春赎身券",
+          "titleZh": "演唱会卖的不是音乐，是一代人的青春赎身券",
+          "url": "https://www.huxiu.com/article/4882714.html?f=rss",
+          "summary": "本文来自微信公众号： 听风译码 ，作者：安申国 注：本文为深度完整版，为满足粉丝快速阅读的需求，现每篇文章发布时同时附带精华版，可回查公众号！ 2026年上半年，全国5000人以上的大型演出1300场，票房171.11亿元，观众2328万人次。 三个数字同步上涨，市场热度肉眼可见。 但真正值得注意的不是这些数字在涨，而是另一个数字没涨——台上歌手的平均出道年…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-12T22:05:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d2a20d65ae6e",
+          "title": "Karoline Leavitt stepping down as White House press secretary",
+          "titleZh": "Karoline Leavitt stepping down as White House press secretary",
+          "url": "https://www.axios.com/2026/08/12/trump-karoline-leavitt-white-house-press",
+          "summary": "Karoline Leavitt will be stepping down from her role as White House press secretary at the end of the month, President Trump announced Wednesday in a Truth Social post. The big pic…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-12T20:10:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c505074e6874",
+          "title": "ICE plans to put electric-shock gloves on officers' hands",
+          "titleZh": "ICE plans to put electric-shock gloves on officers' hands",
+          "url": "https://www.axios.com/2026/08/12/ice-electric-shock-gloves-millions",
+          "summary": "Immigration and Customs Enforcement plans to begin using electric shock gloves designed to cause pain and disrupt a person's ability to react. The big picture: The gloves could giv…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-12T17:54:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ae137a5b4fa",
+          "title": "Skill 不够了，Agent 需要拼“生产系统”",
+          "titleZh": "Skill 不够了，Agent 需要拼“生产系统”",
+          "url": "https://www.huxiu.com/article/4882713.html?f=rss",
+          "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹 最近常能听到一种说法：Skill要被Harness替代了。 Skill没有要退出。它解决的问题依然存在，而且会越来越重要：怎样把一个团队做事的方法、行业里的经验、某个岗位的流程，交给Agent，并且让它在合适的时候拿出来用。 真正被证明行不通的，是另一种更朴素的想法：把正确步骤写进一份Markdown，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-12T19:54:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-12T23:19:33.207Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-12T23:19:33.207Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-12T23:19:33.207Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "a0a52405cde7",
+          "title": "Revolutionizing Safety: Unveiling the Power of Safety Bubble Detectors in Robotics",
+          "titleZh": "Revolutionizing Safety: Unveiling the Power of Safety Bubble Detectors in Robotics",
+          "url": "https://www.eetimes.com/revolutionizing-safety-unveiling-the-power-of-safety-bubble-detectors-in-robotics/",
+          "summary": "This article will explain the architecture of real-time safety bubble detection that includes challenges for developing a modular solution, optimizing such a high data bandwidth ap…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-12T19:34:18.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f83c1e7f33d0",
+          "title": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
+          "titleZh": "Meta Cuts Server Count 25% by Reusing Old Memory: Can Anyone Else Do It?",
+          "url": "https://www.eetimes.com/meta-cuts-server-count-25-by-reusing-old-memory-can-anyone-else-do-it/",
+          "summary": "Meta is running compute express link (CXL)-based memory expansion across millions of servers, reusing DDR4 modules pulled from decommissioned machines rather than retiring them. Me…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-12T18:40:03.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "07975cdb8cbe",
+          "title": "Navigating GMSL: How Pixel and Tunnel Modes Enhance System Performance",
+          "titleZh": "Navigating GMSL: How Pixel and Tunnel Modes Enhance System Performance",
+          "url": "https://www.eetimes.com/navigating-gmsl-how-pixel-and-tunnel-modes-enhance-system-performance/",
+          "summary": "This article explores how GMSL technology transports high-speed CSI-2 video data and compares the advantages of pixel mode and tunnel mode in modern imaging systems. Learn how each…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-12T18:34:51.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "08e6ef914372",
+          "title": "BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration",
+          "titleZh": "BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration",
+          "url": "https://www.semiconductor-digest.com/bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration/?utm_source=rss&utm_medium=rss&utm_campaign=bbcube-a-novel-chip-on-wafer-technology-for-next-generation-ai-chip-integration",
+          "summary": "A new semiconductor integration platform developed at Institute of Science Tokyo combines advanced chip packaging with high-density interconnects and improved thermal management. T…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-12T21:28:40.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "44f5ec00468f",
+          "title": "US charges 11 over sham marriages involving Chinese nationals and American soldiers",
+          "titleZh": "US charges 11 over sham marriages involving Chinese nationals and American soldiers",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3363835/us-charges-11-over-sham-marriages-involving-chinese-nationals-and-american-soldiers?utm_source=rss_feed",
+          "summary": "US prosecutors have charged 11 people over an alleged decade-long network that arranged more than 1,000 sham marriages, primarily for Chinese nationals seeking green cards, includi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-12T22:59:40.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41423b1093d0",
+          "title": "China offers Colombia quake relief as new president’s US pivot leaves Beijing waiting",
+          "titleZh": "China offers Colombia quake relief as new president’s US pivot leaves Beijing waiting",
+          "url": "https://www.scmp.com/news/china/article/3363834/china-offers-colombia-quake-relief-new-presidents-us-pivot-leaves-beijing-waiting?utm_source=rss_feed",
+          "summary": "China said on Wednesday it would help Colombia recover from the magnitude 7.4 earthquake that struck the country’s west on Monday, killing more than 200 people. Foreign ministry sp…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-12T22:15:12.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "36821e9405fc",
+          "title": "Singapore and South Korea eye science opportunities as last main US-China link shatters",
+          "titleZh": "Singapore and South Korea eye science opportunities as last main US-China link shatters",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3363767/singapore-and-south-korea-eye-science-opportunities-last-main-us-china-link-shatters?utm_source=rss_feed",
+          "summary": "As President Xi Jinping prepares for summit talks with Donald Trump in Washington next month, the United States is closing one of the few remaining openings between the two countri…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-12T22:00:15.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a6390e17bd69",
+          "title": "US sets up task force to combat birth tourism, revokes more than 600 visas",
+          "titleZh": "US sets up task force to combat birth tourism, revokes more than 600 visas",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3363833/us-sets-task-force-combat-birth-tourism-revokes-more-600-visas?utm_source=rss_feed",
+          "summary": "The Trump administration announced on Wednesday the establishment of a task force to end birth tourism in the latest push to curtail the practice after the Supreme Court recently r…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-12T21:30:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "ff27f2983ce5",
+          "title": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
+          "titleZh": "Analysis: Weaker EV targets could cost UK consumers £3bn a year by 2030",
+          "url": "https://www.carbonbrief.org/analysis-weaker-ev-targets-could-cost-uk-consumers-3bn-a-year-by-2030",
+          "summary": "Print article Share An upcoming UK government consultation on weakening targets for electric vehicles (EVs) could cost consumers as much as £3bn a year by 2030, according to Carbon…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-08-12T14:50:39.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e6faf5cd4f3a",
+          "title": "Texas hits new peak demand record, but supply constraints will limit growth",
+          "titleZh": "Texas hits new peak demand record, but supply constraints will limit growth",
+          "url": "https://www.utilitydive.com/news/supply-constraints-will-limit-ercot-peak-demand-growth-report/827677/",
+          "summary": "Ascend Analytics says more than 80% of new large loads seeking interconnection will not have matching generation online by 2030, even as data centers and industrial demand continue…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-12T17:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0d04c10f2557",
+          "title": "Xcel asks Colorado Supreme Court to facilitate wind farm interconnection",
+          "titleZh": "Xcel asks Colorado Supreme Court to facilitate wind farm interconnection",
+          "url": "https://www.utilitydive.com/news/xcel-asks-colorado-supreme-court-to-facilitate-wind-farm-interconnection/827572/",
+          "summary": "In June, a district court judge rejected PSCo’s effort to acquire roughly 550 feet of easement via eminent domain to connect two nearly complete wind farms totaling more than 1 GW.…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-12T15:02:23.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "70d1f86909a6",
+          "title": "GitHub availability report: July 2026",
+          "titleZh": "GitHub availability report: July 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+          "summary": "The GitHub Actions incident on Thursday, August 6, was unacceptable in both its impact and particularity of its duration. Availability continues to be our top priority across all o…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-12T22:17:32.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "854bfeeaa78d",
+          "title": "Write your first prompt with the GitHub Copilot app",
+          "titleZh": "Write your first prompt with the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+          "summary": "Opening a new AI tool can feel a little like staring at a blank page. You know you want help with something, but figuring out exactly what to ask can be its own task. The good news…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-12T19:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "12465fc11430",
+          "title": "Your contributors are AI-first now. Is your project?",
+          "titleZh": "Your contributors are AI-first now. Is your project?",
+          "url": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+          "summary": "The same question keeps coming up in maintainer conversations: what do you do when the pull request queue fills with work written by agents? It&rsquo;s something Nicholas Tindle, f…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-12T18:00:08.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3142df5946f3",
+          "title": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
+          "titleZh": "“Issue tracking is dead”; How the pull request became the last chokepoint in the SDLC bottleneck",
+          "url": "https://thenewstack.io/coderabbit-agentic-change-management-review/",
+          "summary": "AI code review specialist CodeRabbit announced its Agentic Change Management control layer on Wednesday. The service is intended to help software engineering teams understand, gove…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-12T22:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "711fbc298e3b",
+          "title": "When Chain-of-Thought Helps and When It Hurts: An Empirical Investigation of the Serial-Depth Bottleneck in LLM Reasoning",
+          "titleZh": "When Chain-of-Thought Helps and When It Hurts: An Empirical Investigation of the Serial-Depth Bottleneck in LLM Reasoning",
+          "url": "https://arxiv.org/abs/2608.09942",
+          "summary": "arXiv:2608.09942v1 Announce Type: cross Abstract: It is widely assumed that chain-of-thought (CoT) prompting universally improves LLM reasoning. We investigate this through the con…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-12T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.09942"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.09942"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fe94550b5526",
+          "title": "Procedural Fairness Failures in RLHF from Preference Averaging",
+          "titleZh": "Procedural Fairness Failures in RLHF from Preference Averaging",
+          "url": "https://arxiv.org/abs/2608.10126",
+          "summary": "arXiv:2608.10126v1 Announce Type: cross Abstract: Reinforcement Learning from Human Feedback (RLHF) aggregates heterogeneous preferences into a single reward model, assuming prefer…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-12T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.10126"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.10126"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "63f1251cd961",
+          "title": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
+          "titleZh": "Hyperliquid treasury Hyperion triples quarterly profits as HYPE holdings rise in value",
+          "url": "https://www.theblock.co/news/markets/2026-08-12-hyperliquid-treasury-hyperion-triples-quarterly-profits-as-hype-holdings-rise-in-value-411652",
+          "summary": "The company's HYPE holdings increased to $133 million during the second quarter, up from $71 million at the end of Q1.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-12T21:19:33.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b962778a5f62",
+          "title": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+          "titleZh": "SEC clears Franklin Templeton funds to use onchain BENJI system for cash management",
+          "url": "https://www.theblock.co/news/defi/2026-08-12-sec-clears-franklin-templeton-funds-use-onchain-benji-system-cash-management-411654",
+          "summary": "Franklin Templeton received a no-action letter from the SEC enabling its traditional registered funds to invest in its BENJI/FOBXX fund.",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-08-12T21:04:46.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 41,
+    "itemsFiltered": 1,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 75,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
