@@ -1,0 +1,1283 @@
+{
+  "date": "2026-08-15",
+  "generatedAt": "2026-08-14T22:53:56.355Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "db35dfd92fe2",
+        "reason": "Interconnects，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "7d9911fa94b3",
+          "title": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "titleZh": "阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股",
+          "url": "https://wallstreetcn.com/articles/3779490",
+          "summary": "“股神”巴菲特卸任CEO后的第二个季度，伯克希尔·哈撒韦的投资组合继续发生明显变化。 据美东时间14日周五披露的递交美国证监会（SEC）13F文件，格雷格·阿贝尔正式掌舵后的二季度，伯克希尔大举增持谷歌母公司Alphabet，两类股票合计增持约4810万股、市值合计新增超过170亿美元；其中Alphabet A类股（GOOGL）持仓增加约2450万股，增幅超…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T22:21:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "434dd24f29d9",
+          "title": "AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟",
+          "titleZh": "AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟",
+          "url": "https://wallstreetcn.com/articles/3779486",
+          "summary": "AI芯片融资模式正在从“利好需求”转向“信用风险”叙事，英伟达劲敌博通遭遇明显抛压。 8月14日周五，博通（AVGO）股价低开低走，午盘刷新日低时，日内跌约7%，收盘跌逾5.9%。媒体指出，投资者正重新审视AI基础设施融资快速扩张所带来的信用风险，博通此前推出的AI XPV融资平台成为市场关注焦点。 此次抛售并非源于博通最新业绩突然恶化，而更多反映市场对其A…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T21:21:45.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "557598bb6d49",
+          "title": "美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定",
+          "titleZh": "美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定",
+          "url": "https://wallstreetcn.com/articles/3779492",
+          "summary": "芝加哥联邦储备银行行长Austan Goolsbee表示，近期通胀数据令人鼓舞，但他希望看到更多持续降温的证据，才能确认通胀正稳步回归美联储2%的目标。 Goolsbee周五表示，今夏消费者价格指数（CPI）的读数令他感到乐观，显示关税冲击和能源价格上涨等一系列价格扰动因素正在逐步消化。 \"过去三个月的数据让我感到鼓舞，如果我们能连续看到三四个月类似6月份的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T22:41:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "662d91809979",
+          "title": "SK集团“天价离婚案”再起波澜，董事长崔泰源就6.43亿美元判决提起上诉",
+          "titleZh": "SK集团“天价离婚案”再起波澜，董事长崔泰源就6.43亿美元判决提起上诉",
+          "url": "https://wallstreetcn.com/articles/3779491",
+          "summary": "SK集团亿万富豪董事长崔泰源（Chey Tae-won）已就法院要求其在离婚财产分割中向前妻支付9440亿韩元（约合6.43亿美元）的判决提起上诉。 崔泰源的法律团队周五表示： “经过慎重审议并考虑各种情况，崔泰源董事长已向韩国最高法院提起上诉。将继续推进后续法律程序，目标是将对股东以及集团经营造成的任何负面影响降至最低。” 此前，首尔高等法院于7月24日判…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T22:40:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1736a3e5849e",
+          "title": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+          "titleZh": "老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持",
+          "url": "https://wallstreetcn.com/articles/3779485",
+          "summary": "最新提交美国证监会（SEC）的文件显示，今年第二季度，华尔街知名成长型对冲基金老虎环球管理公司（Tiger Global Management）大幅调整美股持仓：一边减持此前重仓的科技巨头和AI热门股，一边将资金转向AI芯片“二线选手”、存储芯片和支付等领域。 老虎环球于8月14日周五提交的13F文件披露，截至6月30日，其股票持仓总市值约239.82亿美元…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T19:51:53.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2427b5eafa0b",
+          "title": "软银Q2猛砍逾七成台积电持仓，套现2.7亿美元，AI硬件押注再调整",
+          "titleZh": "软银Q2猛砍逾七成台积电持仓，套现2.7亿美元，AI硬件押注再调整",
+          "url": "https://wallstreetcn.com/articles/3779484",
+          "summary": "软银正在进一步调整其AI投资版图。 递交美国证监会（SEC）的最新13F文件显示，软银集团在截至6月30日的2026年第二季度大幅减持台积电（TSM）美股持仓，减持幅度超过七成，套现约2.7亿美元。与此同时，软银新建仓美国信用卡巨头Capital One，并买入家庭安全App Life360的少量股份，显示其投资组合正在继续向不同AI及科技资产重新配置。 值…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-14T19:51:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "db35dfd92fe2",
+          "title": "GLM-5.3: How Chinese labs keep stride with the frontier",
+          "titleZh": "GLM-5.3: How Chinese labs keep stride with the frontier",
+          "url": "https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride",
+          "summary": "Housekeeping: I’m traveling so cannot make a voiceover for this post. EDIT — I added a bullet point 5 on the Chinese data industry after sending the email out. Today, Z.ai announce…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-08-14T21:23:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d1d3ca9e8ed4",
+          "title": "Don't classify. Hallucinate!",
+          "titleZh": "Don't classify. Hallucinate!",
+          "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/",
+          "summary": "Don&#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-14T21:54:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b7937cc9dc2d",
+          "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "titleZh": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+          "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+          "summary": "A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-14T17:26:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6e05b3c37a5f",
+          "title": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "titleZh": "State judge orders Kalshi to stop offering sports bets and other wagers",
+          "url": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
+          "summary": "A state court in Washington this week ordered Kalshi to stop offering sports gambling and a variety of other wagers on its prediction market. King County Superior Court Judge John …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-14T17:13:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "255d1755b678",
+          "title": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+          "titleZh": "Judge gives Google one week to fix \"anticompetitive\" app store download in Google Play",
+          "url": "https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/",
+          "summary": "Google began offering third-party app store downloads in the Play Store earlier this week, but US District Judge James Donato says the company isn't doing enough. After reviewing t…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-14T15:46:40.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c91bcfbc92dc",
+          "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "titleZh": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
+          "url": "https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/",
+          "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-14T12:17:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "09002e896391",
+          "title": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "titleZh": "Vulnerability giving attackers full control of Macs is under active exploitation",
+          "url": "https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/",
+          "summary": "Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation. “The NCSC has received a notifica…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-14T18:32:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3d7908dbba3a",
+          "title": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "titleZh": "First test flight of largest all-electric aircraft used just $5 of electricity",
+          "url": "https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/",
+          "summary": "The first flight of the largest battery-electric aircraft to take to the skies lasted nearly half an hour while costing just $5 of electricity. That aviation feat comes at a time w…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-14T18:00:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "8ca462bc0d85",
+          "title": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+          "titleZh": "Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln",
+          "url": "https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east",
+          "summary": "President Trump said Friday that he isn't concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for thos…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-14T20:19:31.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2f7c2de9eaf2",
+          "title": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+          "titleZh": "Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him",
+          "url": "https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case",
+          "summary": "Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it ma…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-14T19:15:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0df3b1e0946",
+          "title": "Americans' wanderlust hits new heights",
+          "titleZh": "Americans' wanderlust hits new heights",
+          "url": "https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom",
+          "summary": "Data: International Trade Administration ; Chart: Sara Wise/Axios Even as U.S. policy has walled off Washington, D.C., from friends across the pond, Americans' travel overseas is r…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-14T17:30:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bd6dd3353b2f",
+          "title": "Dorm rooms are tiny. The dorm decor economy is not.",
+          "titleZh": "Dorm rooms are tiny. The dorm decor economy is not.",
+          "url": "https://www.axios.com/2026/08/14/college-dorm-decor-economy",
+          "summary": "Dorm rooms are tiny. The dorm decor economy is not. The big picture: College dorms are becoming customized, social-media-ready micro-apartments, but the market looks wildly differe…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-14T17:15:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e1b8b1d40a29",
+          "title": "Retail sales slump in July",
+          "titleZh": "Retail sales slump in July",
+          "url": "https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup",
+          "summary": "Data: Census Bureau ; Chart: Neil Irwin/Axios American consumers have powered the economy forward this year. In July, they took a breather. Why it matters: While the underlying tre…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-14T16:15:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-14T22:53:48.180Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-14T22:53:48.180Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-14T22:53:48.180Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "93eb9e3aa5e0",
+          "title": "TIER IV Joins JST’s Next-Generation Edge AI Semiconductor R&D Program",
+          "titleZh": "TIER IV Joins JST’s Next-Generation Edge AI Semiconductor R&D Program",
+          "url": "https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/?utm_source=rss&utm_medium=rss&utm_campaign=tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program",
+          "summary": "TIER IV , the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-14T19:19:26.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bc4d214cc8ec",
+          "title": "Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor",
+          "titleZh": "Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor",
+          "url": "https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor",
+          "summary": "For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-14T19:14:05.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8a472ba7966f",
+          "title": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
+          "titleZh": "An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS",
+          "url": "https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/",
+          "summary": "Available Exclusively On-Demand This webinar targets engineering and verification teams looking to accelerate System on Chip (SoC) hardware/software validation through FPGA prototy…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-14T15:22:50.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "c3eaaee99ec9",
+          "title": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
+          "titleZh": "Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed",
+          "summary": "Venezuelan interim President Delcy Rodriguez’s tribute to Fidel Castro has drawn a blistering rebuke from US Secretary of State Marco Rubio, highlighting the political tensions sur…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-14T22:45:52.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1b0e931781dd",
+          "title": "Chinese drone maker DJI gets another shot at Pentagon blacklist removal",
+          "titleZh": "Chinese drone maker DJI gets another shot at Pentagon blacklist removal",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed",
+          "summary": "A US appeal court on Friday gave Chinese drone maker DJI another chance to challenge its inclusion on a Pentagon blacklist of companies allegedly linked to the Chinese military. DJ…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-14T20:23:55.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "c732f0904ae2",
+          "title": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
+          "titleZh": "Q&A: What does China’s 15th five-year plan for coal mean for climate action?",
+          "url": "https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action",
+          "summary": "Print article Share China has published a new five-year plan for coal, the latest in a slew of important policy documents for the country’s energy transition. The 15th five-year pl…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-08-14T14:09:31.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "de9f57c6b927",
+          "title": "Data centers are officially shaping election season",
+          "titleZh": "Data centers are officially shaping election season",
+          "url": "https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The data center elections are officially upon us. Public frustration wi…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-14T16:20:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "093f85a974cd",
+          "title": "Quantum computing is coming fast. Are utilities ready?",
+          "titleZh": "Quantum computing is coming fast. Are utilities ready?",
+          "url": "https://www.utilitydive.com/news/quantum-computing-utilities-duke-epri-schneider/827241/",
+          "summary": "“The load profile is different from anything utilities have planned for before,” said Aparna Prabhakar, chief strategy and sustainability officer, energy management, for Schneider …",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-14T14:45:02.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "b0d097349ae8",
+          "title": "Surprising uniqueness of Puerto Rico’s trees could make them more resistant to drought",
+          "titleZh": "Surprising uniqueness of Puerto Rico’s trees could make them more resistant to drought",
+          "url": "https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought",
+          "summary": "Two trees from the same species can vary in how they transport and manage water, improving specieswide drought resilience",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-14T09:00:18.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b47f987a156d",
+          "title": "Slavery linked to mortality gap between Black and white Americans today",
+          "titleZh": "Slavery linked to mortality gap between Black and white Americans today",
+          "url": "https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today",
+          "summary": "New study is among the first to quantify and explain slavery’s influence in contemporary U.S. health disparities",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-14T05:25:30.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "87ef4eb5a43c",
+          "title": "How to bring your software delivery workflow into GitHub with agent apps",
+          "titleZh": "How to bring your software delivery workflow into GitHub with agent apps",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+          "summary": "How many tabs do you have open alongside your pull request? Imagine picking up a new issue in your product&rsquo;s free-trial onboarding flow: make the &ldquo;invite your teammates…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-14T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bde7ca16b66b",
+          "title": "Apple’s new AI split means your iOS app could behave differently in China",
+          "titleZh": "Apple’s new AI split means your iOS app could behave differently in China",
+          "url": "https://thenewstack.io/apple-china-ai-model/",
+          "summary": "Apple is splitting up its AI stack. Instead of rolling out the same system worldwide, the company reportedly built a China-only model with help from Alibaba to navigate the country…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-14T19:21:28.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "abed17488928",
+          "title": "Alibaba’s new model promises Opus 4.6-level performance on your laptop",
+          "titleZh": "Alibaba’s new model promises Opus 4.6-level performance on your laptop",
+          "url": "https://thenewstack.io/qwen38-27b-local-inference/",
+          "summary": "Alibaba recently made the open weights of its 2.4 trillion parameter Qwen3.8 model available . That’s a massive model, and its benchmarks put it in direct competition with closed f…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-14T18:10:58.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c994d802f7bc",
+          "title": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
+          "titleZh": "GLM-5.3 didn’t change the base model — where did its coding gains come from?",
+          "url": "https://thenewstack.io/glm-5-3-post-training-coding/",
+          "summary": "Z.ai released GLM-5.3 on Friday, a coding and agent model built from the same base model as GLM-5.2. Developers can already use GLM-5.3 through Z.ai&rsquo;s GLM Coding Plan with Cl…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-14T15:20:24.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "3d7cdf595009",
+          "title": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+          "titleZh": "SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries",
+          "url": "https://arxiv.org/abs/2608.12654",
+          "summary": "arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steerin…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-14T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.12654"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.12654"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7094a6189462",
+          "title": "Comparative Analysis of Multilingual Pre-trained Models for Nepali Automatic Speech Recognition",
+          "titleZh": "Comparative Analysis of Multilingual Pre-trained Models for Nepali Automatic Speech Recognition",
+          "url": "https://arxiv.org/abs/2608.12327",
+          "summary": "arXiv:2608.12327v1 Announce Type: cross Abstract: Multilingual pretrained models nominally support Nepali, yet no controlled benchmark has compared them under a single fine-tuning …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-14T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.12327"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.12327"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a32a8afd3e53",
+          "title": "EU-ETS under attack? The impact of carbon price suppression on the decarbonization of the power sector",
+          "titleZh": "EU-ETS under attack? The impact of carbon price suppression on the decarbonization of the power sector",
+          "url": "https://arxiv.org/abs/2608.12363",
+          "summary": "arXiv:2608.12363v1 Announce Type: cross Abstract: European countries are debating policies to mitigate the increased energy costs caused by renewed geopolitical tensions, while pur…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-14T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.12363"
+            },
+            {
+              "sourceName": "arXiv econ.GN",
+              "url": "https://arxiv.org/abs/2608.12363"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "028ffaf9d1c9",
+          "title": "From Observation to Intervention: Memory in Brains and Large Language Models",
+          "titleZh": "From Observation to Intervention: Memory in Brains and Large Language Models",
+          "url": "https://arxiv.org/abs/2608.12377",
+          "summary": "arXiv:2608.12377v1 Announce Type: cross Abstract: Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functi…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-14T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.12377"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2608.12377"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "db35dfd92fe2",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 40,
+    "itemsFiltered": 2,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 64,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

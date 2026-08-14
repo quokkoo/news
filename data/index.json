@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-13T23:21:50.707Z",
+  "updatedAt": "2026-08-14T22:53:56.386Z",
   "days": [
+    {
+      "date": "2026-08-15",
+      "itemCount": 40,
+      "topPickTitles": [
+        "GLM-5.3: How Chinese labs keep stride with the frontier",
+        "Superlinear Returns",
+        "How to Do Great Work"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-08-14",
       "itemCount": 40,
