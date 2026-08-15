@@ -6,209 +6,209 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 14 Aug 2026 22:53:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 22:52:42 GMT</lastBuildDate>
     <item>
-      <title>【2026-08-15 今日导读】</title>
+      <title>【2026-08-16 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-08-15</guid>
-      <pubDate>Fri, 14 Aug 2026 22:53:56 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 12 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-08-16</guid>
+      <pubDate>Sat, 15 Aug 2026 22:52:42 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 深度长文与思考、前沿科技与 AI 产业、地缘政治与政策监管、商业模式与行业深度等 8 个领域，全部读完约需 51 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>阿贝尔掌舵半年伯克希尔大举增持谷歌、A类股晋升前五重仓，Q2加码航空和房产股</title>
-      <link>https://wallstreetcn.com/articles/3779490</link>
-      <guid isPermaLink="false">7d9911fa94b3</guid>
-      <pubDate>Fri, 14 Aug 2026 22:21:27 GMT</pubDate>
+      <title>最优“AI泡沫交易”：同时做多“傲慢”与“偏见”</title>
+      <link>https://wallstreetcn.com/articles/3779514</link>
+      <guid isPermaLink="false">3e298c4b2494</guid>
+      <pubDate>Sat, 15 Aug 2026 11:58:24 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>“股神”巴菲特卸任CEO后的第二个季度，伯克希尔·哈撒韦的投资组合继续发生明显变化。 据美东时间14日周五披露的递交美国证监会（SEC）13F文件，格雷格·阿贝尔正式掌舵后的二季度，伯克希尔大举增持谷歌母公司Alphabet，两类股票合计增持约4810万股、市值合计新增超过170亿美元；其中Alphabet A类股（GOOGL）持仓增加约2450万股，增幅超…
+      <description>当前AI泡沫环境下的最优投资策略，是同时做多&quot;傲慢&quot;（AI科技龙头）与&quot;偏见&quot;（被市场冷落的失意资产），以此捕捉名义GDP泡沫最后冲顶阶段的双向收益。 据追风交易台消息，美银证券首席策略师Michael Hartnett在最新研报中表示，美银牛熊指标从9.7小幅回落至9.3，仍处于极端看多区间，继续维持&quot;卖出&quot;信号。与此同时，过去一周资金呈现结构性分化：科技…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>AI融资担忧发酵，博通盘中重挫7%，3700亿潜在风险响警钟</title>
-      <link>https://wallstreetcn.com/articles/3779486</link>
-      <guid isPermaLink="false">434dd24f29d9</guid>
-      <pubDate>Fri, 14 Aug 2026 21:21:45 GMT</pubDate>
+      <title>博通一夜跌6%：AI的下一道坎，是融资成本</title>
+      <link>https://wallstreetcn.com/articles/3779512</link>
+      <guid isPermaLink="false">bb8265d7e13f</guid>
+      <pubDate>Sat, 15 Aug 2026 09:31:10 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>AI芯片融资模式正在从“利好需求”转向“信用风险”叙事，英伟达劲敌博通遭遇明显抛压。 8月14日周五，博通（AVGO）股价低开低走，午盘刷新日低时，日内跌约7%，收盘跌逾5.9%。媒体指出，投资者正重新审视AI基础设施融资快速扩张所带来的信用风险，博通此前推出的AI XPV融资平台成为市场关注焦点。 此次抛售并非源于博通最新业绩突然恶化，而更多反映市场对其A…
+      <description>8 月 14 日，博通股价收于 393.08 美元，单日下跌 5.92%，市值蒸发约 1180 亿美元，盘中一度跌至 388.5 美元。 触发下跌的，是美银分析师汤姆·库尔库鲁托的一份信用报告。报告测算，博通为 AI 芯片客户搭建的融资平台，若按计划扩张至 20 吉瓦规模，到 2029 年年中，其承担的担保敞口可能达到 3700 亿美元。 在投资者眼中，37…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>美联储Goolsbee：希望看到更多通胀降温证据，就业与经济增长稳定</title>
-      <link>https://wallstreetcn.com/articles/3779492</link>
-      <guid isPermaLink="false">557598bb6d49</guid>
-      <pubDate>Fri, 14 Aug 2026 22:41:12 GMT</pubDate>
+      <title>a16z史上最大投资！All in Uber创始人，下注工业AI“从比特到原子”</title>
+      <link>https://wallstreetcn.com/articles/3779510</link>
+      <guid isPermaLink="false">7028f5d93a2f</guid>
+      <pubDate>Sat, 15 Aug 2026 08:08:00 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>芝加哥联邦储备银行行长Austan Goolsbee表示，近期通胀数据令人鼓舞，但他希望看到更多持续降温的证据，才能确认通胀正稳步回归美联储2%的目标。 Goolsbee周五表示，今夏消费者价格指数（CPI）的读数令他感到乐观，显示关税冲击和能源价格上涨等一系列价格扰动因素正在逐步消化。 &quot;过去三个月的数据让我感到鼓舞，如果我们能连续看到三四个月类似6月份的…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>SK集团“天价离婚案”再起波澜，董事长崔泰源就6.43亿美元判决提起上诉</title>
-      <link>https://wallstreetcn.com/articles/3779491</link>
-      <guid isPermaLink="false">662d91809979</guid>
-      <pubDate>Fri, 14 Aug 2026 22:40:38 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>SK集团亿万富豪董事长崔泰源（Chey Tae-won）已就法院要求其在离婚财产分割中向前妻支付9440亿韩元（约合6.43亿美元）的判决提起上诉。 崔泰源的法律团队周五表示： “经过慎重审议并考虑各种情况，崔泰源董事长已向韩国最高法院提起上诉。将继续推进后续法律程序，目标是将对股东以及集团经营造成的任何负面影响降至最低。” 此前，首尔高等法院于7月24日判…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>老虎环球Q2押注AI“二线选手”：新进Cerebras和AMD，增持英特尔，十大重仓股全线减持</title>
-      <link>https://wallstreetcn.com/articles/3779485</link>
-      <guid isPermaLink="false">1736a3e5849e</guid>
-      <pubDate>Fri, 14 Aug 2026 19:51:53 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>最新提交美国证监会（SEC）的文件显示，今年第二季度，华尔街知名成长型对冲基金老虎环球管理公司（Tiger Global Management）大幅调整美股持仓：一边减持此前重仓的科技巨头和AI热门股，一边将资金转向AI芯片“二线选手”、存储芯片和支付等领域。 老虎环球于8月14日周五提交的13F文件披露，截至6月30日，其股票持仓总市值约239.82亿美元…
+      <description>Uber联合创始人Travis Kalanick沉寂八年后，携全新公司Atoms高调亮相，并拿下a16z联合创始人Ben Horowitz迄今写出的最大一张支票。这笔投资押注的核心逻辑是：AI正在从数字世界大步迈向物理世界，食品、矿业、制造业等传统产业将迎来一场堪比第二次工业革命的颠覆。 在Atoms发布会上，Kalanick与Horowitz展开公开对话，…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>软银Q2猛砍逾七成台积电持仓，套现2.7亿美元，AI硬件押注再调整</title>
-      <link>https://wallstreetcn.com/articles/3779484</link>
-      <guid isPermaLink="false">2427b5eafa0b</guid>
-      <pubDate>Fri, 14 Aug 2026 19:51:25 GMT</pubDate>
+      <title>Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5</link>
+      <guid isPermaLink="false">be416b75d253</guid>
+      <pubDate>Sat, 15 Aug 2026 20:16:56 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>软银正在进一步调整其AI投资版图。 递交美国证监会（SEC）的最新13F文件显示，软银集团在截至6月30日的2026年第二季度大幅减持台积电（TSM）美股持仓，减持幅度超过七成，套现约2.7亿美元。与此同时，软银新建仓美国信用卡巨头Capital One，并买入家庭安全App Life360的少量股份，显示其投资组合正在继续向不同AI及科技资产重新配置。 值…
+      <description>Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says Reuters
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>GLM-5.3: How Chinese labs keep stride with the frontier</title>
-      <link>https://www.interconnects.ai/p/glm-53-how-chinese-labs-keep-stride</link>
-      <guid isPermaLink="false">db35dfd92fe2</guid>
-      <pubDate>Fri, 14 Aug 2026 21:23:35 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Housekeeping: I’m traveling so cannot make a voiceover for this post. EDIT — I added a bullet point 5 on the Chinese data industry after sending the email out. Today, Z.ai announce…
+      <title>EU sends aircraft, villages evacuated as Belgium fights record wildfire​​ - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUVlJUzBhcmdocU1lR3phY3JlcHpNb3hhWGdKcmJtSHA5MUhzN1ZXc2JpZll6OV9wWkJLNGhzWXRyVlVsdkJmU0ZlZTlpMTRNbWliSVJJdXA3MUtmUWFiV0ZSTEROa1VpT3FTWG04T21TWUkydjNyNEx0SWZwVGROUzhUaWxQNWQ4YnczQmNhUTdhQzBvX2UtT0dOY0lDLS1vMk1TMlNGZ2I?oc=5</link>
+      <guid isPermaLink="false">f8d289498d81</guid>
+      <pubDate>Sat, 15 Aug 2026 20:21:11 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>EU sends aircraft, villages evacuated as Belgium fights record wildfire​​ Reuters
 
-来源：Interconnects · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Don&apos;t classify. Hallucinate!</title>
-      <link>https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate/</link>
-      <guid isPermaLink="false">d1d3ca9e8ed4</guid>
-      <pubDate>Fri, 14 Aug 2026 21:54:35 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Don&amp;#x27;t classify. Hallucinate! I still have quite a bit of older content on my blog that I never got round to tagging. My blog has 1,856 tags - likely too many to feed to an LLM…
+      <title>Hopes fade in Colombia as more bodies recovered days after powerful quake - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTVVtWHRQWDU1UXU5RHBDM2hOaG1YcVdpMHIyTGtFbnJtQi13c09KUnFlUlRzaDZLSldMZF91NnhFTmhjTERDaXduYktlSTZ0V0h2N2R0M0VoSzBfNjdGcmJCUkhLX01aRkUyRDA5dFZVZWkxazhMT3dNTUs2T1JLX3dCY25KdVlJRjFQTThiV0JNR2VXVEZ5VFh3cGloSnI0SlpEZXVFWXFtblRaXy1CZ18tanp0akpGNGRLQXZ4a09DUQ?oc=5</link>
+      <guid isPermaLink="false">63ae4a62cecd</guid>
+      <pubDate>Sat, 15 Aug 2026 21:34:27 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>Hopes fade in Colombia as more bodies recovered days after powerful quake Reuters
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Suspecting court of using AI, man injected prompts in filings to try to win case</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/</link>
-      <guid isPermaLink="false">b7937cc9dc2d</guid>
-      <pubDate>Fri, 14 Aug 2026 17:26:53 GMT</pubDate>
+      <title>React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue</title>
+      <link>https://www.latent.space/p/flue-2</link>
+      <guid isPermaLink="false">e6f3c9340ec1</guid>
+      <pubDate>Sat, 15 Aug 2026 15:46:22 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>A judge has identified what appears to be the first time a US plaintiff has attempted to hide text in court filings that only an artificial intelligence system can read in a bid to…
+      <description>Agent frameworks for developers are still at an early stage, with the likes of Vercel’s eve and Fred Schott’s Flue — both launched this year — setting the early template. Schott is…
+
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>VisionQuest trailer kicks off Disney&apos;s D23 fan event</title>
+      <link>https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/</link>
+      <guid isPermaLink="false">5971b34ea30e</guid>
+      <pubDate>Sat, 15 Aug 2026 21:21:27 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>It was a busy first day at D23: The Ultimate Disney Fan Event, in Anaheim, California, with Marvel Studios releasing the first trailer for VisionQuest . We also got the first tease…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>State judge orders Kalshi to stop offering sports bets and other wagers</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/</link>
-      <guid isPermaLink="false">6e05b3c37a5f</guid>
-      <pubDate>Fri, 14 Aug 2026 17:13:14 GMT</pubDate>
+      <title>AI has access to a vastly larger working memory than the human brain</title>
+      <link>https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians</link>
+      <guid isPermaLink="false">5b89fe60d338</guid>
+      <pubDate>Sat, 15 Aug 2026 18:13:02 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>A state court in Washington this week ordered Kalshi to stop offering sports gambling and a variety of other wagers on its prediction market. King County Superior Court Judge John …
+      <description>Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 344 # Comments: 300
+
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Ukraine strikes major Russian rocket factory with cruise missiles</title>
+      <link>https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/</link>
+      <guid isPermaLink="false">7a2b0735a548</guid>
+      <pubDate>Sat, 15 Aug 2026 15:46:05 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Ukrainian President Volodymyr Zelenskyy confirmed on Saturday that his country struck the Progress Rocket Space Center deep within Russia using ground-launched cruise missiles. &quot;In…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Judge gives Google one week to fix &quot;anticompetitive&quot; app store download in Google Play</title>
-      <link>https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores/</link>
-      <guid isPermaLink="false">255d1755b678</guid>
-      <pubDate>Fri, 14 Aug 2026 15:46:40 GMT</pubDate>
+      <title>Semaglutide linked to lower predicted dementia risk</title>
+      <link>https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432</link>
+      <guid isPermaLink="false">4ddcf1da6bc3</guid>
+      <pubDate>Sat, 15 Aug 2026 15:58:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Google began offering third-party app store downloads in the Play Store earlier this week, but US District Judge James Donato says the company isn&apos;t doing enough. After reviewing t…
+      <description>Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 307 # Comments: 202
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>The Download: Flock’s new rules, cloning’s future, and children’s cells</title>
-      <link>https://www.technologyreview.com/2026/08/14/1142033/the-download-flock-new-rules-cloning-future/</link>
-      <guid isPermaLink="false">c91bcfbc92dc</guid>
-      <pubDate>Fri, 14 Aug 2026 12:17:21 GMT</pubDate>
+      <title>Have a laugh at AI’s expense by roleplaying as a chatbot</title>
+      <link>https://www.theverge.com/entertainment/980502/roleplay-as-an-ai-chatbot</link>
+      <guid isPermaLink="false">c203fdcffbe8</guid>
+      <pubDate>Sat, 15 Aug 2026 20:45:00 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Flock is tightening its rules in response…
+      <description>If you squint you can just about make out the hat. | Screenshot: Terrence O’Brien / The Verge Your AI Slop Bores Me is brilliant in its simplicity. There are two tabs: human and LA…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：The Verge · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Vulnerability giving attackers full control of Macs is under active exploitation</title>
-      <link>https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/</link>
-      <guid isPermaLink="false">09002e896391</guid>
-      <pubDate>Fri, 14 Aug 2026 18:32:14 GMT</pubDate>
+      <title>Auto-research with codex: How I achieved a 232x Faster Kernel</title>
+      <link>https://sankalp.bearblog.dev/autoresearch/</link>
+      <guid isPermaLink="false">79c0d06f1ca0</guid>
+      <pubDate>Sat, 15 Aug 2026 11:00:02 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Dutch officials have warned that a high-severity macOS vulnerability that allows attackers to execute malicious code is under active exploitation. “The NCSC has received a notifica…
+      <description>Article URL: https://sankalp.bearblog.dev/autoresearch/ Comments URL: https://news.ycombinator.com/item?id=49309549 Points: 371 # Comments: 83
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>First test flight of largest all-electric aircraft used just $5 of electricity</title>
-      <link>https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/</link>
-      <guid isPermaLink="false">3d7908dbba3a</guid>
-      <pubDate>Fri, 14 Aug 2026 18:00:23 GMT</pubDate>
+      <title>Working with AI feels more like leadership than coding</title>
+      <link>https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/</link>
+      <guid isPermaLink="false">8206dcc808c5</guid>
+      <pubDate>Sat, 15 Aug 2026 10:39:41 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>The first flight of the largest battery-electric aircraft to take to the skies lasted nearly half an hour while costing just $5 of electricity. That aviation feat comes at a time w…
+      <description>Article URL: https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/ Comments URL: https://news.ycombinator.com/item?id=49309451 Points: 240 # Comments: 165
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Trump shrugs off concerns about dismal conditions on USS Abraham Lincoln</title>
-      <link>https://www.axios.com/2026/08/14/trump-uss-abraham-lincoln-deployment-middle-east</link>
-      <guid isPermaLink="false">8ca462bc0d85</guid>
-      <pubDate>Fri, 14 Aug 2026 20:19:31 GMT</pubDate>
+      <title>《牛来》出圈：AI 越会生成，“活人感”为何越值钱</title>
+      <link>https://www.huxiu.com/article/4883406.html?f=rss</link>
+      <guid isPermaLink="false">2aa60b1f9bce</guid>
+      <pubDate>Sat, 15 Aug 2026 20:18:28 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>President Trump said Friday that he isn&apos;t concerned about the state of the USS Abraham Lincoln, despite calls from lawmakers to investigate reports of mental health issues for thos…
+      <description>本文来自微信公众号： AIGC从0到1 ，作者：王零壹 这两天，《牛来》被抖音推成了一个很奇怪的样本。 人们起初围观它，恰恰因为它看起来不够好：建模粗，动作硬，镜头里有不少一眼能看出的局促。随后，吐槽变成二创，二创变成一种“我也看过这部片”的网络暗号。再往后，评论区开始出现另一种说法：它当然不好看，但看得出有人真的把它做完了。 粗糙的手工赢了虚伪的AI，人类…
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Luigi Mangione pleads guilty to stalking UnitedHealthcare CEO, admits killing him</title>
-      <link>https://www.axios.com/2026/08/14/luigi-mangione-plea-trial-brian-thompson-case</link>
-      <guid isPermaLink="false">2f7c2de9eaf2</guid>
-      <pubDate>Fri, 14 Aug 2026 19:15:57 GMT</pubDate>
+      <title>当放水不再流向工资袋</title>
+      <link>https://www.huxiu.com/article/4883403.html?f=rss</link>
+      <guid isPermaLink="false">8afa0da364c0</guid>
+      <pubDate>Sat, 15 Aug 2026 16:41:47 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Luigi Mangione pleaded guilty Friday in federal court to stalking charges tied to the 2024 broad daylight killing of UnitedHealthcare CEO Brian Thompson in New York City. Why it ma…
+      <description>本文来自微信公众号： 三更一勾帘下斜 ，作者：三更一勾帘下斜 当“放水”不再流向工资袋：7月金融数据里的结构性真相 信贷负增、产能利用率新低、居民净还贷——这些看似矛盾的信号，指向同一个被忽视的变量：机器正在替代人，而货币流动性没有流进普通人的工资袋。 一、一组“拧巴”的数据 7月金融数据落地，市场普遍感受到较强的下行压力： 社融口径人民币贷款增量**‑58…
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Americans&apos; wanderlust hits new heights</title>
-      <link>https://www.axios.com/2026/08/14/americans-overseas-european-travel-boom</link>
-      <guid isPermaLink="false">e0df3b1e0946</guid>
-      <pubDate>Fri, 14 Aug 2026 17:30:05 GMT</pubDate>
+      <title>College loses its monopoly on the American Dream</title>
+      <link>https://www.axios.com/2026/08/15/college-bachelors-degree-shift-ai-america</link>
+      <guid isPermaLink="false">0ffec9882268</guid>
+      <pubDate>Sat, 15 Aug 2026 10:00:05 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Data: International Trade Administration ; Chart: Sara Wise/Axios Even as U.S. policy has walled off Washington, D.C., from friends across the pond, Americans&apos; travel overseas is r…
-
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Dorm rooms are tiny. The dorm decor economy is not.</title>
-      <link>https://www.axios.com/2026/08/14/college-dorm-decor-economy</link>
-      <guid isPermaLink="false">bd6dd3353b2f</guid>
-      <pubDate>Fri, 14 Aug 2026 17:15:06 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>Dorm rooms are tiny. The dorm decor economy is not. The big picture: College dorms are becoming customized, social-media-ready micro-apartments, but the market looks wildly differe…
+      <description>Whether framed on an office wall, collecting dust in a box or still a distant dream, the college diploma is getting a hard reappraisal. Why it matters: College was once sold as a t…
 
 来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Retail sales slump in July</title>
-      <link>https://www.axios.com/2026/08/14/retail-sales-amazon-world-cup</link>
-      <guid isPermaLink="false">e1b8b1d40a29</guid>
-      <pubDate>Fri, 14 Aug 2026 16:15:05 GMT</pubDate>
+      <title>&quot;There&apos;s no point&quot;: AI forces college students to rethink their major</title>
+      <link>https://www.axios.com/2026/08/15/college-major-ai-skills-job-search</link>
+      <guid isPermaLink="false">7f7ba8141dbc</guid>
+      <pubDate>Sat, 15 Aug 2026 09:50:05 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Data: Census Bureau ; Chart: Neil Irwin/Axios American consumers have powered the economy forward this year. In July, they took a breather. Why it matters: While the underlying tre…
+      <description>Students — and their parents — are searching for future-proof college majors for an AI -powered world. Why it matters: AI is changing the skills employers expect from entry-level w…
 
-来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>🔮 The market misread Google’s AI exodus</title>
+      <link>https://www.exponentialview.co/p/google-deepmind-exodus-ai-cycle</link>
+      <guid isPermaLink="false">f5736a4f94fe</guid>
+      <pubDate>Sat, 15 Aug 2026 04:31:21 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>Jeff Dean and Sanjay Ghemawat are leaving Google after more than a quarter-century, as you know. Outside the industry, the pair may not be well-known, but theirs was “ the friendsh…
+
+来源：Exponential View · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Fri, 14 Aug 2026 22:53:48 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 22:52:34 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Fri, 14 Aug 2026 22:53:48 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 22:52:34 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,191 +228,31 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Fri, 14 Aug 2026 22:53:48 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 22:52:34 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>TIER IV Joins JST’s Next-Generation Edge AI Semiconductor R&amp;D Program</title>
-      <link>https://www.semiconductor-digest.com/tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tier-iv-joins-jsts-next-generation-edge-ai-semiconductor-rd-program</link>
-      <guid isPermaLink="false">93eb9e3aa5e0</guid>
-      <pubDate>Fri, 14 Aug 2026 19:19:26 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>TIER IV , the pioneering force behind open-source software for autonomous driving, has joined the Next-Generation Edge AI Semiconductor Research and Development Program led by the …
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Minnesota Iron Ore Could Be Key to Sustainable and Lower-Cost Semiconductor</title>
-      <link>https://www.semiconductor-digest.com/minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=minnesota-iron-ore-could-be-key-to-sustainable-and-lower-cost-semiconductor</link>
-      <guid isPermaLink="false">bc4d214cc8ec</guid>
-      <pubDate>Fri, 14 Aug 2026 19:14:05 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>For the first time, researchers at the University of Minnesota Twin Cities have demonstrated that the low-purity iron ore prevalent in Minnesota can be used to create semiconductor…
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>An Introduction to Software Prototyping: Unlocking SoC Software Verification with proFPGA CS</title>
-      <link>https://www.eetimes.com/an-introduction-to-software-prototyping-unlocking-soc-software-verification-with-profpga-cs/</link>
-      <guid isPermaLink="false">8a472ba7966f</guid>
-      <pubDate>Fri, 14 Aug 2026 15:22:50 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Available Exclusively On-Demand This webinar targets engineering and verification teams looking to accelerate System on Chip (SoC) hardware/software validation through FPGA prototy…
-
-来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Delcy Rodriguez’s Castro tribute tests Venezuela’s balancing act between US and China</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3364122/delcy-rodriguezs-castro-tribute-tests-venezuelas-balancing-act-between-us-and-china?utm_source=rss_feed</link>
-      <guid isPermaLink="false">c3eaaee99ec9</guid>
-      <pubDate>Fri, 14 Aug 2026 22:45:52 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Venezuelan interim President Delcy Rodriguez’s tribute to Fidel Castro has drawn a blistering rebuke from US Secretary of State Marco Rubio, highlighting the political tensions sur…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Chinese drone maker DJI gets another shot at Pentagon blacklist removal</title>
-      <link>https://www.scmp.com/news/us/diplomacy/article/3364118/chinese-drone-maker-dji-gets-another-shot-pentagon-blacklist-removal?utm_source=rss_feed</link>
-      <guid isPermaLink="false">1b0e931781dd</guid>
-      <pubDate>Fri, 14 Aug 2026 20:23:55 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>A US appeal court on Friday gave Chinese drone maker DJI another chance to challenge its inclusion on a Pentagon blacklist of companies allegedly linked to the Chinese military. DJ…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Q&amp;A: What does China’s 15th five-year plan for coal mean for climate action?</title>
-      <link>https://www.carbonbrief.org/qa-what-does-chinas-15th-five-year-plan-for-coal-mean-for-climate-action</link>
-      <guid isPermaLink="false">c732f0904ae2</guid>
-      <pubDate>Fri, 14 Aug 2026 14:09:31 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Print article Share China has published a new five-year plan for coal, the latest in a slew of important policy documents for the country’s energy transition. The 15th five-year pl…
-
-来源：Carbon Brief · 能源与气候科技 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Data centers are officially shaping election season</title>
-      <link>https://www.canarymedia.com/articles/data-centers/data-centers-2026-elections</link>
-      <guid isPermaLink="false">de9f57c6b927</guid>
-      <pubDate>Fri, 14 Aug 2026 16:20:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The data center elections are officially upon us. Public frustration wi…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Quantum computing is coming fast. Are utilities ready?</title>
-      <link>https://www.utilitydive.com/news/quantum-computing-utilities-duke-epri-schneider/827241/</link>
-      <guid isPermaLink="false">093f85a974cd</guid>
-      <pubDate>Fri, 14 Aug 2026 14:45:02 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>“The load profile is different from anything utilities have planned for before,” said Aparna Prabhakar, chief strategy and sustainability officer, energy management, for Schneider …
-
-来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Surprising uniqueness of Puerto Rico’s trees could make them more resistant to drought</title>
-      <link>https://www.science.org/content/article/surprising-uniqueness-puerto-rico-s-trees-could-make-them-more-resistant-drought</link>
-      <guid isPermaLink="false">b0d097349ae8</guid>
-      <pubDate>Fri, 14 Aug 2026 09:00:18 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Two trees from the same species can vary in how they transport and manage water, improving specieswide drought resilience
-
-来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Slavery linked to mortality gap between Black and white Americans today</title>
-      <link>https://www.science.org/content/article/slavery-linked-mortality-gap-between-black-and-white-americans-today</link>
-      <guid isPermaLink="false">b47f987a156d</guid>
-      <pubDate>Fri, 14 Aug 2026 05:25:30 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>New study is among the first to quantify and explain slavery’s influence in contemporary U.S. health disparities
-
-来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>How to bring your software delivery workflow into GitHub with agent apps</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/</link>
-      <guid isPermaLink="false">87ef4eb5a43c</guid>
-      <pubDate>Fri, 14 Aug 2026 16:00:00 GMT</pubDate>
+      <title>Per-developer environments were the goal. Agents moved the goalposts.</title>
+      <link>https://thenewstack.io/new-tenant-is-change/</link>
+      <guid isPermaLink="false">d362ba7acc23</guid>
+      <pubDate>Sat, 15 Aug 2026 14:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>How many tabs do you have open alongside your pull request? Imagine picking up a new issue in your product&amp;rsquo;s free-trial onboarding flow: make the &amp;ldquo;invite your teammates…
-
-来源：GitHub Blog · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Apple’s new AI split means your iOS app could behave differently in China</title>
-      <link>https://thenewstack.io/apple-china-ai-model/</link>
-      <guid isPermaLink="false">bde7ca16b66b</guid>
-      <pubDate>Fri, 14 Aug 2026 19:21:28 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Apple is splitting up its AI stack. Instead of rolling out the same system worldwide, the company reportedly built a China-only model with help from Alibaba to navigate the country…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Alibaba’s new model promises Opus 4.6-level performance on your laptop</title>
-      <link>https://thenewstack.io/qwen38-27b-local-inference/</link>
-      <guid isPermaLink="false">abed17488928</guid>
-      <pubDate>Fri, 14 Aug 2026 18:10:58 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Alibaba recently made the open weights of its 2.4 trillion parameter Qwen3.8 model available . That’s a massive model, and its benchmarks put it in direct competition with closed f…
+      <description>Multi-tenancy has moved in one direction for 60 years: the tenant keeps getting smaller. Mainframe time-sharing carved a single machine into slices so an organization’s departments…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>GLM-5.3 didn’t change the base model — where did its coding gains come from?</title>
-      <link>https://thenewstack.io/glm-5-3-post-training-coding/</link>
-      <guid isPermaLink="false">c994d802f7bc</guid>
-      <pubDate>Fri, 14 Aug 2026 15:20:24 GMT</pubDate>
+      <title>Grok 4.6 matched Fable 5 Max at an 85% discount. Downloadable models set that price.</title>
+      <link>https://thenewstack.io/grok-4-6-matched-fable-5-max/</link>
+      <guid isPermaLink="false">3ec40dc708bb</guid>
+      <pubDate>Sat, 15 Aug 2026 03:56:28 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Z.ai released GLM-5.3 on Friday, a coding and agent model built from the same base model as GLM-5.2. Developers can already use GLM-5.3 through Z.ai&amp;rsquo;s GLM Coding Plan with Cl…
+      <description>I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, explaining what they mean for people and organizations putti…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>SteerBench-Work: A Benchmark for Agent Steering at Action Boundaries</title>
-      <link>https://arxiv.org/abs/2608.12654</link>
-      <guid isPermaLink="false">3d7cdf595009</guid>
-      <pubDate>Fri, 14 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.12654v1 Announce Type: new Abstract: Long-running LLM agents act through tools, and a single step can send an email, merge a pull request, or wire a payment. The steerin…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Comparative Analysis of Multilingual Pre-trained Models for Nepali Automatic Speech Recognition</title>
-      <link>https://arxiv.org/abs/2608.12327</link>
-      <guid isPermaLink="false">7094a6189462</guid>
-      <pubDate>Fri, 14 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.12327v1 Announce Type: cross Abstract: Multilingual pretrained models nominally support Nepali, yet no controlled benchmark has compared them under a single fine-tuning …
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>EU-ETS under attack? The impact of carbon price suppression on the decarbonization of the power sector</title>
-      <link>https://arxiv.org/abs/2608.12363</link>
-      <guid isPermaLink="false">a32a8afd3e53</guid>
-      <pubDate>Fri, 14 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.12363v1 Announce Type: cross Abstract: European countries are debating policies to mitigate the increased energy costs caused by renewed geopolitical tensions, while pur…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>From Observation to Intervention: Memory in Brains and Large Language Models</title>
-      <link>https://arxiv.org/abs/2608.12377</link>
-      <guid isPermaLink="false">028ffaf9d1c9</guid>
-      <pubDate>Fri, 14 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.12377v1 Announce Type: cross Abstract: Brains and large language models (LLMs) are fundamentally different memory systems, but they can be compared through shared functi…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
