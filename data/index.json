@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-16T22:52:01.619Z",
+  "updatedAt": "2026-08-17T22:53:46.581Z",
   "days": [
+    {
+      "date": "2026-08-18",
+      "itemCount": 40,
+      "topPickTitles": [
+        "Superlinear Returns",
+        "How to Do Great Work",
+        "The Need to Read"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-08-17",
       "itemCount": 24,
