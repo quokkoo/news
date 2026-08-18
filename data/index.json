@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-17T22:53:46.581Z",
+  "updatedAt": "2026-08-18T22:54:59.307Z",
   "days": [
+    {
+      "date": "2026-08-19",
+      "itemCount": 42,
+      "topPickTitles": [
+        "Frontier Model Cost and Open-Weights Popularity is Driving Demand for Model Routing",
+        "Superlinear Returns",
+        "How to Do Great Work"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-08-18",
       "itemCount": 40,
