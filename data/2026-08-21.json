@@ -1,0 +1,1276 @@
+{
+  "date": "2026-08-21",
+  "generatedAt": "2026-08-20T22:59:26.588Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、学术前沿速递、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "a31370655f12",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "5b0f29eb02fc",
+        "reason": "arXiv cs.AI 等 4 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "531fbc0869f1",
+        "reason": "华尔街见闻，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "531fbc0869f1",
+          "title": "沃什8月28日杰克逊霍尔首秀，华尔街亟待美联储抗通胀路线图",
+          "titleZh": "沃什8月28日杰克逊霍尔首秀，华尔街亟待美联储抗通胀路线图",
+          "url": "https://wallstreetcn.com/articles/3779947",
+          "summary": "美联储主席沃什将于下周8月28日在杰克逊霍尔经济政策研讨会发表讲话，这一演讲被广泛认为将对美联储公信力产生深远影响。 沃什表示，他希望利用这次演讲来界定美联储面临的“重大问题”——包括对通胀目标、生产力、人口结构变化以及全球经济冲击的担忧。 在通胀连续五年超出2%目标的背景下，沃什此前刻意回避前瞻指引的做法已令市场感到不安，投资者急切等待他就利率路径和控通胀…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-20T22:30:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "21ce78476118",
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
+          "titleZh": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "summary": "贝森特干预一日游与油价飙升、沃尔玛Q2暴雷形成三重利空共振，美股三大指数齐跌。10年期收益率回升4.35个基点，收复美国财政部宣布加码回购前的水平。 同期零售风向标沃尔玛公布Q2财报，美国同店销售仅增长2.6%低于市场预期3.8%为六年最低。股价暴跌9.15%为2022年5月以来最差单日，拖累道指重挫703点。 权益市场另一重压力来自能源——特朗普周三在Tr…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-20T21:28:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1bdc6068342d",
+          "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "titleZh": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+          "summary": "Home News & Events Press Releases Press Release August 20, 2026 Federal Reserve Board announces approval of application by National Westminster Bank Plc For release at 4:00 p.m. ED…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-08-20T20:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0b3efdcb384a",
+          "title": "Anthropic拟超越SpaceX，冲击史上最大IPO",
+          "titleZh": "Anthropic拟超越SpaceX，冲击史上最大IPO",
+          "url": "https://wallstreetcn.com/articles/3779943",
+          "summary": "Anthropic正筹划一场可能改写资本市场历史的IPO。 据彭博援引知情人士透露，Anthropic预计其首次公开募股（IPO）的规模将追平甚至超越SpaceX创下的历史纪录。 Anthropic最快将于本月底公开递交IPO文件，公司目前正就募资规模进行测算。首席财务官Krishna Rao近期主持的投资者沟通会议刻意回避了估值问题。知情人士表示，相关讨论…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-20T22:04:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1dcbf39d99ce",
+          "title": "暴跌9%！沃尔玛Q2同店销售增速创六年新低，全年盈利指引低于预期 | 财报见闻",
+          "titleZh": "暴跌9%！沃尔玛Q2同店销售增速创六年新低，全年盈利指引低于预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3779908",
+          "summary": "沃尔玛公布的第二季度业绩喜忧参半——营收和调整后每股收益均超出市场预期，但美国本土同店销售增速创下逾六年最低水平，全年盈利指引亦不及预期，引发市场对这家全球最大零售商增长势头放缓的担忧。 周四美股盘前，沃尔玛公布第二季度业绩显示，第二季度营收1879.4亿美元，超过预估的1868.7亿美元。调整后每股收益0.81美元，预估0.74美元。业绩公布后，沃尔玛美股…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-20T21:06:53.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8ddfee3ce763",
+          "title": "美债收益率成“房间里的大象”，股市投资者却对其视而不见",
+          "titleZh": "美债收益率成“房间里的大象”，股市投资者却对其视而不见",
+          "url": "https://wallstreetcn.com/articles/3779941",
+          "summary": "全球债券收益率持续攀升，但股市投资者似乎选择视而不见。华尔街策略师普遍认为，收益率尚未高到足以终结股市牛市的程度——但他们也承认，这一判断存在明确的临界点。 美国银行最新全球基金经理调查显示，受访机构投资者将56%的投资组合配置于股票，为2021年11月以来最高水平。 与此同时，同一调查显示，\"债券收益率无序上行\"被视为股市面临的第二大威胁，仅次于对AI泡沫…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-20T19:59:40.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "a31370655f12",
+          "title": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+          "titleZh": "The /wayfinder Skill: Navigating the “Fog of War” of Planning",
+          "url": "https://www.latent.space/p/wayfinder-skill",
+          "summary": "We’re currently developing a new series about skills, with the aim of giving you a regular supply of new skills to use in your projects. We’re kicking things off with an interview …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-20T20:59:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "823349a29376",
+          "title": "Debates over AI consciousness are a trap",
+          "titleZh": "Debates over AI consciousness are a trap",
+          "url": "https://www.technologyreview.com/2026/08/20/1142571/ai-consciousness-debate-trap/",
+          "summary": "“Runaway” AI, “rogue” agents, and “autonomous” actors—the current rhetoric would have you believe that AI agents are not only awake and aware, but angry at their creators. Prominen…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-20T15:42:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "39dbc7f50db3",
+          "title": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "titleZh": "Up to 3.2x Faster Inference with LFM2.5-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm25-dspark",
+          "summary": "Back to Articles Today, we release DSpark draft model checkpoints for three models from our LFM2.5 family: LFM2.5-1.2B-Instruct, LFM2.5-2.6B, and LFM2.5-8B-A1B. These add a specula…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-08-20T16:52:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c0987b50b80",
+          "title": "Genesis joins the giant electric SUV club with new GV90",
+          "titleZh": "Genesis joins the giant electric SUV club with new GV90",
+          "url": "https://arstechnica.com/cars/2026/08/genesis-joins-the-giant-electric-suv-club-with-new-gv90/",
+          "summary": "A couple of years ago, Genesis showed us its unique take on the luxury electric SUV with the Neolum concept. The brand's designers know how to draw a handsome shape, particularly u…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-20T14:35:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "98f60a923a85",
+          "title": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "titleZh": "SpaceX’s orbital data centers would create a new category of e-waste",
+          "url": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
+          "summary": "Elon Musk’s talk about maintaining a million-strong AI data center satellite megaconstellation may not exactly be practical or economical , but it might be unique. It’s about the c…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-20T13:59:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0c2f2017a6cc",
+          "title": "The Download: polycrisis support networks and a hydrogen gold rush",
+          "titleZh": "The Download: polycrisis support networks and a hydrogen gold rush",
+          "url": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
+          "summary": "This is today’s edition of The Download , our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Support networks aim to help kids through…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-20T12:10:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ca5f68887ccc",
+          "title": "Show HN: Huzzah – a novel approach to coding with AI",
+          "titleZh": "Show HN: Huzzah – a novel approach to coding with AI",
+          "url": "https://www.danielvaughn.dev/posts/huzzah/",
+          "summary": "Hello everyone. I've been working on this experimental editor called Huzzah. I've been working almost exclusively with coding agents since January of this year, and over the past f…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-20T19:05:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "54ffc0e54ae3",
+          "title": "Roblox must make changes after failing to block adults creeping on kids",
+          "titleZh": "Roblox must make changes after failing to block adults creeping on kids",
+          "url": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+          "summary": "Despite making changes last fall to help block adults from messaging unknown children , Roblox is still failing to stop adults from creeping on kids in other ways, Australia’s eSaf…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-20T17:14:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "ebde21c6d80f",
+          "title": "Employer health costs: Why it could be another tough year",
+          "titleZh": "Employer health costs: Why it could be another tough year",
+          "url": "https://www.axios.com/2026/08/20/health-care-costs-employers-rising",
+          "summary": "Employers who've been reeling from near double-digit health cost increases the past three years can expect more of the same in 2027, according to new projections from benefits cons…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-20T21:00:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8762ebea600b",
+          "title": "Texas and Iowa Senate races tighten heading into midterms",
+          "titleZh": "Texas and Iowa Senate races tighten heading into midterms",
+          "url": "https://www.axios.com/local/san-antonio/2026/08/20/texas-iowa-senate-election-races-midterms-close",
+          "summary": "Two key Senate races in typically Republican states, Texas and Iowa, are a toss-up heading into the midterms , according to the latest projections from The Cook Political Report. W…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-20T18:07:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "02d27ffdf755",
+          "title": "摩尔线程这份半年报，仔细看全是问号",
+          "titleZh": "摩尔线程这份半年报，仔细看全是问号",
+          "url": "https://www.huxiu.com/article/4884738.html?f=rss",
+          "summary": "本文来自微信公众号： 青澄财经 ，作者：青炯，编辑：六子 8月9日，摩尔线程发布上市后首份半年报。营收17.36亿元，同比增长147%，已超2025年全年，归母净利润亏损收窄95.73%至1156万元。 营收翻倍、亏损大幅收窄，从表面看确实是积极信号，不少市场声音认为摩尔线程“拐点将至”。但看财报不能只看增速和亏损收窄幅度，还要看营收是靠什么撑起来的？亏损收…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-20T17:01:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06a4275f604d",
+          "title": "WRC｜触觉让世界模型更懂物理，也更难通用",
+          "titleZh": "WRC｜触觉让世界模型更懂物理，也更难通用",
+          "url": "https://www.huxiu.com/article/4884735.html?f=rss",
+          "summary": "本文来自微信公众号： 先验实验室 ，作者：Vincent，编辑：吕鑫燚，原文标题：《WRC｜触觉让世界模型更懂物理，也更难通用》 今年以来，触觉赛道有了新变化。 从WRC可见，一些玩家讲的不再只是传感器硬件能力有多高，而是开始摆出自己的数据集、模型，甚至评测基准。围绕触觉的竞争，正在从从一块传感器，扩展到数据采集、模型训练和能力评估的整条链条。 这背后有一层…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-20T16:34:27.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "083ad97d65ce",
+          "title": "力量与边界：人类文明从农业革命到 AI 时代的同一个问题",
+          "titleZh": "力量与边界：人类文明从农业革命到 AI 时代的同一个问题",
+          "url": "https://www.huxiu.com/article/4884732.html?f=rss",
+          "summary": "本文来自微信公众号： HavenlonLabs ，作者：Havenlon Labs，原文标题：《力量与边界：人类文明从农业革命到 AI 时代的同一个问题》 人类文明的进步，不只是创造更强大的工具，更是在学习如何与更强大的工具共存。 从火的使用到农业的兴起，从机器的轰鸣到互联网的普及，再到今天人工智能开始参与人类的判断与行动，技术革命从来都不只是能力曲线的抬升…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-20T16:27:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "0ed27491a24a",
+          "title": "College EA Meetups Everywhere: Call For Organizers",
+          "titleZh": "College EA Meetups Everywhere: Call For Organizers",
+          "url": "https://www.astralcodexten.com/p/college-ea-meetups-everywhere-call",
+          "summary": "There are ACX meetup groups in cities around the world. Every fall and spring, I make a Meetups Everywhere post to try to signal-boost and support them. This summer, I want to focu…",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-08-20T19:55:39.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-20T22:58:28.605Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-20T22:58:28.605Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "1cd9296fcba4",
+          "title": "AMD Appoints Tim Ryan to Board of Directors",
+          "titleZh": "AMD Appoints Tim Ryan to Board of Directors",
+          "url": "https://www.semiconductor-digest.com/amd-appoints-tim-ryan-to-board-of-directors/?utm_source=rss&utm_medium=rss&utm_campaign=amd-appoints-tim-ryan-to-board-of-directors",
+          "summary": "AMD today announced the appointment of Tim Ryan to its board of directors, effective Aug. 19, 2026. AMD also announced related board committee changes, with KC McClure named chair …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-20T20:44:38.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7bbcc6fe4a87",
+          "title": "Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub",
+          "titleZh": "Micron Unveils Micron Research Labs, a U.S.-Based Long-Horizon Innovation Hub",
+          "url": "https://www.semiconductor-digest.com/micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub/?utm_source=rss&utm_medium=rss&utm_campaign=micron-unveils-micron-research-labs-a-u-s-based-long-horizon-innovation-hub",
+          "summary": "Micron Technology, Inc. (Nasdaq: MU) today unveiled Micron Research Labs, a U.S.-based long-horizon premier research institution headquartered in Boise and backed by a planned $10 …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-20T20:12:50.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0826f4b6c517",
+          "title": "High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics",
+          "titleZh": "High-Efficiency and Stable Deep-Blue Iridium Phosphorescent OLEDs with Enhanced Charge Transfer Dynamics",
+          "url": "https://www.semiconductor-digest.com/high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics/?utm_source=rss&utm_medium=rss&utm_campaign=high-efficiency-and-stable-deep-blue-iridium-phosphorescent-oleds-with-enhanced-charge-transfer-dynamics",
+          "summary": "Deep-blue phosphorescent organic light-emitting diodes (Ph-OLEDs) are essential for advanced full-color displays, yet developing efficient and stable deep-blue emitters remains a f…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-20T19:26:15.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f800fd9c901",
+          "title": "Silicon Catalyst Expands US Leadership Team",
+          "titleZh": "Silicon Catalyst Expands US Leadership Team",
+          "url": "https://www.semiconductor-digest.com/silicon-catalyst-expands-us-leadership-team/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-catalyst-expands-us-leadership-team",
+          "summary": "Silicon Catalyst today announced several leadership updates as it expands its global portfolio and deepens the expertise available to founders and strategic partners across the sem…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-20T19:05:19.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "21b46ce5e581",
+          "title": "US designates academic Min Zin as ‘wrongfully detained’ in China",
+          "titleZh": "US designates academic Min Zin as ‘wrongfully detained’ in China",
+          "url": "https://www.scmp.com/news/us/article/3364739/us-designates-academic-min-zin-wrongfully-detained-china?utm_source=rss_feed",
+          "summary": "The US State Department said on Thursday that it had determined after a detailed investigation that Min Zin, an American political analyst of Chinese descent detained by Beijing la…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-20T22:07:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "420379bbcf2a",
+          "title": "As China shows, liberal capitalism is not the only path",
+          "titleZh": "As China shows, liberal capitalism is not the only path",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3364594/china-shows-liberal-capitalism-not-only-path?utm_source=rss_feed",
+          "summary": "Much of the Western debate about China begins with a category error. “Communism” is often treated as synonymous with a monolithic command economy, limited private enterprise and bu…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-20T21:30:05.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5990c78966f8",
+          "title": "New Peru government vows to apply Hong Kong trade deal, but is silent on mainland China",
+          "titleZh": "New Peru government vows to apply Hong Kong trade deal, but is silent on mainland China",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364737/perus-new-government-pledges-implement-hong-kong-trade-deal-keeps-silent-china?utm_source=rss_feed",
+          "summary": "Peru’s new government has pledged to bring its free-trade agreement with Hong Kong into force this year as part of an effort to position the country as a commercial bridge between …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-20T21:08:31.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3a82167bad9",
+          "title": "Beijing calls US tariff report ‘false narrative’ as named hub Mexico plans new China curbs",
+          "titleZh": "Beijing calls US tariff report ‘false narrative’ as named hub Mexico plans new China curbs",
+          "url": "https://www.scmp.com/news/us/article/3364735/beijing-calls-us-tariff-report-false-narrative-named-hub-mexico-plans-new-china-curbs?utm_source=rss_feed",
+          "summary": "China rejected a White House report on Thursday that accused its exporters of routing goods through Mexico and other countries to avoid US tariffs, hours after word emerged that Me…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-20T20:01:48.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "3d39600a6a8e",
+          "title": "Factcheck: 10 flaws in the Conservative report on ‘cheap power’",
+          "titleZh": "Factcheck: 10 flaws in the Conservative report on ‘cheap power’",
+          "url": "https://www.carbonbrief.org/factcheck-10-flaws-in-the-conservative-report-on-cheap-power",
+          "summary": "Print article Share Article Contents Expand menu Close The plan would increase UK emissions The plan would slow electrification Gas prices are unlikely to remain low and stable The…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-08-20T15:56:40.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c3680e13e98",
+          "title": "PJM wants data centers to bring their own power. Pennsylvania’s on it.",
+          "titleZh": "PJM wants data centers to bring their own power. Pennsylvania’s on it.",
+          "url": "https://www.canarymedia.com/articles/data-centers/pjm-data-centers-pennsylvania",
+          "summary": "Last month, grid operator PJM Interconnection unveiled a long-awaited proposal to prevent data centers from spiking power prices — but the plan largely relies on states to give it …",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-20T21:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "286e37bc2df7",
+          "title": "Duke’s Carolinas resource plan targets 18.5 GW new solar by 2041",
+          "titleZh": "Duke’s Carolinas resource plan targets 18.5 GW new solar by 2041",
+          "url": "https://www.utilitydive.com/news/dukes-carolinas-resource-plan-solar-gas-nuclear/828402/",
+          "summary": "The utility’s North Carolina and South Carolina territory “continues to experience significant growth,” with both states ranked among the fastest-growing, Duke told South Carolina …",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-20T15:16:56.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "fd5de846a953",
+          "title": "The August 17 outage, and the work ahead",
+          "titleZh": "The August 17 outage, and the work ahead",
+          "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+          "summary": "On August 17, GitHub experienced an outage that lasted 7 hours and 47 minutes. It disrupted github.com, authentication, GitHub Actions, APIs, pull requests, issues, and Copilot, af…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-20T18:36:11.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0da1c8211f19",
+          "title": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+          "titleZh": "GitHub now sees 2.9 billion commits a month — and it can’t keep up",
+          "url": "https://thenewstack.io/github-2-9b-monthly-commits/",
+          "summary": "Per month, GitHub now sees 2.9 billion commits, 130 million merged pull requests, and 24 million new repos. Back in April, GitHub already had a hard time handling ‘only’ 1.4 billio…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-20T21:37:37.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "098fc2b5fad2",
+          "title": "Google’s AI coding agent just escaped its own IDE",
+          "titleZh": "Google’s AI coding agent just escaped its own IDE",
+          "url": "https://thenewstack.io/google-antigravity-ide-extensions/",
+          "summary": "When Google launched Antigravity in November 2025, it was on the premise that developers could hand an entire coding task to an AI agent and let it run. But developers still need t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-20T20:17:54.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "5b0f29eb02fc",
+          "title": "Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings",
+          "titleZh": "Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings",
+          "url": "https://arxiv.org/abs/2608.18114",
+          "summary": "arXiv:2608.18114v1 Announce Type: cross Abstract: Restoring communication for people who have lost the ability to speak or move after a brain injury is a major challenge. While int…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-20T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 9,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 4,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.18114"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.18114"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2608.18114"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9e6917a1fe1b",
+          "title": "Redakto - The Incognito Tab for LLMs",
+          "titleZh": "Redakto - The Incognito Tab for LLMs",
+          "url": "https://arxiv.org/abs/2608.18260",
+          "summary": "arXiv:2608.18260v1 Announce Type: new Abstract: Large Language Models (LLMs) are being increasingly used in everyday applications. A major challenge in the context of LLMs or Artif…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-20T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.18260"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.18260"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a5647aa12241",
+          "title": "StocksTalk: A Voice-Enabled Conversational Agent for Structured Query Generation over Web Data",
+          "titleZh": "StocksTalk: A Voice-Enabled Conversational Agent for Structured Query Generation over Web Data",
+          "url": "https://arxiv.org/abs/2608.18105",
+          "summary": "arXiv:2608.18105v1 Announce Type: cross Abstract: StocksTalk is a voice-enabled conversational system for transforming spoken financial screening requests into executable and valid…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-20T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.18105"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.18105"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c9a44f2d68cc",
+          "title": "What Makes Software Issue Resolution Tasks Difficult for Agents?",
+          "titleZh": "What Makes Software Issue Resolution Tasks Difficult for Agents?",
+          "url": "https://arxiv.org/abs/2608.18280",
+          "summary": "arXiv:2608.18280v1 Announce Type: cross Abstract: Background. Advances in agentic systems are simultaneously, and rapidly, saturating benchmarks. Despite this often discussed pheno…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-20T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.18280"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.18280"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "a31370655f12",
+    "5b0f29eb02fc",
+    "531fbc0869f1"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 40,
+    "itemsFiltered": 2,
+    "sourcesOk": 84,
+    "sourcesFailed": 11,
+    "totalReadMinutes": 64,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
