@@ -1,0 +1,907 @@
+{
+  "date": "2026-08-23",
+  "generatedAt": "2026-08-22T22:53:09.259Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 29 条，覆盖 深度长文与思考、前沿科技与 AI 产业、商业模式与行业深度、地缘政治与政策监管等 6 个领域，全部读完约需 51 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "cf7373b7af10",
+          "title": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌",
+          "titleZh": "从濒临出局到市值暴涨440亿美元：Moderna的癌症疫苗十年豪赌",
+          "url": "https://wallstreetcn.com/articles/3780064",
+          "summary": "Moderna正押注癌症疫苗，试图为公司打开第二增长曲线。 8月19日，Moderna公布了与默克共同开发的个性化mRNA黑色素瘤疫苗关键临床结果。数据显示，与单独使用Keytruda相比，这一疗法可将高风险黑色素瘤患者复发或死亡风险降低44%。消息公布后，Moderna股价大涨，公司市值一度增加约440亿美元。 两天后，《华尔街日报》8月21日的一篇深度报…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-22T12:49:53.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cfdf14bc235a",
+          "title": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
+          "titleZh": "瑞银调研：过去一周，霍尔木兹海峡日流量超600万桶",
+          "url": "https://wallstreetcn.com/articles/3780065",
+          "summary": "美伊紧张局势仍在持续，但市场关注点正逐步从军事风险转向经济制裁，以及其对全球原油供应格局的影响。 据新华社，美国财政部长贝森特20日表示，特朗普政府将加大对伊朗经济施压，并威胁对伊朗实施“前所未有的经济孤立”措施。他称，特朗普政府重创伊朗经济的计划可能使美国无需再对伊朗发动大规模军事行动。随着制裁力度可能升级，其对伊朗原油出口的影响正成为市场关注的新变量。 …",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-22T12:55:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "910a44064c04",
+          "title": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”",
+          "titleZh": "贝森特\"工具箱\"难敌油价与消费疲软双重夹击，高盛：“市场弥漫着滞胀的味道”",
+          "url": "https://wallstreetcn.com/articles/3780062",
+          "summary": "贝森特这周忙着给债市“灭火”，但市场似乎并不买账。 美国财政部长贝森特连续释放政策信号，试图通过国债回购、财政整合等手段压低长端美债收益率，但10年期、30年期美债收益率短暂下行后迅速反弹。与此同时，油价单周飙升逾7%，黄金上涨约3.5%，美元走弱，沃尔玛等消费数据也释放降温信号。 债市不肯降、油价却在涨，消费又开始走弱——多项资产同时异动，市场正在重新交易…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-22T10:50:50.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8df6f7a38b24",
+          "title": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
+          "titleZh": "硅谷调研后，高盛的总结：Agent进入执行时代，AI竞争转向工作流，世界模型崛起",
+          "url": "https://wallstreetcn.com/articles/3780055",
+          "summary": "AI正在进入从“会回答”走向“能执行”的新阶段。 据追风交易台，高盛最新报告显示，AI商业化正从“按席位订阅”转向按消费量、交易量和结果收费；与此同时，Agent正从辅助工具走向工作流执行者，产业价值也在从模型本身向专有数据、业务上下文和领域专业能力迁移。 这意味着，AI产业竞争正在从“谁的模型更强”转向“谁能真正掌握工作流”。模型能力依然重要，但能否进入企…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-22T09:54:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fefe9517027c",
+          "title": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
+          "titleZh": "美加谈判破裂！美国对部分加拿大商品加征50%关税，加拿大酝酿反制",
+          "url": "https://wallstreetcn.com/articles/3780061",
+          "summary": "美国与加拿大贸易摩擦骤然升级，经过谈判双方仍未能达成协议。美国随即对某些加拿大商品加征50%关税，加拿大则宣布准备采取对等反制措施。 据央视新闻8月21日报道，美国贸易代表格里尔表示，加拿大已拒绝敲定贸易协议。格里尔称，美国已向加拿大提供了“更为优惠的市场准入条件”，若达成协议，本可“大幅降低关税”。但他指责加方拒绝接受，导致谈判破裂。 美高级官员表示，依据…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-22T09:46:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ec36a1609f4",
+          "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
+          "titleZh": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+          "summary": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-22T20:03:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "0c7d44ca34c8",
+          "title": "llm 0.33",
+          "titleZh": "llm 0.33",
+          "url": "https://simonwillison.net/2026/Aug/22/llm/",
+          "summary": "Release: llm 0.33 My highlights from this release: Upgraded to the OpenAI Python library 3.x and switched the HTTP client dependency from httpx to httpx2 . #1608 , #1631 I shipped …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-22T17:01:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3d741a75e07",
+          "title": "Quoting Linus Torvalds",
+          "titleZh": "Quoting Linus Torvalds",
+          "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds/",
+          "summary": "And this was a debug session from hell, enormously helped by an AI doing much of the grunt-work. I'd like to call it my tireless helper, but the AI several times stated flat out th…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-22T21:04:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dfe6cfd92bd0",
+          "title": "More than just code review",
+          "titleZh": "More than just code review",
+          "url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review/",
+          "summary": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-22T15:56:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c65b2485fdcd",
+          "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "titleZh": "ElevenLabs, TwelveLabs, ThirteenLabs",
+          "url": "https://quantumi.sh/public/labs.html",
+          "summary": "Article URL: https://quantumi.sh/public/labs.html Comments URL: https://news.ycombinator.com/item?id=49400408 Points: 273 # Comments: 89",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-22T14:54:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://quantumi.sh/public/labs.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9c5b47276e12",
+          "title": "Scrap",
+          "titleZh": "Scrap",
+          "url": "https://twitter.com/moxie/status/2091218652133732491",
+          "summary": "Article URL: https://twitter.com/moxie/status/2091218652133732491 Comments URL: https://news.ycombinator.com/item?id=49402189 Points: 197 # Comments: 82",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-22T18:08:56.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fdbe3d9aaf4e",
+          "title": "Munder Difflin – Agent harness to run an office of your clones",
+          "titleZh": "Munder Difflin – Agent harness to run an office of your clones",
+          "url": "https://munderdiffl.in/",
+          "summary": "Article URL: https://munderdiffl.in/ Comments URL: https://news.ycombinator.com/item?id=49398152 Points: 236 # Comments: 110",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-22T09:49:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://munderdiffl.in/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b4291c5dcb5a",
+          "title": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+          "titleZh": "[AINews] 10% worse, 100x cheaper, 10000x faster: Why Simulation is taking over",
+          "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x",
+          "summary": "By AI standards today is a pretty quiet Friday, so it’s time to take a step back and reflect on what is really going on. If you read our 2025 reading list , and followed our covera…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-22T07:36:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "87b44c303bc2",
+          "title": "The Evolution of the Agent Harness",
+          "titleZh": "The Evolution of the Agent Harness",
+          "url": "https://www.latent.space/p/attention-interface",
+          "summary": "Sometime around Christmas 2025, AI engineers noticed a change in agents. They started to work! It’s hard to pin down exactly why. Maybe we finally had holiday downtime to try the n…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-22T07:30:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "aabe7cd9f9de",
+          "title": "🏦 The problem with petards",
+          "titleZh": "🏦 The problem with petards",
+          "url": "https://www.exponentialview.co/p/the-problem-with-petards",
+          "summary": "The petard was a sixteenth-century explosive charge. An attacking engineer would carry it to a castle gate, attach it, light the fuse and scramble for cover. It was a tricky busine…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-08-22T13:23:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4e751e12a409",
+          "title": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
+          "titleZh": "Scoop: Mike Rogers-AIPAC rupture roils Michigan Senate race",
+          "url": "https://www.axios.com/2026/08/22/mike-rogers-aipac-michigan-senate",
+          "summary": "Allies of Mike Rogers , Michigan's GOP nominee for the U.S. Senate, have asked AIPAC not to advertise on his behalf, triggering a rupture with the powerful but polarizing pro-Israe…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-22T18:31:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "430b074abc18",
+          "title": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+          "titleZh": "U.S.-Canada trade talks collapse, massive tariffs to take effect",
+          "url": "https://www.axios.com/2026/08/22/us-canada-tariffs-trade-trump-carney",
+          "summary": "Trade talks between the U.S. and Canada fell apart late Friday night, and both sides said steep new tariffs will go into effect. Why it matters: It's an unprecedented breakdown in …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-22T15:58:20.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ccf8232132b4",
+          "title": "灵活就业学者栽在了“剪金句”的小编手里",
+          "titleZh": "灵活就业学者栽在了“剪金句”的小编手里",
+          "url": "https://www.huxiu.com/article/4885210.html?f=rss",
+          "summary": "本文来自微信公众号： Mulan看世界 ，作者：Mulan往里走 这两天，北大国发院教授张丹丹关于“灵活就业的‘灵活’是一种福利”的言论，在舆论场引发了铺天盖地“何不食肉糜”的讨伐。 为了回顾这次舆情的发酵路径，我特地回看了首发媒体源视频：当张丹丹在和讯《聊一波》访谈中表达上述观点时，另一位经济专家姚景源已敏感地向摄像机和主持人方向递眼色，主持人王波明随即做…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-22T17:48:30.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50b824e9ca92",
+          "title": "Trump finds tamping down costs to be tricky",
+          "titleZh": "Trump finds tamping down costs to be tricky",
+          "url": "https://www.axios.com/2026/08/22/trump-affordability-beef-consumers",
+          "summary": "President Trump is reaching deeper into individual markets to try to ease consumer price strains . Why it matters: The administration is under mounting pressure to deliver relief a…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-22T11:00:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-22T22:53:02.141Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-22T22:53:02.141Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-22T22:53:02.141Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "c7c39afaf8f1",
+          "title": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
+          "titleZh": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+          "summary": "India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel h…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-22T22:31:16.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c350f48d0c6f",
+          "title": "How Pacific nations walk a tightrope between Western security and Chinese trade",
+          "titleZh": "How Pacific nations walk a tightrope between Western security and Chinese trade",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed",
+          "summary": "On paper, Western countries are rushing to sign defence pacts in the South Pacific, ensuring their influence in a region long neglected as a geopolitical backwater. But on the wate…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-22T22:00:10.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3be7cc318207",
+          "title": "Democrats found their border message. ICE is another story.",
+          "titleZh": "Democrats found their border message. ICE is another story.",
+          "url": "https://www.politico.com/news/2026/08/22/democrats-ice-midterms-01045482",
+          "summary": "Democrats have figured out how to talk about the border. They still haven’t reached a consensus on ICE. In battlegrounds across the country, moderate and progressive Democrats alik…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-08-22T14:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "c28c0359ec83",
+          "title": "The open mainframe: the keystone of the end-to-end digital enterprise",
+          "titleZh": "The open mainframe: the keystone of the end-to-end digital enterprise",
+          "url": "https://thenewstack.io/open-mainframe-keystone-enterprise/",
+          "summary": "In the first article in this series , I discussed how the Open Mainframe Project (OMP) and its open-source framework, Zowe , drive modernization &ndash; not simply of mainframes th…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-22T17:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d1bdbf30f5df",
+          "title": "Securing sandboxes: What happens when AI agents escape containment?",
+          "titleZh": "Securing sandboxes: What happens when AI agents escape containment?",
+          "url": "https://thenewstack.io/securing-ai-agent-sandboxes/",
+          "summary": "On July 16, the team at Hugging Face noticed something weird moving through their production systems: An intruder that was cloning datasets, harvesting credentials, and hopping bet…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-22T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "585e12fc41c8",
+          "title": "Six identity capabilities for securing autonomous AI agents",
+          "titleZh": "Six identity capabilities for securing autonomous AI agents",
+          "url": "https://thenewstack.io/securing-autonomous-ai-agents/",
+          "summary": "The artificial intelligence landscape has reached a pivotal inflection point. Over the past several years, the paradigm has shifted from passive, conversational Large Language Mode…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-22T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5435abf17c11",
+          "title": "Cloudflare Announces Kitesurf, a Browser Engine for Agents",
+          "titleZh": "Cloudflare Announces Kitesurf, a Browser Engine for Agents",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare recently introduced Kitesurf, a lightweight browser built for automated workloads. Kitesurf runs browser components in isolated WebAssembly/Rust environments on Cloudfla…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-08-22T15:01:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 29,
+    "itemsPublished": 29,
+    "itemsFiltered": 0,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 51,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
