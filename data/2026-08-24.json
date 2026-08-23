@@ -1,0 +1,803 @@
+{
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-23T22:52:48.372Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 深度长文与思考、前沿科技与 AI 产业、商业模式与行业深度、开源与开发者生态等 6 个领域，全部读完约需 51 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "6f5ce1626fee",
+          "title": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "titleZh": "8月24日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "url": "http://finance.eastmoney.com/news/1344,202608233850406014.html",
+          "summary": "8月24日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 报告显示 全国一体化算力网加速成形 8月22日，2026绿色算力（人工智能）大会在内蒙古自治区呼和浩特市举行。在大会开幕式上，中国信息通信研究院副院长敖立发布《绿色算力发展研究报告（2026年）》。报告认为，当前，我国算力规模快速增长，算力设备向高能效方向升级，算力载体绿色化转型进展积极，算电…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-08-23T22:03:16.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "48fae6e2c988",
+          "title": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
+          "titleZh": "下周重磅日程：全市场最关注的经济数据、央行大会和财报一起来了",
+          "url": "https://wallstreetcn.com/articles/3779970",
+          "summary": "08月24日 - 08月30日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 宏观方面，杰克逊霍尔年会是下周最大宏观锚点。美联储主席沃什8月28日发表年会首秀，华尔街急待其给出抗通胀路线图——当前30年期美债收益率重回5.26%高位，财政部加码长债回购后效果仅维持短暂。美联储“最爱通胀指标”7月PCE与二季度GDP修正值8月26日公…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-23T13:16:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f07df269c053",
+          "title": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
+          "titleZh": "被低估的英伟达“新叙事”：“自研开源模型”与“供应链锁定”",
+          "url": "https://wallstreetcn.com/articles/3780090",
+          "summary": "英伟达正在两条鲜少被市场充分定价的战线上悄然构筑护城河。 据汇丰银行8月20日发布的最新研报，汇丰分析师Frank Lee认为，在持续\"业绩超预期\"之外，推动英伟达股价重新定价的新催化剂，将来自两条此前被市场忽视的叙事线。 其一，大力押注开源小语言模型（SLM），有望将潜在客户群从少数超大规模云厂商扩展至数百万开发者和主权国家；其二，通过一系列多年期采购协议…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-23T12:57:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a22111da3e5",
+          "title": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
+          "titleZh": "英伟达财报“万众瞩目”：Rubin周期、循环融资与远期市场份额",
+          "url": "https://wallstreetcn.com/articles/3780083",
+          "summary": "英伟达下周将公布截至7月的季度财报。按照过往几个季度的节奏，市场对“业绩超预期、指引上调”已经并不陌生，真正决定股价弹性的是三个更长期的问题：Rubin能否顺利接棒Blackwell、AI需求是否仍显著大于供给，以及英伟达为锁定未来需求需要承担多大的融资和资产负债表责任。 从券商预期看，基本面仍然强劲。追风交易台消息，本周Jefferies发布前瞻报告，预计…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-23T10:56:46.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50e2b1a57154",
+          "title": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
+          "titleZh": "免费、强大！神秘模型“牛来”引发网络热议，猜测是智谱还是另有其人？",
+          "url": "https://wallstreetcn.com/articles/3780081",
+          "summary": "一个没有署名的模型，正在让整个AI开发者社区陷入猜谜游戏。 一款名为Ox Alpha的匿名AI模型悄然出现在OpenRouter平台，免费开放、性能强劲，迅速在开发者圈引发热议。国内网友因“Ox”即“牛”，给它起了个接地气的外号——“牛来”大模型。 免费+强大，开发者蜂拥而至 美东时间8月20日深夜（北京时间8月21日凌晨），Ox Alpha以“stealt…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-23T08:40:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8eeafb76f3b5",
+          "title": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno - Reuters",
+          "titleZh": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSVhMSE9Za3MyVm9WQjMwRmZHQ3NHZldfWXczSXhNeGpxT01yM3FLTWgzcFRGWUxxeTduaFJBQk5uRzJQVk1EM2xyWHhLNzBpOWpNb3pJX2xvQ0V3bF9PbTI4R3U5b1p6N3JqOEFyWnRTVFc3UUhUVzhtNkhaUC14Z2d6WHBWb1VGLXFjVDBZdGk5TEVVekxkX2h2c3FoT0h2b0M3NTVuX2l1cVpqTG9FZHcwRFpDUQ?oc=5",
+          "summary": "Tens of thousands ordered to evacuate in Nevada as fire threatens Reno Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-08-23T20:31:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "1abc338d463d",
+          "title": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "titleZh": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
+          "url": "https://simonwillison.net/2026/Aug/23/anthropics-best-ai-model-struggles-to-attract-users-as-cheaper-t/",
+          "summary": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive A few interesting numbers in this FT story gathered from \"people with knowledge of the matter\": Anthrop…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-23T20:24:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "db979215c177",
+          "title": "Quoting Drew Breunig",
+          "titleZh": "Quoting Drew Breunig",
+          "url": "https://simonwillison.net/2026/Aug/23/drew-breunig/",
+          "summary": "Prior to Fable, it felt silly to waste too much time improving your coding harness or context strategies. A new model would arrive at the same price (or cheaper!) and paper over mo…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-23T19:55:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae981de1500b",
+          "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "titleZh": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+          "url": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+          "summary": "China's \"Manned Space\" program issued a terse announcement on Sunday regarding its much-anticipated Chang’e 7 lunar exploration mission. The agency stated: \"In keeping with the pri…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-23T14:30:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f5aa6197c7ba",
+          "title": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "titleZh": "GTA VI: all the news on Rockstar’s next entry in the Grand Theft Auto series",
+          "url": "https://www.theverge.com/23987993/gta-6-news-trailers-rockstar-games",
+          "summary": "It’s been over a decade and two console generations since GTA V came out, and its sequel is still a work in progress. GTA VI has faced multiple delays, with developer Rockstar Game…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-08-23T19:14:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3b68f07ef81d",
+          "title": "Nvidia says it’s raising some prices more than 15%",
+          "titleZh": "Nvidia says it’s raising some prices more than 15%",
+          "url": "https://www.semafor.com/article/08/23/2026/nvidia-says-its-raising-some-prices-15",
+          "summary": "Nvidia warned of higher prices for servers containing its AI chips as soaring memory costs strain the AI buildout. Nvidia told some of its biggest customers to expect price hikes o…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-23T22:43:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "952ff95d159b",
+          "title": "Bessent’s bond market move draws fire from investors",
+          "titleZh": "Bessent’s bond market move draws fire from investors",
+          "url": "https://www.semafor.com/article/08/23/2026/bessents-bond-market-move-draws-fire",
+          "summary": "Investors and analysts poured scorn on US Treasury Secretary Scott Bessent’s doubling of long-term bond purchases last week, which provided temporary relief but faces structural ec…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-23T22:43:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4d374f3526e7",
+          "title": "China prepares for ‘Economic D-Day’",
+          "titleZh": "China prepares for ‘Economic D-Day’",
+          "url": "https://www.semafor.com/article/08/23/2026/china-prepares-for-economic-d-day",
+          "summary": "China hosted Iran’s deputy foreign minister for talks last week related to the US-Iran war, Beijing announced Sunday, disclosing the previously unreported meeting one day before Wa…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-23T22:42:46.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a46e23cf7873",
+          "title": "Japanese cities vie to become second capital",
+          "titleZh": "Japanese cities vie to become second capital",
+          "url": "https://www.semafor.com/article/08/23/2026/japanese-cities-vie-to-become-second-capital",
+          "summary": "Japan passed a law to designate one of its cities as a second capital, triggering a flurry of public relations campaigns by the 13 local governments vying for the mantle. Deemed ne…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-23T22:42:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "bfbc6afd396f",
+          "title": "Trump and former fixer Michael Cohen make amends",
+          "titleZh": "Trump and former fixer Michael Cohen make amends",
+          "url": "https://www.axios.com/2026/08/23/trump-michael-cohen-radio-interview",
+          "summary": "President Trump signaled that he's welcomed his former fixer, Michael Cohen, back into his good graces in a remarkably friendly interview that aired in full on Sunday. The big pict…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-23T22:29:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a1975964f08",
+          "title": "2028 Dems dodge on Bernie's push to pause AI development",
+          "titleZh": "2028 Dems dodge on Bernie's push to pause AI development",
+          "url": "https://www.axios.com/2026/08/23/2028-democrats-ai-bernie-sanders",
+          "summary": "Democratic presidential hopefuls are scrambling to seize on the growing public backlash against AI. But none will go as far as Bernie Sanders and his recent call to halt the techno…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-23T21:30:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b488bddb0571",
+          "title": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+          "titleZh": "Texas welcomed the AI boom. Now Abbott says data centers \"dug their own grave\"",
+          "url": "https://www.axios.com/2026/08/23/greg-abbott-texas-data-centers-ai-backlash",
+          "summary": "Texas Gov. Greg Abbott delivered one of the starkest warnings yet from a Republican executive to the AI industry, telling ABC's Jonathan Karl that data center companies \"dug their …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-23T16:38:19.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6e2891be1cb6",
+          "title": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+          "titleZh": "Scoop: Syria and Israel move to defuse tensions after airbase bombing",
+          "url": "https://www.axios.com/2026/08/23/syria-israel-turkey-airbase-bombing",
+          "summary": "High-level Israeli and Syrian officials met Sunday in an effort to lower the temperature between the countries after a recent airbase bombing , according to three sources with know…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-23T16:08:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7074450a235",
+          "title": "《牛来》封神记：烂片名垂影史的三大条件",
+          "titleZh": "《牛来》封神记：烂片名垂影史的三大条件",
+          "url": "https://www.huxiu.com/article/4885325.html?f=rss",
+          "summary": "本文来自微信公众号： 硅谷VC布莱恩 ，作者：硅谷VC 布莱恩 八月中旬，电影院里有一批观众疯了。 影院经理很高兴。现在这年头，只要肯买票，精神状态属于次要指标。 他们买票前不看评分，先研究座位图。有人一格一格点，硬把空座拼成一声赞叹。正常人选座讲视野，这批人选座讲书法。 这部电影叫《牛来》。 电影开场，小牛刚一露面，全场鼓掌。那架势，不知道的还以为它刚从戛…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-23T18:30:08.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-23T22:52:28.333Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-23T22:52:28.333Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-23T22:52:28.333Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "651122d34600",
+          "title": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
+          "titleZh": "Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare recently open-sourced Cloudflare OS. It allows enterprise teams to output work artifacts grounded in enterprise knowledge, know-how, and provisioned connectors, automate…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-08-23T22:50:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9a76a62f3198",
+          "title": "Why real-time AI at scale is so hard",
+          "titleZh": "Why real-time AI at scale is so hard",
+          "url": "https://thenewstack.io/real-time-ai-scale/",
+          "summary": "Real-time AI at scale is harder than it looks. Pipelines that hum along in development routinely hit problems in production. It&rsquo;s always easy to blame the model for all your …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-23T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba76da563d15",
+          "title": "One pull to wipe them all",
+          "titleZh": "One pull to wipe them all",
+          "url": "https://thenewstack.io/ai-coding-agent-security/",
+          "summary": "Q Developer is a free extension that lets a coding agent read a project, propose changes, and run commands on a developer’s behalf inside an editor. On July 13, 2025, someone with …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-23T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9b56d68168f4",
+          "title": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
+          "titleZh": "Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability",
+          "url": "https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google is introducing HEIR (Homomorphic Encryption Intermediate Representation), an open-source compiler and development toolchain designed to make encrypted computation easier to …",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-08-23T18:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 27,
+    "itemsPublished": 26,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 50,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
