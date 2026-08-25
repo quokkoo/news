@@ -1,0 +1,1304 @@
+{
+  "date": "2026-08-26",
+  "generatedAt": "2026-08-25T22:58:29.822Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "43f54bf03754",
+        "reason": "MIT Technology Review，规则排序分数最高"
+      },
+      {
+        "itemId": "3ceeedc182d2",
+        "reason": "MIT Technology Review，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "ef1d681ef08b",
+          "title": "私募退出困局难解，结构化股权成“回血”新工具",
+          "titleZh": "私募退出困局难解，结构化股权成“回血”新工具",
+          "url": "https://wallstreetcn.com/articles/3780291",
+          "summary": "私募股权行业正以一种新型融资工具应对长达数年的流动性危机。 在利率高企、资产出售受阻的背景下，全球大型基金转向\"结构化股权\"交易，通过与Apollo Global Management、贝恩资本等私募资本巨头达成定制化融资协议，在无需出售资产的前提下向投资者返还现金。 这一趋势正从美欧向亚洲蔓延，并已成为行业应对退出僵局的核心手段之一。 目前，全球收购基金共…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T22:51:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f49fbc478fb4",
+          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "titleZh": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "summary": "油价大幅下滑与外交降温预期共同推动美债收益率走低，美股周二小幅收涨，但整体表现受制于夏季淡季的低迷情绪。市场注意力高度集中于本周两大关键事件：英伟达周三盘后财报，以及美联储主席Kevin Warsh周五在杰克逊霍尔的讲话。 围绕霍尔木兹海峡的外交进展成为当日最重要的市场催化剂。伊朗与阿曼就\"恢复霍尔木兹海峡航行\"问题发表联合声明，加之美国据报道将外交官重新派…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T21:42:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8060ff3b1424",
+          "title": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力",
+          "titleZh": "伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力",
+          "url": "https://wallstreetcn.com/articles/3780282",
+          "summary": "美东时间25日周二，纽约商品交易所（COMEX）期铜即月合约和伦敦金属交易所（LME）三个月期铜均创收盘最高纪录。 美国潜在铜关税引发的跨区域库存重新配置仍是外盘期铜连涨的重要动力，同时LME市场现货供应趋紧的信号再度强化，叠加电网、数据中心、国防和电气化等领域的需求支撑，继续推升市场对铜价的看涨预期。 与此同时，市场正在等待美国铜关税政策的进一步明朗化，以…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T20:17:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "16f3bcf87fa0",
+          "title": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使",
+          "titleZh": "Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使",
+          "url": "https://wallstreetcn.com/articles/3780293",
+          "summary": "Anthropic正在为今年晚些时候的上市计划积极备战，此次法律团队高层调整是其中关键一步。 据彭博报道，Anthropic已将助理总法律顾问Elena Leichty晋升为总法律顾问。前任总法律顾问、前美国驻澳大利亚大使Jeffrey Bleich则转任新设立的国际特别大使职务，聚焦全球政策与外交事务。 随着Leichty晋升，其原职位由多伦多的助理总法律…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T22:50:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0af3ee962f68",
+          "title": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
+          "titleZh": "Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元",
+          "url": "https://wallstreetcn.com/articles/3780285",
+          "summary": "Anthropic正就IPO筹备向投资者描绘一幅前所未有的市场愿景。 8月25日，据《华尔街日报》援引知情人士透露，这家Claude聊天机器人制造商拟告知投资者，其潜在市场总规模（TAM）将超过30万亿美元，超越SpaceX此前创下的28.5万亿美元纪录。 Anthropic预计2028年收入将达约1900亿至2000亿美元，IPO估值目标约为2万亿美元，高…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T20:44:13.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "798d7fb62655",
+          "title": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构",
+          "titleZh": "AI模型\"越狱\"事件频发，网络安全测试标准面临重构",
+          "url": "https://wallstreetcn.com/articles/3780286",
+          "summary": "人工智能领域正在经历一场关于安全测试方式的深刻反思。在多家顶级AI实验室的先进模型相继突破测试环境、侵入真实系统并造成实际损害后，业界对现行沙盒隔离机制的有效性产生了根本性质疑。 这场讨论的直接导火索，是OpenAI披露其部分最先进模型曾逃脱沙盒环境，自行访问互联网、入侵另一家公司服务器并窃取机密信息。Anthropic和Meta旗下模型也分别卷入类似事件—…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-25T20:17:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "43f54bf03754",
+          "title": "Amping up T cells to target cancer",
+          "titleZh": "Amping up T cells to target cancer",
+          "url": "https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/",
+          "summary": "Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, howeve…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3ceeedc182d2",
+          "title": "Taking your temperature from the inside",
+          "titleZh": "Taking your temperature from the inside",
+          "url": "https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/",
+          "summary": "Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swa…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "824f1cd32c02",
+          "title": "Addressing a sticking point in sustainable adhesives",
+          "titleZh": "Addressing a sticking point in sustainable adhesives",
+          "url": "https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/",
+          "summary": "Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise re…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e9856aad7ad",
+          "title": "Launching youth entrepreneurship",
+          "titleZh": "Launching youth entrepreneurship",
+          "url": "https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/",
+          "summary": "Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see thes…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7fbf71e1738d",
+          "title": "A new stamp on cyberfraud prevention",
+          "titleZh": "A new stamp on cyberfraud prevention",
+          "url": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
+          "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ab71fec9bb50",
+          "title": "AgeLab research inspires an A I startup",
+          "titleZh": "AgeLab research inspires an A I startup",
+          "url": "https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/",
+          "summary": "When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants ta…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "120bfb2c9795",
+          "title": "Seeing through murky waters",
+          "titleZh": "Seeing through murky waters",
+          "url": "https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/",
+          "summary": "When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only …",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2633a1f9a372",
+          "title": "Your brain on AI",
+          "titleZh": "Your brain on AI",
+          "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/",
+          "summary": "Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. P…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-25T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "9eb652756fbb",
+          "title": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+          "titleZh": "Rubio tells allies U.S. shifting from strikes to sanctions on Iran",
+          "url": "https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil",
+          "summary": "Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that \"for the time being\" the U.S. is not expected to initiate new strikes against Iran ,…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-25T21:29:31.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6b403156685d",
+          "title": "Trump administration violated court order on mail-voting rules, judge says",
+          "titleZh": "Trump administration violated court order on mail-voting rules, judge says",
+          "url": "https://www.axios.com/2026/08/25/usps-mail-voting-rule-injunction",
+          "summary": "A Massachusetts judge ruled Tuesday that the Trump administration violated a nationwide injunction by finalizing a rule that would significantly overhaul mail voting if allowed to …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-25T20:42:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6d570e4f13cb",
+          "title": "历史无法预见AI的未来",
+          "titleZh": "历史无法预见AI的未来",
+          "url": "https://www.huxiu.com/article/4885981.html?f=rss",
+          "summary": "本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-25T22:43:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3b88d23fe05a",
+          "title": "House Democrats' pro-Israel wing gains power on panel overseeing foreign policy",
+          "titleZh": "House Democrats' pro-Israel wing gains power on panel overseeing foreign policy",
+          "url": "https://www.axios.com/2026/08/25/democrats-israel-moskowitz-house-foreign-affairs",
+          "summary": "A trio of vocally pro-Israel House Democrats were given powerful posts on the House Foreign Affairs Committee on Tuesday, with one taking the reins of the subcommittee that oversee…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-25T19:49:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "edbecac2959d",
+          "title": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
+          "titleZh": "Kennedy Center's survival depends on Trump, DOJ says in new filing",
+          "url": "https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down",
+          "summary": "The Trump administration argued in a Monday court filing that the John F. Kennedy Center for the Performing Arts must undergo proposed renovations and a cash infusion to survive. W…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-25T18:46:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-25T22:58:20.957Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-25T22:58:20.957Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-25T22:58:20.957Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "7590e44de572",
+          "title": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026",
+          "titleZh": "Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026",
+          "url": "https://www.semiconductor-digest.com/gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026/?utm_source=rss&utm_medium=rss&utm_campaign=gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026",
+          "summary": "Global semiconductor revenue is expected to reach $1.6 trillion in 2026, increasing 92% from 2025 revenue of $809 billion, according to Gartner, Inc., a business and technology ins…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-25T20:24:45.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f197f34621e2",
+          "title": "Qnity Expands AI-Driven Advanced Packaging Capabilities with End-to-End Process Solutions",
+          "titleZh": "Qnity Expands AI-Driven Advanced Packaging Capabilities with End-to-End Process Solutions",
+          "url": "https://www.semiconductor-digest.com/qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions",
+          "summary": "Qnity Electronics, Inc., a technology solutions leader across the semiconductor value chain, today introduced a scalable materials solution platform that brings together metallizat…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-25T20:23:16.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "37a01ddbf150",
+          "title": "AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs",
+          "titleZh": "AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs",
+          "url": "https://www.semiconductor-digest.com/amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs/?utm_source=rss&utm_medium=rss&utm_campaign=amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs",
+          "summary": "AMD will offer the first Versal adaptive SoCs with native support for Universal Chiplet Interconnect Express (UCIe) 1.1 interfaces, enabling, low-power, high-bandwidth communicatio…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-25T20:20:02.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a9981039d34",
+          "title": "Celera Semiconductor Announces the Closing of a $30M Series B Financing Round",
+          "titleZh": "Celera Semiconductor Announces the Closing of a $30M Series B Financing Round",
+          "url": "https://www.semiconductor-digest.com/celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round/?utm_source=rss&utm_medium=rss&utm_campaign=celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round",
+          "summary": "Celera Semiconductor, the analog IC supplier using AI to slash the cost and time to develop and supply analog ICs, today announced it had closed $30M of Series B financing. The rou…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-25T20:21:46.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "8aa8d11d6769",
+          "title": "No immunity: how Xi’s anti-corruption fighters are zeroing in on fresh targets",
+          "titleZh": "No immunity: how Xi’s anti-corruption fighters are zeroing in on fresh targets",
+          "url": "https://www.scmp.com/news/china/politics/article/3365175/no-immunity-how-xis-anti-corruption-fighters-are-zeroing-fresh-targets?utm_source=rss_feed",
+          "summary": "The South China Morning Post has launched a major data project diving into President Xi Jinping’s signature anti-graft campaign. In the second part of an accompanying series, Willi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-25T22:00:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e685efcaa6ff",
+          "title": "Africa knows who its true friends are – and they’re not in Washington",
+          "titleZh": "Africa knows who its true friends are – and they’re not in Washington",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3364970/africa-knows-who-its-true-friends-are-and-theyre-not-washington?utm_source=rss_feed",
+          "summary": "The gaffe at last month’s Aids 2026 conference in Rio de Janeiro, where a US State Department presentation displayed a map of Africa with every country mislabelled, serves as more …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-25T21:30:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cf2bc08b7d41",
+          "title": "Trump says China is driving anger at US data centres. These residents disagree",
+          "titleZh": "Trump says China is driving anger at US data centres. These residents disagree",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3365255/trump-says-china-driving-opposition-data-centres-these-residents-disagree?utm_source=rss_feed",
+          "summary": "On the tree-lined streets of Sterling, northern Virginia, Lindsay Shaw’s home sits across from an industrial neighbour that has consumed the past several years of her life: a data …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-25T20:46:19.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "f56b70535938",
+          "title": "Is Maine finally about to make wind power happen?",
+          "titleZh": "Is Maine finally about to make wind power happen?",
+          "url": "https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen",
+          "summary": "For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state. On Tuesday morning, utility regulators brought that vision a little closer…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-25T22:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "51427b574f51",
+          "title": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+          "titleZh": "New Jersey seeks 150 MW of behind-the-meter storage to support VPP",
+          "url": "https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/",
+          "summary": "The comparatively modest maximum annual incentive of $200/kW over 10 years reflects the “private resilience value of residential energy storage systems,” state regulators said.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-25T15:35:09.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "44eee24837e1",
+          "title": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
+          "titleZh": "Data centers can vanish from the grid in seconds; reliability rules need to catch up",
+          "url": "https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/",
+          "summary": "The loss of more than 3 GW of data center demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io founder Brandon Owens.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-08-25T15:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "d8c96d62681d",
+          "title": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
+          "titleZh": "FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+          "summary": "The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes.",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-08-25T18:21:22.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a4624bf2edf4",
+          "title": "To predict tree death, scientists tapped gamma rays to peer underground",
+          "titleZh": "To predict tree death, scientists tapped gamma rays to peer underground",
+          "url": "https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground",
+          "summary": "Airborne radiation sensors could help forecast and prevent drought-driven tree mortality",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-25T12:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fb578e8a454e",
+          "title": "Fraudulent images are rife on antibody sellers’ websites, researcher says",
+          "titleZh": "Fraudulent images are rife on antibody sellers’ websites, researcher says",
+          "url": "https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says",
+          "summary": "New tally reveals nearly 19,000 altered images in reagent catalogs",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-25T09:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "60a5d13290fc",
+          "title": "How to evaluate LLMs before production",
+          "titleZh": "How to evaluate LLMs before production",
+          "url": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
+          "summary": "A language model can perform well on a clean benchmark and still struggle with the cases that matter in production. Benchmarks and curated datasets are useful when prototyping an L…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-25T21:35:11.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a91b899cd51",
+          "title": "Postgres at PlanetScale",
+          "titleZh": "Postgres at PlanetScale",
+          "url": "https://changelog.com/podcast/684",
+          "summary": "Sam Lambert is back after 4 years and he does not hold back! We cover $5 PlanetScale Postgres, the Neki “do-over” of Vitess, agents shipping schema changes through deploy requests,…",
+          "whyItMatters": "",
+          "sourceName": "Changelog",
+          "publishedAt": "2026-08-25T19:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5aa83bcc9aa1",
+          "title": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+          "titleZh": "Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.",
+          "url": "https://thenewstack.io/shopify-claude-code-agentsmd/",
+          "summary": "Shopify CEO Tobi L&uuml;tke is considering banning Claude Code at the company, but not because he thinks Anthropic&rsquo;s coding agent isn&rsquo;t good. The problem, he says, is a…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-25T19:39:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "76062f9e1a49",
+          "title": "IBM’s new Granite 4.2 models add reasoning and stay dense",
+          "titleZh": "IBM’s new Granite 4.2 models add reasoning and stay dense",
+          "url": "https://thenewstack.io/ibm-granite-reasoning-models/",
+          "summary": "On Tuesday, IBM launched the latest family of its open-weight Granite large language models (LLMs). Weighing in at 3 billion, 8 billion, and 30 billion parameters, IBM is taking a …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-25T19:13:45.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "5af69c19d9eb",
+          "title": "Dick’s Sporting Goods says it’s ‘still early in the Foot Locker turnaround’ as it cites footwear challenges",
+          "titleZh": "Dick’s Sporting Goods says it’s ‘still early in the Foot Locker turnaround’ as it cites footwear challenges",
+          "url": "https://www.modernretail.co/operations/dicks-sporting-goods-says-its-still-early-in-the-foot-locker-turnaround-as-it-cites-footwear-challenges/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Dick’s Sporting Goods says it remains bullish on its Foot Locker business, even as it lowered its yearly guidance for the segment, citing “challenging conditions” in the athletic f…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-08-25T17:14:03.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c674c94579d8",
+          "title": "America’s immigration policy is driving away future AI leaders",
+          "titleZh": "America’s immigration policy is driving away future AI leaders",
+          "url": "https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "The Trump administration has proposed a new fee for H-1B visas, while weighing a $100,000 fee on Optional Practical Training, the program that allows international graduates to wor…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-08-25T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "da4c19775eee",
+          "title": "Exclusive: Beauty service Ipsy is becoming a marketing solutions company, too",
+          "titleZh": "Exclusive: Beauty service Ipsy is becoming a marketing solutions company, too",
+          "url": "https://www.modernretail.co/marketing/exclusive-beauty-service-ipsy-is-becoming-a-marketing-solutions-company-too/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Ipsy is now offering marketing services as it looks to onboard new brands and court more customers. The beauty subscription company is debuting Ipsy Marketing Solutions, an offerin…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-08-25T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "43f54bf03754",
+    "3ceeedc182d2",
+    "4639984632fb"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 42,
+    "itemsFiltered": 0,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 64,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
