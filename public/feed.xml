@@ -6,209 +6,209 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 25 Aug 2026 22:58:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 03:31:51 GMT</lastBuildDate>
     <item>
-      <title>【2026-08-26 今日导读】</title>
+      <title>【2026-08-27 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-08-26</guid>
-      <pubDate>Tue, 25 Aug 2026 22:58:29 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-08-27</guid>
+      <pubDate>Thu, 27 Aug 2026 03:31:51 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、消费、出海与品牌等 11 个领域，全部读完约需 78 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>私募退出困局难解，结构化股权成“回血”新工具</title>
-      <link>https://wallstreetcn.com/articles/3780291</link>
-      <guid isPermaLink="false">ef1d681ef08b</guid>
-      <pubDate>Tue, 25 Aug 2026 22:51:33 GMT</pubDate>
+      <title>据报英伟达129亿美元收购Hugging Face，AI&quot;中间层&quot;争夺战全面打响</title>
+      <link>https://wallstreetcn.com/articles/3780408</link>
+      <guid isPermaLink="false">6ed6b0660f63</guid>
+      <pubDate>Thu, 27 Aug 2026 03:04:28 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>私募股权行业正以一种新型融资工具应对长达数年的流动性危机。 在利率高企、资产出售受阻的背景下，全球大型基金转向&quot;结构化股权&quot;交易，通过与Apollo Global Management、贝恩资本等私募资本巨头达成定制化融资协议，在无需出售资产的前提下向投资者返还现金。 这一趋势正从美欧向亚洲蔓延，并已成为行业应对退出僵局的核心手段之一。 目前，全球收购基金共…
+      <description>据The Information报道，当地事件8月26日，英伟达已同意以129亿美元收购开源AI平台Hugging Face。 就在此前数天，Stripe刚刚以超过80亿美元吞下AI模型路由平台OpenRouter。 两笔交易在同一时间窗口内接连落地，宣告了一个清晰的新趋势：AI&quot;中间层&quot;基础设施正成为大公司战略抢购的核心标的。 对投资者而言，这一趋势的投资…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%</title>
-      <link>https://wallstreetcn.com/articles/3780215</link>
-      <guid isPermaLink="false">f49fbc478fb4</guid>
-      <pubDate>Tue, 25 Aug 2026 21:42:36 GMT</pubDate>
+      <title>中国1—7月规模以上工业企业利润同比增长17.6%，集成电路行业利润同比增长18.5倍</title>
+      <link>https://wallstreetcn.com/articles/3780399</link>
+      <guid isPermaLink="false">4fe5cdd41382</guid>
+      <pubDate>Thu, 27 Aug 2026 01:56:56 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>油价大幅下滑与外交降温预期共同推动美债收益率走低，美股周二小幅收涨，但整体表现受制于夏季淡季的低迷情绪。市场注意力高度集中于本周两大关键事件：英伟达周三盘后财报，以及美联储主席Kevin Warsh周五在杰克逊霍尔的讲话。 围绕霍尔木兹海峡的外交进展成为当日最重要的市场催化剂。伊朗与阿曼就&quot;恢复霍尔木兹海峡航行&quot;问题发表联合声明，加之美国据报道将外交官重新派…
+      <description>8月27日，国家统计局公布的数据显示，1—7月份，全国规模以上工业企业实现利润总额45820.6亿元，同比增长17.6%。7月份，全国规模以上工业企业利润同比增长11.2%。 国家统计局工业司首席统计师于卫宁称，随着“人工智能+”加快拓展、算力需求持续扩张，相关产品需求增加拉动价格上涨，带动与人工智能生产和应用相关的电子行业利润高速增长。1—7月份，电子行业…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>伦铜纽铜齐创历史新高！关税预期与库存“错配”持续发力</title>
-      <link>https://wallstreetcn.com/articles/3780282</link>
-      <guid isPermaLink="false">8060ff3b1424</guid>
-      <pubDate>Tue, 25 Aug 2026 20:17:17 GMT</pubDate>
+      <title>英伟达电话会：毛利率Q4财季触底，预计明年营收增长70%、CPU收入翻倍增长、内存瓶颈持续</title>
+      <link>https://wallstreetcn.com/articles/3780381</link>
+      <guid isPermaLink="false">637b98ee8f8d</guid>
+      <pubDate>Thu, 27 Aug 2026 01:49:34 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美东时间25日周二，纽约商品交易所（COMEX）期铜即月合约和伦敦金属交易所（LME）三个月期铜均创收盘最高纪录。 美国潜在铜关税引发的跨区域库存重新配置仍是外盘期铜连涨的重要动力，同时LME市场现货供应趋紧的信号再度强化，叠加电网、数据中心、国防和电气化等领域的需求支撑，继续推升市场对铜价的看涨预期。 与此同时，市场正在等待美国铜关税政策的进一步明朗化，以…
+      <description>面对极度受限的供应链与爆棚的“代理AI（Agentic AI）”需求，英伟达在交出Q2创纪录的960亿美元营收后，抛出了下财年增长70%的强劲指引，并直言该数据仍未能完全反映市场的真实渴求。 当地时间2026年8月26日，英伟达召开了2027财年第二季度财报电话会议。在这场万众瞩目的业绩会上，英伟达首席执行官黄仁勋与首席财务官科莱特·克雷斯（Colette …
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Anthropic加速IPO筹备：提拔新总法律顾问，前任转任国际特别大使</title>
-      <link>https://wallstreetcn.com/articles/3780293</link>
-      <guid isPermaLink="false">16f3bcf87fa0</guid>
-      <pubDate>Tue, 25 Aug 2026 22:50:58 GMT</pubDate>
+      <title>OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？</title>
+      <link>https://wallstreetcn.com/articles/3780392</link>
+      <guid isPermaLink="false">158515d5c8c1</guid>
+      <pubDate>Thu, 27 Aug 2026 00:46:34 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Anthropic正在为今年晚些时候的上市计划积极备战，此次法律团队高层调整是其中关键一步。 据彭博报道，Anthropic已将助理总法律顾问Elena Leichty晋升为总法律顾问。前任总法律顾问、前美国驻澳大利亚大使Jeffrey Bleich则转任新设立的国际特别大使职务，聚焦全球政策与外交事务。 随着Leichty晋升，其原职位由多伦多的助理总法律…
+      <description>OpenAI联合博通推出的自研推理芯片Jalapeño首次公布实测数据，性能指标显著超越现有英伟达级别系统，引发市场对AI芯片格局重构的广泛讨论。 据高盛交易部门负责人Rich Privorotsky的最新分析，Jalapeño并非所谓的&quot;英伟达终结者&quot;，但其问世标志着AI硬件市场正从高度集中走向多元分化。这一判断直接关系到英伟达的长期估值逻辑——不是今年的…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%</title>
+      <link>https://wallstreetcn.com/articles/3780394</link>
+      <guid isPermaLink="false">65126aadf564</guid>
+      <pubDate>Thu, 27 Aug 2026 00:44:38 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>在AI技术引发的网络安全焦虑不断升级之际，全球网络安全巨头CrowdStrike交出了一份极其亮眼的财报。受全面超预期的第二季度业绩及强劲的全年指引推动，CrowdStrike周三盘后股价一度大涨12%。在此之前，该股今年以来的累计涨幅已超过60%。 8月26日公布的最新财报显示，CrowdStrike第二季度实现营收1.47亿美元，调整后每股收益为0.31…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>科创50涨3%，光通信、光模块集体拉升，存储芯片反弹，恒指盘中进一步下跌，AI大模型双雄齐涨</title>
+      <link>https://wallstreetcn.com/articles/3780403</link>
+      <guid isPermaLink="false">80e9ee40a78c</guid>
+      <pubDate>Thu, 27 Aug 2026 03:02:28 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>英伟达业绩指引碾压市场预期，A股光通信概念股集体走强。 8月27日，A股早盘震荡走高，三大股指盘初小幅上涨，盘中进一步拉升，深成指、创业板涨超1%，在算力硬件、芯片半导体拉升的带动下，科创50涨3%，光通信、光模块、HBM、光电路交换机、存储芯片等概念股集体大涨，电工电网、生物科技、光伏、储能等板块调整。 港股高开低走，恒指、恒科指盘初纷纷回落，科网股分化，…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Anthropic拟向投资者披露超30万亿美元市场潜力，IPO估值目标约2万亿美元</title>
-      <link>https://wallstreetcn.com/articles/3780285</link>
-      <guid isPermaLink="false">0af3ee962f68</guid>
-      <pubDate>Tue, 25 Aug 2026 20:44:13 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>Anthropic正就IPO筹备向投资者描绘一幅前所未有的市场愿景。 8月25日，据《华尔街日报》援引知情人士透露，这家Claude聊天机器人制造商拟告知投资者，其潜在市场总规模（TAM）将超过30万亿美元，超越SpaceX此前创下的28.5万亿美元纪录。 Anthropic预计2028年收入将达约1900亿至2000亿美元，IPO估值目标约为2万亿美元，高…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>AI模型&quot;越狱&quot;事件频发，网络安全测试标准面临重构</title>
-      <link>https://wallstreetcn.com/articles/3780286</link>
-      <guid isPermaLink="false">798d7fb62655</guid>
-      <pubDate>Tue, 25 Aug 2026 20:17:31 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>人工智能领域正在经历一场关于安全测试方式的深刻反思。在多家顶级AI实验室的先进模型相继突破测试环境、侵入真实系统并造成实际损害后，业界对现行沙盒隔离机制的有效性产生了根本性质疑。 这场讨论的直接导火索，是OpenAI披露其部分最先进模型曾逃脱沙盒环境，自行访问互联网、入侵另一家公司服务器并窃取机密信息。Anthropic和Meta旗下模型也分别卷入类似事件—…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
-    </item>
-    <item>
-      <title>Amping up T cells to target cancer</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140949/amping-up-t-cells-to-target-cancer/</link>
-      <guid isPermaLink="false">43f54bf03754</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro</title>
+      <link>https://www.latent.space/p/ainews-nvidia-buys-huggingface-for</link>
+      <guid isPermaLink="false">5cee3236ff99</guid>
+      <pubDate>Thu, 27 Aug 2026 01:50:54 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Vaccines that turn the body’s immune system against tumors have shown promise in clinical trials, and a handful have been FDA approved for certain cancers. In many patients, howeve…
+      <description>TheInformation had the scoop , and now they have the confirmation — Nvidia is buying HuggingFace for $13B, roughly 80x their $150M ARR , having doubled its customer base in 2026 . …
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Taking your temperature from the inside</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140952/taking-your-temperature-from-the-inside/</link>
-      <guid isPermaLink="false">3ceeedc182d2</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6</title>
+      <link>https://www.latent.space/p/ainews-hot-chips-openais-jalapeno</link>
+      <guid isPermaLink="false">6703a7547758</guid>
+      <pubDate>Thu, 27 Aug 2026 01:31:22 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Oral and forehead thermometers may not accurately capture a person’s core body temperature, and the few ingestible temperature sensors on the market are so big they are hard to swa…
+      <description>By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it is…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Addressing a sticking point in sustainable adhesives</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140902/addressing-a-sticking-point-in-sustainable-adhesives/</link>
-      <guid isPermaLink="false">824f1cd32c02</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>GlucoFM: Foundation model for continuous glucose monitoring</title>
+      <link>https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/</link>
+      <guid isPermaLink="false">11e665ba71c6</guid>
+      <pubDate>Wed, 26 Aug 2026 18:42:43 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Petroleum-based adhesives are everywhere: bonding the wood and drywall in a construction project, holding together the joints of furniture, and even sticking labels to otherwise re…
+      <description>Consumer wearables use motion and physiological sensors to estimate activity and sleep, but these signals provide only an indirect view of glucose regulation. Continuous glucose mo…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Launching youth entrepreneurship</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140911/launching-youth-entrepreneurship/</link>
-      <guid isPermaLink="false">1e9856aad7ad</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>The inside story on why OpenAI agents hacked Hugging Face</title>
+      <link>https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link>
+      <guid isPermaLink="false">40a611913d51</guid>
+      <pubDate>Wed, 26 Aug 2026 19:00:00 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Even as a teenager, Laurie Stach ’06 says, she had a “crazy ambition to take on the world and solve problems.” At MIT, she realized she wasn’t the only one. “Adults always see thes…
+      <description>The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical repo…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>A new stamp on cyberfraud prevention</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/</link>
-      <guid isPermaLink="false">7fbf71e1738d</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>Nvidia agrees to acquire Hugging Face for $13B</title>
+      <link>https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8</link>
+      <guid isPermaLink="false">9346f385e95f</guid>
+      <pubDate>Thu, 27 Aug 2026 01:12:55 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them…
+      <description>https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: https://news.ycombinator.c…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>AgeLab research inspires an A I startup</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140917/agelab-research-inspires-an-a-i-startup/</link>
-      <guid isPermaLink="false">ab71fec9bb50</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>Qwen3.8-Flash-Next</title>
+      <link>https://simonwillison.net/2026/Aug/26/qwen38-flash-next/</link>
+      <guid isPermaLink="false">dd520039a05b</guid>
+      <pubDate>Wed, 26 Aug 2026 23:52:58 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>When Don Yansen ’63 arrived at the MIT AgeLab for a study on technology in care­giving for older adults, he didn’t plan to launch another company. But when he heard participants ta…
+      <description>Qwen3.8-Flash-Next Another open weights model from Qwen. This one is &quot;a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4&quot;. It&apos;s pretty bi…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Seeing through murky waters</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140955/seeing-through-murky-waters/</link>
-      <guid isPermaLink="false">120bfb2c9795</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>RIP, Tim Curry: Ars remembers his top 10 iconic performances</title>
+      <link>https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/</link>
+      <guid isPermaLink="false">786ceb5d964a</guid>
+      <pubDate>Wed, 26 Aug 2026 22:13:15 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>When remotely operated vehicles settle on the seafloor or dig through a sand bed, they can kick up clouds of sediment that onboard cameras struggle to see through. Often, the only …
+      <description>It&apos;s said celebrity deaths come in threes. We lost Sam Neill last month , and the legendary Dolly Parton yesterday . Now we find out that the universe has also seen fit to deprive …
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Your brain on AI</title>
-      <link>https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai/</link>
-      <guid isPermaLink="false">2633a1f9a372</guid>
-      <pubDate>Tue, 25 Aug 2026 21:00:00 GMT</pubDate>
+      <title>Intelligent transcription with Gemini 3.5 Transcribe</title>
+      <link>https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/</link>
+      <guid isPermaLink="false">7b4b63f91032</guid>
+      <pubDate>Wed, 26 Aug 2026 17:01:00 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Many people find AI-based chatbots helpful in keeping up with news, but a study by Pattie Maes and her colleagues at the MIT Media Lab points to a big problem with this strategy. P…
+      <description>Aug 26, 2026 | Our latest speech-to-text model designed for precise and intelligent real-time transcription. Diego Melendo Casado Senior Director, Engineering, Gemini Audio Luke Le…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Google DeepMind · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Rubio tells allies U.S. shifting from strikes to sanctions on Iran</title>
-      <link>https://www.axios.com/2026/08/25/rubio-iran-war-hormuz-oil</link>
-      <guid isPermaLink="false">9eb652756fbb</guid>
-      <pubDate>Tue, 25 Aug 2026 21:29:31 GMT</pubDate>
+      <title>MiniMax开始靠别人赚钱</title>
+      <link>https://www.huxiu.com/article/4886293.html?f=rss</link>
+      <guid isPermaLink="false">8ae3bde5da3b</guid>
+      <pubDate>Wed, 26 Aug 2026 23:40:13 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Secretary of State Marco Rubio has told several of his foreign counterparts in recent days that &quot;for the time being&quot; the U.S. is not expected to initiate new strikes against Iran ,…
-
-来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Trump administration violated court order on mail-voting rules, judge says</title>
-      <link>https://www.axios.com/2026/08/25/usps-mail-voting-rule-injunction</link>
-      <guid isPermaLink="false">6b403156685d</guid>
-      <pubDate>Tue, 25 Aug 2026 20:42:06 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>A Massachusetts judge ruled Tuesday that the Trump administration violated a nationwide injunction by finalizing a rule that would significantly overhaul mail voting if allowed to …
-
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>历史无法预见AI的未来</title>
-      <link>https://www.huxiu.com/article/4885981.html?f=rss</link>
-      <guid isPermaLink="false">6d570e4f13cb</guid>
-      <pubDate>Tue, 25 Aug 2026 22:43:11 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 青野有枯荣 ，作者：青野Tsingyeh 7月权益市场的大幅调整伴随着“AI泡沫”辩论的激化，至今市场仍围绕“反弹还是反转”博弈不休。这早已不是市场第一次质疑“泡沫”：抛开过去两年的诸多起伏，哪怕从去年11月算起，市场也已围绕宏观冲击、债务与现金流、AI下游应用、硬件涨价持续性等等方面做过辩论和博弈。不难看到：每一次质疑，都以明确的产业…
+      <description>本文来自微信公众号： 版面之外 ，作者：版君 MiniMax上市后的首份半年财报，最有意思的数字，恰恰不是收入。 上半年收入1.17亿美元，已经超过2025年全年。但研发投入，是收入的2.5倍。 更有意思的是收入结构。开放平台及其他AI企业服务收入7393万美元，占总收入63.4%；AI原生产品收入4264万美元，占比降至36.6%。 一家最早靠C端产品被大…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>House Democrats&apos; pro-Israel wing gains power on panel overseeing foreign policy</title>
-      <link>https://www.axios.com/2026/08/25/democrats-israel-moskowitz-house-foreign-affairs</link>
-      <guid isPermaLink="false">3b88d23fe05a</guid>
-      <pubDate>Tue, 25 Aug 2026 19:49:18 GMT</pubDate>
+      <title>草间弥生：这世界太糟，不如做一个叛逆者</title>
+      <link>https://www.huxiu.com/article/4886335.html?f=rss</link>
+      <guid isPermaLink="false">cfaca33edb8d</guid>
+      <pubDate>Thu, 27 Aug 2026 02:51:17 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>A trio of vocally pro-Israel House Democrats were given powerful posts on the House Foreign Affairs Committee on Tuesday, with one taking the reins of the subcommittee that oversee…
+      <description>虎嗅注：日本草间弥生美术馆8月27日发布讣告，该馆创办者、日本知名艺术家草间弥生8月14日在日本东京一家医院去世，享年97岁。 本文来自微信公众号：看理想，作者：看理想编辑部，文章首发时间：2018年9月25日，原文标题：《这世界太糟，不如做一个叛逆者 | 草间弥生》，题图来自：视觉中国 波点，密集的波点；色彩，艳丽的色彩——即使你没有听过“草间弥生”，想必…
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Kennedy Center&apos;s survival depends on Trump, DOJ says in new filing</title>
-      <link>https://www.axios.com/2026/08/25/trump-kennedy-center-taken-down</link>
-      <guid isPermaLink="false">edbecac2959d</guid>
-      <pubDate>Tue, 25 Aug 2026 18:46:14 GMT</pubDate>
+      <title>适老化加速，毫米波雷达等来春天？</title>
+      <link>https://www.huxiu.com/article/4886332.html?f=rss</link>
+      <guid isPermaLink="false">ea6a6b3af0a4</guid>
+      <pubDate>Thu, 27 Aug 2026 02:40:38 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>The Trump administration argued in a Monday court filing that the John F. Kennedy Center for the Performing Arts must undergo proposed renovations and a cash infusion to survive. W…
+      <description>本文来自微信公众号： 科技助老新范式 ，编辑：吴佩蔚，作者：周宇翔 2026年2月，深圳龙岗，全省首家鸿蒙智护养老院正式投用。 走廊、卧室和卫生间里，多了一批不起眼的传感器。它们不拍照，也不需要老人佩戴，却可以识别起身、跌倒、长时间静止等异常状态，并将信息推送给护理人员。 四个月后，上海一位93岁的独居老人深夜在卧室起身时摔倒，无力呼救。正是墙上这台“隐形守…
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>拒绝670亿，最”凡尔赛”融资诞生</title>
+      <link>https://www.huxiu.com/article/4886334.html?f=rss</link>
+      <guid isPermaLink="false">3951b70fcbff</guid>
+      <pubDate>Thu, 27 Aug 2026 02:24:39 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 东四十条资本 ，作者：李馨婷 谁又敢低估数据基建商的价值呢？ AI圈又诞生了一家万亿级别独角兽。 近日，AI大数据公司Databricks宣布完成50亿美元（约合人民币336.89亿元）的战略融资，公司最新估值达到1900亿美元（约合人民币1.3万亿元）。 这是一轮颇为拥挤的融资。本轮融资参与机构数量超过20家，由老股东Coatue领投…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 3 分钟</description>
+    </item>
+    <item>
+      <title>这个夏天，博物馆们怎么接连道歉？</title>
+      <link>https://www.huxiu.com/article/4886331.html?f=rss</link>
+      <guid isPermaLink="false">2052a5df03b5</guid>
+      <pubDate>Thu, 27 Aug 2026 02:22:37 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 增长会 ，作者：孟默 从圆明园兽首展的客流拥堵，到长征版画展的错字连篇，再到《韩熙载夜宴图》的排队6小时，一个月内三次致歉，让浙博成了今年暑假文博圈最“出圈”的博物馆，尽管出圈的方式多少有些尴尬。 这个8月 浙博已经道歉了3次 先来回顾一下浙博的三次道歉分别因为什么。 *兽首免费展出，客流超出承载上限 7月30日，“再现圆明园——国宝百…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Tue, 25 Aug 2026 22:58:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 03:31:38 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Tue, 25 Aug 2026 22:58:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 03:31:38 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,211 +228,161 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Tue, 25 Aug 2026 22:58:20 GMT</pubDate>
+      <pubDate>Thu, 27 Aug 2026 03:31:38 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Gartner Forecasts Worldwide Semiconductor Revenue to Reach $1.6 Trillion in 2026</title>
-      <link>https://www.semiconductor-digest.com/gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=gartner-forecasts-worldwide-semiconductor-revenue-to-reach-1-6-trillion-in-2026</link>
-      <guid isPermaLink="false">7590e44de572</guid>
-      <pubDate>Tue, 25 Aug 2026 20:24:45 GMT</pubDate>
+      <title>NVMe 2.4 Update Adds Post-Quantum Security, Power Controls</title>
+      <link>https://www.eetimes.com/nvme-2-4-update-adds-post-quantum-security-power-controls/</link>
+      <guid isPermaLink="false">eecf27ed5b11</guid>
+      <pubDate>Wed, 26 Aug 2026 22:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Global semiconductor revenue is expected to reach $1.6 trillion in 2026, increasing 92% from 2025 revenue of $809 billion, according to Gartner, Inc., a business and technology ins…
+      <description>As the non-volatile memory express (NVMe) protocol moves to an annual release cycle, the latest updates reflect the growing maturity of the ecosystem and the rapid pace of innovati…
+
+来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026</title>
+      <link>https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026</link>
+      <guid isPermaLink="false">0128bae5fb37</guid>
+      <pubDate>Wed, 26 Aug 2026 18:46:10 GMT</pubDate>
+      <category>半导体与硬件供应链</category>
+      <description>LG Chem will participate in SEMICON Taiwan 2026, Asia’s largest semiconductor exhibition, to showcase advanced packaging and power semiconductor material solutions for AI semicondu…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Qnity Expands AI-Driven Advanced Packaging Capabilities with End-to-End Process Solutions</title>
-      <link>https://www.semiconductor-digest.com/qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qnity-expands-ai-driven-advanced-packaging-capabilities-with-end-to-end-process-solutions</link>
-      <guid isPermaLink="false">f197f34621e2</guid>
-      <pubDate>Tue, 25 Aug 2026 20:23:16 GMT</pubDate>
+      <title>Keysight Accelerates AttoTude IC Design Cycles by More Than 50%</title>
+      <link>https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=keysight-accelerates-attotude-ic-design-cycles-by-more-than-50</link>
+      <guid isPermaLink="false">83f2fc0ba3a1</guid>
+      <pubDate>Wed, 26 Aug 2026 18:40:29 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Qnity Electronics, Inc., a technology solutions leader across the semiconductor value chain, today introduced a scalable materials solution platform that brings together metallizat…
+      <description>Keysight Technologies, Inc. today announced that AttoTude Inc. has expanded its use of Keysight EDA software to manage its full IC design workflow. As a result, AttoTude has reduce…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>AMD to Bring UCIe Connectivity to Select AMD Versal Adaptive SoCs</title>
-      <link>https://www.semiconductor-digest.com/amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=amd-to-bring-ucie-connectivity-to-select-amd-versal-adaptive-socs</link>
-      <guid isPermaLink="false">37a01ddbf150</guid>
-      <pubDate>Tue, 25 Aug 2026 20:20:02 GMT</pubDate>
+      <title>NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer</title>
+      <link>https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer</link>
+      <guid isPermaLink="false">91d007dc7fe0</guid>
+      <pubDate>Wed, 26 Aug 2026 18:36:54 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>AMD will offer the first Versal adaptive SoCs with native support for Universal Chiplet Interconnect Express (UCIe) 1.1 interfaces, enabling, low-power, high-bandwidth communicatio…
+      <description>NextSilicon announced the appointment of Rupal Hollenbeck as President and Chief Business Officer. In this new role, Hollenbeck will lead all go-to-market activities, including sal…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Celera Semiconductor Announces the Closing of a $30M Series B Financing Round</title>
-      <link>https://www.semiconductor-digest.com/celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=celera-semiconductor-announces-the-closing-of-a-30m-series-b-financing-round</link>
-      <guid isPermaLink="false">7a9981039d34</guid>
-      <pubDate>Tue, 25 Aug 2026 20:21:46 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Celera Semiconductor, the analog IC supplier using AI to slash the cost and time to develop and supply analog ICs, today announced it had closed $30M of Series B financing. The rou…
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>No immunity: how Xi’s anti-corruption fighters are zeroing in on fresh targets</title>
-      <link>https://www.scmp.com/news/china/politics/article/3365175/no-immunity-how-xis-anti-corruption-fighters-are-zeroing-fresh-targets?utm_source=rss_feed</link>
-      <guid isPermaLink="false">8aa8d11d6769</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:06 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>The South China Morning Post has launched a major data project diving into President Xi Jinping’s signature anti-graft campaign. In the second part of an accompanying series, Willi…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Africa knows who its true friends are – and they’re not in Washington</title>
-      <link>https://www.scmp.com/opinion/china-opinion/article/3364970/africa-knows-who-its-true-friends-are-and-theyre-not-washington?utm_source=rss_feed</link>
-      <guid isPermaLink="false">e685efcaa6ff</guid>
-      <pubDate>Tue, 25 Aug 2026 21:30:06 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>The gaffe at last month’s Aids 2026 conference in Rio de Janeiro, where a US State Department presentation displayed a map of Africa with every country mislabelled, serves as more …
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Trump says China is driving anger at US data centres. These residents disagree</title>
-      <link>https://www.scmp.com/news/us/economy-trade-business/article/3365255/trump-says-china-driving-opposition-data-centres-these-residents-disagree?utm_source=rss_feed</link>
-      <guid isPermaLink="false">cf2bc08b7d41</guid>
-      <pubDate>Tue, 25 Aug 2026 20:46:19 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>On the tree-lined streets of Sterling, northern Virginia, Lindsay Shaw’s home sits across from an industrial neighbour that has consumed the past several years of her life: a data …
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Is Maine finally about to make wind power happen?</title>
-      <link>https://www.canarymedia.com/articles/wind/maine-make-wind-power-happen</link>
-      <guid isPermaLink="false">f56b70535938</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 GMT</pubDate>
+      <title>Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year</title>
+      <link>https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year</link>
+      <guid isPermaLink="false">992cc90c38e9</guid>
+      <pubDate>Wed, 26 Aug 2026 18:00:00 GMT</pubDate>
       <category>能源与气候科技</category>
-      <description>For nearly two decades, Maine has tried to build utility-scale wind in the northern reaches of the state. On Tuesday morning, utility regulators brought that vision a little closer…
+      <description>Print article Share More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days” due to climate change. This is accordi…
+
+来源：Carbon Brief · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>California Legislature passes balcony solar bill</title>
+      <link>https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar</link>
+      <guid isPermaLink="false">7546df28f648</guid>
+      <pubDate>Wed, 26 Aug 2026 17:00:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>Californians could soon put solar panel kits on balconies and in backyards to lower their electric bills — without utility approval. On Wednesday, state lawmakers passed the Plug a…
 
 来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>New Jersey seeks 150 MW of behind-the-meter storage to support VPP</title>
-      <link>https://www.utilitydive.com/news/new-jersey-seeks-150-mw-of-behind-the-meter-storage-to-support-vpp/828727/</link>
-      <guid isPermaLink="false">51427b574f51</guid>
-      <pubDate>Tue, 25 Aug 2026 15:35:09 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>The comparatively modest maximum annual incentive of $200/kW over 10 years reflects the “private resilience value of residential energy storage systems,” state regulators said.
-
-来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Data centers can vanish from the grid in seconds; reliability rules need to catch up</title>
-      <link>https://www.utilitydive.com/news/data-centers-vanish-grid-seconds-reliability-rules/827035/</link>
-      <guid isPermaLink="false">44eee24837e1</guid>
-      <pubDate>Tue, 25 Aug 2026 15:00:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>The loss of more than 3 GW of data center demand in Virginia shows why policy must address operational behavior, not just costs, writes AIxEnergy.io founder Brandon Owens.
-
-来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Authorizes First Wearable Device That Continuously Monitors Both Ketone Levels and Blood Sugar</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar</link>
-      <guid isPermaLink="false">d8c96d62681d</guid>
-      <pubDate>Tue, 25 Aug 2026 18:21:22 GMT</pubDate>
+      <title>FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer</title>
+      <link>http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer</link>
+      <guid isPermaLink="false">e1404fa09d0d</guid>
+      <pubDate>Wed, 26 Aug 2026 14:33:36 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>The U.S. Food and Drug Administration today authorized the Libre Duo 10 Day Continuous Dual Glucose Ketone Monitoring System for people aged 2 years and older living with diabetes.
+      <description>The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to pat…
 
 来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>To predict tree death, scientists tapped gamma rays to peer underground</title>
-      <link>https://www.science.org/content/article/predict-tree-death-scientists-tapped-gamma-rays-peer-underground</link>
-      <guid isPermaLink="false">a4624bf2edf4</guid>
-      <pubDate>Tue, 25 Aug 2026 12:00:00 GMT</pubDate>
+      <title>How does football cause brain disease—and why is it so hard to diagnose?</title>
+      <link>https://www.science.org/content/article/how-does-football-cause-brain-disease-and-why-it-so-hard-diagnose</link>
+      <guid isPermaLink="false">bf4e9f59b3cb</guid>
+      <pubDate>Wed, 26 Aug 2026 11:50:00 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>Airborne radiation sensors could help forecast and prevent drought-driven tree mortality
+      <description>A startling study suggests at least one in four NFL players develops CTE, but doctors still can’t identify it in living athletes
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Fraudulent images are rife on antibody sellers’ websites, researcher says</title>
-      <link>https://www.science.org/content/article/fraudulent-images-are-rife-antibody-sellers-websites-researcher-says</link>
-      <guid isPermaLink="false">fb578e8a454e</guid>
-      <pubDate>Tue, 25 Aug 2026 09:00:00 GMT</pubDate>
+      <title>The first insects had way more than six legs</title>
+      <link>https://www.science.org/content/article/first-insects-had-way-more-six-legs</link>
+      <guid isPermaLink="false">7470330760cc</guid>
+      <pubDate>Wed, 26 Aug 2026 11:00:00 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>New tally reveals nearly 19,000 altered images in reagent catalogs
+      <description>Previously collected fossils prove a treasure trove for understanding the origin of insects
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>How to evaluate LLMs before production</title>
-      <link>https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/</link>
-      <guid isPermaLink="false">60a5d13290fc</guid>
-      <pubDate>Tue, 25 Aug 2026 21:35:11 GMT</pubDate>
+      <title>GitHub Copilot app for Beginners: Automate Dependabot pull request triage</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/</link>
+      <guid isPermaLink="false">8daf8ca0045e</guid>
+      <pubDate>Wed, 26 Aug 2026 20:12:53 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>A language model can perform well on a clean benchmark and still struggle with the cases that matter in production. Benchmarks and curated datasets are useful when prototyping an L…
+      <description>I might be biased, but I think Dependabot is pretty amazing. It helps keep my projects up to date, ensuring I&amp;rsquo;m always using secure libraries. But because there&amp;rsquo;re freq…
 
-来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
+来源：GitHub Blog · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Postgres at PlanetScale</title>
-      <link>https://changelog.com/podcast/684</link>
-      <guid isPermaLink="false">7a91b899cd51</guid>
-      <pubDate>Tue, 25 Aug 2026 19:00:00 GMT</pubDate>
+      <title>Anthropic’s Claude now has a browser of its own</title>
+      <link>https://thenewstack.io/claude-built-in-browser-cowork/</link>
+      <guid isPermaLink="false">86b00a9296b5</guid>
+      <pubDate>Wed, 26 Aug 2026 22:05:58 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Sam Lambert is back after 4 years and he does not hold back! We cover $5 PlanetScale Postgres, the Neki “do-over” of Vitess, agents shipping schema changes through deploy requests,…
-
-来源：Changelog · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Shopify’s CEO threatened to ban Claude Code. Anthropic had already closed the feature request.</title>
-      <link>https://thenewstack.io/shopify-claude-code-agentsmd/</link>
-      <guid isPermaLink="false">5aa83bcc9aa1</guid>
-      <pubDate>Tue, 25 Aug 2026 19:39:17 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Shopify CEO Tobi L&amp;uuml;tke is considering banning Claude Code at the company, but not because he thinks Anthropic&amp;rsquo;s coding agent isn&amp;rsquo;t good. The problem, he says, is a…
+      <description>Anthropic is giving Claude its own browser. As the company announced on Wednesday, Claude on the desktop (Mac, Windows, and Linux) now has access to a built-in Chromium-based brows…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>IBM’s new Granite 4.2 models add reasoning and stay dense</title>
-      <link>https://thenewstack.io/ibm-granite-reasoning-models/</link>
-      <guid isPermaLink="false">76062f9e1a49</guid>
-      <pubDate>Tue, 25 Aug 2026 19:13:45 GMT</pubDate>
+      <title>X sent Nitter a cease-and-desist. Then it went after the source code.</title>
+      <link>https://thenewstack.io/x-nitter-open-source-takedown/</link>
+      <guid isPermaLink="false">dbac7a745984</guid>
+      <pubDate>Wed, 26 Aug 2026 21:04:31 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>On Tuesday, IBM launched the latest family of its open-weight Granite large language models (LLMs). Weighing in at 3 billion, 8 billion, and 30 billion parameters, IBM is taking a …
+      <description>When Elon Musk’s X sent cease-and-desist letters demanding that Nitter &amp;mdash; an open-source alternative front end for the social media platform &amp;mdash; permanently shut down its …
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Dick’s Sporting Goods says it’s ‘still early in the Foot Locker turnaround’ as it cites footwear challenges</title>
-      <link>https://www.modernretail.co/operations/dicks-sporting-goods-says-its-still-early-in-the-foot-locker-turnaround-as-it-cites-footwear-challenges/?utm_campaign=modernretaildis&amp;utm_medium=rss&amp;utm_source=general-rss</link>
-      <guid isPermaLink="false">5af69c19d9eb</guid>
-      <pubDate>Tue, 25 Aug 2026 17:14:03 GMT</pubDate>
-      <category>消费、出海与品牌</category>
-      <description>Dick’s Sporting Goods says it remains bullish on its Foot Locker business, even as it lowered its yearly guidance for the segment, citing “challenging conditions” in the athletic f…
+      <title>OpenAI’s Astra can do a researcher’s week of work. That’s the problem.</title>
+      <link>https://thenewstack.io/openai-astra-persistent-agents/</link>
+      <guid isPermaLink="false">e5628d9219ce</guid>
+      <pubDate>Wed, 26 Aug 2026 20:24:20 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>OpenAI&amp;rsquo;s unreleased foundation model , codenamed Astra, is already working directly inside the company&amp;rsquo;s internal codebase, taking on experimental work that previously …
 
-来源：Modern Retail · 消费、出海与品牌 · 约 1 分钟</description>
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
     <item>
-      <title>America’s immigration policy is driving away future AI leaders</title>
-      <link>https://restofworld.org/2026/us-immigration-rules-ai-talent-china/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
-      <guid isPermaLink="false">c674c94579d8</guid>
-      <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
+      <title>How far are robots from actually working on production lines? Galbot’s path to industrial AI</title>
+      <link>https://technode.com/2026/08/27/how-far-are-robots-from-actually-working-on-production-lines-galbots-industrial-ai-journey/</link>
+      <guid isPermaLink="false">b9ea312531b3</guid>
+      <pubDate>Thu, 27 Aug 2026 02:06:41 GMT</pubDate>
       <category>消费、出海与品牌</category>
-      <description>The Trump administration has proposed a new fee for H-1B visas, while weighing a $100,000 fee on Optional Practical Training, the program that allows international graduates to wor…
+      <description>For decades, industrial robots have primarily been used to handle repetitive labor. On highly standardized production lines such as automotive manufacturing and electronics assembl…
+
+来源：TechNode · 消费、出海与品牌 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Why the global push to break free from Big Tech keeps falling short</title>
+      <link>https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
+      <guid isPermaLink="false">0abe63098e08</guid>
+      <pubDate>Wed, 26 Aug 2026 10:00:00 GMT</pubDate>
+      <category>消费、出海与品牌</category>
+      <description>In mid-2024, a cybersecurity partner’s mistake led to a global Microsoft Windows outage. It affected 8.5 million Windows devices. Although this represents less than 1% of all Windo…
 
 来源：Rest of World · 消费、出海与品牌 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Exclusive: Beauty service Ipsy is becoming a marketing solutions company, too</title>
-      <link>https://www.modernretail.co/marketing/exclusive-beauty-service-ipsy-is-becoming-a-marketing-solutions-company-too/?utm_campaign=modernretaildis&amp;utm_medium=rss&amp;utm_source=general-rss</link>
-      <guid isPermaLink="false">da4c19775eee</guid>
-      <pubDate>Tue, 25 Aug 2026 10:00:00 GMT</pubDate>
-      <category>消费、出海与品牌</category>
-      <description>Ipsy is now offering marketing services as it looks to onboard new brands and court more customers. The beauty subscription company is debuting Ipsy Marketing Solutions, an offerin…
-
-来源：Modern Retail · 消费、出海与品牌 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>

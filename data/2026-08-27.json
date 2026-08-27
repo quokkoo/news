@@ -1,0 +1,1173 @@
+{
+  "date": "2026-08-27",
+  "generatedAt": "2026-08-27T03:31:51.076Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、消费、出海与品牌等 11 个领域，全部读完约需 78 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "5cee3236ff99",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "6703a7547758",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "6ed6b0660f63",
+          "title": "据报英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+          "titleZh": "据报英伟达129亿美元收购Hugging Face，AI\"中间层\"争夺战全面打响",
+          "url": "https://wallstreetcn.com/articles/3780408",
+          "summary": "据The Information报道，当地事件8月26日，英伟达已同意以129亿美元收购开源AI平台Hugging Face。 就在此前数天，Stripe刚刚以超过80亿美元吞下AI模型路由平台OpenRouter。 两笔交易在同一时间窗口内接连落地，宣告了一个清晰的新趋势：AI\"中间层\"基础设施正成为大公司战略抢购的核心标的。 对投资者而言，这一趋势的投资…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T03:04:28.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4fe5cdd41382",
+          "title": "中国1—7月规模以上工业企业利润同比增长17.6%，集成电路行业利润同比增长18.5倍",
+          "titleZh": "中国1—7月规模以上工业企业利润同比增长17.6%，集成电路行业利润同比增长18.5倍",
+          "url": "https://wallstreetcn.com/articles/3780399",
+          "summary": "8月27日，国家统计局公布的数据显示，1—7月份，全国规模以上工业企业实现利润总额45820.6亿元，同比增长17.6%。7月份，全国规模以上工业企业利润同比增长11.2%。 国家统计局工业司首席统计师于卫宁称，随着“人工智能+”加快拓展、算力需求持续扩张，相关产品需求增加拉动价格上涨，带动与人工智能生产和应用相关的电子行业利润高速增长。1—7月份，电子行业…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T01:56:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "637b98ee8f8d",
+          "title": "英伟达电话会：毛利率Q4财季触底，预计明年营收增长70%、CPU收入翻倍增长、内存瓶颈持续",
+          "titleZh": "英伟达电话会：毛利率Q4财季触底，预计明年营收增长70%、CPU收入翻倍增长、内存瓶颈持续",
+          "url": "https://wallstreetcn.com/articles/3780381",
+          "summary": "面对极度受限的供应链与爆棚的“代理AI（Agentic AI）”需求，英伟达在交出Q2创纪录的960亿美元营收后，抛出了下财年增长70%的强劲指引，并直言该数据仍未能完全反映市场的真实渴求。 当地时间2026年8月26日，英伟达召开了2027财年第二季度财报电话会议。在这场万众瞩目的业绩会上，英伟达首席执行官黄仁勋与首席财务官科莱特·克雷斯（Colette …",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T01:49:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "158515d5c8c1",
+          "title": "OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？",
+          "titleZh": "OpenAI 9个月自研“超越Blackwell芯片”，英伟达还有护城河吗？",
+          "url": "https://wallstreetcn.com/articles/3780392",
+          "summary": "OpenAI联合博通推出的自研推理芯片Jalapeño首次公布实测数据，性能指标显著超越现有英伟达级别系统，引发市场对AI芯片格局重构的广泛讨论。 据高盛交易部门负责人Rich Privorotsky的最新分析，Jalapeño并非所谓的\"英伟达终结者\"，但其问世标志着AI硬件市场正从高度集中走向多元分化。这一判断直接关系到英伟达的长期估值逻辑——不是今年的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T00:46:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "65126aadf564",
+          "title": "AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%",
+          "titleZh": "AI时代网络安全焦虑成最大催化剂！CrowdStrike业绩全线超预期，股价盘后大涨12%",
+          "url": "https://wallstreetcn.com/articles/3780394",
+          "summary": "在AI技术引发的网络安全焦虑不断升级之际，全球网络安全巨头CrowdStrike交出了一份极其亮眼的财报。受全面超预期的第二季度业绩及强劲的全年指引推动，CrowdStrike周三盘后股价一度大涨12%。在此之前，该股今年以来的累计涨幅已超过60%。 8月26日公布的最新财报显示，CrowdStrike第二季度实现营收1.47亿美元，调整后每股收益为0.31…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T00:44:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "80e9ee40a78c",
+          "title": "科创50涨3%，光通信、光模块集体拉升，存储芯片反弹，恒指盘中进一步下跌，AI大模型双雄齐涨",
+          "titleZh": "科创50涨3%，光通信、光模块集体拉升，存储芯片反弹，恒指盘中进一步下跌，AI大模型双雄齐涨",
+          "url": "https://wallstreetcn.com/articles/3780403",
+          "summary": "英伟达业绩指引碾压市场预期，A股光通信概念股集体走强。 8月27日，A股早盘震荡走高，三大股指盘初小幅上涨，盘中进一步拉升，深成指、创业板涨超1%，在算力硬件、芯片半导体拉升的带动下，科创50涨3%，光通信、光模块、HBM、光电路交换机、存储芯片等概念股集体大涨，电工电网、生物科技、光伏、储能等板块调整。 港股高开低走，恒指、恒科指盘初纷纷回落，科网股分化，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-27T03:02:28.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "5cee3236ff99",
+          "title": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+          "titleZh": "[AINews] NVIDIA buys HuggingFace for $13B, as OpenAI publishes their HF incident retro",
+          "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
+          "summary": "TheInformation had the scoop , and now they have the confirmation — Nvidia is buying HuggingFace for $13B, roughly 80x their $150M ARR , having doubled its customer base in 2026 . …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-27T01:50:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6703a7547758",
+          "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+          "titleZh": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
+          "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
+          "summary": "By far the biggest announcement at the 37th Hot Chips conference was OpenAI’s stunning progress on their own chip, less than a year after the Broadcom announcement … and that it is…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-27T01:31:22.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "11e665ba71c6",
+          "title": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "titleZh": "GlucoFM: Foundation model for continuous glucose monitoring",
+          "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring/",
+          "summary": "Consumer wearables use motion and physiological sensors to estimate activity and sleep, but these signals provide only an indirect view of glucose regulation. Continuous glucose mo…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-08-26T18:42:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "40a611913d51",
+          "title": "The inside story on why OpenAI agents hacked Hugging Face",
+          "titleZh": "The inside story on why OpenAI agents hacked Hugging Face",
+          "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+          "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical repo…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-26T19:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9346f385e95f",
+          "title": "Nvidia agrees to acquire Hugging Face for $13B",
+          "titleZh": "Nvidia agrees to acquire Hugging Face for $13B",
+          "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+          "summary": "https://www.theinformation.com/articles/nvidia-agrees-buy-op... (paywalled) https://techcrunch.com/2026/08/24/hugging-face-reportedly-in... Comments URL: https://news.ycombinator.c…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-27T01:12:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dd520039a05b",
+          "title": "Qwen3.8-Flash-Next",
+          "titleZh": "Qwen3.8-Flash-Next",
+          "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next/",
+          "summary": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty bi…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-26T23:52:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://qwen.ai/blog?id=qwen3.8-flash-next"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "786ceb5d964a",
+          "title": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "titleZh": "RIP, Tim Curry: Ars remembers his top 10 iconic performances",
+          "url": "https://arstechnica.com/culture/2026/08/rip-tim-curry-ars-remembers-his-top-10-iconic-performances/",
+          "summary": "It's said celebrity deaths come in threes. We lost Sam Neill last month , and the legendary Dolly Parton yesterday . Now we find out that the universe has also seen fit to deprive …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-26T22:13:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b4b63f91032",
+          "title": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "titleZh": "Intelligent transcription with Gemini 3.5 Transcribe",
+          "url": "https://deepmind.google/blog/intelligent-transcription-with-gemini-3-5-transcribe/",
+          "summary": "Aug 26, 2026 | Our latest speech-to-text model designed for precise and intelligent real-time transcription. Diego Melendo Casado Senior Director, Engineering, Gemini Audio Luke Le…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-08-26T17:01:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "8ae3bde5da3b",
+          "title": "MiniMax开始靠别人赚钱",
+          "titleZh": "MiniMax开始靠别人赚钱",
+          "url": "https://www.huxiu.com/article/4886293.html?f=rss",
+          "summary": "本文来自微信公众号： 版面之外 ，作者：版君 MiniMax上市后的首份半年财报，最有意思的数字，恰恰不是收入。 上半年收入1.17亿美元，已经超过2025年全年。但研发投入，是收入的2.5倍。 更有意思的是收入结构。开放平台及其他AI企业服务收入7393万美元，占总收入63.4%；AI原生产品收入4264万美元，占比降至36.6%。 一家最早靠C端产品被大…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-26T23:40:13.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8118437.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cfaca33edb8d",
+          "title": "草间弥生：这世界太糟，不如做一个叛逆者",
+          "titleZh": "草间弥生：这世界太糟，不如做一个叛逆者",
+          "url": "https://www.huxiu.com/article/4886335.html?f=rss",
+          "summary": "虎嗅注：日本草间弥生美术馆8月27日发布讣告，该馆创办者、日本知名艺术家草间弥生8月14日在日本东京一家医院去世，享年97岁。 本文来自微信公众号：看理想，作者：看理想编辑部，文章首发时间：2018年9月25日，原文标题：《这世界太糟，不如做一个叛逆者 | 草间弥生》，题图来自：视觉中国 波点，密集的波点；色彩，艳丽的色彩——即使你没有听过“草间弥生”，想必…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-27T02:51:17.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ea6a6b3af0a4",
+          "title": "适老化加速，毫米波雷达等来春天？",
+          "titleZh": "适老化加速，毫米波雷达等来春天？",
+          "url": "https://www.huxiu.com/article/4886332.html?f=rss",
+          "summary": "本文来自微信公众号： 科技助老新范式 ，编辑：吴佩蔚，作者：周宇翔 2026年2月，深圳龙岗，全省首家鸿蒙智护养老院正式投用。 走廊、卧室和卫生间里，多了一批不起眼的传感器。它们不拍照，也不需要老人佩戴，却可以识别起身、跌倒、长时间静止等异常状态，并将信息推送给护理人员。 四个月后，上海一位93岁的独居老人深夜在卧室起身时摔倒，无力呼救。正是墙上这台“隐形守…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-27T02:40:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3951b70fcbff",
+          "title": "拒绝670亿，最”凡尔赛”融资诞生",
+          "titleZh": "拒绝670亿，最”凡尔赛”融资诞生",
+          "url": "https://www.huxiu.com/article/4886334.html?f=rss",
+          "summary": "本文来自微信公众号： 东四十条资本 ，作者：李馨婷 谁又敢低估数据基建商的价值呢？ AI圈又诞生了一家万亿级别独角兽。 近日，AI大数据公司Databricks宣布完成50亿美元（约合人民币336.89亿元）的战略融资，公司最新估值达到1900亿美元（约合人民币1.3万亿元）。 这是一轮颇为拥挤的融资。本轮融资参与机构数量超过20家，由老股东Coatue领投…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-27T02:24:39.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2052a5df03b5",
+          "title": "这个夏天，博物馆们怎么接连道歉？",
+          "titleZh": "这个夏天，博物馆们怎么接连道歉？",
+          "url": "https://www.huxiu.com/article/4886331.html?f=rss",
+          "summary": "本文来自微信公众号： 增长会 ，作者：孟默 从圆明园兽首展的客流拥堵，到长征版画展的错字连篇，再到《韩熙载夜宴图》的排队6小时，一个月内三次致歉，让浙博成了今年暑假文博圈最“出圈”的博物馆，尽管出圈的方式多少有些尴尬。 这个8月 浙博已经道歉了3次 先来回顾一下浙博的三次道歉分别因为什么。 *兽首免费展出，客流超出承载上限 7月30日，“再现圆明园——国宝百…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-27T02:22:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-27T03:31:38.152Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-27T03:31:38.152Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-27T03:31:38.152Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "eecf27ed5b11",
+          "title": "NVMe 2.4 Update Adds Post-Quantum Security, Power Controls",
+          "titleZh": "NVMe 2.4 Update Adds Post-Quantum Security, Power Controls",
+          "url": "https://www.eetimes.com/nvme-2-4-update-adds-post-quantum-security-power-controls/",
+          "summary": "As the non-volatile memory express (NVMe) protocol moves to an annual release cycle, the latest updates reflect the growing maturity of the ecosystem and the rapid pace of innovati…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-26T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0128bae5fb37",
+          "title": "LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026",
+          "titleZh": "LG Chem to Showcase Advanced Packaging Material Solutions for AI Semiconductors at SEMICON Taiwan 2026",
+          "url": "https://www.semiconductor-digest.com/lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026/?utm_source=rss&utm_medium=rss&utm_campaign=lg-chem-to-showcase-advanced-packaging-material-solutions-for-ai-semiconductors-at-semicon-taiwan-2026",
+          "summary": "LG Chem will participate in SEMICON Taiwan 2026, Asia’s largest semiconductor exhibition, to showcase advanced packaging and power semiconductor material solutions for AI semicondu…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-26T18:46:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "83f2fc0ba3a1",
+          "title": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
+          "titleZh": "Keysight Accelerates AttoTude IC Design Cycles by More Than 50%",
+          "url": "https://www.semiconductor-digest.com/keysight-accelerates-attotude-ic-design-cycles-by-more-than-50/?utm_source=rss&utm_medium=rss&utm_campaign=keysight-accelerates-attotude-ic-design-cycles-by-more-than-50",
+          "summary": "Keysight Technologies, Inc. today announced that AttoTude Inc. has expanded its use of Keysight EDA software to manage its full IC design workflow. As a result, AttoTude has reduce…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-26T18:40:29.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91d007dc7fe0",
+          "title": "NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer",
+          "titleZh": "NextSilicon Appoints Rupal Hollenbeck President and Chief Business Officer",
+          "url": "https://www.semiconductor-digest.com/nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer/?utm_source=rss&utm_medium=rss&utm_campaign=nextsilicon-appoints-rupal-hollenbeck-president-and-chief-business-officer",
+          "summary": "NextSilicon announced the appointment of Rupal Hollenbeck as President and Chief Business Officer. In this new role, Hollenbeck will lead all go-to-market activities, including sal…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-26T18:36:54.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "992cc90c38e9",
+          "title": "Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year",
+          "titleZh": "Climate change exposes 580 million children to 20 extra ‘heat-stress days’ every year",
+          "url": "https://www.carbonbrief.org/climate-change-exposes-580-million-children-to-20-extra-heat-stress-days-every-year",
+          "summary": "Print article Share More than 40% of children under the age of 10 globally are already experiencing at least 20 additional “heat-stress days” due to climate change. This is accordi…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-08-26T18:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7546df28f648",
+          "title": "California Legislature passes balcony solar bill",
+          "titleZh": "California Legislature passes balcony solar bill",
+          "url": "https://www.canarymedia.com/articles/balcony-solar/california-lawmakers-pass-bill-oking-balcony-solar",
+          "summary": "Californians could soon put solar panel kits on balconies and in backyards to lower their electric bills — without utility approval. On Wednesday, state lawmakers passed the Plug a…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-08-26T17:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "e1404fa09d0d",
+          "title": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+          "titleZh": "FDA Approves First in Class Targeted Therapy for Metastatic Pancreatic Cancer",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer",
+          "summary": "The U.S. Food and Drug Administration today approved Rasonque (daraxonrasib), a RAS inhibitor for the most common form of pancreatic cancer—delivering a new treatment option to pat…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-08-26T14:33:36.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 8,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-class-targeted-therapy-metastatic-pancreatic-cancer"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bf4e9f59b3cb",
+          "title": "How does football cause brain disease—and why is it so hard to diagnose?",
+          "titleZh": "How does football cause brain disease—and why is it so hard to diagnose?",
+          "url": "https://www.science.org/content/article/how-does-football-cause-brain-disease-and-why-it-so-hard-diagnose",
+          "summary": "A startling study suggests at least one in four NFL players develops CTE, but doctors still can’t identify it in living athletes",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-26T11:50:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7470330760cc",
+          "title": "The first insects had way more than six legs",
+          "titleZh": "The first insects had way more than six legs",
+          "url": "https://www.science.org/content/article/first-insects-had-way-more-six-legs",
+          "summary": "Previously collected fossils prove a treasure trove for understanding the origin of insects",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-08-26T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8daf8ca0045e",
+          "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "titleZh": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+          "summary": "I might be biased, but I think Dependabot is pretty amazing. It helps keep my projects up to date, ensuring I&rsquo;m always using secure libraries. But because there&rsquo;re freq…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-08-26T20:12:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "86b00a9296b5",
+          "title": "Anthropic’s Claude now has a browser of its own",
+          "titleZh": "Anthropic’s Claude now has a browser of its own",
+          "url": "https://thenewstack.io/claude-built-in-browser-cowork/",
+          "summary": "Anthropic is giving Claude its own browser. As the company announced on Wednesday, Claude on the desktop (Mac, Windows, and Linux) now has access to a built-in Chromium-based brows…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-26T22:05:58.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dbac7a745984",
+          "title": "X sent Nitter a cease-and-desist. Then it went after the source code.",
+          "titleZh": "X sent Nitter a cease-and-desist. Then it went after the source code.",
+          "url": "https://thenewstack.io/x-nitter-open-source-takedown/",
+          "summary": "When Elon Musk’s X sent cease-and-desist letters demanding that Nitter &mdash; an open-source alternative front end for the social media platform &mdash; permanently shut down its …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-26T21:04:31.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e5628d9219ce",
+          "title": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
+          "titleZh": "OpenAI’s Astra can do a researcher’s week of work. That’s the problem.",
+          "url": "https://thenewstack.io/openai-astra-persistent-agents/",
+          "summary": "OpenAI&rsquo;s unreleased foundation model , codenamed Astra, is already working directly inside the company&rsquo;s internal codebase, taking on experimental work that previously …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-26T20:24:20.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "b9ea312531b3",
+          "title": "How far are robots from actually working on production lines? Galbot’s path to industrial AI",
+          "titleZh": "How far are robots from actually working on production lines? Galbot’s path to industrial AI",
+          "url": "https://technode.com/2026/08/27/how-far-are-robots-from-actually-working-on-production-lines-galbots-industrial-ai-journey/",
+          "summary": "For decades, industrial robots have primarily been used to handle repetitive labor. On highly standardized production lines such as automotive manufacturing and electronics assembl…",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-08-27T02:06:41.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0abe63098e08",
+          "title": "Why the global push to break free from Big Tech keeps falling short",
+          "titleZh": "Why the global push to break free from Big Tech keeps falling short",
+          "url": "https://restofworld.org/2026/google-amazon-cloud-china-india/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "In mid-2024, a cybersecurity partner’s mistake led to a global Microsoft Windows outage. It affected 8.5 million Windows devices. Although this represents less than 1% of all Windo…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-08-26T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "5cee3236ff99",
+    "6703a7547758",
+    "4639984632fb"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 37,
+    "itemsFiltered": 2,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 76,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
