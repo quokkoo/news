@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-27T03:31:51.121Z",
+  "updatedAt": "2026-08-28T06:16:42.232Z",
   "days": [
+    {
+      "date": "2026-08-28",
+      "itemCount": 39,
+      "topPickTitles": [
+        "Superlinear Returns",
+        "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+        "When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-08-27",
       "itemCount": 37,

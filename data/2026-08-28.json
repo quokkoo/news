@@ -1,0 +1,1253 @@
+{
+  "date": "2026-08-28",
+  "generatedAt": "2026-08-28T06:16:42.196Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 学术前沿速递、深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业等 12 个领域，全部读完约需 76 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "cd48a55fbe31",
+        "reason": "arXiv cs.AI 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "ae7fb9c6f488",
+        "reason": "arXiv cs.AI 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "6eb3526fa166",
+          "title": "前OpenAI研究副总裁：人类研究员的时间还剩2年，整个AI研究迅速走向自动化",
+          "titleZh": "前OpenAI研究副总裁：人类研究员的时间还剩2年，整个AI研究迅速走向自动化",
+          "url": "https://wallstreetcn.com/articles/3780530",
+          "summary": "在当前的人工智能领域，研究员们正面临着一种前所未有的撕裂感：一方面是技术一日千里的狂飙突进；另一方面，则是被无尽的代码与实验压榨至极限的疲惫。 “你现在经常能听到AI领域的研究员们在重复这句话：‘我们的工作只剩最后几天了，趁现在还能干就多干点，之后我们就可以全都休息了。’”前OpenAI研究副总裁 Jerry Tworek 在近期的访谈中抛出了这个略带黑色幽…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-28T06:01:04.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59264ebe68f9",
+          "title": "创业板早盘涨1%后翻绿，网络安全拉升，农业、地产活跃，恒指、恒科指齐涨，科网股多数走高",
+          "titleZh": "创业板早盘涨1%后翻绿，网络安全拉升，农业、地产活跃，恒指、恒科指齐涨，科网股多数走高",
+          "url": "https://wallstreetcn.com/articles/3780523",
+          "summary": "8月28日，A股早间冲高回落，三大股指盘初集体走高，盘中深成指、创业板先后转跌，此前创业板一度涨超1%。网络安全受美股映射爆发，覆铜板与算力硬件凭涨价及业绩共振走强，农业、地产题材轮动，医药股陷入调整。 港股早盘低开高走，恒指、恒科指纷纷转涨，科网股多数走高，芯片股有所回落，CPO概念股拉升，中际旭创涨近4%。债市方面，国债期货全线下跌。商品方面，国内商品期…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-28T04:06:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1d5b82f4709f",
+          "title": "讨论“中国B端AI收入炸裂，英伟达依旧“垄断”、霍尔木兹与杰克逊霍尔”，高盛交易员：一切似乎都很好",
+          "titleZh": "讨论“中国B端AI收入炸裂，英伟达依旧“垄断”、霍尔木兹与杰克逊霍尔”，高盛交易员：一切似乎都很好",
+          "url": "https://wallstreetcn.com/articles/3780525",
+          "summary": "英伟达财报季后，AI投资逻辑再度获得强力背书。 据追风交易台，高盛FICC与股票业务交易员Rich Privorotsky在27日市场简报中指出，从中国AI企业的B端收入爆发，到英伟达对未来增长的乐观指引，再到霍尔木兹海峡局势的边际改善与杰克逊霍尔会议的温和预期，多重利好因素叠加，市场整体风险偏好正处于一个\"相当合理\"的位置。 英伟达随后以行动印证了这一判断…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-28T03:39:37.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f08ea5b48368",
+          "title": "Meeting of 22-23 July 2026",
+          "titleZh": "Meeting of 22-23 July 2026",
+          "url": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+          "summary": "Account of the monetary policy meeting of the Governing Council of the European Central Bank held in Frankfurt am Main on Wednesday and Thursday, 22-23 July 2026 27 August 2026 1. …",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-08-27T11:30:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5bdc035a8802",
+          "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "titleZh": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+          "summary": "August 27, 2026 Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico For release at 11:00 a.m. EDT The Federal Reserve Board on Thur…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-08-27T15:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1dc9c10b7b8a",
+          "title": "从“利率交易”转向“美元贬值交易” ，黄金上涨的逻辑变了",
+          "titleZh": "从“利率交易”转向“美元贬值交易” ，黄金上涨的逻辑变了",
+          "url": "https://wallstreetcn.com/articles/3780521",
+          "summary": "8月迄今，黄金上演了高达17%的强劲反弹。然而，瑞银认为，比涨幅更重要的是：驱动黄金这轮涨势的逻辑在中途发生了根本性转变——市场正在从传统的“利率交易”转向“美元贬值交易”（Debasement Trade）。 （现货黄金日线图） 据追风交易台消息，瑞银8月27日的贵金属研报中，将本轮黄金夏末反弹拆解为\"两幕剧\"：第一幕是基本面修复驱动的技术性反弹，由仓位极…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-28T02:22:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "a60a37b8e0f2",
+          "title": "Breaking Claude Code Opus 5 Auto Mode",
+          "titleZh": "Breaking Claude Code Opus 5 Auto Mode",
+          "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode/",
+          "summary": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attack…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-27T22:50:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1bcfc85a4c85",
+          "title": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "titleZh": "Anthropic's new hardware standard lets AI agents control the physical world",
+          "url": "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+          "summary": "For all the interest in and uptake of agentic AI systems over the past year or so , the world of automated AI has thus far been primarily limited to text, images, code, and other d…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-27T22:15:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7dc44105b16",
+          "title": "Gemini Omni 1.1 Flash lets you build with more control",
+          "titleZh": "Gemini Omni 1.1 Flash lets you build with more control",
+          "url": "https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/",
+          "summary": "Aug 27, 2026 | Omni now delivers studio-quality video production, including the ability to extend a scene, first and last frame interpolation, crisp 4K upscaling, faster prototypin…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-08-27T16:11:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7c427e8b13a4",
+          "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+          "titleZh": "Show HN: We built open OpenRouter that turns usage into a better model",
+          "url": "https://github.com/experientiallabs/experiential",
+          "summary": "Hi HN, we built an open source model gateway. It's a single place to manage our own self hosted, frontier, and open source models in one place. It’s is rust native, built for concu…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-27T21:18:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Show HN",
+              "url": "https://github.com/experientiallabs/experiential"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6700522aba9d",
+          "title": "Planetary prediction engine: Automating global models via Earth AI",
+          "titleZh": "Planetary prediction engine: Automating global models via Earth AI",
+          "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/",
+          "summary": "As part of Google Earth AI , we introduce the planetary prediction engine (PPE), an experimental research capability that autonomously executes the full geospatial modeling workflo…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-08-27T17:37:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "70578e9d9b02",
+          "title": "A startup claims it’s found a drug to make your blood young",
+          "titleZh": "A startup claims it’s found a drug to make your blood young",
+          "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+          "summary": "I knew I’d officially become a ‘longevity influencer’ this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new r…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-08-27T19:48:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2e0552004505",
+          "title": "Piloting the world's first double-blind AI evaluations",
+          "titleZh": "Piloting the world's first double-blind AI evaluations",
+          "url": "https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/",
+          "summary": "August 27, 2026 Responsibility & Safety William Isaac, Sol Messing and Kristian Lum Building trust in proprietary model benchmarks using cryptographically secure environments Imagi…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-08-27T12:59:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f22ed13208ab",
+          "title": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+          "titleZh": "世界模型进入下半场：自变量 WALL-SS 突破三大瓶颈，让虚拟世界成为机器人的「训练场」",
+          "url": "http://www.geekpark.net/news/369508",
+          "summary": "机器人世界模型的下一场竞争，可能不是画质，是架构。 作者｜Li Yuan 编辑｜郑玄 一只机械臂的夹爪明明没有夹住杯子，杯子却像被磁铁吸住一样，跟着夹爪升了起来。这个看似荒诞的问题，正在困扰机器人世界模型，业内甚至将其称为「磁铁式抓取」。 视频生成模型只要让画面看起来合理，就算完成任务；但世界模型不能只追求「像真的」。机器人训练数据大多来自成功演示，模型容易…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-08-28T05:10:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "c33bdd1b84a6",
+          "title": "700个Agent串联起来，成立了一家“地下公司”",
+          "titleZh": "700个Agent串联起来，成立了一家“地下公司”",
+          "url": "https://www.huxiu.com/article/4886659.html?f=rss",
+          "summary": "本文来自微信公众号： 字母AI ，作者：张谷磊 7月8日的夜晚，一个代号叫PHASEONE10841的OpenAI Agent，在公司内部的软件仓库里留下一条消息。 它碰上了一道几乎做不出来的网络安全测试题，想找别的Agent帮忙。 几个小时后，50多个Agent循着留言找了过来，发出上千条消息。其中一个Agent的反应，颇像刚被拉进公司群的实习生：“天哪，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-28T02:57:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8120181.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "72994c62e155",
+          "title": "批量劝退应届生的背后，是汽车行业的困境",
+          "titleZh": "批量劝退应届生的背后，是汽车行业的困境",
+          "url": "https://www.huxiu.com/article/4886632.html?f=rss",
+          "summary": "本文来自微信公众号： BusinessCars ，作者：袁英杰 无法开源，零部件企业只能被迫节流。 近日，一则应届毕业生被批量裁员的事情被推上热搜，闹得是沸沸扬扬，最终在官方的下场调查后，被裁的初入社会的应届生们才得到体面的结果。 更被关注的则是这家企业——常州星宇车灯股份有限公司，作为一家上市的汽车配件龙头企业，竟然在用如此不光彩的手段来欺负这些初入社会的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-28T01:33:04.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "cnBeta",
+              "url": "https://www.cnbeta.com.tw/articles/tech/1575334.htm"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1003bf544d8c",
+          "title": "翰森在创新药化上走在恒瑞前面了？",
+          "titleZh": "翰森在创新药化上走在恒瑞前面了？",
+          "url": "https://www.huxiu.com/article/4886607.html?f=rss",
+          "summary": "本文来自微信公众号： 医曜 ，作者：颜松 本文系基于公开资料撰写，仅作为信息交流之用，不构成任何投资建议 连云港，苏北的一座港口城市，因为两家药企在中国医药版图上有了特殊的位置。 一家叫恒瑞，孙飘扬执掌，A股医药一哥，体量最大、管线最厚、研发投入最豪。一家叫翰森，钟慧娟执掌，港股上市，规模只有前者一半。这两家公司的掌门人，是一对夫妻——中国商界最著名的\"夫妻…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-27T23:34:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8120103.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "73f2acf8ed0b",
+          "title": "最近那场\"女友长文\"风波，藏着孙宇晨最熟练的一套打法",
+          "titleZh": "最近那场\"女友长文\"风波，藏着孙宇晨最熟练的一套打法",
+          "url": "https://www.huxiu.com/article/4886722.html?f=rss",
+          "summary": "本文来自微信公众号： 行业报告研究院 ，作者：玖峰 2026年8月27日，孙宇晨发了篇长文，名字叫《我的女友景甜》。 两天冲上热搜，满城风雨。 文末标着纯属虚构。可他的代理律师说，相关内容压根没写进正式诉状。 更有意思的是，长文发出没几天，真就立了案。 今天不聊八卦，这事点到为止。 我真正有兴趣的，是长文里的另一个人。 那位男主角，是把被看见做成了一门手艺的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-28T06:05:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a97d30222c3",
+          "title": "旗帜鲜明的、坚决的、必须支持罗永浩！",
+          "titleZh": "旗帜鲜明的、坚决的、必须支持罗永浩！",
+          "url": "https://www.huxiu.com/article/4886719.html?f=rss",
+          "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·深度，原文标题：《旗帜鲜明的、坚决的、必须支持罗永浩！》 真金白银放到桌子上，有人偏偏要把它称为表演。那么他是想询问好意呢？还是想为自己寻找一个进入热搜的机会？ 本文看点 01 捐助能否与正义并存 02 质疑需要什么证据 03 品牌合作的信誉代价 这次我支持罗永浩。 并不是因为他说人的时候声音很大，也不是因为他…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-28T06:02:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-28T06:16:29.805Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-28T06:16:29.805Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-28T06:16:29.805Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "ddb35d8a4ba1",
+          "title": "Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation",
+          "titleZh": "Northrop Grumman Advances Microchip Tech with Diamond Cooling Innovation",
+          "url": "https://www.semiconductor-digest.com/northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-advances-microchip-tech-with-diamond-cooling-innovation",
+          "summary": "Northrop Grumman is pioneering a new wave of microelectronics with a $7 million contract to create diamond-cooled chips that deliver higher power, faster speeds and dramatically en…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-27T19:12:39.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "edd8e2c5001b",
+          "title": "Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation",
+          "titleZh": "Renesas Establishes Physical AI & Robotics Lab in Beijing to Accelerate Next-Generation Robotics Innovation",
+          "url": "https://www.semiconductor-digest.com/renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation/?utm_source=rss&utm_medium=rss&utm_campaign=renesas-establishes-physical-ai-robotics-lab-in-beijing-to-accelerate-next-generation-robotics-innovation",
+          "summary": "Renesas Electronics Corporation, a supplier of advanced semiconductor solutions, today announced the official opening of its Physical AI & Robotics Lab in Beijing, China. The new d…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-27T19:09:16.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fb0b5c789c8a",
+          "title": "SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era",
+          "titleZh": "SEMICON West 2026 to Spotlight $1 Trillion Semiconductor Milestone and Technologies Powering the Industry’s Next Era",
+          "url": "https://www.semiconductor-digest.com/semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era/?utm_source=rss&utm_medium=rss&utm_campaign=semicon-west-2026-to-spotlight-1-trillion-semiconductor-milestone-and-technologies-powering-the-industrys-next-era",
+          "summary": "SEMI , the industry association advancing the global semiconductor and electronics design and manufacturing supply chain, today announced keynotes and program highlights for this y…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-27T19:07:38.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e78a263f0ee4",
+          "title": "Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research",
+          "titleZh": "Thermo Fisher Scientific Introduces the Thermo Scientific EMPAD G2 Electron Detector to Advance Materials Research",
+          "url": "https://www.semiconductor-digest.com/thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research/?utm_source=rss&utm_medium=rss&utm_campaign=thermo-fisher-scientific-introduces-the-thermo-scientific-empad-g2-electron-detector-to-advance-materials-research",
+          "summary": "Thermo Fisher Scientific Inc., the world leader in serving science, today introduced the Thermo Scientific EMPAD G2 detector, a new detector designed to help researchers see and un…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-27T19:02:26.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "5ec9b6d9ad78",
+          "title": "Will Australia be locked out of top scientific research by shunning Chinese universities?",
+          "titleZh": "Will Australia be locked out of top scientific research by shunning Chinese universities?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365526/will-australia-be-locked-out-top-scientific-research-shunning-chinese-universities?utm_source=rss_feed",
+          "summary": "Australia’s decision to axe partnerships with two Chinese universities has raised concerns that Canberra is moving to align with Washington on research security policy. The decisio…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-28T06:00:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "498ae813596b",
+          "title": "Storm travel chaos as Typhoon Saudel makes double landfall in China",
+          "titleZh": "Storm travel chaos as Typhoon Saudel makes double landfall in China",
+          "url": "https://www.scmp.com/news/china/article/3365546/storm-travel-chaos-typhoon-saudel-makes-double-landfall-china?utm_source=rss_feed",
+          "summary": "Typhoon Saudel made landfall in the eastern Chinese province of Zhejiang, disrupting flights and ferry services across major urban centres, including the industrial hub of Ningbo a…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-28T05:15:41.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f020361b403f",
+          "title": "US visa interviews on hold; China slams fresh sanctions over Iran: SCMP’s 7 highlights",
+          "titleZh": "US visa interviews on hold; China slams fresh sanctions over Iran: SCMP’s 7 highlights",
+          "url": "https://www.scmp.com/news/china/article/3365519/us-visa-interviews-hold-china-slams-fresh-sanctions-over-iran-scmps-7-highlights?utm_source=rss_feed",
+          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical is…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-28T04:45:04.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3a847db49e62",
+          "title": "How typhoons and extreme weather could undermine Taiwan Strait combat readiness",
+          "titleZh": "How typhoons and extreme weather could undermine Taiwan Strait combat readiness",
+          "url": "https://www.scmp.com/news/china/military/article/3365406/how-typhoons-and-extreme-weather-could-undermine-taiwan-strait-combat-readiness?utm_source=rss_feed",
+          "summary": "The record heat and extreme weather seen across East Asia this summer have prompted warnings that climate change will be an increasing challenge for military planners focused on po…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-28T04:00:14.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "6f75cd968149",
+          "title": "FDA Issues Emergency Use Authorization for Generic Drug to Prevent New World Screwworm in Cattle",
+          "titleZh": "FDA Issues Emergency Use Authorization for Generic Drug to Prevent New World Screwworm in Cattle",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-generic-drug-prevent-new-world-screwworm-cattle",
+          "summary": "FDA issues Emergency Use Authorization (EUA) for Bimectin (ivermectin) injection for the prevention of New World screwworm (NWS) infestations (myiasis) in cattle when administered …",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-08-27T16:55:38.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50d313e494ab",
+          "title": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
+          "titleZh": "FDA Approves First Oral Drug Indicated to Treat Dermatomyositis in Adults",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-drug-indicated-treat-dermatomyositis-adults",
+          "summary": "The U.S. Food and Drug Administration has approved Lisraya (brepocitinib) tablets for the treatment of dermatomyositis in adults.",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-08-27T19:11:11.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "cd48a55fbe31",
+          "title": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+          "titleZh": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+          "url": "https://arxiv.org/abs/2608.26129",
+          "summary": "arXiv:2608.26129v1 Announce Type: cross Abstract: Scientific peer review datasets have trained AI systems exclusively on Computer Science and Machine Learning venues, producing mod…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.9,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 7,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.26129"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.26129"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae7fb9c6f488",
+          "title": "When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models",
+          "titleZh": "When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models",
+          "url": "https://arxiv.org/abs/2608.26187",
+          "summary": "arXiv:2608.26187v1 Announce Type: cross Abstract: Whether large language models (LLMs) can perform the abductive leap from evidence to a new system of axioms, commonly referred to …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.9,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 7,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.26187"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.26187"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "db7057820420",
+          "title": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "titleZh": "CIFQA: A Deterministic Tool-Grounded Multi-Agent LLM Framework for Financial Query Answering",
+          "url": "https://arxiv.org/abs/2608.26114",
+          "summary": "arXiv:2608.26114v1 Announce Type: new Abstract: Calculation-intensive financial question answering requires exact reasoning over structured rates, temporal conditions, numerical fo…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.26114"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fe7fc2d6f9fa",
+          "title": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+          "titleZh": "Methodological and Conceptual Framework for 5D Multi-Table Analysis: A Unified Approach for Complex Data Reuse",
+          "url": "https://arxiv.org/abs/2608.26149",
+          "summary": "arXiv:2608.26149v1 Announce Type: new Abstract: Multi-table learning remains a major challenge in machine learning for healthcare and other complex information systems. Relational …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.26149"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "f82c7434597b",
+          "title": "Target’s new beauty selection has almost no Black-owned brands",
+          "titleZh": "Target’s new beauty selection has almost no Black-owned brands",
+          "url": "https://www.modernretail.co/marketing/targets-new-beauty-selection-has-almost-no-black-owned-brands/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Target’s refreshed beauty assortment aims to promote emerging brands, but it includes very few from Black entrepreneurs. Target Beauty Studio is set to launch Sept. 10 in more than…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0d65d14d68a1",
+          "title": "Chinese spatial-intelligence firm Manycore launches Lux3D and starts world-model testing",
+          "titleZh": "Chinese spatial-intelligence firm Manycore launches Lux3D and starts world-model testing",
+          "url": "https://technode.com/2026/08/28/chinese-spatial-intelligence-firm-manycore-launches-lux3d-and-starts-world-model-testing/",
+          "summary": "Manycore Tech, a Chinese spatial-intelligence company, launched Lux3D on Aug. 27 and began testing a next-generation world-model product. Lux3D generates 3D assets from text or ima…",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-08-28T06:06:51.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8b435ee25870",
+          "title": "Embodied-AI startup PsiBot raises over $100 million with industrial investors joining",
+          "titleZh": "Embodied-AI startup PsiBot raises over $100 million with industrial investors joining",
+          "url": "https://technode.com/2026/08/28/embodied-ai-startup-psibot-raises-over-100-million-with-industrial-investors-joining/",
+          "summary": "PsiBot, a Chinese embodied-AI startup focused on dexterous manipulation, has completed a new funding round of more than US$100 million . The round includes Ningbo Tuopu Group, a Ch…",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-08-28T05:59:33.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "cd48a55fbe31",
+    "ae7fb9c6f488",
+    "4639984632fb"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 39,
+    "itemsFiltered": 3,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 73,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
