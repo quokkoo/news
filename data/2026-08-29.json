@@ -1,0 +1,1033 @@
+{
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T03:50:13.124Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 35 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、学术前沿速递等 10 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "c3eb51ef50b9",
+          "title": "瑞银详解宇树科技：人形机器人整机先行者，“小脑”与本体技术领先",
+          "titleZh": "瑞银详解宇树科技：人形机器人整机先行者，“小脑”与本体技术领先",
+          "url": "https://wallstreetcn.com/articles/3780624",
+          "summary": "两年内，宇树科技将人形机器人年销量从5台推至5200台以上，拿下全球三成出货份额，是这条赛道上少数盈利的整机厂商。 8月28日，瑞银发布首覆报告详解宇树。报告将人形机器人能力拆解为\"大脑\"（感知推理与任务规划）、\"小脑\"（运动控制与动态平衡）和\"本体\"（执行性能与可靠性）三层。结论是：宇树在\"小脑+本体\"上显著领先，但\"大脑\"——AI泛化能力——仍是全行业共…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T03:36:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c7e76e99f345",
+          "title": "1个月960亿美元创纪录干预后，日元跌破160“回到干预前水平”",
+          "titleZh": "1个月960亿美元创纪录干预后，日元跌破160“回到干预前水平”",
+          "url": "https://wallstreetcn.com/articles/3780604",
+          "summary": "日本在过去一个月耗资创纪录的960亿美元捍卫日元，但这场史上规模最大的汇市干预行动正面临严峻考验——日元正逐步滑回干预前水平。 华尔街见闻提及，8月28日周五，凯文·沃什首次以美联储主席身份在杰克逊霍尔全球央行年会发表强硬讲话，重申控制通胀的决心，并明确表示2%的通胀目标\"坚定不移\"。 讲话发出后，两年期美债收益率单日跳升12个基点至4.35%，美元全线走强…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T01:45:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a3d3eb2780f",
+          "title": "沃什“杰克逊霍尔”讲完，美联储9月“不加也得加”？",
+          "titleZh": "沃什“杰克逊霍尔”讲完，美联储9月“不加也得加”？",
+          "url": "https://wallstreetcn.com/articles/3780619",
+          "summary": "美联储主席沃什杰克逊霍尔年会鹰派首秀后，市场迅速计入美联储9月加息预期。 沃什周五明确表态：2%通胀目标\"坚定不移\"，当前金融条件\"难言具有限制性\"，近期好于预期的PCE和CPI数据不足以证明基础通胀趋势出现\"有意义的改善\"。他给出一条清晰的行动门槛——如果无法确信通胀正以\"清晰且足够快\"的速度回落，美联储\"还有工作要做\"。 市场迅速计入加息预期。两年期美债…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T01:29:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a75657cc444",
+          "title": "Isabel Schnabel: Central banks on-chain",
+          "titleZh": "Isabel Schnabel: Central banks on-chain",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+          "summary": "Speech by Isabel Schnabel, Member of the Executive Board of the ECB, at the Jackson Hole Economic Policy Symposium on “Financial Innovation: Implications for Payments and Policy” J…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-08-28T16:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "62c06ecc4ec7",
+          "title": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
+          "titleZh": "How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon",
+          "url": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_markets_main",
+          "summary": "China’s crude reserves have given it huge power over the global oil market—and a critical new defense against the West.",
+          "whyItMatters": "",
+          "sourceName": "WSJ Markets",
+          "publishedAt": "2026-08-29T03:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "WSJ Business",
+              "url": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=pls_whats_news_us_business_f"
+            },
+            {
+              "sourceName": "WSJ World News",
+              "url": "https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_worldnews"
+            }
+          ],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "6f9c361454f5",
+          "title": "特朗普宣布与委内瑞拉达成石油协议，称获逾650亿桶储量\"多数控制权\"",
+          "titleZh": "特朗普宣布与委内瑞拉达成石油协议，称获逾650亿桶储量\"多数控制权\"",
+          "url": "https://wallstreetcn.com/articles/3780618",
+          "summary": "美国总统特朗普宣布与委内瑞拉达成一项重大石油协议，此举正值美伊战争导致全球原油供应持续承压之际。 据新华社，特朗普28日晚间在社交媒体发文称，美国与委内瑞拉达成一项石油相关协议，美方将取得对超过650亿桶委内瑞拉已探明石油储量的“多数控制权”。 特朗普将该协议称为\"世界历史上最大的石油交易\"，并强调协议对美国纳税人\"零成本\"。 他表示，此次交易由国务卿Mar…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T00:58:30.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "f87fd2ed4a42",
+          "title": "Just a rumour of a bug is enough to find a security exploit these days",
+          "titleZh": "Just a rumour of a bug is enough to find a security exploit these days",
+          "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/",
+          "summary": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-28T22:12:02.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2e1c22421ce1",
+          "title": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "titleZh": "Court rules Kalshi sports bets aren't \"swaps,\" just gambling with a different name",
+          "url": "https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/",
+          "summary": "Kalshi today lost a major ruling over whether it can evade state gambling laws, as a federal appeals court found that Nevada can stop the prediction market from allowing sports bet…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-28T22:14:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4837c547305e",
+          "title": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+          "titleZh": "\"RFK Jr. has lied to the Senate\": Lawmakers call for criminal probe, ouster",
+          "url": "https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/",
+          "summary": "Senators are renewing calls for anti-vaccine Health Secretary Robert F. Kennedy to step down or be ousted—and at least one is calling for a criminal investigation—amid the release …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-28T21:17:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "48b9c42f1c1a",
+          "title": "Cities terminate Flock contracts at record pace in August",
+          "titleZh": "Cities terminate Flock contracts at record pace in August",
+          "url": "https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/",
+          "summary": "New data compiled by a Bay Area anti-surveillance advocacy group shows that not only are American localities dropping cameras from Flock Safety, but they are doing it at an acceler…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-28T21:33:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "210868423a2d",
+          "title": "Piker defiant as Democrats turn on him",
+          "titleZh": "Piker defiant as Democrats turn on him",
+          "url": "https://www.semafor.com/article/08/28/2026/hasan-piker-defiant-as-democrats-turn-on-him-interview",
+          "summary": "The News “It doesn’t feel great to constantly be berated like this,” said Hasan Piker. By Friday morning, when he caught up with Semafor, the socialist influencer had spent the pas…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-28T22:24:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e613a01a7340",
+          "title": "Just the rumour of a bug is enough to find an exploit these days",
+          "titleZh": "Just the rumour of a bug is enough to find an exploit these days",
+          "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+          "summary": "Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 272 # Comments: 97",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-28T15:58:46.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://anil.recoil.org/notes/rumour-is-the-exploit"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb9ba09d2145",
+          "title": "GLM-5.3 is now open-weight",
+          "titleZh": "GLM-5.3 is now open-weight",
+          "url": "https://huggingface.co/zai-org/GLM-5.3",
+          "summary": "https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 613 # Comments: 215",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-28T15:20:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://huggingface.co/zai-org/GLM-5.3"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a20fb95c9795",
+          "title": "GUIs should be fully keyboard-driven",
+          "titleZh": "GUIs should be fully keyboard-driven",
+          "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+          "summary": "Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 654 # Comments: 322",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-28T15:17:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "54c7e80d1837",
+          "title": "泥石流生死劫，中国人在尼泊尔失联的72小时",
+          "titleZh": "泥石流生死劫，中国人在尼泊尔失联的72小时",
+          "url": "https://www.huxiu.com/article/4886956.html?f=rss",
+          "summary": "本文来自微信公众号： 凤凰网 ，作者：张木亭 广坤 尼泊尔时间8月26日早上8点50分，那个恐怖的声音比泥石流先到。 当时张川正在尼泊尔某村庄干活，这里距离中尼交界的吉隆口岸约3公里，突然远处传来巨大的响声，村民都往山上跑。他还没弄明白怎么回事，慌乱中只能跟村民沿小道一起跑，“尽快往上头爬，爬得越高越好”。 张川是中国援尼泊尔沙拉公路修复改善项目的工人之一。…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T03:24:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ad65f68f02f3",
+          "title": "一枚AI 戒指，凭什么值160亿美元？",
+          "titleZh": "一枚AI 戒指，凭什么值160亿美元？",
+          "url": "https://www.huxiu.com/article/4886953.html?f=rss",
+          "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《一枚 AI 戒指，凭什么值 160 亿美元？》 一枚没有屏幕、主要用来记录睡眠和健康状况的戒指，正试图撑起一家估值超过160亿美元的上市公司。 据彭博社等媒体报道，智能戒指厂商Oura正筹备最快于今年9月在美国进行IPO，计划募资最高30亿美元，对应估值可能超过160亿美元。而早…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T03:09:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ea9acb73992e",
+          "title": "一种灰色的心态，在年轻的男主中间游荡…",
+          "titleZh": "一种灰色的心态，在年轻的男主中间游荡…",
+          "url": "https://www.huxiu.com/article/4886950.html?f=rss",
+          "summary": "本文来自微信公众号： 影视独舌 ，作者：许心强 国剧的“主角之耻”诞生了，他就是正在热播的《师兄太稳健》里的李长寿（敖瑞鹏饰）。 剧中有个情节。小师妹想拜入小琼峰，李长寿出题考她：“一个修为比你低的人正在非礼女弟子，你救，还是不救？”小师妹拍案而起：冲上去，弄死他。 下一秒，她被扔出了房间。 因为答案错了。李长寿信奉的是稳健修仙，讲究藏足底牌，谋定后动，稳字…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T02:59:22.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fefbb2d443a",
+          "title": "车市寒流越野热，北汽下了个“双黄蛋”",
+          "titleZh": "车市寒流越野热，北汽下了个“双黄蛋”",
+          "url": "https://www.huxiu.com/article/4886658.html?f=rss",
+          "summary": "出品 | 虎嗅汽车组 作者 | 邢书博 头图 | 作者拍摄 2026年8月，中国汽车市场整体增长乏力，乘用车大盘在价格战与库存压力中艰难寻底。但越野赛道却是另一番景象。 据乘联会数据，2026年上半年国内泛越野市场42款累计销售55万辆，行业机构预估全年销量将突破150万辆，延续2025年约102万辆的高增长态势（数据来源北汽高管发言和部分机构统计，考虑到下…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T02:25:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "03abafc2d1d1",
+          "title": "我从心理医生那里听到的很震撼的洞见",
+          "titleZh": "我从心理医生那里听到的很震撼的洞见",
+          "url": "https://www.huxiu.com/article/4886941.html?f=rss",
+          "summary": "本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：AI生成 因为写这个公号的缘故，我认识了很多心理学专业的老师、学生，还有很多做心理咨询的读者朋友。前几天时间凑巧，就跟一个心理咨询主业的朋友吃了顿饭。 他入行十几年了，见过的来访者大概有一千多人。我对他的职业很好奇，问了他不少问题。他在保护病人隐私的前提下，给我讲了很多故事。…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T02:14:49.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-29T03:50:05.251Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-29T03:50:05.251Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-29T03:50:05.251Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "34fb49973b74",
+          "title": "Google’s Marvell Deal Shows Custom Silicon Spreading Beyond the TPU",
+          "titleZh": "Google’s Marvell Deal Shows Custom Silicon Spreading Beyond the TPU",
+          "url": "https://www.eetimes.com/googles-marvell-deal-shows-custom-silicon-spreading-beyond-the-tpu/",
+          "summary": "Google’s custom-silicon deal with Marvell Technology is striking for its potential size. But the more consequential part of the agreement may be its breadth. The deal extends well …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-08-28T21:59:13.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50a550555821",
+          "title": "Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors",
+          "titleZh": "Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors",
+          "url": "https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&utm_medium=rss&utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors",
+          "summary": "Metals, semiconductors and insulators are fundamental components of modern electronics. However, efforts to improve device performance have largely focused on semiconductor quality…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-28T17:32:06.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "629f397d9d8d",
+          "title": "New Transistor Brings High Voltage to Microchip Scale",
+          "titleZh": "New Transistor Brings High Voltage to Microchip Scale",
+          "url": "https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&utm_medium=rss&utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale",
+          "summary": "Inside every electronic device, the flow of electricity is controlled by a switch called a transistor. For decades, these switches were made from silicon. More recently, engineers …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-28T17:29:48.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "090a2412f0f4",
+          "title": "Diodes Completes Acquisition of ElevATE Semiconductor",
+          "titleZh": "Diodes Completes Acquisition of ElevATE Semiconductor",
+          "url": "https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor",
+          "summary": "Diodes Incorporated today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc., a provider of high-performance integrated circuits for the Automate…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-08-28T17:26:43.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "1a53ba328a1a",
+          "title": "JetBrains told everyone to patch. It didn’t patch itself.",
+          "titleZh": "JetBrains told everyone to patch. It didn’t patch itself.",
+          "url": "https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/",
+          "summary": "JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs as untrusted after attackers exploited a cr…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-28T20:51:48.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3032796d1b13",
+          "title": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+          "titleZh": "LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.",
+          "url": "https://thenewstack.io/bionic-shell-command-safety/",
+          "summary": "A command as ordinary as git diff can become a problem for an AI coding agent once a variable gets involved. Take git diff $base . If $base contains a commit hash, the command beha…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-28T18:31:38.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5d0c831e630f",
+          "title": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
+          "titleZh": "Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”",
+          "url": "https://thenewstack.io/qwen38-flash-previews-qwen4/",
+          "summary": "Alibaba this week unveiled Qwen3.8-Flash , an open-weight, multimodal Mixture-of-Experts (MoE) model. Hot on the heels of Qwen 3.8 Max , which arrived at the start of the month , t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-28T18:27:06.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b391082e164b",
+          "title": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
+          "titleZh": "Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers",
+          "url": "https://thenewstack.io/zai-glm-weights-license/",
+          "summary": "Earlier in August, Z.ai, the Chinese AI lab behind the viral ox-alpha model that turned out to be GLM-5.3-Flash , launched its flagship GLM-5.3 model. On Friday, the company made t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-28T17:42:54.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "cd48a55fbe31",
+          "title": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+          "titleZh": "FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes",
+          "url": "https://arxiv.org/abs/2608.26129",
+          "summary": "arXiv:2608.26129v1 Announce Type: cross Abstract: Scientific peer review datasets have trained AI systems exclusively on Computer Science and Machine Learning venues, producing mod…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.26129"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.26129"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae7fb9c6f488",
+          "title": "When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models",
+          "titleZh": "When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models",
+          "url": "https://arxiv.org/abs/2608.26187",
+          "summary": "arXiv:2608.26187v1 Announce Type: cross Abstract: Whether large language models (LLMs) can perform the abductive leap from evidence to a new system of axioms, commonly referred to …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-08-28T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2608.26187"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2608.26187"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 35,
+    "itemsPublished": 32,
+    "itemsFiltered": 3,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 63,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
