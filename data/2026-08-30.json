@@ -1,0 +1,850 @@
+{
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-30T00:37:50.415Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 前沿科技与 AI 产业、深度长文与思考、商业模式与行业深度、地缘政治与政策监管等 6 个领域，全部读完约需 59 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "f4c34aafab39",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "dd2bff9355fc",
+          "title": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+          "titleZh": "K, C or E? Why economists can’t agree on the shape of today’s economy",
+          "url": "https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html",
+          "summary": "Emily Park | CNBC C. K. E. Those aren't initials or Greek life letters. They're some of the terms that economists, corporate leaders and politicians are using as they attempt to de…",
+          "whyItMatters": "",
+          "sourceName": "CNBC Economy",
+          "publishedAt": "2026-08-29T20:22:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "95205b66c847",
+          "title": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+          "titleZh": "Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches",
+          "url": "https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2?mod=pls_whats_news_us_business_f",
+          "summary": "The deal capped months of secretive negotiations to give the U.S. rights to the some of the world’s largest proven oil reserves.",
+          "whyItMatters": "",
+          "sourceName": "WSJ Business",
+          "publishedAt": "2026-08-30T00:17:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "WSJ World News",
+              "url": "https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2?mod=rss_worldnews"
+            }
+          ],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "400b07083dd1",
+          "title": "井英科技吴高明：AI视频，终局是编剧中心制",
+          "titleZh": "井英科技吴高明：AI视频，终局是编剧中心制",
+          "url": "https://wallstreetcn.com/articles/3780634",
+          "summary": "AI替代了导演、演员和后期，但替代不了编剧。 这是井英科技联合创始人吴高明的判断。 今年一季度，中国新上线了12.8万部微短剧，AI生成的占比超过95%。月活7.18亿，人均每天刷129分钟，首次超过长视频。全球短剧应用内购收入去年达到29.8亿美元，同比翻了一倍还多。 内容制作端，整条生产链都在被AI接管，但吴高明认为，编剧是这条链上最后一个、也最难被替代…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T08:51:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "370e07aa5d68",
+          "title": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
+          "titleZh": "AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润",
+          "url": "https://wallstreetcn.com/articles/3780632",
+          "summary": "AI模型公司每赚100美元，约35-40美元以推理计算费用的形式流向AWS、Azure、GCP三大云厂商。云厂商从这笔收入中赚取10-20美元营业利润，对应营业利润率约35%-45%。 这是巴克莱在8月28日发布的AI行业单位经济学研报中的核心发现。 与此同时，AI实验室的付费推理利润率已从2025年的十几个百分点飙升至2026年的50%-65%以上，调整后…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T08:51:47.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3df6953337d7",
+          "title": "“竞争格局缓和”下的美团：本地商业利润率远超预期，新业务亏损收窄",
+          "titleZh": "“竞争格局缓和”下的美团：本地商业利润率远超预期，新业务亏损收窄",
+          "url": "https://wallstreetcn.com/articles/3780623",
+          "summary": "二季度，美团交出了一份远超华尔街预期的亮眼财报。 其中，核心本地商业经营利润56.7亿元，同比增长52%，利润率7.9%，而华尔街预期仅34亿元，实际超出近七成。亮眼财报表现的背后，是行业竞争的阶段性降温——外卖补贴趋于正常化，单位经济模型（UE）快速修复。 具体数据来看，二季度，美团总营收1046.4亿元，同比增14.4%，环比增14.9%，超预期约3.5…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T07:16:40.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "00f803bdda21",
+          "title": "沃什“放鹰”，高盛依旧不信“9月加息”、摩根大通称“还是要看8月非农和CPI”",
+          "titleZh": "沃什“放鹰”，高盛依旧不信“9月加息”、摩根大通称“还是要看8月非农和CPI”",
+          "url": "https://wallstreetcn.com/articles/3780629",
+          "summary": "美联储主席沃什（Kevin Warsh）首次以主席身份亮相Jackson Hole，发出了比7月FOMC新闻发布会更为鹰派的信号：通胀\"令人担忧\"，美联储当前的\"首要焦点应当放在物价上\"，若基本通胀趋势不能以\"足够的速度\"回落至目标，\"我们还有工作要做\"。 讲话公布后，2年期美债收益率跳升约7个基点——近年来Jackson Hole讲话引发的最大市场反应之一…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-29T05:21:40.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "f4c34aafab39",
+          "title": "Introducing Hy4 Preview",
+          "titleZh": "Introducing Hy4 Preview",
+          "url": "https://simonwillison.net/2026/Aug/29/hy4/",
+          "summary": "Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-29T23:53:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8f8dbaf1625",
+          "title": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
+          "titleZh": "OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元",
+          "url": "http://www.geekpark.net/news/369551",
+          "summary": "OpenAI 终止与 Cursor 合作 8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。 OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-08-30T00:28:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "08dc6f4573a7",
+          "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "titleZh": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+          "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+          "summary": "Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 164 # Comments: 100",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-29T19:33:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "27cb13e7984c",
+          "title": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+          "titleZh": "DHS is using obscure law to snoop on journalists, non-profits, unions",
+          "url": "https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits",
+          "summary": "Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Point…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-29T18:44:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f8797aef14d4",
+          "title": "Republicans' economic optimism is 'starting to fade,' economist says",
+          "titleZh": "Republicans' economic optimism is 'starting to fade,' economist says",
+          "url": "https://www.semafor.com/article/08/29/2026/gop-consumer-sentiment-is-starting-to-fade-going-into-midterms",
+          "summary": "The News Consumer sentiment among Republicans and independents is “starting to fade” ahead of the midterm elections, The Conference Board Chief Economist Dana Peterson told Semafor…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-29T18:34:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7342dc877c64",
+          "title": "The Fed ‘has been a little too quiet’ on Treasury, former Fed official says",
+          "titleZh": "The Fed ‘has been a little too quiet’ on Treasury, former Fed official says",
+          "url": "https://www.semafor.com/article/08/29/2026/the-fed-has-been-a-little-too-quiet-on-treasury-former-fed-official-says",
+          "summary": "The News JACKSON HOLE, Wyo. — The Federal Reserve has so far “been a little too quiet” about the Treasury Department’s campaign to bring down yields by buying back more long-term d…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-29T18:23:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9d30f67b8d60",
+          "title": "[AINews] OpenAI shuts off Cursor",
+          "titleZh": "[AINews] OpenAI shuts off Cursor",
+          "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
+          "summary": "A late entrant in the news cycle of an eventful week: Following the closing of Cursor’s acquisition by SpaceX last week , it was time for OpenAI to do what Anthropic did to Windsur…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-08-29T05:11:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f85b4750337b",
+          "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+          "titleZh": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+          "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+          "summary": "Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I alway…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-08-29T20:59:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "877d0098bdc2",
+          "title": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "titleZh": "Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
+          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
+          "summary": "Some of the world's largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging \"one of the largest and most blatant ongoing thefts of intell…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-29T23:57:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e5ed75bafc25",
+          "title": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+          "titleZh": "CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say",
+          "url": "https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war",
+          "summary": "CIA Director John Ratcliffe proposed a trilateral meeting between President Trump, Russian President Putin and Ukrainian President Zelensky during his covert trip to Moscow earlier…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-29T23:21:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a5e3e2ed51fa",
+          "title": "五大六小之“中广核”战略分析",
+          "titleZh": "五大六小之“中广核”战略分析",
+          "url": "https://www.huxiu.com/article/4887073.html?f=rss",
+          "summary": "本文来自微信公众号： 沈素明 ，作者：沈素明 中广核，全称中国广核集团，五大六小里的六小之一。但在六小里，它的位置最特殊。 怎么特殊？它不像三峡那样靠一条江吃饭，也不像国投电力那样靠一个流域立足。它靠的是一种资格：核电牌照。这个资格，全国只有四家电力央企有。中广核是其中之一，而且核电装机规模国内第一，世界第二，独占国内核电市场的半壁江山。 把中广核放在五大六…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T23:36:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e722e9899859",
+          "title": "腾讯的战略是混元4？WorkBuddy？AI token 工厂？",
+          "titleZh": "腾讯的战略是混元4？WorkBuddy？AI token 工厂？",
+          "url": "https://www.huxiu.com/article/4887072.html?f=rss",
+          "summary": "本文来自微信公众号： 方伟看十年 ，作者：投资向善，原文标题：《腾讯的战略是混元 4？WorkBuddy？AI token 工厂？》 “不受限制的利润，只有存在合理前景时才应当留存——最好有历史业绩佐证，必要时辅以严谨的未来分析：公司每留存1美元，要能为所有者创造至少1美元的市场价值。而这只有在留存资本带来的增量收益，等于或高于投资者普遍可获得的收益水平时，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T23:11:35.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "70f610db9d97",
+          "title": "大众印度20年困局",
+          "titleZh": "大众印度20年困局",
+          "url": "https://www.huxiu.com/article/4887071.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 2026年8月25日，孟买高等法院没有宣读大众等待已久的判决。 原合议庭表示，由于工作压力，未能完成判决书，该案将改由新的合议庭审理。大众印度公司与印度海关围绕进口税的争议，在等待约16个月后重新回到审理阶段。 更换合议庭并非法官的临时决定。 2026年5月，印度最高法院针对高等法院…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-29T23:08:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-30T00:37:41.653Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-30T00:37:41.653Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-30T00:37:41.653Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d32de7c30912",
+          "title": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+          "titleZh": "Is the Irtysh River the choke-free Arctic shipping gateway that China needs?",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed",
+          "summary": "As conflicts around the world highlight the vulnerability of global shipping lanes, China and Russia are reportedly weighing the possibility of turning a vast river into an inland …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-29T22:00:13.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1997f483380b",
+          "title": "Progressives are learning the hard way how to survive Fox News",
+          "titleZh": "Progressives are learning the hard way how to survive Fox News",
+          "url": "https://www.politico.com/news/2026/08/29/fox-news-progressives-interviews-01053420",
+          "summary": "The night after verbally sparring with Abdul El-Sayed on primetime television, Fox News host Jesse Watters had kind words for the progressive Michigan Senate nominee. “I like him,”…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-08-29T18:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "6fcd7cc74f23",
+          "title": "Your container runs. Everything around it shouldn’t be your problem.",
+          "titleZh": "Your container runs. Everything around it shouldn’t be your problem.",
+          "url": "https://thenewstack.io/amazon-ecs-express-mode/",
+          "summary": "The promise with containers was simple: if it runs on your local machine, it will run in production. And this promise holds – your container runs. But there’s a tax: setting up eve…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-29T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ed0c502ef572",
+          "title": "Commits on GitHub have doubled in four months. Verification capacity has not.",
+          "titleZh": "Commits on GitHub have doubled in four months. Verification capacity has not.",
+          "url": "https://thenewstack.io/scaling-ai-code-verification/",
+          "summary": "I have been waiting for agent-generated code to show up in public infrastructure data rather than in vendor benchmarks. In August, it did. GitHub now handles 2.9 billion commits a …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-29T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a55db87a78a",
+          "title": "The 3 roles AI agents play in your developer platform",
+          "titleZh": "The 3 roles AI agents play in your developer platform",
+          "url": "https://thenewstack.io/ai-agent-platform-roles/",
+          "summary": "Engineering organizations are trying to deliver as fast as technology allows, bringing agentic AI into their developer platforms and working out how to use AI agents to maximize en…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-29T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "f4c34aafab39",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 27,
+    "itemsPublished": 27,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 59,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

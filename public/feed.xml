@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sat, 29 Aug 2026 03:50:13 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 00:37:50 GMT</lastBuildDate>
     <item>
-      <title>【2026-08-29 今日导读】</title>
+      <title>【2026-08-30 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-08-29</guid>
-      <pubDate>Sat, 29 Aug 2026 03:50:13 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 35 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、学术前沿速递等 10 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-08-30</guid>
+      <pubDate>Sun, 30 Aug 2026 00:37:50 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 前沿科技与 AI 产业、深度长文与思考、商业模式与行业深度、地缘政治与政策监管等 6 个领域，全部读完约需 59 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>瑞银详解宇树科技：人形机器人整机先行者，“小脑”与本体技术领先</title>
-      <link>https://wallstreetcn.com/articles/3780624</link>
-      <guid isPermaLink="false">c3eb51ef50b9</guid>
-      <pubDate>Sat, 29 Aug 2026 03:36:03 GMT</pubDate>
+      <title>K, C or E? Why economists can’t agree on the shape of today’s economy</title>
+      <link>https://www.cnbc.com/2026/08/29/k-shaped-economy-c-shaped-e-shape.html</link>
+      <guid isPermaLink="false">dd2bff9355fc</guid>
+      <pubDate>Sat, 29 Aug 2026 20:22:12 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>两年内，宇树科技将人形机器人年销量从5台推至5200台以上，拿下全球三成出货份额，是这条赛道上少数盈利的整机厂商。 8月28日，瑞银发布首覆报告详解宇树。报告将人形机器人能力拆解为&quot;大脑&quot;（感知推理与任务规划）、&quot;小脑&quot;（运动控制与动态平衡）和&quot;本体&quot;（执行性能与可靠性）三层。结论是：宇树在&quot;小脑+本体&quot;上显著领先，但&quot;大脑&quot;——AI泛化能力——仍是全行业共…
+      <description>Emily Park | CNBC C. K. E. Those aren&apos;t initials or Greek life letters. They&apos;re some of the terms that economists, corporate leaders and politicians are using as they attempt to de…
+
+来源：CNBC Economy · 宏观经济与资本市场 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Inside Trump’s Plan to Give the Pentagon a Stake in Venezuela’s Oil Riches</title>
+      <link>https://www.wsj.com/business/energy-oil/inside-trumps-plan-to-give-the-pentagon-a-stake-in-venezuelas-oil-riches-f054cdc2?mod=pls_whats_news_us_business_f</link>
+      <guid isPermaLink="false">95205b66c847</guid>
+      <pubDate>Sun, 30 Aug 2026 00:17:00 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>The deal capped months of secretive negotiations to give the U.S. rights to the some of the world’s largest proven oil reserves.
+
+来源：WSJ Business · 宏观经济与资本市场 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>井英科技吴高明：AI视频，终局是编剧中心制</title>
+      <link>https://wallstreetcn.com/articles/3780634</link>
+      <guid isPermaLink="false">400b07083dd1</guid>
+      <pubDate>Sat, 29 Aug 2026 08:51:57 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>AI替代了导演、演员和后期，但替代不了编剧。 这是井英科技联合创始人吴高明的判断。 今年一季度，中国新上线了12.8万部微短剧，AI生成的占比超过95%。月活7.18亿，人均每天刷129分钟，首次超过长视频。全球短剧应用内购收入去年达到29.8亿美元，同比翻了一倍还多。 内容制作端，整条生产链都在被AI接管，但吴高明认为，编剧是这条链上最后一个、也最难被替代…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>1个月960亿美元创纪录干预后，日元跌破160“回到干预前水平”</title>
-      <link>https://wallstreetcn.com/articles/3780604</link>
-      <guid isPermaLink="false">c7e76e99f345</guid>
-      <pubDate>Sat, 29 Aug 2026 01:45:22 GMT</pubDate>
+      <title>AI利润格局：模型公司每100美元收入，35-40美元流向云厂，为其带来10-20美元营业利润</title>
+      <link>https://wallstreetcn.com/articles/3780632</link>
+      <guid isPermaLink="false">370e07aa5d68</guid>
+      <pubDate>Sat, 29 Aug 2026 08:51:47 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>日本在过去一个月耗资创纪录的960亿美元捍卫日元，但这场史上规模最大的汇市干预行动正面临严峻考验——日元正逐步滑回干预前水平。 华尔街见闻提及，8月28日周五，凯文·沃什首次以美联储主席身份在杰克逊霍尔全球央行年会发表强硬讲话，重申控制通胀的决心，并明确表示2%的通胀目标&quot;坚定不移&quot;。 讲话发出后，两年期美债收益率单日跳升12个基点至4.35%，美元全线走强…
+      <description>AI模型公司每赚100美元，约35-40美元以推理计算费用的形式流向AWS、Azure、GCP三大云厂商。云厂商从这笔收入中赚取10-20美元营业利润，对应营业利润率约35%-45%。 这是巴克莱在8月28日发布的AI行业单位经济学研报中的核心发现。 与此同时，AI实验室的付费推理利润率已从2025年的十几个百分点飙升至2026年的50%-65%以上，调整后…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>沃什“杰克逊霍尔”讲完，美联储9月“不加也得加”？</title>
-      <link>https://wallstreetcn.com/articles/3780619</link>
-      <guid isPermaLink="false">7a3d3eb2780f</guid>
-      <pubDate>Sat, 29 Aug 2026 01:29:57 GMT</pubDate>
+      <title>“竞争格局缓和”下的美团：本地商业利润率远超预期，新业务亏损收窄</title>
+      <link>https://wallstreetcn.com/articles/3780623</link>
+      <guid isPermaLink="false">3df6953337d7</guid>
+      <pubDate>Sat, 29 Aug 2026 07:16:40 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美联储主席沃什杰克逊霍尔年会鹰派首秀后，市场迅速计入美联储9月加息预期。 沃什周五明确表态：2%通胀目标&quot;坚定不移&quot;，当前金融条件&quot;难言具有限制性&quot;，近期好于预期的PCE和CPI数据不足以证明基础通胀趋势出现&quot;有意义的改善&quot;。他给出一条清晰的行动门槛——如果无法确信通胀正以&quot;清晰且足够快&quot;的速度回落，美联储&quot;还有工作要做&quot;。 市场迅速计入加息预期。两年期美债…
+      <description>二季度，美团交出了一份远超华尔街预期的亮眼财报。 其中，核心本地商业经营利润56.7亿元，同比增长52%，利润率7.9%，而华尔街预期仅34亿元，实际超出近七成。亮眼财报表现的背后，是行业竞争的阶段性降温——外卖补贴趋于正常化，单位经济模型（UE）快速修复。 具体数据来看，二季度，美团总营收1046.4亿元，同比增14.4%，环比增14.9%，超预期约3.5…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Isabel Schnabel: Central banks on-chain</title>
-      <link>https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html</link>
-      <guid isPermaLink="false">1a75657cc444</guid>
-      <pubDate>Fri, 28 Aug 2026 16:00:00 GMT</pubDate>
+      <title>沃什“放鹰”，高盛依旧不信“9月加息”、摩根大通称“还是要看8月非农和CPI”</title>
+      <link>https://wallstreetcn.com/articles/3780629</link>
+      <guid isPermaLink="false">00f803bdda21</guid>
+      <pubDate>Sat, 29 Aug 2026 05:21:40 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Speech by Isabel Schnabel, Member of the Executive Board of the ECB, at the Jackson Hole Economic Policy Symposium on “Financial Innovation: Implications for Payments and Policy” J…
+      <description>美联储主席沃什（Kevin Warsh）首次以主席身份亮相Jackson Hole，发出了比7月FOMC新闻发布会更为鹰派的信号：通胀&quot;令人担忧&quot;，美联储当前的&quot;首要焦点应当放在物价上&quot;，若基本通胀趋势不能以&quot;足够的速度&quot;回落至目标，&quot;我们还有工作要做&quot;。 讲话公布后，2年期美债收益率跳升约7个基点——近年来Jackson Hole讲话引发的最大市场反应之一…
 
-来源：欧洲央行公告 · 宏观经济与资本市场 · 约 1 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>How Xi Jinping Turned Oil From a Weakness Into a Geopolitical Weapon</title>
-      <link>https://www.wsj.com/world/china/china-oil-market-edf57588?mod=rss_markets_main</link>
-      <guid isPermaLink="false">62c06ecc4ec7</guid>
-      <pubDate>Sat, 29 Aug 2026 03:00:00 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>China’s crude reserves have given it huge power over the global oil market—and a critical new defense against the West.
-
-来源：WSJ Markets · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>特朗普宣布与委内瑞拉达成石油协议，称获逾650亿桶储量&quot;多数控制权&quot;</title>
-      <link>https://wallstreetcn.com/articles/3780618</link>
-      <guid isPermaLink="false">6f9c361454f5</guid>
-      <pubDate>Sat, 29 Aug 2026 00:58:30 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>美国总统特朗普宣布与委内瑞拉达成一项重大石油协议，此举正值美伊战争导致全球原油供应持续承压之际。 据新华社，特朗普28日晚间在社交媒体发文称，美国与委内瑞拉达成一项石油相关协议，美方将取得对超过650亿桶委内瑞拉已探明石油储量的“多数控制权”。 特朗普将该协议称为&quot;世界历史上最大的石油交易&quot;，并强调协议对美国纳税人&quot;零成本&quot;。 他表示，此次交易由国务卿Mar…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Just a rumour of a bug is enough to find a security exploit these days</title>
-      <link>https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug/</link>
-      <guid isPermaLink="false">f87fd2ed4a42</guid>
-      <pubDate>Fri, 28 Aug 2026 22:12:02 GMT</pubDate>
+      <title>Introducing Hy4 Preview</title>
+      <link>https://simonwillison.net/2026/Aug/29/hy4/</link>
+      <guid isPermaLink="false">f4c34aafab39</guid>
+      <pubDate>Sat, 29 Aug 2026 23:53:13 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler…
+      <description>Introducing Hy4 Preview New open weight text input (no vision) LLM from Chinese company Tencent today: 770B total parameters, 49B active parameters, 1M token context window, 1.56TB…
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Court rules Kalshi sports bets aren&apos;t &quot;swaps,&quot; just gambling with a different name</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/</link>
-      <guid isPermaLink="false">2e1c22421ce1</guid>
-      <pubDate>Fri, 28 Aug 2026 22:14:52 GMT</pubDate>
+      <title>OpenAI 终止与 Cursor 合作；雷军：2600名小米车主行程超 10 万公里；华纳与索尼起诉 Anthropic，索赔数十亿美元</title>
+      <link>http://www.geekpark.net/news/369551</link>
+      <guid isPermaLink="false">b8f8dbaf1625</guid>
+      <pubDate>Sun, 30 Aug 2026 00:28:43 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Kalshi today lost a major ruling over whether it can evade state gambling laws, as a federal appeals court found that Nevada can stop the prediction market from allowing sports bet…
+      <description>OpenAI 终止与 Cursor 合作 8 月 29 日消息，OpenAI 以「无法信任 SpaceX 遵守服务条款」为由，终止向已被 SpaceX 收购的 AI 编程工具 Cursor 提供模型支持。Cursor 对 OpenAI 模型的直接访问权限将于 11 月 12 日终止。 OpenAI 在其官方网站发布的公告中明确表示，终止合作的决定「归根结底在…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：极客公园 · 前沿科技与 AI 产业 · 约 3 分钟</description>
     </item>
     <item>
-      <title>&quot;RFK Jr. has lied to the Senate&quot;: Lawmakers call for criminal probe, ouster</title>
-      <link>https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/</link>
-      <guid isPermaLink="false">4837c547305e</guid>
-      <pubDate>Fri, 28 Aug 2026 21:17:38 GMT</pubDate>
+      <title>Tencent Releases and Open-Sources Tencent Hy4 Preview</title>
+      <link>https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/</link>
+      <guid isPermaLink="false">08dc6f4573a7</guid>
+      <pubDate>Sat, 29 Aug 2026 19:33:23 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Senators are renewing calls for anti-vaccine Health Secretary Robert F. Kennedy to step down or be ousted—and at least one is calling for a criminal investigation—amid the release …
+      <description>Article URL: https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/ Comments URL: https://news.ycombinator.com/item?id=49492632 Points: 164 # Comments: 100
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Cities terminate Flock contracts at record pace in August</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/</link>
-      <guid isPermaLink="false">48b9c42f1c1a</guid>
-      <pubDate>Fri, 28 Aug 2026 21:33:54 GMT</pubDate>
+      <title>DHS is using obscure law to snoop on journalists, non-profits, unions</title>
+      <link>https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits</link>
+      <guid isPermaLink="false">27cb13e7984c</guid>
+      <pubDate>Sat, 29 Aug 2026 18:44:37 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>New data compiled by a Bay Area anti-surveillance advocacy group shows that not only are American localities dropping cameras from Flock Safety, but they are doing it at an acceler…
+      <description>Article URL: https://www.theguardian.com/us-news/2026/aug/29/trump-dhs-1509-summons-records-journalists-nonprofits Comments URL: https://news.ycombinator.com/item?id=49492219 Point…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Piker defiant as Democrats turn on him</title>
-      <link>https://www.semafor.com/article/08/28/2026/hasan-piker-defiant-as-democrats-turn-on-him-interview</link>
-      <guid isPermaLink="false">210868423a2d</guid>
-      <pubDate>Fri, 28 Aug 2026 22:24:50 GMT</pubDate>
+      <title>Republicans&apos; economic optimism is &apos;starting to fade,&apos; economist says</title>
+      <link>https://www.semafor.com/article/08/29/2026/gop-consumer-sentiment-is-starting-to-fade-going-into-midterms</link>
+      <guid isPermaLink="false">f8797aef14d4</guid>
+      <pubDate>Sat, 29 Aug 2026 18:34:15 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>The News “It doesn’t feel great to constantly be berated like this,” said Hasan Piker. By Friday morning, when he caught up with Semafor, the socialist influencer had spent the pas…
+      <description>The News Consumer sentiment among Republicans and independents is “starting to fade” ahead of the midterm elections, The Conference Board Chief Economist Dana Peterson told Semafor…
 
 来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Just the rumour of a bug is enough to find an exploit these days</title>
-      <link>https://anil.recoil.org/notes/rumour-is-the-exploit</link>
-      <guid isPermaLink="false">e613a01a7340</guid>
-      <pubDate>Fri, 28 Aug 2026 15:58:46 GMT</pubDate>
+      <title>The Fed ‘has been a little too quiet’ on Treasury, former Fed official says</title>
+      <link>https://www.semafor.com/article/08/29/2026/the-fed-has-been-a-little-too-quiet-on-treasury-former-fed-official-says</link>
+      <guid isPermaLink="false">7342dc877c64</guid>
+      <pubDate>Sat, 29 Aug 2026 18:23:08 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://anil.recoil.org/notes/rumour-is-the-exploit Comments URL: https://news.ycombinator.com/item?id=49480466 Points: 272 # Comments: 97
+      <description>The News JACKSON HOLE, Wyo. — The Federal Reserve has so far “been a little too quiet” about the Treasury Department’s campaign to bring down yields by buying back more long-term d…
 
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>GLM-5.3 is now open-weight</title>
-      <link>https://huggingface.co/zai-org/GLM-5.3</link>
-      <guid isPermaLink="false">cb9ba09d2145</guid>
-      <pubDate>Fri, 28 Aug 2026 15:20:13 GMT</pubDate>
+      <title>[AINews] OpenAI shuts off Cursor</title>
+      <link>https://www.latent.space/p/ainews-openai-shuts-off-cursor</link>
+      <guid isPermaLink="false">9d30f67b8d60</guid>
+      <pubDate>Sat, 29 Aug 2026 05:11:52 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>https://twitter.com/Zai_org/status/2093354097122455713 https://z.ai/blog/glm-5.3 Comments URL: https://news.ycombinator.com/item?id=49479878 Points: 613 # Comments: 215
+      <description>A late entrant in the news cycle of an eventful week: Following the closing of Cursor’s acquisition by SpaceX last week , it was time for OpenAI to do what Anthropic did to Windsur…
 
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>GUIs should be fully keyboard-driven</title>
-      <link>https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html</link>
-      <guid isPermaLink="false">a20fb95c9795</guid>
-      <pubDate>Fri, 28 Aug 2026 15:17:09 GMT</pubDate>
+      <title>Vicariously hike the Appalachian in the gorgeous A Trail Tale</title>
+      <link>https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale</link>
+      <guid isPermaLink="false">f85b4750337b</guid>
+      <pubDate>Sat, 29 Aug 2026 20:59:26 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html Comments URL: https://news.ycombinator.com/item?id=49479837 Points: 654 # Comments: 322
+      <description>Inspired by Oregon Trail, but minus the dysentery. | Screenshot: Terrence O’Brien / The Verge I used to be an avid hiker and would try to go backpacking a few times a year. I alway…
 
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：The Verge · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>泥石流生死劫，中国人在尼泊尔失联的72小时</title>
-      <link>https://www.huxiu.com/article/4886956.html?f=rss</link>
-      <guid isPermaLink="false">54c7e80d1837</guid>
-      <pubDate>Sat, 29 Aug 2026 03:24:57 GMT</pubDate>
+      <title>Music publishers sue Anthropic, allege &quot;blantant theft&quot; of copyrighted music</title>
+      <link>https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright</link>
+      <guid isPermaLink="false">877d0098bdc2</guid>
+      <pubDate>Sat, 29 Aug 2026 23:57:01 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 凤凰网 ，作者：张木亭 广坤 尼泊尔时间8月26日早上8点50分，那个恐怖的声音比泥石流先到。 当时张川正在尼泊尔某村庄干活，这里距离中尼交界的吉隆口岸约3公里，突然远处传来巨大的响声，村民都往山上跑。他还没弄明白怎么回事，慌乱中只能跟村民沿小道一起跑，“尽快往上头爬，爬得越高越好”。 张川是中国援尼泊尔沙拉公路修复改善项目的工人之一。…
+      <description>Some of the world&apos;s largest music publishers filed a blockbuster lawsuit against Anthropic late Friday night, alleging &quot;one of the largest and most blatant ongoing thefts of intell…
 
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>一枚AI 戒指，凭什么值160亿美元？</title>
-      <link>https://www.huxiu.com/article/4886953.html?f=rss</link>
-      <guid isPermaLink="false">ad65f68f02f3</guid>
-      <pubDate>Sat, 29 Aug 2026 03:09:00 GMT</pubDate>
+      <title>CIA director Ratcliffe floated Trump-Putin-Zelensky summit during Moscow visit, sources say</title>
+      <link>https://www.axios.com/2026/08/29/cia-director-ratcliffe-putin-zelensky-summit-war</link>
+      <guid isPermaLink="false">e5ed75bafc25</guid>
+      <pubDate>Sat, 29 Aug 2026 23:21:10 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《一枚 AI 戒指，凭什么值 160 亿美元？》 一枚没有屏幕、主要用来记录睡眠和健康状况的戒指，正试图撑起一家估值超过160亿美元的上市公司。 据彭博社等媒体报道，智能戒指厂商Oura正筹备最快于今年9月在美国进行IPO，计划募资最高30亿美元，对应估值可能超过160亿美元。而早…
+      <description>CIA Director John Ratcliffe proposed a trilateral meeting between President Trump, Russian President Putin and Ukrainian President Zelensky during his covert trip to Moscow earlier…
 
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>一种灰色的心态，在年轻的男主中间游荡…</title>
-      <link>https://www.huxiu.com/article/4886950.html?f=rss</link>
-      <guid isPermaLink="false">ea9acb73992e</guid>
-      <pubDate>Sat, 29 Aug 2026 02:59:22 GMT</pubDate>
+      <title>五大六小之“中广核”战略分析</title>
+      <link>https://www.huxiu.com/article/4887073.html?f=rss</link>
+      <guid isPermaLink="false">a5e3e2ed51fa</guid>
+      <pubDate>Sat, 29 Aug 2026 23:36:59 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 影视独舌 ，作者：许心强 国剧的“主角之耻”诞生了，他就是正在热播的《师兄太稳健》里的李长寿（敖瑞鹏饰）。 剧中有个情节。小师妹想拜入小琼峰，李长寿出题考她：“一个修为比你低的人正在非礼女弟子，你救，还是不救？”小师妹拍案而起：冲上去，弄死他。 下一秒，她被扔出了房间。 因为答案错了。李长寿信奉的是稳健修仙，讲究藏足底牌，谋定后动，稳字…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>车市寒流越野热，北汽下了个“双黄蛋”</title>
-      <link>https://www.huxiu.com/article/4886658.html?f=rss</link>
-      <guid isPermaLink="false">0fefbb2d443a</guid>
-      <pubDate>Sat, 29 Aug 2026 02:25:05 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>出品 | 虎嗅汽车组 作者 | 邢书博 头图 | 作者拍摄 2026年8月，中国汽车市场整体增长乏力，乘用车大盘在价格战与库存压力中艰难寻底。但越野赛道却是另一番景象。 据乘联会数据，2026年上半年国内泛越野市场42款累计销售55万辆，行业机构预估全年销量将突破150万辆，延续2025年约102万辆的高增长态势（数据来源北汽高管发言和部分机构统计，考虑到下…
+      <description>本文来自微信公众号： 沈素明 ，作者：沈素明 中广核，全称中国广核集团，五大六小里的六小之一。但在六小里，它的位置最特殊。 怎么特殊？它不像三峡那样靠一条江吃饭，也不像国投电力那样靠一个流域立足。它靠的是一种资格：核电牌照。这个资格，全国只有四家电力央企有。中广核是其中之一，而且核电装机规模国内第一，世界第二，独占国内核电市场的半壁江山。 把中广核放在五大六…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>我从心理医生那里听到的很震撼的洞见</title>
-      <link>https://www.huxiu.com/article/4886941.html?f=rss</link>
-      <guid isPermaLink="false">03abafc2d1d1</guid>
-      <pubDate>Sat, 29 Aug 2026 02:14:49 GMT</pubDate>
+      <title>腾讯的战略是混元4？WorkBuddy？AI token 工厂？</title>
+      <link>https://www.huxiu.com/article/4887072.html?f=rss</link>
+      <guid isPermaLink="false">e722e9899859</guid>
+      <pubDate>Sat, 29 Aug 2026 23:11:35 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：AI生成 因为写这个公号的缘故，我认识了很多心理学专业的老师、学生，还有很多做心理咨询的读者朋友。前几天时间凑巧，就跟一个心理咨询主业的朋友吃了顿饭。 他入行十几年了，见过的来访者大概有一千多人。我对他的职业很好奇，问了他不少问题。他在保护病人隐私的前提下，给我讲了很多故事。…
+      <description>本文来自微信公众号： 方伟看十年 ，作者：投资向善，原文标题：《腾讯的战略是混元 4？WorkBuddy？AI token 工厂？》 “不受限制的利润，只有存在合理前景时才应当留存——最好有历史业绩佐证，必要时辅以严谨的未来分析：公司每留存1美元，要能为所有者创造至少1美元的市场价值。而这只有在留存资本带来的增量收益，等于或高于投资者普遍可获得的收益水平时，…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>大众印度20年困局</title>
+      <link>https://www.huxiu.com/article/4887071.html?f=rss</link>
+      <guid isPermaLink="false">70f610db9d97</guid>
+      <pubDate>Sat, 29 Aug 2026 23:08:54 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 2026年8月25日，孟买高等法院没有宣读大众等待已久的判决。 原合议庭表示，由于工作压力，未能完成判决书，该案将改由新的合议庭审理。大众印度公司与印度海关围绕进口税的争议，在等待约16个月后重新回到审理阶段。 更换合议庭并非法官的临时决定。 2026年5月，印度最高法院针对高等法院…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Sat, 29 Aug 2026 03:50:05 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 00:37:41 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Sat, 29 Aug 2026 03:50:05 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 00:37:41 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,111 +228,61 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Sat, 29 Aug 2026 03:50:05 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 00:37:41 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Google’s Marvell Deal Shows Custom Silicon Spreading Beyond the TPU</title>
-      <link>https://www.eetimes.com/googles-marvell-deal-shows-custom-silicon-spreading-beyond-the-tpu/</link>
-      <guid isPermaLink="false">34fb49973b74</guid>
-      <pubDate>Fri, 28 Aug 2026 21:59:13 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Google’s custom-silicon deal with Marvell Technology is striking for its potential size. But the more consequential part of the agreement may be its breadth. The deal extends well …
+      <title>Is the Irtysh River the choke-free Arctic shipping gateway that China needs?</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3365692/irtysh-river-choke-free-arctic-shipping-gateway-china-needs?utm_source=rss_feed</link>
+      <guid isPermaLink="false">d32de7c30912</guid>
+      <pubDate>Sat, 29 Aug 2026 22:00:13 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>As conflicts around the world highlight the vulnerability of global shipping lanes, China and Russia are reportedly weighing the possibility of turning a vast river into an inland …
 
-来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Researchers Develop Stepwise Evaporation Method to Reduce Contact Resistance in Transistors</title>
-      <link>https://www.semiconductor-digest.com/researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=researchers-develop-stepwise-evaporation-method-to-reduce-contact-resistance-in-transistors</link>
-      <guid isPermaLink="false">50a550555821</guid>
-      <pubDate>Fri, 28 Aug 2026 17:32:06 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Metals, semiconductors and insulators are fundamental components of modern electronics. However, efforts to improve device performance have largely focused on semiconductor quality…
+      <title>Progressives are learning the hard way how to survive Fox News</title>
+      <link>https://www.politico.com/news/2026/08/29/fox-news-progressives-interviews-01053420</link>
+      <guid isPermaLink="false">1997f483380b</guid>
+      <pubDate>Sat, 29 Aug 2026 18:00:00 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>The night after verbally sparring with Abdul El-Sayed on primetime television, Fox News host Jesse Watters had kind words for the progressive Michigan Senate nominee. “I like him,”…
 
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
     </item>
     <item>
-      <title>New Transistor Brings High Voltage to Microchip Scale</title>
-      <link>https://www.semiconductor-digest.com/new-transistor-brings-high-voltage-to-microchip-scale/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-transistor-brings-high-voltage-to-microchip-scale</link>
-      <guid isPermaLink="false">629f397d9d8d</guid>
-      <pubDate>Fri, 28 Aug 2026 17:29:48 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Inside every electronic device, the flow of electricity is controlled by a switch called a transistor. For decades, these switches were made from silicon. More recently, engineers …
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Diodes Completes Acquisition of ElevATE Semiconductor</title>
-      <link>https://www.semiconductor-digest.com/diodes-completes-acquisition-of-elevate-semiconductor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=diodes-completes-acquisition-of-elevate-semiconductor</link>
-      <guid isPermaLink="false">090a2412f0f4</guid>
-      <pubDate>Fri, 28 Aug 2026 17:26:43 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Diodes Incorporated today announced the successful completion of its acquisition of ElevATE Semiconductor, Inc., a provider of high-performance integrated circuits for the Automate…
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>JetBrains told everyone to patch. It didn’t patch itself.</title>
-      <link>https://thenewstack.io/jetbrains-told-everyone-to-patch-it-didnt-patch-itself/</link>
-      <guid isPermaLink="false">1a53ba328a1a</guid>
-      <pubDate>Fri, 28 Aug 2026 20:51:48 GMT</pubDate>
+      <title>Your container runs. Everything around it shouldn’t be your problem.</title>
+      <link>https://thenewstack.io/amazon-ecs-express-mode/</link>
+      <guid isPermaLink="false">6fcd7cc74f23</guid>
+      <pubDate>Sat, 29 Aug 2026 15:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>JetBrains is urging users of its Cadence cloud development service to rotate credentials and treat previous executions and their outputs as untrusted after attackers exploited a cr…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>LM Studio built a judge for AI commands. Then the judge started agreeing with the defendant.</title>
-      <link>https://thenewstack.io/bionic-shell-command-safety/</link>
-      <guid isPermaLink="false">3032796d1b13</guid>
-      <pubDate>Fri, 28 Aug 2026 18:31:38 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>A command as ordinary as git diff can become a problem for an AI coding agent once a variable gets involved. Take git diff $base . If $base contains a commit hash, the command beha…
+      <description>The promise with containers was simple: if it runs on your local machine, it will run in production. And this promise holds – your container runs. But there’s a tax: setting up eve…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Alibaba just released Qwen3.8-Flash: “An early preview of the architecture in Qwen4”</title>
-      <link>https://thenewstack.io/qwen38-flash-previews-qwen4/</link>
-      <guid isPermaLink="false">5d0c831e630f</guid>
-      <pubDate>Fri, 28 Aug 2026 18:27:06 GMT</pubDate>
+      <title>Commits on GitHub have doubled in four months. Verification capacity has not.</title>
+      <link>https://thenewstack.io/scaling-ai-code-verification/</link>
+      <guid isPermaLink="false">ed0c502ef572</guid>
+      <pubDate>Sat, 29 Aug 2026 14:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Alibaba this week unveiled Qwen3.8-Flash , an open-weight, multimodal Mixture-of-Experts (MoE) model. Hot on the heels of Qwen 3.8 Max , which arrived at the start of the month , t…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Z.ai’s GLM-5.3 goes open weight, but its new license aims at hyperscalers</title>
-      <link>https://thenewstack.io/zai-glm-weights-license/</link>
-      <guid isPermaLink="false">b391082e164b</guid>
-      <pubDate>Fri, 28 Aug 2026 17:42:54 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Earlier in August, Z.ai, the Chinese AI lab behind the viral ox-alpha model that turned out to be GLM-5.3-Flash , launched its flagship GLM-5.3 model. On Friday, the company made t…
+      <description>I have been waiting for agent-generated code to show up in public infrastructure data rather than in vendor benchmarks. In August, it did. GitHub now handles 2.9 billion commits a …
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>FIRSTPASS: A Multi-Domain, Multi-Round Peer Review Dataset Grounded in Real Editorial Outcomes</title>
-      <link>https://arxiv.org/abs/2608.26129</link>
-      <guid isPermaLink="false">cd48a55fbe31</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.26129v1 Announce Type: cross Abstract: Scientific peer review datasets have trained AI systems exclusively on Computer Science and Machine Learning venues, producing mod…
+      <title>The 3 roles AI agents play in your developer platform</title>
+      <link>https://thenewstack.io/ai-agent-platform-roles/</link>
+      <guid isPermaLink="false">7a55db87a78a</guid>
+      <pubDate>Sat, 29 Aug 2026 13:00:00 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Engineering organizations are trying to deliver as fast as technology allows, bringing agentic AI into their developer platforms and working out how to use AI agents to maximize en…
 
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>When the Canonical Completion Is Wrong: Formalizing and Measuring the Jump in Large Language Models</title>
-      <link>https://arxiv.org/abs/2608.26187</link>
-      <guid isPermaLink="false">ae7fb9c6f488</guid>
-      <pubDate>Fri, 28 Aug 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2608.26187v1 Announce Type: cross Abstract: Whether large language models (LLMs) can perform the abductive leap from evidence to a new system of axioms, commonly referred to …
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
+来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
   </channel>
 </rss>
