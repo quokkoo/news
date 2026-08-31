@@ -1,0 +1,881 @@
+{
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-31T00:48:07.843Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 28 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 6 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "f3884a63ec5c",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "1010eff364a6",
+          "title": "美伊开战以来，发达国家主权债务成本飙升，G7已“承担”160亿美元",
+          "titleZh": "美伊开战以来，发达国家主权债务成本飙升，G7已“承担”160亿美元",
+          "url": "https://wallstreetcn.com/articles/3780672",
+          "summary": "全球债券收益率自美伊战争爆发以来持续攀升，G7国家为此付出了沉重的财政代价，且压力仍在累积。 英国《金融时报》8月30日报道，据对各国政府债券发行数据的分析，自今年2月美伊战争爆发以来，G7国家因债券收益率上升已额外锁定约160亿美元的主权债务融资成本。若收益率维持当前水平，预计到明年一季度末，这一额外成本将进一步扩大至约340亿美元。 报道称，美国是迄今为…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-31T00:19:48.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "652e220e219b",
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "titleZh": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "summary": "美伊再度交火，中东局势骤然升温。 据央视新闻报道，当地时间8月30日22时许，伊朗拉腊克岛传出爆炸声。美军对该岛两处伊朗伊斯兰革命卫队军事设施实施轰炸——这是一个多月来美军首次对伊朗动用武力。 美军中央司令部发言人Tim Hawkins表示，美方观察到伊朗革命卫队人员“正准备向霍尔木兹海峡发射携带水雷的火箭弹”，随即对拉腊克岛上的两处发射装置实施打击。 伊朗…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-31T00:07:41.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cf34c5bab568",
+          "title": "美国“明抢”委内瑞拉油田，五角大楼要“占股35%”，媒体评价“重现殖民主义历史”",
+          "titleZh": "美国“明抢”委内瑞拉油田，五角大楼要“占股35%”，媒体评价“重现殖民主义历史”",
+          "url": "https://wallstreetcn.com/articles/3780668",
+          "summary": "美国政府通过一项史无前例的能源协议，计划直接获取委内瑞拉庞大石油储量的重大股权，这一举措标志着华盛顿在国际能源市场中的角色从政策斡旋者转变为直接的资本参与者。 特朗普政府上周五宣布与委内瑞拉临时总统Delcy Rodríguez达成协议，五角大楼将通过旗下战略资本办公室获得North American Blue Energy Partners（NABEP）3…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-31T00:07:06.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "18064ec85c48",
+          "title": "华尔街见闻早餐 | 2026年8月31日",
+          "titleZh": "华尔街见闻早餐 | 2026年8月31日",
+          "url": "https://wallstreetcn.com/articles/3780630",
+          "summary": "华见早安之声 要闻精选 中国住房金融制度“三箭齐发”大变革：个人住房贷款最长期限由30年延长至40年；有序推行商品房现房销售，实现\"所见即所得\"，推行\"交房即交证\"：证监会发文支持上市房产开发商再融资、并购重组。 美联储主席沃什杰克逊霍尔首秀放鹰，为2009年来最鹰杰克逊霍尔讲话，暗示通胀不快速回落将加息，市场9月加息概率从35%升至近六成、2027年3月前…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-30T23:00:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "45ca3123c2e9",
+          "title": "大宗商品相对美国“从未如此便宜”！华尔街“正在达成共识”：硬资产“挤压”",
+          "titleZh": "大宗商品相对美国“从未如此便宜”！华尔街“正在达成共识”：硬资产“挤压”",
+          "url": "https://wallstreetcn.com/articles/3780674",
+          "summary": "大宗商品相对美国股市的估值已跌至逾五十年来最低水平，而华尔街主要机构正就一个共同判断加速形成共识：实物资源的稀缺性正在多个商品类别中同步显现，一场硬资产的系统性\"挤压\"或已悄然开启。 从巴克莱、瑞银、汇丰，到摩根大通和高盛，多家顶级机构相继发出警示，实物商品的物理性短缺正在推动价格急剧攀升。上周，瑞银策略师Sagar Khandelwal向客户发出明确指引，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-31T00:44:16.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6f5b9a02e37",
+          "title": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头",
+          "titleZh": "日元再破160！贝森特发声：日元“已得到控制”，日本央行“将做正确的事”，“安倍经济学”已走到尽头",
+          "url": "https://wallstreetcn.com/articles/3780669",
+          "summary": "美元走强再度将日元推破160关口，市场对干预预期升温之际，美国财政部长贝森特出面定调。 日元周一跌至160.11，触发市场对美日再度联合干预的广泛猜测。贝森特周日在接受路透采访时表示，近期日元走势\"已相当程度上得到控制\"，并非此前触发干预的那种\"失序\"行情。他同时表示，预计日本央行行长植田和男将在货币政策上\"做正确的事\"，并计划在本周G20财长会议期间与其会…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-08-31T00:11:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "f3884a63ec5c",
+          "title": "Understanding ChatGPT Work",
+          "titleZh": "Understanding ChatGPT Work",
+          "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+          "summary": "OpenAI announced ChatGPT Work on July 9th, and have been furiously iterating on it ever since. It is an extraordinarily confusing and very powerful product. Here's what I've figure…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-08-30T23:59:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "450c9d892429",
+          "title": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "titleZh": "A 12TB Steam “teraleak” spills more than a decade of lost PC gaming history",
+          "url": "https://arstechnica.com/gaming/2026/08/a-12tb-steam-teraleak-spills-more-than-a-decade-of-lost-pc-gaming-history/",
+          "summary": "Here at Ars, we're intimately familiar with data leaks surrounding Valve's games , hardware , and the workings of Steam itself . But nothing could have prepared us for this weekend…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-30T21:40:56.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "76d8a1ce6552",
+          "title": "Why it matters that President Trump just dialed into a NASA news conference",
+          "titleZh": "Why it matters that President Trump just dialed into a NASA news conference",
+          "url": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+          "summary": "As is standard procedure for major NASA missions, the US space agency held a post-launch news conference on Sunday morning at Kennedy Space Center in Florida to provide information…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-08-30T17:40:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3831592f7868",
+          "title": "“I just chose words carefully”",
+          "titleZh": "“I just chose words carefully”",
+          "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+          "summary": "Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 160 # Comments: 38",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-08-30T22:49:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e47fe03e5050",
+          "title": "Axel Springer invests in Abu Dhabi-based outlet The Circuit",
+          "titleZh": "Axel Springer invests in Abu Dhabi-based outlet The Circuit",
+          "url": "https://www.semafor.com/article/08/30/2026/axel-springer-invests-in-abu-dhabi-based-outlet-the-circuit",
+          "summary": "Axel Springer is expanding in the Middle East, joining a growing number of Western publishers with an editorial presence in the region — and testing a key pillar of its editorial b…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-08-31T00:16:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9a5fd7fb643f",
+          "title": "Haiku R1/beta6 has been released",
+          "titleZh": "Haiku R1/beta6 has been released",
+          "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+          "summary": "Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 240 # Comments: 74",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-30T16:01:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b18fae8f6234",
+          "title": "Omarchy: Any User Process Can Escalate to Root",
+          "titleZh": "Omarchy: Any User Process Can Escalate to Root",
+          "url": "https://0xcc.io/posts/omarchy-root-creds/",
+          "summary": "Article URL: https://0xcc.io/posts/omarchy-root-creds/ Comments URL: https://news.ycombinator.com/item?id=49499854 Points: 386 # Comments: 388",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-08-30T15:59:49.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://0xcc.io/posts/omarchy-root-creds/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae94235e86fb",
+          "title": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+          "titleZh": "早报｜库克明日卸任苹果CEO/长鑫LPDDR6量产,小米首发搭载/官方回应建议取消ETC设备",
+          "url": "https://www.ifanr.com/1677344?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "John Ternus 明日接任苹果 CEO，AI 与秋季新品成首要任务 长鑫 LPDDR6 内存量产，小米 18 Fold 将首发搭载 马斯克回应 OpenAI「断供」Cursor：毫不在意 索尼与华纳音乐出版机构起诉 Anthropic，指控其大规模盗用版权作品 Codex 修复 8 类额度异常，付费用户同等额度预计可多用 10%～50% 乔布斯八年级科…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-08-31T00:02:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "82f545023fff",
+          "title": "Google Maps switches to \"Lake America\" as Canada compares change to SNL skit",
+          "titleZh": "Google Maps switches to \"Lake America\" as Canada compares change to SNL skit",
+          "url": "https://www.axios.com/2026/08/30/lake-america-lake-ontario-maps-trump",
+          "summary": "President Trump 's order to rename Lake Ontario to \"Lake America\" is stirring up more controversy, as tech companies decide whether to comply or not. The big picture: Google and ot…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-30T23:48:47.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "55410d91b4c4",
+          "title": "U.S. strikes Iran to prevent Hormuz mine threat",
+          "titleZh": "U.S. strikes Iran to prevent Hormuz mine threat",
+          "url": "https://www.axios.com/2026/08/30/us-iran-strike-hormuz-mines",
+          "summary": "The U.S. military struck Iranian military targets to prevent the deployment of sea mines in the Strait of Hormuz , a U.S. official said. Why it matters: This is the first known U.S…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-08-30T23:32:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "777fa18a6914",
+          "title": "那些被管理层请进公司，却不被一线员工接受的FDE们",
+          "titleZh": "那些被管理层请进公司，却不被一线员工接受的FDE们",
+          "url": "https://www.huxiu.com/article/4887187.html?f=rss",
+          "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克，题图来自：视觉中国 前段时间，我在我们社群里看到一句话。 站在台上讲企业AI改造时，是受人尊敬的老师、专家和权威。 但真正进入客户现场以后，FDE就会变成乙方和供应商，甚至是被使唤、没权限、还要担责的奴隶。 这句话，可以说真的过于真实了。 FDE，其实是我一直很感兴趣也想和大家聊聊的职业。 全称为…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-31T00:32:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a13083c96232",
+          "title": "英伟达大约50%的员工，身家超过2500万美元？",
+          "titleZh": "英伟达大约50%的员工，身家超过2500万美元？",
+          "url": "https://www.huxiu.com/article/4887191.html?f=rss",
+          "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 转载引用请注明出处。内容仅供交流学习，不做任何商业用途，不代表任何投资建议，如有侵权请联系后台删除。 这几天你大概率刷到过： 英伟达大约50%的员工，身家超过2500万美元。 2个小目标！ 但数据大概率被夸张了。 因为它的出处是2025年6月一次内部问卷，约3000人回答，而英伟达有近四万员工，回…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-31T00:17:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3b4195d957c4",
+          "title": "广州GDP逆袭，引领珠三角“新国标”模式突围",
+          "titleZh": "广州GDP逆袭，引领珠三角“新国标”模式突围",
+          "url": "https://www.huxiu.com/article/4887190.html?f=rss",
+          "summary": "本文来自微信公众号： 丈量城市 ，作者：华高莱斯，原文标题：《广州GDP逆袭！引领珠三角「新国标」模式突围！》 1.反转的含金量：广州换了「新引擎」 2.「超级流通」：对传统制造的降维赋能 3.汽车产业：「生死跨越」后的黄金交叉 4.区域洗牌：「新国标-插头」模式 5.「十五五」突围法则：三大底层逻辑 一年前，广州还是舆论场里「掉队」的代名词。 2024年，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-08-31T00:12:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-31T00:48:01.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-31T00:48:01.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-08-31T00:48:01.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "18939aabc7c3",
+          "title": "Trita Parsi on why US air strikes strengthened Iran’s hand and failed to trigger a revolt",
+          "titleZh": "Trita Parsi on why US air strikes strengthened Iran’s hand and failed to trigger a revolt",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3365735/trita-parsi-why-us-air-strikes-strengthened-irans-hand-and-failed-trigger-revolt?utm_source=rss_feed",
+          "summary": "Trita Parsi is co-founder and executive vice-president of the Quincy Institute, a Washington-based think tank. He is an expert on US-Iranian relations, Iranian foreign policy and t…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-08-30T22:00:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b0d8970b3b7b",
+          "title": "Trump won the heart of Michigan’s Arab American community. They're moving away from Mike Rogers.",
+          "titleZh": "Trump won the heart of Michigan’s Arab American community. They're moving away from Mike Rogers.",
+          "url": "https://www.politico.com/news/2026/08/30/michigan-arab-muslim-vote-senate-el-sayed-rogers-01055928",
+          "summary": "Four days before the 2024 election, Donald Trump declared in Dearborn, Michigan that “the Muslim population” is “liking Trump.” On Election Day, the state’s Arab Americans helped d…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-08-30T18:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "eb4beceac2e4",
+          "title": "OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.”",
+          "titleZh": "OpenAI leaving Cursor: “Developers have to be prepared to adapt when it happens.”",
+          "url": "https://thenewstack.io/openai-cuts-cursor-spacex/",
+          "summary": "OpenAI stated on Friday that it has notified SpaceX that it intends to wind down its contract providing OpenAI models to Cursor, the Musk empire’s AI-powered code editor. “We are m…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-30T17:03:49.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4df916b11fd4",
+          "title": "AI agents are making retrieval engineering a core engineering discipline",
+          "titleZh": "AI agents are making retrieval engineering a core engineering discipline",
+          "url": "https://thenewstack.io/ai-agents-retrieval-engineering/",
+          "summary": "AI agents are changing retrieval requirements. As organizations move from chatbots to AI systems that investigate, reason, and act on users’ behalf, retrieval is becoming the found…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-30T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aeda195e28b1",
+          "title": "Your AI agent is only as good as the harness around it",
+          "titleZh": "Your AI agent is only as good as the harness around it",
+          "url": "https://thenewstack.io/building-ai-agent-harness/",
+          "summary": "An agent can give a convincing answer in a demo. Especially when the question is clear, the documents are up to date, and the handful of tools behave exactly as expected. The respo…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-08-30T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "66bc97d3e79c",
+          "title": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+          "titleZh": "Cloudflare Extends AI Search to Make it Easier for Agents and Developers to Search Custom Data",
+          "url": "https://www.infoq.com/news/2026/08/cloudflare-ai-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Cloudflare AI Search is a built-in search and retrieval service designed to give AI agents and applications a ready-to-use search engine over custom data. It supports agent integra…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-08-30T19:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "f3884a63ec5c",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 28,
+    "itemsPublished": 28,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 63,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
