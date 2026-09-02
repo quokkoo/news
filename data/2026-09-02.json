@@ -1,0 +1,1240 @@
+{
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-02T00:28:37.279Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 41 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "487f65776421",
+        "reason": "Simon Willison 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "21b58c9e4653",
+        "reason": "Hugging Face，规则排序分数最高"
+      },
+      {
+        "itemId": "14d077f71859",
+        "reason": "Simon Willison，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "b27b8a4b5063",
+          "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+          "titleZh": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+          "summary": "Speech by Boris Vujčić, Vice-President of the ECB, at the inauguration of the Alexander von Humboldt Professorship awarded to Professor Michael Weber at the European School of Mana…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-01T16:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a54267924f2c",
+          "title": "2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地",
+          "titleZh": "2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地",
+          "url": "https://wallstreetcn.com/articles/3780853",
+          "summary": "Anthropic在IPO窗口临近之际，以一次全方位的产品更新向市场发出信号。 周二（9月1日），这家AI公司发布旗舰模型新版本Fable 5.1，在8项公开基准测试中全部夺冠，同步大幅削减企业使用成本，并推出针对模型蒸馏攻击的新安全机制，构成迄今最具分量的一次迭代升级。 性能层面，Fable 5.1在编程与科研两大核心场景上明显领先前代旗舰Fable 5及…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-02T00:25:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a6c098793023",
+          "title": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
+          "titleZh": "美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫",
+          "url": "https://wallstreetcn.com/articles/3780783",
+          "summary": "美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。 美伊冲突升级，三大美股指三连阴，纳指跌1%。戴尔全年指引超预期大幅上调，Q2营收创历史新高，AI服务器需求爆发，盘后一度涨超10%。 WTI原油结算价涨5.2%报90.22美元/桶，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-01T23:28:59.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "258dcfe6f5cb",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月2日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月2日",
+          "url": "https://wallstreetcn.com/articles/3780861",
+          "summary": "华见早安之声 要闻精选 中国国家主席出席上合组织成员国元首理事会会议，并发表重要讲话《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》。 上海合作组织二十五周年比什凯克宣言发布，重申谴责对伊朗领土发动军事打击的立场，主张以政治和外交手段解决冲突。 中国8月RatingDog制造业PMI升至两个月高位51.5，出口新订单增速六个月最快，出厂价格年内首…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-01T23:16:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91402310d1b2",
+          "title": "SK海力士硅晶圆采购环比暴增104%：AI存储军备竞赛下的“抢粮”与涨价博弈",
+          "titleZh": "SK海力士硅晶圆采购环比暴增104%：AI存储军备竞赛下的“抢粮”与涨价博弈",
+          "url": "https://wallstreetcn.com/articles/3780859",
+          "summary": "在AI算力需求持续重塑半导体供应链格局的当下，存储巨头正通过激进的原材料囤积策略，试图在下一轮产能扩张与成本博弈中抢占先机。 9月1日，据DIGITIMES报道，SK海力士2026年第二季度硅晶圆采购金额环比暴增104%，采购力度显著超越竞争对手三星电子。这一翻倍式的采购增量，直指上游硅晶圆涨价预期与AI存储芯片的备料压力。 此举不仅凸显了SK海力士在高带宽…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-01T23:01:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e271c65312e1",
+          "title": "美国众议院压倒性通过临时拨款法案，避免政府10月停摆",
+          "titleZh": "美国众议院压倒性通过临时拨款法案，避免政府10月停摆",
+          "url": "https://wallstreetcn.com/articles/3780862",
+          "summary": "美国国会以压倒性多数通过短期政府拨款延续方案，将联邦机构运营资金续期至12月中旬，暂时化解了新财年开始前的停摆风险。然而，这一权宜之计不过是将更艰难的财政抉择推后至年底，届时国会将面临在大选结果重塑政治格局后完成全年预算的严峻挑战。 据路透社报道，美国众议院周二以370票对48票的悬殊比例通过了这项\"持续决议\"临时拨款法案，将联邦政府现有资金拨付延续至12月…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-01T22:57:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "487f65776421",
+          "title": "Codex bundles LibreOffice",
+          "titleZh": "Codex bundles LibreOffice",
+          "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/",
+          "summary": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of s…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-01T19:03:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 8.15,
+          "scores": {
+            "importance": 9,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 5
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+            },
+            {
+              "sourceName": "Hacker News",
+              "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "21b58c9e4653",
+          "title": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "titleZh": "BenchMIRT: What are LLM benchmarks actually measuring?",
+          "url": "https://huggingface.co/blog/allenai/benchmirt",
+          "summary": "📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT Today we’re intr…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-01T21:39:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14d077f71859",
+          "title": "Claude Fable 5.1 made me a really nice animated pelican",
+          "titleZh": "Claude Fable 5.1 made me a really nice animated pelican",
+          "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+          "summary": "Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 \"sets a new standard for coding, knowledge work, and long-running problem-solving tasks\". Their announceme…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-01T23:57:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "482f4b2d23a5",
+          "title": "Introducing agentic video understanding with Gemini",
+          "titleZh": "Introducing agentic video understanding with Gemini",
+          "url": "https://deepmind.google/blog/introducing-agentic-video-in-gemini/",
+          "summary": "Sep 01, 2026 | Our new agentic feature for video analysis cuts token consumption by up to 88%, reduces costs by up to 66%, and boosts quality by up to 7%. Rohan Doshi Senior Produc…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-01T17:08:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "88272f8d0717",
+          "title": "Mapping global methane emissions from space with deep learning",
+          "titleZh": "Mapping global methane emissions from space with deep learning",
+          "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/",
+          "summary": "Methane is a potent greenhouse gas; over a 100-year timeframe, its warming potential is 30 times greater than that of carbon dioxide. In fact, it has driven approximately 25% of hu…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-01T18:40:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6207da249f7f",
+          "title": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+          "titleZh": "PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors",
+          "url": "https://www.latent.space/p/pr-not-welcome",
+          "summary": "GitHub invented pull requests, and for 18 years they have been open by default. But now some of the top AI-native open source projects are shutting PRs off , because they’ve found …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-01T16:17:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8a6005090ebc",
+          "title": "How AI plotted an interstellar journey to Alpha Centauri",
+          "titleZh": "How AI plotted an interstellar journey to Alpha Centauri",
+          "url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
+          "summary": "A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambit…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-01T19:10:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1576ab42651a",
+          "title": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "titleZh": "CDC reported then deleted two measles deaths that were questioned by RFK Jr.",
+          "url": "https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/",
+          "summary": "The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-01T18:21:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "979bc2102120",
+          "title": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
+          "titleZh": "U.S. strikes Iran tankers under new \"tanker for tanker\" policy",
+          "url": "https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil",
+          "summary": "The U.S. military attacked two Iranian government tankers as part of the round of strikes that took place on Tuesday, U.S. officials said. Why it matters: This is the first time th…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-02T00:22:42.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b9236032e28b",
+          "title": "House Democrats left reeling after shock defections",
+          "titleZh": "House Democrats left reeling after shock defections",
+          "url": "https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote",
+          "summary": "House Democrats were left stunned and pointing fingers Tuesday after a pair of centrist lawmakers unexpectedly helped Republican leadership pass a key procedural vote. Why it matte…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-01T22:32:53.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a201d4b43b65",
+          "title": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+          "titleZh": "House censures Chuck Edwards over \"sexual harassment\" of staff",
+          "url": "https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff",
+          "summary": "Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed \"to adhere to the spirit of rules prohibiting sexual harassment of and u…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-01T22:20:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a4b43e96f1fc",
+          "title": "Apple joins Google in renaming Lake Ontario to \"Lake America\"",
+          "titleZh": "Apple joins Google in renaming Lake Ontario to \"Lake America\"",
+          "url": "https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america",
+          "summary": "Apple has changed the label on Lake Ontario to \" Lake America ,\" according to an Axios review of Apple Maps on Tuesday afternoon. Why it matters: Apple is the second major digital …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-01T21:34:15.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6133bb7bf426",
+          "title": "抢总部的时代过去了，他们在大疆楼下租房抢人，方向没想好，先给2000万……",
+          "titleZh": "抢总部的时代过去了，他们在大疆楼下租房抢人，方向没想好，先给2000万……",
+          "url": "https://www.huxiu.com/article/4887805.html?f=rss",
+          "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 市场上流传的说法是： 某一线投资机构在T2对面的写字楼里设了个\"驻点办公室\"，专门盯大疆核心员工的异动。山行资本干脆把办公室开在了大疆楼下。北京上海的机构派人过来，在附近租房子住着。FA蹲咖啡馆。 这个画面很有意思。 一群管理着几十亿资金、平时西装革履讲DCF估值的人，像追星族一样蹲在一栋写字楼底…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-02T00:18:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-02T00:28:23.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-02T00:28:23.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-02T00:28:23.323Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "dccaf0bf2e4b",
+          "title": "Exclusive: Sir Robin Saxby Reflects on Impact of AI, Geopolitics, and Retirement",
+          "titleZh": "Exclusive: Sir Robin Saxby Reflects on Impact of AI, Geopolitics, and Retirement",
+          "url": "https://www.eetimes.com/exclusive-sir-robin-saxby-reflects-on-impact-of-ai-geopolitics-and-retirement/",
+          "summary": "One person whom I can say has been part of the semiconductor industry since I started my career way back in the 1980s is Robin Saxby. At the time, he was with a company called Euro…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-01T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3916648d5f20",
+          "title": "EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics",
+          "titleZh": "EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics",
+          "url": "https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics",
+          "summary": "EV Group (EVG), a provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-01T18:53:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "62afe2f0d04a",
+          "title": "Kulicke & Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership",
+          "titleZh": "Kulicke & Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership",
+          "url": "https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&utm_medium=rss&utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership",
+          "summary": "Kulicke and Soffa Industries, Inc. , a global leader in semiconductor and electronics assembly solutions, continues to strengthen its position as a critical enabler of next-generat…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-01T18:48:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "20eda528f905",
+          "title": "Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices",
+          "titleZh": "Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices",
+          "url": "https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/?utm_source=rss&utm_medium=rss&utm_campaign=teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices",
+          "summary": "Teradyne, Inc. (NASDAQ: TER), a provider of automated test equipment and advanced robotics, announced the launch of three new instruments for its UltraFLEXplus platform , designed …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-01T18:45:02.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "03bf46e7ac95",
+          "title": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+          "titleZh": "Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says?utm_source=rss_feed",
+          "summary": "A senior Russian aide suggested on Tuesday that Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin could hold a trilateral meeting at the …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-01T23:53:01.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6d894fca4990",
+          "title": "US Congress seeks to identify foreign countries behind scam calls",
+          "titleZh": "US Congress seeks to identify foreign countries behind scam calls",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3366036/us-congress-seeks-identify-foreign-countries-behind-scam-calls?utm_source=rss_feed",
+          "summary": "US lawmakers are trying to identify which foreign countries are the biggest sources of unlawful robocalls targeting Americans, as Congress steps up efforts to combat a surge in pho…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-01T22:30:49.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4f280f1bee37",
+          "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
+          "titleZh": "Mainland China stepping up preparations for Taiwan blockade, report says",
+          "url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed",
+          "summary": "Taiwan’s defence ministry has warned that the People’s Liberation Army is stepping up its preparations for a blockade of the island, adding that it is sharpening its plans to break…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-01T22:00:12.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "51dd42ecc51d",
+          "title": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+          "titleZh": "JD Vance courts Jewish Republicans. Tucker Carlson still looms.",
+          "url": "https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877",
+          "summary": "LAS VEGAS — Vice President JD Vance tried to make inroads with Jewish Republicans. Not everyone is sold. Vance’s closed-door speech at the Republican Jewish Coalition’s annual lead…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-02T00:15:24.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "76a5ca753d96",
+          "title": "The US built more grid batteries last quarter than ever before",
+          "titleZh": "The US built more grid batteries last quarter than ever before",
+          "url": "https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries",
+          "summary": "There’s never been a better time to build energy storage in the U.S. than right now. Grid batteries — which sop up power when it’s abundant and discharge that energy when it’s need…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-01T21:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d1321640ee98",
+          "title": "Fervo and Google sign world’s largest deal for next-gen geothermal power",
+          "titleZh": "Fervo and Google sign world’s largest deal for next-gen geothermal power",
+          "url": "https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal",
+          "summary": "Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup’s geothermal project in southwest Utah. The agreement is the lar…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-01T19:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bf9c3bec77bd",
+          "title": "California declines to fund its biggest virtual power plant",
+          "titleZh": "California declines to fund its biggest virtual power plant",
+          "url": "https://www.canarymedia.com/articles/virtual-power-plants/california-guts-biggest-virtual-power-plant",
+          "summary": "California Gov. Gavin Newsom’s administration has blocked an effort to keep the state’s most successful virtual power plant program funded through next year. State budget language …",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-01T14:04:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "b4dca199b90d",
+          "title": "World’s biggest dark matter detector spots a single weird particle",
+          "titleZh": "World’s biggest dark matter detector spots a single weird particle",
+          "url": "https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle",
+          "summary": "It’s far too early to declare a discovery, physicists with the LZ detector say",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-01T10:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5c9885b56d7b",
+          "title": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+          "titleZh": "STAT+: ADA review of members’ expulsion denies group censored opinions, called in police",
+          "url": "https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss",
+          "summary": "Almost three months after five members of the American Diabetes Association were ejected from the group&#x2019;s scientific sessions in New Orleans for handing out an editorial cri…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-09-01T23:06:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "9ee984e0eb35",
+          "title": "California to vote on spending $16 billion to boost research after Trump cuts",
+          "titleZh": "California to vote on spending $16 billion to boost research after Trump cuts",
+          "url": "https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts",
+          "summary": "State initiatives this fall and in early 2028 will gauge voters’ appetite for science, but controversy has grown around one proposal",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-01T07:05:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "fd3eaf5d1f7c",
+          "title": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+          "titleZh": "Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore",
+          "url": "https://thenewstack.io/fable-5-1-watermark/",
+          "summary": "Anthropic launched Claude Fable 5.1 on Tuesday with a statistical signature embedded in its generated text, but developers shouldn’t expect that signature to appear equally strongl…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-01T20:59:09.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0cf525b1e5be",
+          "title": "Runway wants to generate software as you use it. Solaris is its first step.",
+          "titleZh": "Runway wants to generate software as you use it. Solaris is its first step.",
+          "url": "https://thenewstack.io/runway-solaris-generated-interfaces/",
+          "summary": "Runway introduced Solaris on Monday, the first model of a new class of AI systems it calls Interface World Models, which aims to do away with the traditional process of translating…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-01T19:44:41.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "883b2c6b2e8a",
+          "title": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+          "titleZh": "Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less",
+          "url": "https://thenewstack.io/anthropic-fable-5-1-launch/",
+          "summary": "On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models . Anthropic promises that the updated models will offer stronger performance at a lower c…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-01T19:38:32.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "66fef358190a",
+          "title": "Your Mac is now part of Perplexity’s AI infrastructure",
+          "titleZh": "Your Mac is now part of Perplexity’s AI infrastructure",
+          "url": "https://thenewstack.io/perplexity-hybrid-compute-mac/",
+          "summary": "Perplexity wants its AI agents to use more of the computing power already sitting inside a Mac. The company launched Hybrid Compute on Tuesday, a new feature that lets Perplexity C…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-01T19:21:51.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "487f65776421",
+    "21b58c9e4653",
+    "14d077f71859"
+  ],
+  "stats": {
+    "itemsConsidered": 41,
+    "itemsPublished": 40,
+    "itemsFiltered": 1,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:23:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:28:37 GMT</lastBuildDate>
     <item>
-      <title>【2026-09-01 今日导读】</title>
+      <title>【2026-09-02 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-09-01</guid>
-      <pubDate>Tue, 01 Sep 2026 01:23:04 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-09-02</guid>
+      <pubDate>Wed, 02 Sep 2026 00:28:37 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 41 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>“2026最准”的摩根大通交易台“再变”：结束6月以来看多，对美股转为“战术谨慎”</title>
-      <link>https://wallstreetcn.com/articles/3780777</link>
-      <guid isPermaLink="false">fbd168fd163e</guid>
-      <pubDate>Tue, 01 Sep 2026 01:02:01 GMT</pubDate>
+      <title>Boris Vujčić: Listening to households: expectations, behaviour and monetary policy</title>
+      <link>https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html</link>
+      <guid isPermaLink="false">b27b8a4b5063</guid>
+      <pubDate>Tue, 01 Sep 2026 16:00:00 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>摩根大通市场情报交易台今年以来凭借一系列精准的市场转折点判断赢得广泛关注，如今再度调整立场——由看多转为&quot;战术谨慎/中性&quot;，理由是美联储政策路径不确定性上升、市场定位拥挤、季节性压力以及动量因子大幅回撤。 该团队在最新晨报中指出，股市基本面整体仍然稳健，但未来2至3周内多重短期变量叠加，市场大概率将进入横盘震荡格局。尽管指数层面未必出现大幅回调，但&quot;子指数和…
+      <description>Speech by Boris Vujčić, Vice-President of the ECB, at the inauguration of the Alexander von Humboldt Professorship awarded to Professor Michael Weber at the European School of Mana…
+
+来源：欧洲央行公告 · 宏观经济与资本市场 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>2万亿美元IPO前夕打出组合拳！Anthropic Fable 5.1发布：基准测试“屠榜”、成本大幅削减、反蒸馏机制落地</title>
+      <link>https://wallstreetcn.com/articles/3780853</link>
+      <guid isPermaLink="false">a54267924f2c</guid>
+      <pubDate>Wed, 02 Sep 2026 00:25:07 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>Anthropic在IPO窗口临近之际，以一次全方位的产品更新向市场发出信号。 周二（9月1日），这家AI公司发布旗舰模型新版本Fable 5.1，在8项公开基准测试中全部夺冠，同步大幅削减企业使用成本，并推出针对模型蒸馏攻击的新安全机制，构成迄今最具分量的一次迭代升级。 性能层面，Fable 5.1在编程与科研两大核心场景上明显领先前代旗舰Fable 5及…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>美伊冲突升级油价飙升5%，美国股债双杀，芯片指数回落，戴尔盘后一度涨超10%，黄金重挫</title>
+      <link>https://wallstreetcn.com/articles/3780783</link>
+      <guid isPermaLink="false">a6c098793023</guid>
+      <pubDate>Tue, 01 Sep 2026 23:28:59 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>美军9月1日中午对伊朗伊斯兰革命卫队目标动手，油价应声跳涨，通胀预期被重新点燃。油价上行推高长端美债收益率，收益率上行又压住了美股的估值，黄金和比特币跟着实际利率走高一同下滑。 美伊冲突升级，三大美股指三连阴，纳指跌1%。戴尔全年指引超预期大幅上调，Q2营收创历史新高，AI服务器需求爆发，盘后一度涨超10%。 WTI原油结算价涨5.2%报90.22美元/桶，…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>华尔街见闻早餐FM-Radio | 2026年9月2日</title>
+      <link>https://wallstreetcn.com/articles/3780861</link>
+      <guid isPermaLink="false">258dcfe6f5cb</guid>
+      <pubDate>Tue, 01 Sep 2026 23:16:22 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>华见早安之声 要闻精选 中国国家主席出席上合组织成员国元首理事会会议，并发表重要讲话《共同倡导平等有序的世界多极化 实现更加公正合理的全球治理》。 上海合作组织二十五周年比什凯克宣言发布，重申谴责对伊朗领土发动军事打击的立场，主张以政治和外交手段解决冲突。 中国8月RatingDog制造业PMI升至两个月高位51.5，出口新订单增速六个月最快，出厂价格年内首…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>SK海力士硅晶圆采购环比暴增104%：AI存储军备竞赛下的“抢粮”与涨价博弈</title>
+      <link>https://wallstreetcn.com/articles/3780859</link>
+      <guid isPermaLink="false">91402310d1b2</guid>
+      <pubDate>Tue, 01 Sep 2026 23:01:15 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>在AI算力需求持续重塑半导体供应链格局的当下，存储巨头正通过激进的原材料囤积策略，试图在下一轮产能扩张与成本博弈中抢占先机。 9月1日，据DIGITIMES报道，SK海力士2026年第二季度硅晶圆采购金额环比暴增104%，采购力度显著超越竞争对手三星电子。这一翻倍式的采购增量，直指上游硅晶圆涨价预期与AI存储芯片的备料压力。 此举不仅凸显了SK海力士在高带宽…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>高盛将人形机器人市场规模预测上调4倍，电商仓库和汽车生产线最快应用</title>
-      <link>https://wallstreetcn.com/articles/3780779</link>
-      <guid isPermaLink="false">b385e009f000</guid>
-      <pubDate>Tue, 01 Sep 2026 00:55:25 GMT</pubDate>
+      <title>美国众议院压倒性通过临时拨款法案，避免政府10月停摆</title>
+      <link>https://wallstreetcn.com/articles/3780862</link>
+      <guid isPermaLink="false">e271c65312e1</guid>
+      <pubDate>Tue, 01 Sep 2026 22:57:27 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>近日，高盛互联网与电商股票分析师、董事总经理Eric Sheridan向客户发布了一份长达80页的&quot;物理AI&quot;研究报告，将人形机器人市场预测全面上调，并预计仓储物流成为最先爆发的战场。 Sheridan在报告中写道：&quot;我们正在上调人形机器人市场预测。全球市场规模预计到2030年将达到约89万台，到2035年将达到约650万台，对应约1380亿美元的市场机会。…
+      <description>美国国会以压倒性多数通过短期政府拨款延续方案，将联邦机构运营资金续期至12月中旬，暂时化解了新财年开始前的停摆风险。然而，这一权宜之计不过是将更艰难的财政抉择推后至年底，届时国会将面临在大选结果重塑政治格局后完成全年预算的严峻挑战。 据路透社报道，美国众议院周二以370票对48票的悬殊比例通过了这项&quot;持续决议&quot;临时拨款法案，将联邦政府现有资金拨付延续至12月…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>英伟达当“红娘”，Anthropic与“AI云”Lamda达成350亿美元“算力协议”</title>
-      <link>https://wallstreetcn.com/articles/3780775</link>
-      <guid isPermaLink="false">d214887bebd0</guid>
-      <pubDate>Tue, 01 Sep 2026 00:45:32 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>算力争夺战持续升温，英伟达的角色已远超芯片供应商。 据《华尔街日报》8月31日报道，知情人士透露，AI初创公司Anthropic已与英伟达支持的云计算服务商Lambda签署一份价值350亿美元的云计算协议，英伟达本身持有相关数据中心的租约。这是Anthropic今年以来签署的第二笔百亿美元级算力大单，也是英伟达深度介入AI算力供应链、充当&quot;撮合方&quot;角色的最新…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>今年埃森哲跌27%、凯捷跌31%！IT咨询巨头正面临与AI的决战</title>
-      <link>https://wallstreetcn.com/articles/3780773</link>
-      <guid isPermaLink="false">4a5f56d50a68</guid>
-      <pubDate>Tue, 01 Sep 2026 00:05:06 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>AI正在重塑企业IT支出格局，全球最大咨询公司的核心业务模式正遭遇前所未有的冲击。 今年以来，凯捷（Capgemini）股价累计下跌31%，埃森哲（Accenture）股价下跌27%——其中埃森哲在6月因部分客户推迟大型IT转型项目而遭遇单日重挫。投资者正在用脚投票，押注这些咨询巨头赖以为生的实施类业务收入将大幅萎缩。 与此同时，从制药巨头拜耳、百时美施贵宝…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>华尔街见闻早餐FM-Radio | 2026年9月1日</title>
-      <link>https://wallstreetcn.com/articles/3780767</link>
-      <guid isPermaLink="false">b978cfbc477d</guid>
-      <pubDate>Mon, 31 Aug 2026 23:20:58 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>华见早安之声 要闻精选 中国国家主席在2026年上海合作组织峰会期间会见俄罗斯总统普京。 国常会：部署规范招商引资，强调优化营商环境、培育产业生态。 国内七部门发文推动商品消费：破除汽车限购限制，用好个人消费贷款贴息。 中国8月制造业PMI回升至49.8，高技术制造业持续扩张，非制造业PMI持稳于49。 沃什上周五放鹰后，特朗普称“加息”是荒谬的，沃什会做他…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹</title>
-      <link>https://wallstreetcn.com/articles/3780702</link>
-      <guid isPermaLink="false">1aa2ff3f369b</guid>
-      <pubDate>Mon, 31 Aug 2026 22:39:29 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>8月最后一个交易日，美伊冲突重燃，与美联储主席沃什上周五的鹰派讲话余波叠加。布伦特原油结算价站上每桶90美元，10年期美债收益率触及2025年1月以来最高。 美股两连跌收官8月，标普500跌0.35%、道指跌0.70%。同时加州野火法案引爆公用事业股暴跌，爱迪生国际重挫23.07%、PG&amp;E跌20.06%，评级下调潮随之而来。 当天美军对伊朗本土的拉腊克岛发…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>Introducing wrapture</title>
-      <link>https://simonwillison.net/2026/Aug/31/introducing-wrapture/</link>
-      <guid isPermaLink="false">61f05a4f0598</guid>
-      <pubDate>Mon, 31 Aug 2026 23:59:36 GMT</pubDate>
+      <title>Codex bundles LibreOffice</title>
+      <link>https://simonwillison.net/2026/Sep/1/codex-libreoffice/</link>
+      <guid isPermaLink="false">487f65776421</guid>
+      <pubDate>Tue, 01 Sep 2026 19:03:01 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic&apos;s Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and ex…
+      <description>I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of s…
+
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>BenchMIRT: What are LLM benchmarks actually measuring?</title>
+      <link>https://huggingface.co/blog/allenai/benchmirt</link>
+      <guid isPermaLink="false">21b58c9e4653</guid>
+      <pubDate>Tue, 01 Sep 2026 21:39:07 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>📄 Tech Report: http://allenai.org/papers/benchmirt | 📊 Data: https://huggingface.co/collections/allenai/benchmirt | 💻 Code: https://github.com/allenai/BenchMIRT Today we’re intr…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Claude Fable 5.1 made me a really nice animated pelican</title>
+      <link>https://simonwillison.net/2026/Sep/1/claude-fable-5-1/</link>
+      <guid isPermaLink="false">14d077f71859</guid>
+      <pubDate>Tue, 01 Sep 2026 23:57:28 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Today is Claude Fable (and Mythos) 5.1 day . Anthropic say that Fable 5.1 &quot;sets a new standard for coding, knowledge work, and long-running problem-solving tasks&quot;. Their announceme…
 
 来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>TimesFM-3: A zero-shot foundation model for multivariate forecasting</title>
-      <link>https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/</link>
-      <guid isPermaLink="false">6c8e1a4339a3</guid>
-      <pubDate>Mon, 31 Aug 2026 17:19:40 GMT</pubDate>
+      <title>Introducing agentic video understanding with Gemini</title>
+      <link>https://deepmind.google/blog/introducing-agentic-video-in-gemini/</link>
+      <guid isPermaLink="false">482f4b2d23a5</guid>
+      <pubDate>Tue, 01 Sep 2026 17:08:51 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>We introduce TimesFM-3, a state-of-the-art time series foundation model that enables highly accurate multivariate time series forecasting in a single forward pass, significantly ou…
+      <description>Sep 01, 2026 | Our new agentic feature for video analysis cuts token consumption by up to 88%, reduces costs by up to 66%, and boosts quality by up to 7%. Rohan Doshi Senior Produc…
+
+来源：Google DeepMind · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Mapping global methane emissions from space with deep learning</title>
+      <link>https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/</link>
+      <guid isPermaLink="false">88272f8d0717</guid>
+      <pubDate>Tue, 01 Sep 2026 18:40:06 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Methane is a potent greenhouse gas; over a 100-year timeframe, its warming potential is 30 times greater than that of carbon dioxide. In fact, it has driven approximately 25% of hu…
 
 来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>The Bentley Supersports: A stripped-out engineer&apos;s indulgence</title>
-      <link>https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/</link>
-      <guid isPermaLink="false">f3d12383b2aa</guid>
-      <pubDate>Mon, 31 Aug 2026 23:01:16 GMT</pubDate>
+      <title>PRs NOT Welcome: How Top AI Open Source Projects Are Managing Thousands of Contributors</title>
+      <link>https://www.latent.space/p/pr-not-welcome</link>
+      <guid isPermaLink="false">6207da249f7f</guid>
+      <pubDate>Tue, 01 Sep 2026 16:17:15 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Bentley provided flights from Washington, DC, to Monterey, California, and accommodation so Ars could drive the Supersports, as well as ride in a preproduction Torcal EV, which we …
+      <description>GitHub invented pull requests, and for 18 years they have been open by default. But now some of the top AI-native open source projects are shutting PRs off , because they’ve found …
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>The Hugging Face hack could indicate cultural issues at OpenAI</title>
-      <link>https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link>
-      <guid isPermaLink="false">47fce8de07f0</guid>
-      <pubDate>Mon, 31 Aug 2026 18:00:00 GMT</pubDate>
+      <title>How AI plotted an interstellar journey to Alpha Centauri</title>
+      <link>https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/</link>
+      <guid isPermaLink="false">8a6005090ebc</guid>
+      <pubDate>Tue, 01 Sep 2026 19:10:36 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . By now you’ve probably heard about last m…
+      <description>A nonprofit organization called the Fermi Explorer Mission announced today that it intends to launch a spacecraft to our nearest star system by the end of 2029. It’s a hugely ambit…
 
 来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Trump tells FCC to punish journalist for calling his election results &quot;mixed&quot;</title>
-      <link>https://arstechnica.com/tech-policy/2026/08/trump-tells-fcc-to-punish-journalist-for-calling-his-election-results-mixed/</link>
-      <guid isPermaLink="false">c6566ed84528</guid>
-      <pubDate>Mon, 31 Aug 2026 18:39:25 GMT</pubDate>
+      <title>CDC reported then deleted two measles deaths that were questioned by RFK Jr.</title>
+      <link>https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/</link>
+      <guid isPermaLink="false">1576ab42651a</guid>
+      <pubDate>Tue, 01 Sep 2026 18:21:16 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>President Trump yesterday demanded that the Federal Communications Commission punish or rebuke an NBC journalist for saying he has &quot;mixed results&quot; in his election endorsements. In …
+      <description>The Centers for Disease Control and Prevention is excluding two measles deaths reported by Pennsylvania health officials last week from its latest update of national measles data. …
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Think twice before installing this device promising free movies</title>
-      <link>https://arstechnica.com/security/2026/08/how-some-media-streaming-devices-open-home-networks-to-a-world-of-harm/</link>
-      <guid isPermaLink="false">16fc84e69d62</guid>
-      <pubDate>Mon, 31 Aug 2026 16:33:38 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>As online services get better at blocking malicious traffic, the attackers and scammers behind them have been forced to find new ways to reach their targets. The alternative of cho…
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Raindrops are tiny lightning bolts, and they’re corroding cars, study finds</title>
-      <link>https://arstechnica.com/science/2026/08/raindrops-are-tiny-lightning-bolts-and-theyre-corroding-cars-study-finds/</link>
-      <guid isPermaLink="false">c5f98b27a4e1</guid>
-      <pubDate>Mon, 31 Aug 2026 17:11:48 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>The standard explanation for why rain causes corrosion is that water carries dissolved salts and acids to a surface, constant drumming of raindrops abrades whatever protective coat…
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO</title>
-      <link>https://webiterate.dev/google-removed-extensions-ublock-origin-108/</link>
-      <guid isPermaLink="false">c1a23d15f79f</guid>
-      <pubDate>Mon, 31 Aug 2026 21:10:58 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://webiterate.dev/google-removed-extensions-ublock-origin-108/ Comments URL: https://news.ycombinator.com/item?id=49514878 Points: 440 # Comments: 356
-
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Johnson&apos;s unavoidable, uncomfortable September problem</title>
-      <link>https://www.axios.com/2026/08/31/republicans-house-ethics-chuck-edwards</link>
-      <guid isPermaLink="false">52916fbf1686</guid>
-      <pubDate>Mon, 31 Aug 2026 23:54:44 GMT</pubDate>
+      <title>U.S. strikes Iran tankers under new &quot;tanker for tanker&quot; policy</title>
+      <link>https://www.axios.com/2026/09/02/iran-tankers-hormuz-attacks-oil</link>
+      <guid isPermaLink="false">979bc2102120</guid>
+      <pubDate>Wed, 02 Sep 2026 00:22:42 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>With the House back in session after a five-week break, Speaker Mike Johnson can no longer avoid an issue he&apos;s skirted all summer: allegations of sexual misconduct in the GOP. Why …
+      <description>The U.S. military attacked two Iranian government tankers as part of the round of strikes that took place on Tuesday, U.S. officials said. Why it matters: This is the first time th…
+
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>House Democrats left reeling after shock defections</title>
+      <link>https://www.axios.com/2026/09/01/golden-perez-jeffries-clark-house-democrats-vote</link>
+      <guid isPermaLink="false">b9236032e28b</guid>
+      <pubDate>Tue, 01 Sep 2026 22:32:53 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>House Democrats were left stunned and pointing fingers Tuesday after a pair of centrist lawmakers unexpectedly helped Republican leadership pass a key procedural vote. Why it matte…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Supreme Court allows Trump&apos;s ballroom construction to proceed</title>
-      <link>https://www.axios.com/2026/08/31/supreme-court-trump-white-house-ballroom-construction-ok</link>
-      <guid isPermaLink="false">0a5f141d3d05</guid>
-      <pubDate>Mon, 31 Aug 2026 22:40:09 GMT</pubDate>
+      <title>House censures Chuck Edwards over &quot;sexual harassment&quot; of staff</title>
+      <link>https://www.axios.com/2026/09/01/chuck-edwards-censure-sexual-harassment-female-staff</link>
+      <guid isPermaLink="false">a201d4b43b65</guid>
+      <pubDate>Tue, 01 Sep 2026 22:20:07 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>The Supreme Court on Monday permitted President Trump to proceed with plans to build the White House ballroom . Why it matters: The 5-4 ruling is likely the final word on the proje…
+      <description>Rep. Chuck Edwards (R-N.C.) was censured by the House on Tuesday after the Ethics Committee found he failed &quot;to adhere to the spirit of rules prohibiting sexual harassment of and u…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Army Secretary Dan Driscoll resigns from post</title>
-      <link>https://www.axios.com/2026/08/31/hegseth-dan-driscoll-trump-administration</link>
-      <guid isPermaLink="false">671f3d57adce</guid>
-      <pubDate>Mon, 31 Aug 2026 22:38:40 GMT</pubDate>
+      <title>Apple joins Google in renaming Lake Ontario to &quot;Lake America&quot;</title>
+      <link>https://www.axios.com/2026/09/01/apple-maps-google-lake-ontario-lake-america</link>
+      <guid isPermaLink="false">a4b43e96f1fc</guid>
+      <pubDate>Tue, 01 Sep 2026 21:34:15 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>U.S. Army Secretary Dan Driscoll is stepping down from his post, according to a Department of Defense official. Why it matters: Driscoll, the youngest Army secretary in U.S. histor…
+      <description>Apple has changed the label on Lake Ontario to &quot; Lake America ,&quot; according to an Axios review of Apple Maps on Tuesday afternoon. Why it matters: Apple is the second major digital …
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
-      <title>炒股比主业更狠？保健品公司把钱砸向AI</title>
-      <link>https://www.huxiu.com/article/4887486.html?f=rss</link>
-      <guid isPermaLink="false">dc858e3f4089</guid>
-      <pubDate>Tue, 01 Sep 2026 01:11:42 GMT</pubDate>
+      <title>抢总部的时代过去了，他们在大疆楼下租房抢人，方向没想好，先给2000万……</title>
+      <link>https://www.huxiu.com/article/4887805.html?f=rss</link>
+      <guid isPermaLink="false">6133bb7bf426</guid>
+      <pubDate>Wed, 02 Sep 2026 00:18:38 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 商业评论零售现场 ，作者：贾贺辉 近期，国内传统保健品龙头汤臣倍健发布的一则对外投资公告，揭开了这家膳食营养补充剂（VDS）巨头在硬科技领域的资本版图。公告显示，公司拟使用自有资金7000万元，追加投资大模型独角兽月之暗面及其关联主体。 这也是汤臣倍健在2026年年内第三次出手月之暗面。月之暗面仅是其“科技跨界”中的冰山一角。 从今年3…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>被国网强势“招安”后，魏桥集团念起了新的“生意经”</title>
-      <link>https://www.huxiu.com/article/4887484.html?f=rss</link>
-      <guid isPermaLink="false">bb29ada25726</guid>
-      <pubDate>Tue, 01 Sep 2026 00:57:40 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 华夏能源网 ，作者：www.hxny.com，编辑：|韩成功 被国家电网“收编”不到一年，魏桥集团又在跃跃欲试的迭代“新版本”的自备电厂生意经了。 华夏能源网获悉，8月14日，魏桥集团发生工商变更，公司注册资金从20亿元大增至230亿元，增资210亿元。增资完成后，山东盛和致远投资有限公司成为魏桥集团新的第一大股东，张波、张红霞、张艳红…
+      <description>本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 市场上流传的说法是： 某一线投资机构在T2对面的写字楼里设了个&quot;驻点办公室&quot;，专门盯大疆核心员工的异动。山行资本干脆把办公室开在了大疆楼下。北京上海的机构派人过来，在附近租房子住着。FA蹲咖啡馆。 这个画面很有意思。 一群管理着几十亿资金、平时西装革履讲DCF估值的人，像追星族一样蹲在一栋写字楼底…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Tue, 01 Sep 2026 01:22:51 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:28:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Tue, 01 Sep 2026 01:22:51 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:28:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,149 +228,189 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Tue, 01 Sep 2026 01:22:51 GMT</pubDate>
+      <pubDate>Wed, 02 Sep 2026 00:28:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Wafer-Scale P-Type 2D Semiconductor Clears a Key Hurdle for Next-Generation Chips</title>
-      <link>https://www.semiconductor-digest.com/wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wafer-scale-p-type-2d-semiconductor-clears-a-key-hurdle-for-next-generation-chips</link>
-      <guid isPermaLink="false">248b83c8d928</guid>
-      <pubDate>Mon, 31 Aug 2026 20:36:04 GMT</pubDate>
+      <title>Exclusive: Sir Robin Saxby Reflects on Impact of AI, Geopolitics, and Retirement</title>
+      <link>https://www.eetimes.com/exclusive-sir-robin-saxby-reflects-on-impact-of-ai-geopolitics-and-retirement/</link>
+      <guid isPermaLink="false">dccaf0bf2e4b</guid>
+      <pubDate>Tue, 01 Sep 2026 22:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>A research team led by Prof. REN Wencai from the Institute of Metal Research (IMR) of the Chinese Academy of Sciences has achieved the wafer-scale epitaxial growth of monolayer MoS…
+      <description>One person whom I can say has been part of the semiconductor industry since I started my career way back in the 1980s is Robin Saxby. At the time, he was with a company called Euro…
+
+来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>EV Group Addresses Critical Manufacturing Challenges for Next-Generation Co-Packaged Optics</title>
+      <link>https://www.semiconductor-digest.com/ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ev-group-addresses-critical-manufacturing-challenges-for-next-generation-co-packaged-optics</link>
+      <guid isPermaLink="false">3916648d5f20</guid>
+      <pubDate>Tue, 01 Sep 2026 18:53:00 GMT</pubDate>
+      <category>半导体与硬件供应链</category>
+      <description>EV Group (EVG), a provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, today announced that it…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>PolyU Develops Quantum-Tunnelling Field-Effect Transistor</title>
-      <link>https://www.semiconductor-digest.com/polyu-develops-quantum-tunnelling-field-effect-transistor/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=polyu-develops-quantum-tunnelling-field-effect-transistor</link>
-      <guid isPermaLink="false">26e475539303</guid>
-      <pubDate>Mon, 31 Aug 2026 20:33:45 GMT</pubDate>
+      <title>Kulicke &amp; Soffa Advances AI Infrastructure Through Co-Packaged Optics (CPO) and Advanced Packaging Leadership</title>
+      <link>https://www.semiconductor-digest.com/kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kulicke-soffa-advances-ai-infrastructure-through-co-packaged-optics-cpo-and-advanced-packaging-leadership</link>
+      <guid isPermaLink="false">62afe2f0d04a</guid>
+      <pubDate>Tue, 01 Sep 2026 18:48:25 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>The next generation of microelectronics relies on radical improvements in transistor switching performance to advance computing power. However, conventional semiconductor technolog…
+      <description>Kulicke and Soffa Industries, Inc. , a global leader in semiconductor and electronics assembly solutions, continues to strengthen its position as a critical enabler of next-generat…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Trymax Secures Multi-Million-Dollar Supply Agreement with AOI to Support InP Laser Manufacturing</title>
-      <link>https://www.semiconductor-digest.com/trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=trymax-secures-multi-million-dollar-supply-agreement-with-aoi-to-support-inp-laser-manufacturing</link>
-      <guid isPermaLink="false">e942f4d7ac6f</guid>
-      <pubDate>Mon, 31 Aug 2026 20:27:24 GMT</pubDate>
+      <title>Teradyne Launches Advanced UltraFLEXplus Instruments Engineered for AI and Data Center Computing Devices</title>
+      <link>https://www.semiconductor-digest.com/teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=teradyne-launches-advanced-ultraflexplus-instruments-engineered-for-ai-and-data-center-computing-devices</link>
+      <guid isPermaLink="false">20eda528f905</guid>
+      <pubDate>Tue, 01 Sep 2026 18:45:02 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Trymax Semiconductor Equipment , a specialist manufacturer of plasma- and UV-based solutions for the semiconductor and optoelectronics industries, today announced that it has been …
+      <description>Teradyne, Inc. (NASDAQ: TER), a provider of automated test equipment and advanced robotics, announced the launch of three new instruments for its UltraFLEXplus platform , designed …
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>AUO Showcases Micro LED Optical Communication and Glass Core Substrates Technologies at SEMICON Taiwan 2026</title>
-      <link>https://www.semiconductor-digest.com/auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=auo-showcases-micro-led-optical-communication-and-glass-core-substrates-technologies-at-semicon-taiwan-2026</link>
-      <guid isPermaLink="false">7d4ce180b717</guid>
-      <pubDate>Mon, 31 Aug 2026 20:19:56 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>As AI applications continue to proliferate, demand for high-performance computing and high-speed data transmission is accelerating, making AI infrastructure capacity a critical ena…
-
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>US university to pay US$2.1 million settlement over claims it didn’t disclose China ties</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3365909/us-university-pay-us21-million-settlement-over-claims-it-didnt-disclose-china-ties?utm_source=rss_feed</link>
-      <guid isPermaLink="false">7305b571b0b9</guid>
-      <pubDate>Tue, 01 Sep 2026 01:14:55 GMT</pubDate>
+      <title>Xi, Trump and Putin may hold trilateral meeting at next Apec forum, Kremlin says</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3366039/xi-trump-and-putin-may-hold-trilateral-meeting-next-apec-forum-kremlin-says?utm_source=rss_feed</link>
+      <guid isPermaLink="false">03bf46e7ac95</guid>
+      <pubDate>Tue, 01 Sep 2026 23:53:01 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>A prominent American university has agreed to pay a US$2.1 million settlement to resolve allegations that it failed to disclose employees’ ties to China when applying for federal g…
+      <description>A senior Russian aide suggested on Tuesday that Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin could hold a trilateral meeting at the …
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>The laptop, the social media user and the false alarm in Taiwan over a Beijing ‘spy’</title>
-      <link>https://www.scmp.com/news/china/politics/article/3365875/laptop-social-media-user-and-false-alarm-taiwan-over-beijing-spy?utm_source=rss_feed</link>
-      <guid isPermaLink="false">636b30d05d88</guid>
-      <pubDate>Tue, 01 Sep 2026 01:00:14 GMT</pubDate>
+      <title>US Congress seeks to identify foreign countries behind scam calls</title>
+      <link>https://www.scmp.com/news/us/diplomacy/article/3366036/us-congress-seeks-identify-foreign-countries-behind-scam-calls?utm_source=rss_feed</link>
+      <guid isPermaLink="false">6d894fca4990</guid>
+      <pubDate>Tue, 01 Sep 2026 22:30:49 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>A false espionage alarm about a Taipei subway user has fuelled concerns that growing fears of Beijing are breeding unhealthy suspicion on the island and eroding public trust. The c…
+      <description>US lawmakers are trying to identify which foreign countries are the biggest sources of unlawful robocalls targeting Americans, as Congress steps up efforts to combat a surge in pho…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Trump praises China for remaining ‘relatively inactive’ during Strait of Hormuz crisis</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3365904/trump-praises-china-remaining-relatively-inactive-during-strait-hormuz-crisis?utm_source=rss_feed</link>
-      <guid isPermaLink="false">a9b3cf279b8a</guid>
-      <pubDate>Mon, 31 Aug 2026 22:32:00 GMT</pubDate>
+      <title>Mainland China stepping up preparations for Taiwan blockade, report says</title>
+      <link>https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed</link>
+      <guid isPermaLink="false">4f280f1bee37</guid>
+      <pubDate>Tue, 01 Sep 2026 22:00:12 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>US President Donald Trump praised China on Monday for remaining on the sidelines during the prolonged closure of the Strait of Hormuz, just weeks before Chinese President Xi Jinpin…
+      <description>Taiwan’s defence ministry has warned that the People’s Liberation Army is stepping up its preparations for a blockade of the island, adding that it is sharpening its plans to break…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Paxton allies launch $15 million ad campaign</title>
-      <link>https://www.politico.com/news/2026/08/31/ken-paxton-ad-campaign-01057911</link>
-      <guid isPermaLink="false">15933cee4107</guid>
-      <pubDate>Mon, 31 Aug 2026 21:55:45 GMT</pubDate>
+      <title>JD Vance courts Jewish Republicans. Tucker Carlson still looms.</title>
+      <link>https://www.politico.com/news/2026/09/01/republican-jewish-coalition-jd-vance-tucker-carlson-01060877</link>
+      <guid isPermaLink="false">51dd42ecc51d</guid>
+      <pubDate>Wed, 02 Sep 2026 00:15:24 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>Allies of Texas GOP Senate hopeful Ken Paxton are planning a $15 million ad campaign starting Tuesday, the first major ad buy on behalf of Paxton in his battleground matchup with D…
+      <description>LAS VEGAS — Vice President JD Vance tried to make inroads with Jewish Republicans. Not everyone is sold. Vance’s closed-door speech at the Republican Jewish Coalition’s annual lead…
 
 来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Will Meta’s settlement in social media addiction case be a boon for research?</title>
-      <link>https://www.science.org/content/article/will-meta-s-settlement-social-media-addiction-case-be-boon-research</link>
-      <guid isPermaLink="false">becdb257ee5a</guid>
-      <pubDate>Mon, 31 Aug 2026 12:45:00 GMT</pubDate>
+      <title>The US built more grid batteries last quarter than ever before</title>
+      <link>https://www.canarymedia.com/articles/batteries/us-built-more-grid-batteries</link>
+      <guid isPermaLink="false">76a5ca753d96</guid>
+      <pubDate>Tue, 01 Sep 2026 21:30:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>There’s never been a better time to build energy storage in the U.S. than right now. Grid batteries — which sop up power when it’s abundant and discharge that energy when it’s need…
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Fervo and Google sign world’s largest deal for next-gen geothermal power</title>
+      <link>https://www.canarymedia.com/articles/geothermal/fervo-google-deal-next-gen-geothermal</link>
+      <guid isPermaLink="false">d1321640ee98</guid>
+      <pubDate>Tue, 01 Sep 2026 19:00:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>Fervo Energy inked a landmark deal to supply Google with nearly 400 megawatts of clean electricity from the startup’s geothermal project in southwest Utah. The agreement is the lar…
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>California declines to fund its biggest virtual power plant</title>
+      <link>https://www.canarymedia.com/articles/virtual-power-plants/california-guts-biggest-virtual-power-plant</link>
+      <guid isPermaLink="false">bf9c3bec77bd</guid>
+      <pubDate>Tue, 01 Sep 2026 14:04:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>California Gov. Gavin Newsom’s administration has blocked an effort to keep the state’s most successful virtual power plant program funded through next year. State budget language …
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>World’s biggest dark matter detector spots a single weird particle</title>
+      <link>https://www.science.org/content/article/world-s-biggest-dark-matter-detector-spots-single-weird-particle</link>
+      <guid isPermaLink="false">b4dca199b90d</guid>
+      <pubDate>Tue, 01 Sep 2026 10:00:00 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>A new foundation could help scientists assess the effects of fresh safety measures—if the company agrees to share its data
+      <description>It’s far too early to declare a discovery, physicists with the LZ detector say
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Snake embryos often coil in one direction. Now, we may know why</title>
-      <link>https://www.science.org/content/article/snake-embryos-often-coil-one-direction-now-we-may-know-why</link>
-      <guid isPermaLink="false">d4f6dafceb4a</guid>
-      <pubDate>Mon, 31 Aug 2026 09:00:00 GMT</pubDate>
+      <title>STAT+: ADA review of members’ expulsion denies group censored opinions, called in police</title>
+      <link>https://www.statnews.com/2026/09/01/ada-members-review-june-expulsion-denies-censoring-opinions-calling-new-orleans-police/?utm_campaign=rss</link>
+      <guid isPermaLink="false">5c9885b56d7b</guid>
+      <pubDate>Tue, 01 Sep 2026 23:06:00 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>Mismatch between growth of body and digestive system bends the body, study suggests
+      <description>Almost three months after five members of the American Diabetes Association were ejected from the group&amp;#x2019;s scientific sessions in New Orleans for handing out an editorial cri…
+
+来源：STAT News · 生物医药与健康科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>California to vote on spending $16 billion to boost research after Trump cuts</title>
+      <link>https://www.science.org/content/article/california-vote-spending-16-billion-boost-research-after-trump-cuts</link>
+      <guid isPermaLink="false">9ee984e0eb35</guid>
+      <pubDate>Tue, 01 Sep 2026 07:05:00 GMT</pubDate>
+      <category>生物医药与健康科技</category>
+      <description>State initiatives this fall and in early 2028 will gauge voters’ appetite for science, but controversy has grown around one proposal
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>SpaceX is in an “enviable position”: why Anthropic is sticking with Cursor as OpenAI cuts access</title>
-      <link>https://thenewstack.io/anthropic-spacex-cursor-compute-openai/</link>
-      <guid isPermaLink="false">bec439f3fd50</guid>
-      <pubDate>Mon, 31 Aug 2026 21:47:04 GMT</pubDate>
+      <title>Claude Fable 5.1 watermark: It has a blind spot developers can’t ignore</title>
+      <link>https://thenewstack.io/fable-5-1-watermark/</link>
+      <guid isPermaLink="false">fd3eaf5d1f7c</guid>
+      <pubDate>Tue, 01 Sep 2026 20:59:09 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>OpenAI caused something of a stir over the weekend when it announced plans to cut Cursor&amp;rsquo;s direct access to OpenAI models in November. The reason? Elon Musk. In a statement i…
+      <description>Anthropic launched Claude Fable 5.1 on Tuesday with a statistical signature embedded in its generated text, but developers shouldn’t expect that signature to appear equally strongl…
+
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Runway wants to generate software as you use it. Solaris is its first step.</title>
+      <link>https://thenewstack.io/runway-solaris-generated-interfaces/</link>
+      <guid isPermaLink="false">0cf525b1e5be</guid>
+      <pubDate>Tue, 01 Sep 2026 19:44:41 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Runway introduced Solaris on Monday, the first model of a new class of AI systems it calls Interface World Models, which aims to do away with the traditional process of translating…
+
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Anthropic’s Fable 5.1 is a bit cheaper, a bit smarter, and refuses a lot less</title>
+      <link>https://thenewstack.io/anthropic-fable-5-1-launch/</link>
+      <guid isPermaLink="false">883b2c6b2e8a</guid>
+      <pubDate>Tue, 01 Sep 2026 19:38:32 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>On Tuesday, Anthropic launched the latest versions of its flagship Fable and Mythos models . Anthropic promises that the updated models will offer stronger performance at a lower c…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>MCP was supposed to solve the agent tooling problem. It missed a step.</title>
-      <link>https://thenewstack.io/ard-agent-discovery-specification/</link>
-      <guid isPermaLink="false">c83e34341eed</guid>
-      <pubDate>Mon, 31 Aug 2026 20:04:20 GMT</pubDate>
+      <title>Your Mac is now part of Perplexity’s AI infrastructure</title>
+      <link>https://thenewstack.io/perplexity-hybrid-compute-mac/</link>
+      <guid isPermaLink="false">66fef358190a</guid>
+      <pubDate>Tue, 01 Sep 2026 19:21:51 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Connecting an AI agent to a tool is relatively straightforward. Things get more complicated once an organization has hundreds or thousands of resources spread across different clou…
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Google’s new forecasting model beats everyone. You can’t use it at work (yet).</title>
-      <link>https://thenewstack.io/google-timesfm-3-multivariate-forecasting/</link>
-      <guid isPermaLink="false">a6e2d7dd5b75</guid>
-      <pubDate>Mon, 31 Aug 2026 19:41:54 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>On Monday, Google launched TimesFM-3 , a 330-million-parameter time-series forecasting model trained on over a trillion real-world and synthetic data time points. The new model is …
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>SpaceX designed an orbital Vera Rubin. Radiation comes next.</title>
-      <link>https://thenewstack.io/spacex-nvidia-orbital-ai/</link>
-      <guid isPermaLink="false">dd4021521e2a</guid>
-      <pubDate>Mon, 31 Aug 2026 18:55:35 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>SpaceX and Nvidia say they are adapting the Vera Rubin NVL72 rack-scale AI platform for orbital use, with SpaceX targeting a first launch in the fourth quarter of 2027. The dream o…
+      <description>Perplexity wants its AI agents to use more of the computing power already sitting inside a Mac. The company launched Hybrid Compute on Tuesday, a new feature that lets Perplexity C…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
