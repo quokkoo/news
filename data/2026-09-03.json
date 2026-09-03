@@ -1,0 +1,1121 @@
+{
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-03T00:34:40.234Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 74 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "33c1d3dcd017",
+          "title": "“替代方案”红海港口也被威胁，沙特原油出口暴跌",
+          "titleZh": "“替代方案”红海港口也被威胁，沙特原油出口暴跌",
+          "url": "https://wallstreetcn.com/articles/3780953",
+          "summary": "沙特阿拉伯原油出口正面临双线封堵的严峻局面。随着胡塞武装对红海航线的封锁持续升级，叠加霍尔木兹海峡本周再度爆发袭击事件，沙特8月原油出口量骤降至至少九年来最低水平，全球能源供应链承压加剧。 据华尔街见闻8月19日文章写道，沙特阿美此前为绕开霍尔木兹海峡风险，将原油大规模转道红海延布港出口，发运量一度升至日均约400万桶。但过去数周，也门胡塞武装宣布对沙特实施…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T00:11:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8812bfd38fbb",
+          "title": "博通电话会：未来两年AI收入将连续翻倍至2300亿美元，定制芯片性能“不输GPU且成本减半”",
+          "titleZh": "博通电话会：未来两年AI收入将连续翻倍至2300亿美元，定制芯片性能“不输GPU且成本减半”",
+          "url": "https://wallstreetcn.com/articles/3780943",
+          "summary": "博通2026财年第三季度财报展现了其在定制AI芯片（XPU）领域的爆炸性增长，凭借出色的性价比对传统GPU形成强势替代，公司高管更罕见地给出了未来两年AI收入连续翻倍的超预期指引。 华尔街见闻提及，美东时间3日周三美股盘后，博通公布，截至2026年8月2日的公司2026财年第三财季，净营收同比增长86%至295.91亿美元，继续创单季营收新高，略高于市场预期…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-02T23:19:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1afee6bcf118",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月3日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月3日",
+          "url": "https://wallstreetcn.com/articles/3780948",
+          "summary": "华见早安之声 要闻精选 潘功胜：继续实施好适度宽松的货币政策，持续推进货币政策框架转型。 特朗普提议霍尔木兹海峡改名“特朗普海峡”，称美方已控制。伊朗革命卫队宣称以导弹和无人机袭击美军在科威特、约旦及伊拉克的多处基地，造成\"多名美方人员死亡\"，美军中央司令部随后宣布完成新一轮打击，目标从防空系统扩展至布雷能力与通信站点。 美国与委内瑞拉签署多项石油合作协议，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-02T23:02:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8de824645356",
+          "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
+          "titleZh": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
+          "url": "https://wallstreetcn.com/articles/3780885",
+          "summary": "油价冲高回落后涨势暂歇，通胀预期随之降温。美国10年期国债收益率从盘中高位回落，美股三大指数小幅反弹收涨，终结三连跌趋势。 WTI原油盘中最高触及92.28美元，站上五周高位，随后日内一度转跌，尾盘收复大部分跌幅，涨0.88%。布伦特原油结算价95.63美元，涨1.04%。 个股层面，AI硬件与AI软件走向分歧。戴尔凭创纪录的AI服务器订单暴涨15.76%，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-02T21:43:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d0621e77aaf3",
+          "title": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇",
+          "titleZh": "特朗普称对伊朗新一轮打击不会“持续太久”，油价涨势暂歇",
+          "url": "https://wallstreetcn.com/articles/3780946",
+          "summary": "油价在连续三日大涨后趋于稳定，市场在中东局势持续紧张与双方寻求\"下台阶\"的预期之间保持平衡。 据央视新闻，当地时间9月2日，美国总统特朗普在白宫对记者表示，美国对伊朗的新一轮打击行动不会“持续太久”。 特朗普说，伊朗正试图重建雷达系统、导弹系统和布雷装置。美军1日对伊朗的袭击“非常猛烈”，摧毁伊朗“试图在霍尔木兹海峡沿岸部署的所有新装备”，“我们随时准备再次…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T00:26:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "55a4650d08d4",
+          "title": "地缘风险升温，荷兰央行将约120亿美元黄金储备从美加转移至伦敦",
+          "titleZh": "地缘风险升温，荷兰央行将约120亿美元黄金储备从美加转移至伦敦",
+          "url": "https://wallstreetcn.com/articles/3780937",
+          "summary": "荷兰央行正将黄金储备从北美转移至伦敦，此举折射出欧洲央行在地缘政治动荡背景下对黄金储备管理策略的系统性重估。 荷兰央行行长Olaf Sleijpen周三表示，今年3月至8月间，该行已将约86吨黄金从纽约和渥太华转移至伦敦，涉及资产规模约120亿美元。此次转移完成后，伦敦持有的荷兰黄金储备占比升至近三分之一，成为最大单一托管地点。 荷兰央行将此次重新布局的主因…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-02T21:35:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "fc75cce99b7d",
+          "title": "Proactive cyber defense for governments and enterprises",
+          "titleZh": "Proactive cyber defense for governments and enterprises",
+          "url": "https://deepmind.google/blog/proactive-cyber-defense-for-governments-and-enterprises/",
+          "summary": "Sep 02, 2026 | Today, we’re launching our Fairwind Program, a limited access program for governments and trusted partners to use our most advanced cyber defense capabilities. Four …",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-02T16:24:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "69b1ed498d54",
+          "title": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "titleZh": "Introducing Gemini 3.8 Flash and 3.8 Flash Cyber",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-flash-and-38-flash-cyber/",
+          "summary": "Sep 02, 2026 | Our newest Gemini models deliver next-generation intelligence for agentic workflows and cybersecurity. Raluca Ada Popa Gemini Security Lead, Google DeepMind Building…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-02T16:18:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b74f8c7a4c7a",
+          "title": "llm-gemini 0.34",
+          "titleZh": "llm-gemini 0.34",
+          "url": "https://simonwillison.net/2026/Sep/2/llm-gemini/",
+          "summary": "Release: llm-gemini 0.34 New model gemini-3.8-flash for Gemini 3.8 Flash , with low, medium and high thinking levels. #146 Fixed async responses failing to record the resolved mode…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-02T16:39:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "789676bca9f2",
+          "title": "Spending deal comes with a bonus: Blocking political control of grants",
+          "titleZh": "Spending deal comes with a bonus: Blocking political control of grants",
+          "url": "https://arstechnica.com/science/2026/09/budget-deal-puts-political-control-of-grants-on-hold-until-december/",
+          "summary": "On Tuesday, the House of Representatives passed a stopgap measure that would continue funding the US government through early December. While the measure still requires the signatu…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-02T21:20:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d3c9bfd8bbdd",
+          "title": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "titleZh": "Google releases Gemini 3.8 Flash, its third Flash model in six weeks",
+          "url": "https://arstechnica.com/ai/2026/09/google-releases-gemini-3-8-flash-its-third-flash-model-in-six-weeks/",
+          "summary": "Google hasn't released a frontier-level Gemini Pro AI model since early 2026, but it sure loves rolling out new Gemini Flash variants. Today, Google is announcing its third Flash m…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-02T18:13:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "The New Stack",
+              "url": "https://thenewstack.io/google-ships-its-third-gemini-flash-model-in-six-weeks/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a755dd9614ff",
+          "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+          "titleZh": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+          "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+          "summary": "A US federal judge has sided with Google, ruling that the company will not have to sell its online advertising exchange (previously known as AdX). The US Department of Justice (DOJ…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-02T16:30:11.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b9c78d306a69",
+          "title": "Facilitating AI integration with simplicity at scale",
+          "titleZh": "Facilitating AI integration with simplicity at scale",
+          "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
+          "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-02T14:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23a22ebed901",
+          "title": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "titleZh": "Real-Time Intelligence with IBM Time Series Models on Confluent",
+          "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
+          "summary": "Foundation models transformed how enterprises unlock value from unstructured data. The bigger prize is streaming data, where the mission-critical decisions live: how much to order,…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-02T13:49:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "25a9e64e8436",
+          "title": "Witkoff meets powerful UAE official amid crackdown on Iran",
+          "titleZh": "Witkoff meets powerful UAE official amid crackdown on Iran",
+          "url": "https://www.axios.com/2026/09/02/witkoff-uae-iran-war-trump-bessent",
+          "summary": "White House Envoy Steve Witkoff met last weekend with the national security adviser of the United Arab Emirates to discuss next steps on Iran, according to two sources with knowled…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-02T21:51:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae079e682766",
+          "title": "35亿美元投资联发科：英伟达为何支持可能替代GPU的芯片？",
+          "titleZh": "35亿美元投资联发科：英伟达为何支持可能替代GPU的芯片？",
+          "url": "https://www.huxiu.com/article/4888131.html?f=rss",
+          "summary": "本文来自微信公众号： TechSugar ，作者：谈芯 2026年8月31日，英伟达宣布投资联发科发行的35亿美元可转换债券。双方扩大合作的一个重点，是让联发科客户开发的定制AI处理器，通过NVLink Fusion接入英伟达的机架级系统。这里的投资工具是可转债，不应直接写成英伟达已经取得相应比例的普通股，更不是收购联发科。 这笔交易值得讨论的地方，在于合作…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-03T00:08:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f4cb1e2621d7",
+          "title": "微信正在失去克制",
+          "titleZh": "微信正在失去克制",
+          "url": "https://www.huxiu.com/article/4888127.html?f=rss",
+          "summary": "本文来自微信公众号： 底层观察家 ，作者：程春晓，题图来自：视觉中国 从昨天开始，我的微信闪退好几次了。一开始我还以为只是偶发现象，结果看到群里其他朋友也提到，他们的iPhone版微信和Mac版微信都分别闪退了多次。 再结合前几天我就在朋友圈吐槽过的，微信新上线的可按住转文字和按住说话的黑色线框，都丑到不能忍。于是我在群里说：微信啥情况？突然从满分选手变成0…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-03T00:06:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5e20b98d08b7",
+          "title": "“你用电 我用心”国家电网品牌诊断",
+          "titleZh": "“你用电 我用心”国家电网品牌诊断",
+          "url": "https://www.huxiu.com/article/4888129.html?f=rss",
+          "summary": "本文来自微信公众号： 沈素明 ，作者：沈素明，原文标题：《“你用电 我用心”国家电网品牌诊断》 ——一个满分品牌，为什么离用户还很远？ 国家电网的品牌，在数据上几乎没有短板。 中国500最具价值品牌，7152.58亿元，连续十年榜首。全球公用事业50强品牌榜，连续八年第一，品牌强度AAA+。Brand Finance全球品牌价值500强，856.3亿美元，首…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-03T00:02:33.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06bc7912b588",
+          "title": "蜜雪也不再年轻",
+          "titleZh": "蜜雪也不再年轻",
+          "url": "https://www.huxiu.com/article/4888128.html?f=rss",
+          "summary": "本文来自微信公众号： 锦缎 ，作者：张生 8月27日，蜜雪集团发布了2026年中报，上半年录得营业收入152.16亿元，同比微增2.3%；期内利润23.19亿元，同比下滑14.7%；毛利率30.4%，同比下降130bp，低于市场预期。 （财报一图流如下图所示，单位：亿元，来源:WIND，财报纪整理） 蜜雪对营业数据披露相对谨慎，可分析的数据源较少。当然，从门…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-02T23:57:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-03T00:34:32.224Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-03T00:34:32.224Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-03T00:34:32.224Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "03afb6ceddb4",
+          "title": "GlobalFoundries Announces Customer Availability of UX Platform Technologies",
+          "titleZh": "GlobalFoundries Announces Customer Availability of UX Platform Technologies",
+          "url": "https://www.semiconductor-digest.com/globalfoundries-announces-customer-availability-of-ux-platform-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-announces-customer-availability-of-ux-platform-technologies",
+          "summary": "Today at its annual GF Technology Summit (GTS) in North America, GlobalFoundries (Nasdaq: GFS) (GF) announced process design kit (PDK) availability for its UX platform family, two …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-02T21:37:19.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c76e32aa989c",
+          "title": "GlobalFoundries and RAAAM Memory Technologies Announce Joint Development",
+          "titleZh": "GlobalFoundries and RAAAM Memory Technologies Announce Joint Development",
+          "url": "https://www.semiconductor-digest.com/globalfoundries-and-raaam-memory-technologies-announce-the-joint-development/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-and-raaam-memory-technologies-announce-the-joint-development",
+          "summary": "GlobalFoundries and RAAAM Memory Technologies today announced a strategic collaboration to develop and qualify Gain-Cell RAM (GCRAM) technology. The partnership has reached a major…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-02T21:31:52.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9f307568628c",
+          "title": "QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging",
+          "titleZh": "QuantumDiamonds Reaches Key Milestone on the Path to Inline Electrical Inspection with Contact-Free Current Imaging",
+          "url": "https://www.semiconductor-digest.com/quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging/?utm_source=rss&utm_medium=rss&utm_campaign=quantumdiamonds-reaches-key-milestone-on-the-path-to-inline-electrical-inspection-with-contact-free-current-imaging",
+          "summary": "QuantumDiamonds GmbH (QD) today demonstrated a novel method for imaging electrical current inside a semiconductor structure without making physical contact with it. The technique r…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-02T21:23:36.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6f4892d36345",
+          "title": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership",
+          "titleZh": "SEMI and Silicon Catalyst Aim to Accelerate Global Semiconductor Innovation with Strategic Partnership",
+          "url": "https://www.semiconductor-digest.com/semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership/?utm_source=rss&utm_medium=rss&utm_campaign=semi-and-silicon-catalyst-aim-to-accelerate-global-semiconductor-innovation-with-strategic-partnership",
+          "summary": "SEMI, the global industry association connecting the electronics design and manufacturing supply chain, and Silicon Catalyst, the world’s only accelerator focused exclusively on se…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-02T21:11:12.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "ae985af5f100",
+          "title": "Trump calls Xi’s Washington visit ‘exciting’, but claims US leads China in AI race",
+          "titleZh": "Trump calls Xi’s Washington visit ‘exciting’, but claims US leads China in AI race",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366162/trump-calls-xis-washington-visit-exciting-claims-us-leads-china-ai-race?utm_source=rss_feed",
+          "summary": "US President Donald Trump claimed on Wednesday that the US held a significant lead over China in artificial intelligence, touted what he termed unprecedented levels of inbound US i…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-02T23:13:30.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "819e121dd0cd",
+          "title": "US lawmakers target China, birth tourism as citizenship fight intensifies",
+          "titleZh": "US lawmakers target China, birth tourism as citizenship fight intensifies",
+          "url": "https://www.scmp.com/news/us/politics/article/3366161/us-lawmakers-target-china-birth-tourism-citizenship-fight-intensifies?utm_source=rss_feed",
+          "summary": "US lawmakers targeted China and birth tourism on Wednesday for the second time this week during hearings on birthright citizenship, a constitutional right upheld by the Supreme Cou…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-02T22:18:42.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5d61f0505848",
+          "title": "US Lawmakers Pass Africa Trade Preference Extension to 2028 - Bloomberg.com",
+          "titleZh": "US Lawmakers Pass Africa Trade Preference Extension to 2028 - Bloomberg.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY1pqUEVSYldqUENwZVcwaHUyWmhqRnYtTzd3NnVtZDVoQ2FOYTg4TDdlNk5NMmdCVTlrTUROMzRzUUEtXzBISjQyUk5EV2lpYVRWR1o1MC1fcnpOMy16QlFtSDEzcFNrd1NrZml1bFRFRGhERVhZaHFXT3A4OVd6OTNEYnhBMllZcExsQndGNDFJbXNHbHFhQ2kxZHBQTWhrb0tZUVZ2M2pzcE9PcE04?oc=5",
+          "summary": "US Lawmakers Pass Africa Trade Preference Extension to 2028 Bloomberg.com",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-09-02T16:09:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Bloomberg Economics",
+              "url": "https://www.bloomberg.com/news/articles/2026-09-02/us-lawmakers-pass-africa-trade-preference-extension-to-2028"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "274cbaba3f98",
+          "title": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
+          "titleZh": "Analysis: China’s CO2 emissions fall in Q2 2026 due to plummeting oil use",
+          "url": "https://www.carbonbrief.org/analysis-chinas-co2-emissions-fall-in-q2-2026-due-to-plummeting-oil-use",
+          "summary": "China’s carbon dioxide (CO2) emissions fell by 1% in the second quarter of 2026, as oil consumption plummeted amid the strait of Hormuz crisis . The country’s use of oil fell by 9%…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-02T23:01:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "46102fa4c8a3",
+          "title": "Clean energy super PAC looks to take down a Democratic governor",
+          "titleZh": "Clean energy super PAC looks to take down a Democratic governor",
+          "url": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-looks-to-take-down-a-democratic-governor",
+          "summary": "The troubled reelection campaign of Rhode Island Gov. Dan McKee is facing a new obstacle: a super PAC determined to take down foes of clean energy. The Invest in Tomorrow Coalition…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-02T20:02:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4391dea2c367",
+          "title": "PG&E sees rising interest in ‘customer-driven’ flexible interconnection pilot",
+          "titleZh": "PG&E sees rising interest in ‘customer-driven’ flexible interconnection pilot",
+          "url": "https://www.utilitydive.com/news/pge-sees-rising-interest-in-customer-driven-flexible-interconnection-pil/829447/",
+          "summary": "The Flex Connect program allows larger distribution-connected loads to energize in months instead of waiting “several years” for firm interconnection, the Northern California utili…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-02T15:40:23.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "f686a08a0e67",
+          "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "titleZh": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+          "url": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+          "summary": "It might be overwhelming to see all of the new vocabulary popping up in software development these days thanks to AI tools introducing them&hellip; all the time. Some of this new v…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-02T21:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7d898336f29",
+          "title": "How we make AI coding more cost efficient without sacrificing task quality",
+          "titleZh": "How we make AI coding more cost efficient without sacrificing task quality",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+          "summary": "Output quality is important when working with AI coding agents, but true efficiency comes from getting work done quickly, efficiently, and with the right context. That&rsquo;s why …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-02T18:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0dcd14a26eb8",
+          "title": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+          "titleZh": "Multiverse says its 438B model is fast enough for AI agents. The benchmarks tell a more complicated story.",
+          "url": "https://thenewstack.io/quasar-438b-agent-compression/",
+          "summary": "A 438-billion-parameter reasoning model isn’t an obvious choice when speed is a priority. Multiverse Computing is betting that compression can make it one. On Wednesday, the Spanis…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-02T20:14:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c5a08b9f6d20",
+          "title": "Your next OpenAI API timeout might not be a timeout at all",
+          "titleZh": "Your next OpenAI API timeout might not be a timeout at all",
+          "url": "https://thenewstack.io/astra-api-safety-stops/",
+          "summary": "OpenAI said Tuesday that its upcoming Astra model is the company’s first to reach the Critical cybersecurity threshold in its Preparedness Framework, a level reserved for models ca…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-02T20:13:54.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 36,
+    "itemsFiltered": 2,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 72,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
