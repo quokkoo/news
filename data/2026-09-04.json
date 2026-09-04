@@ -1,0 +1,1318 @@
+{
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-04T00:26:15.629Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、前沿科技与 AI 产业、学术前沿速递、宏观经济与资本市场等 11 个领域，全部读完约需 77 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "96aebda30928",
+          "title": "Anthropic：我们不打价格战，只做值钱的生意",
+          "titleZh": "Anthropic：我们不打价格战，只做值钱的生意",
+          "url": "https://wallstreetcn.com/articles/3781048",
+          "summary": "Anthropic首席商务官明确表态不参与AI行业价格竞争，转而专注企业客户价值挖掘。 9月3日，据彭博援引知情人士透露，Anthropic有望在IPO之前完成150亿美元信用融资，本轮融资由摩根士丹利牵头，高盛、摩根大通、花旗将发挥主要作用，巴克莱和富国银行亦将参与其中。 此次融资规模凸显外界对这家AI公司上市前景的强烈信心。Anthropic首席商务官P…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-04T00:09:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2f860178e7f8",
+          "title": "Lululemon大跌！可比销售疫情以来首降、全年指引连续下调，新CEO上任面临挑战｜财报见闻",
+          "titleZh": "Lululemon大跌！可比销售疫情以来首降、全年指引连续下调，新CEO上任面临挑战｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3781045",
+          "summary": "Lululemon的增长困境仍在加深。 当地时间周四，运动服饰品牌Lululemon Athletica公布2026财年第二季度业绩：营收同比下降4%至24亿美元，按固定汇率计算下降5%；可比销售额下降9%，按固定汇率计算下降10%，创疫情以来首次下滑。 与此同时，公司再次下调全年业绩指引。2026财年营收预计为103.5亿至105亿美元，低于6月给出的预测…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T23:08:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1537d50deb97",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月4日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月4日",
+          "url": "https://wallstreetcn.com/articles/3781042",
+          "summary": "华见早安之声 要闻精选 商务部表示，中欧磋商应平等解决彼此关切，不能单方面提要价、动辄以关闭市场相要挟，并敦促美方立即撤销对有关中国企业和公民的制裁。 工信部等十部门发文促进中小企业发展，设立国家中小企业发展基金二期，带动社会资本投早投小投长期投硬科技，聚焦新能源、新材料、机器人及量子科技、脑机接口、具身智能等产业。 美联储理事沃勒表示，近期数据终于显示通胀…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T23:00:50.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a45cdeaa857c",
+          "title": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
+          "titleZh": "沃勒发言打击加息预期，美股指两连涨，标普创一个月最大涨幅，日元急升2%，黄金大涨",
+          "url": "https://wallstreetcn.com/articles/3780985",
+          "summary": "美联储理事沃勒表示，近期数据终于显示出通胀放缓的迹象，如果未来两周的数据延续这一趋势，他会倾向于支持把联邦基金利率目标维持在当前的3.50%至3.75%区间。这番表态让9月加息预期迅速降温，美股、美债、黄金与比特币同步走高。 标普500指数涨1.07%收于7748.27点，为8月4日以来最大单日涨幅；纳斯达克综合指数涨1.40%，道琼斯工业平均指数涨1.18…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T22:46:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c7290aa575f",
+          "title": "黑石与Cliffwater私募基金再次触发5%赎回上限，行业今年新募资规模骤降82%",
+          "titleZh": "黑石与Cliffwater私募基金再次触发5%赎回上限，行业今年新募资规模骤降82%",
+          "url": "https://wallstreetcn.com/articles/3781032",
+          "summary": "私人信贷市场的赎回压力仍未消退。黑石集团与Cliffwater LLC旗舰私人信贷基金周四双双披露，第三季度再度将赎回上限锁定在5%，凸显出这一规模1.8万亿美元市场所面临的持续性压力。 黑石旗下规模770亿美元的Blackstone Private Credit Fund（BCRED）披露，本季度投资者申请赎回比例达10%，但实际获批仅为申请量的一半。 与…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T22:01:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6b890bc9da64",
+          "title": "美联储\"内部争论\"公开化，沃勒反驳沃什弱化前瞻指引的做法",
+          "titleZh": "美联储\"内部争论\"公开化，沃勒反驳沃什弱化前瞻指引的做法",
+          "url": "https://wallstreetcn.com/articles/3781044",
+          "summary": "美联储内部正就货币政策沟通方式展开一场公开论战，分歧的核心在于：央行究竟应该给市场多少前瞻指引？ 华尔街见闻提及，美联储理事沃勒周四在路透社主办的一场活动上发表讲话，其中专门阐明了他对央行对外沟通的立场。他表示，有效的货币政策沟通应围绕三个目标展开：当前政策立场、政策前景展望，以及在特定情况下的前瞻性指引。 沃勒的阐述回应了新任主席沃什此前提出的\"打球而非盯…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-03T22:36:05.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "aba2d82e2ed4",
+          "title": "Transfer learning for genomic prediction in underrepresented populations",
+          "titleZh": "Transfer learning for genomic prediction in underrepresented populations",
+          "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/",
+          "summary": "Polygenic risk scores (PRSs) are used to predict disease risk from genetic variants. They usually incorporate the influence of hundreds to millions of genetic variants. However, th…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-03T18:20:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4fc6d75e4ff6",
+          "title": "A connectomics milestone: Mapping the complete male fruit fly brain",
+          "titleZh": "A connectomics milestone: Mapping the complete male fruit fly brain",
+          "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain/",
+          "summary": "We partnered with HHMI Janelia and collaborators to publish a complete map of the male fruit fly’s brain and central nervous system, creating the largest brain map to date. Togethe…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-03T16:00:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f694da8452d",
+          "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+          "titleZh": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
+          "url": "https://www.latent.space/p/astra",
+          "summary": "GPT-6 Astra , the first Stargate and lightly looped supermodel from OpenAI, launched today , cleanly beating Fable 5.1 on many metrics including completely saturating the hardest v…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-03T21:09:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7132f8dd8e17",
+          "title": "GPT‑6 Astra",
+          "titleZh": "GPT‑6 Astra",
+          "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra/",
+          "summary": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise us…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-03T20:18:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "da6b801a6d8f",
+          "title": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "titleZh": "Introducing WeatherNext 3, our most advanced and accurate global weather AI model",
+          "url": "https://deepmind.google/blog/introducing-weathernext-3-our-most-advanced-and-accurate-global-weather-ai-model/",
+          "summary": "Sep 03, 2026 | Our flagship AI weather forecasting model now includes real-time satellite data, hourly refreshes, higher resolution, precise precipitation forecasting, and clean en…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-03T15:02:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2bb55b1df372",
+          "title": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "titleZh": "Reports: RFK Jr. ordered measles deaths deletion; CDC still secretly counts them",
+          "url": "https://arstechnica.com/health/2026/09/reports-rfk-jr-ordered-measles-deaths-deletion-cdc-still-secretly-counts-them/",
+          "summary": "The Centers for Disease Control and Prevention is still secretly counting two measles deaths that were deleted from the agency's public measles data—a deletion that occurred at the…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-03T22:13:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1ebfe096de12",
+          "title": "GPT-6 Astra",
+          "titleZh": "GPT-6 Astra",
+          "url": "https://openai.com/index/gpt-6-astra/",
+          "summary": "System Card: https://deploymentsafety.openai.com/gpt-6-astra Related ongoing threads: OpenAI's GPT-6 Astra on ARC-AGI-3 - https://news.ycombinator.com/item?id=49555691 GPT-6 Astra …",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-03T18:41:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://openai.com/index/gpt-6-astra/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c7cd069a5f1",
+          "title": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+          "titleZh": "150 research primates got diarrhea, flooding lab with priceless vaccine data",
+          "url": "https://arstechnica.com/health/2026/09/150-research-primates-got-diarrhea-flooding-lab-with-priceless-vaccine-data/",
+          "summary": "Having more than 150 non-human primates at a research center fall ill with diarrhea in a stomach-churning outbreak that flowed for over two years doesn't sound much like good fortu…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-03T20:14:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "46e4109c0dd1",
+          "title": "Maria Bartiromo fired by Fox",
+          "titleZh": "Maria Bartiromo fired by Fox",
+          "url": "https://www.axios.com/2026/09/03/maria-bartiromo-departs-fox",
+          "summary": "Fox News Media said longtime Fox Business host Maria Bartiromo is leaving the network in a surprise announcement Thursday. Why it matters: Bartiromo is considered one of the networ…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-03T22:13:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "40fe78ec2ef1",
+          "title": "那批扎堆去港股的消费公司，现在怎么样了",
+          "titleZh": "那批扎堆去港股的消费公司，现在怎么样了",
+          "url": "https://www.huxiu.com/article/4888435.html?f=rss",
+          "summary": "本文来自微信公众号： 镜相工作室 ，作者：镜相作者，编辑：叶绘 2025年夏天，港股消费经历了一场久违的狂欢。老铺黄金、泡泡玛特、蜜雪集团三家公司股价齐创历史新高，总市值一度突破7300亿港元；全年共有18家消费企业敲钟上市，远超往年。市场一度相信“消费又行了”。 一年后的今天，这三家公司的股价分别从高点跌去70%、50%和40%。过去一年半上市的23家公司…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-04T00:12:36.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "435961c37162",
+          "title": "GPT-6 Astra全面解析： “欢迎来到AGI时代。”",
+          "titleZh": "GPT-6 Astra全面解析： “欢迎来到AGI时代。”",
+          "url": "https://www.huxiu.com/article/4888430.html?f=rss",
+          "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克，原文标题：《GPT-6 Astra全面解析 - “欢迎来到AGI时代。”》，题图来自；视觉中国 在昨晚全球AI大宕机之后。 GPT-6 Astra终于在北京时间凌晨3点33，正式亮相了。 如果用OpenAI的一句话给GPT-6 Astra做总结。 那可能这句话最合适：这是全球最智能且最对齐的模型。…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-04T00:07:17.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "34dbd5eb90a0",
+          "title": "半年少赚32亿，“卷王”蒸发的利润去哪了？",
+          "titleZh": "半年少赚32亿，“卷王”蒸发的利润去哪了？",
+          "url": "https://www.huxiu.com/article/4888434.html?f=rss",
+          "summary": "本文来自微信公众号： 中国企业家杂志 ，编辑：马吉英，作者：任娅斐 或许，最坏的时刻已经过去，但最好的时刻远未到来。 6月9日，深圳坪山，比亚迪2025年度股东大会，启迪厅座无虚席。这次股东会有近千人参加，也是历史上最多的一次。在回应股东们最关切的股价、销量、产能、出海等问题时，比亚迪集团董事长兼总裁王传福坚定表态，“最坏的时刻已经过去。” 8月28日晚，比…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-04T00:05:31.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bc7fd93584c1",
+          "title": "《后西游记》开播那晚，电影院里坐满了人",
+          "titleZh": "《后西游记》开播那晚，电影院里坐满了人",
+          "url": "https://www.huxiu.com/article/4888433.html?f=rss",
+          "summary": "本文来自微信公众号： 锦缎 ，作者：星禾 2026年8月31日晚上八点，湖南卫视黄金档，一部很特别的电视剧开播了。 特别在哪？没有真人演员，没有实景片场，镜头里的每一个人物、每一场戏，全部由AI生成。它叫《后西游记》，国内第一部上星播出的AIGC长剧。 开播当晚，实时收视率冲到同时段省级卫视第一。资本市场也给足了排面：出品方之一芒果超媒，两个20cm涨停。 …",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-03T23:59:58.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-04T00:26:07.206Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-04T00:26:07.206Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-04T00:26:07.206Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "c2411963d181",
+          "title": "Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology",
+          "titleZh": "Manz Asia and SUSS Announce Strategic Collaboration in Semiconductor Inkjet Technology",
+          "url": "https://www.semiconductor-digest.com/manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology/?utm_source=rss&utm_medium=rss&utm_campaign=manz-asia-and-suss-announce-strategic-collaboration-in-semiconductor-inkjet-technology",
+          "summary": "Semiconductor advanced packaging equipment manufacturer, Manz Asia, today announced a strategic collaboration with SUSS, a manufacturer of equipment and process solutions for the s…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-03T21:53:06.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ab3939b4986",
+          "title": "Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters",
+          "titleZh": "Sivers Semiconductors Invests $30 Million to Expand European Photonics Manufacturing for AI Datacenters",
+          "url": "https://www.semiconductor-digest.com/sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters/?utm_source=rss&utm_medium=rss&utm_campaign=sivers-semiconductors-invests-30-million-to-expand-european-photonics-manufacturing-for-ai-datacenters",
+          "summary": "Sivers Semiconductors AB (STO: SIVE) today announced a USD 30 million strategic investment to significantly expand its Indium Phosphide (InP) manufacturing facility in Glasgow, Sco…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-03T21:47:34.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fd5dca9effcf",
+          "title": "Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26",
+          "titleZh": "Omdia: China-Based Panel Makers to Capture 65% of Automotive Display Shipments in 2H26",
+          "url": "https://www.semiconductor-digest.com/omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-china-based-panel-makers-to-capture-65-of-automotive-display-shipments-in-2h26",
+          "summary": "China-based panel makers are forecast to account for 65.2% of global automotive display shipments in the second half of 2026, up from 59.0% in the first half, according to new rese…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-03T21:39:54.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af1d49dc4df8",
+          "title": "Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference",
+          "titleZh": "Gigaphoton to Present on EUV Lightsource Advances for Actinic Mask Inspection at SPIE Photomask Technology + EUV Lithography Conference",
+          "url": "https://www.semiconductor-digest.com/gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-to-present-on-euv-lightsource-advances-for-actinic-mask-inspection-at-spie-photomask-technology-euv-lithography-conference",
+          "summary": "Gigaphoton Inc., a manufacturer of lightsources for leading-edge semiconductor fabrication processes, will present results demonstrating continued advances in its tin laser-produce…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-03T21:24:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "80ebee76de51",
+          "title": "Chinese-American community alarmed after Chinese national dies in ICE custody",
+          "titleZh": "Chinese-American community alarmed after Chinese national dies in ICE custody",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366287/chinese-american-community-alarmed-after-chinese-national-dies-ice-custody?utm_source=rss_feed",
+          "summary": "The Chinese-American community expressed anger and concern on Thursday over the death in custody of a Chinese national by the US Immigration and Customs Enforcement [ICE] on US ter…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-03T23:42:30.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af247061fce5",
+          "title": "US urged to consider military strikes to stop China achieving AGI first",
+          "titleZh": "US urged to consider military strikes to stop China achieving AGI first",
+          "url": "https://www.scmp.com/news/us/article/3366284/us-urged-consider-military-strikes-stop-china-achieving-agi-first?utm_source=rss_feed",
+          "summary": "The United States should start preparing for scenarios where extreme measures must be taken to stop China from achieving artificial general intelligence (AGI), according to a forme…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-03T22:13:33.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c2ed7abe7b7d",
+          "title": "Ecuador’s ex-president and Chinese ambassador seek to avoid jail over belt and road dam",
+          "titleZh": "Ecuador’s ex-president and Chinese ambassador seek to avoid jail over belt and road dam",
+          "url": "https://www.scmp.com/news/china/article/3366283/ecuadors-ex-president-and-chinese-ambassador-seek-avoid-jail-over-belt-and-road-dam?utm_source=rss_feed",
+          "summary": "Former Ecuadorian president Lenin Moreno and a former Chinese ambassador to Quito asked the country’s highest court on Thursday to spare them the five-year sentences handed down la…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-03T21:36:52.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0493d2625744",
+          "title": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
+          "titleZh": "Missouri Supreme Court pauses GOP gerrymander, likely netting Democrats 1 House seat",
+          "url": "https://www.politico.com/news/2026/09/03/missouri-gerrymander-paused-2026-election-01064420",
+          "summary": "Missouri’s Supreme Court suspended a congressional map that state Republicans drew last year that would have netted the GOP an additional House seat, likely keeping the seat in Dem…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-03T22:28:11.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "0ce23b160d5c",
+          "title": "CISA scraps 6 free cybersecurity assessments for critical infrastructure operators",
+          "titleZh": "CISA scraps 6 free cybersecurity assessments for critical infrastructure operators",
+          "url": "https://www.utilitydive.com/news/cisa-scraps-6-free-cybersecurity-assessments-for-critical-infrastructure-op/829570/",
+          "summary": "Tatyana Bolton, the executive director of the OT Cyber Coalition, said that “severe budget cuts have forced CISA into a corner where they can no longer provide the level of hands-o…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-03T15:35:57.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0d3f7714e1ef",
+          "title": "National Grid’s different gas-electric forecasts are responsible planning",
+          "titleZh": "National Grid’s different gas-electric forecasts are responsible planning",
+          "url": "https://www.utilitydive.com/news/different-forecasts-dont-mean-higher-bills-they-mean-responsible-planning/829035/",
+          "summary": "National Grid New York is advancing integrated gas-electric planning through coordinated efforts and non-pipeline alternatives, writes the utility’s general counsel, Philip DeCicco…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-03T15:51:26.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "19249f291829",
+          "title": "FDA Approves First Drug to Treat Alexander Disease",
+          "titleZh": "FDA Approves First Drug to Treat Alexander Disease",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+          "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients.",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-03T19:48:27.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "44f1e4e9ba3e",
+          "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
+          "titleZh": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
+          "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic ver…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-03T15:01:02.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f937d6b63f90",
+          "title": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
+          "titleZh": "FDA Seeks Public Input to Advance Development of Botanical Drug Products",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-advance-development-botanical-drug-products",
+          "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) to gather public input on opportunities to advance the development of botanical drug products.",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-03T12:52:49.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "74add4f5f67a",
+          "title": "Interpretable Symptom Vectors for Depression in a Large Language Model",
+          "titleZh": "Interpretable Symptom Vectors for Depression in a Large Language Model",
+          "url": "https://arxiv.org/abs/2609.01832",
+          "summary": "arXiv:2609.01832v1 Announce Type: cross Abstract: Patients with depression present with diverse symptom profiles, yet clinical practice routinely reduces this variation to a single…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-03T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 9,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 4,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.01832"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.01832"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2609.01832"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "548e8399e4f8",
+          "title": "CliffRank: A Dual-Branch Framework for Activity-Cliff Ranking Prediction",
+          "titleZh": "CliffRank: A Dual-Branch Framework for Activity-Cliff Ranking Prediction",
+          "url": "https://arxiv.org/abs/2609.01673",
+          "summary": "arXiv:2609.01673v1 Announce Type: cross Abstract: Activity-cliff ranking remains difficult because local structural changes can cause large activity differences, while high-quality…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-03T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.01673"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2609.01673"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bb12e160f416",
+          "title": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+          "titleZh": "Harness Engineering in LLM Tool Use via Agent-Native Reusable Tool Primitives",
+          "url": "https://arxiv.org/abs/2609.01736",
+          "summary": "arXiv:2609.01736v1 Announce Type: cross Abstract: Large language models (LLMs) augmented with external tools have demonstrated remarkable capability in solving complex real-world t…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-03T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.01736"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.01736"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f1a5386d6fe9",
+          "title": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
+          "titleZh": "Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens",
+          "url": "https://arxiv.org/abs/2609.01936",
+          "summary": "arXiv:2609.01936v1 Announce Type: cross Abstract: A language model's prediction of its next token develops across layers, and lens methods track this process by decoding intermedia…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-03T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.01936"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.01936"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "10ac518a441b",
+          "title": "Lululemon’s identity crisis continues, with comp sales down 9%, as it prepares to welcome new CEO",
+          "titleZh": "Lululemon’s identity crisis continues, with comp sales down 9%, as it prepares to welcome new CEO",
+          "url": "https://www.modernretail.co/operations/lululemons-identity-crisis-continues-with-comp-sales-down-9-as-it-prepares-to-welcome-new-ceo/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Former Nike executive Heidi O’Neill will have her work cut out for her as she prepares to take over as CEO of Lululemon starting Sept. 8. Lululemon reported second-quarter earnings…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-03T23:07:57.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6d24f3b4e3f8",
+          "title": "I refused to train the AI that could replace me",
+          "titleZh": "I refused to train the AI that could replace me",
+          "url": "https://restofworld.org/2026/ai-training-jobs-expert-replacement/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "After completing a Ph.D. earlier this year on technologies such as artificial intelligence reshaping agricultural work in South Africa, I was ready to start an academic career. I i…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-09-03T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 41,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 75,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
