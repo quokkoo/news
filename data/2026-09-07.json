@@ -1,0 +1,761 @@
+{
+  "date": "2026-09-07",
+  "generatedAt": "2026-09-07T00:17:53.630Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 54 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "8e97b600b3c4",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月7日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月7日",
+          "url": "https://wallstreetcn.com/articles/3781183",
+          "summary": "华见早安之声 要闻精选 中国财政部大手笔注资银行、险企，总量达数千亿。 伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信。 会见特朗普特使超3小时，普京表态“今天的局势并不简单”。 报道：Anthropic将推迟至10月中旬上市，“史上最大IPO”还得再等等。 OpenAI总裁：Astra是…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-06T23:02:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d7519de8dc56",
+          "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
+          "titleZh": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”，议长称美方应认识到“游戏规则已经改变”",
+          "url": "https://wallstreetcn.com/articles/3781187",
+          "summary": "当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区”。他表示，该“禁区”将从美国海军封锁线起算，一直延伸至波斯湾内部分水域。 雷扎伊表示，任何进入该“禁区”的船只都将被列入伊朗制裁名单。伊朗可以监测到美国船只，也可以击沉它们。“当然，伊朗没有击沉美国船只，是因为它们运载石油，一旦被击沉将破坏环境。” 伊朗称即将与…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-06T23:47:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "80109e8e3370",
+          "title": "9月7日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "titleZh": "9月7日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "url": "http://finance.eastmoney.com/news/11158,202609073866168245.html",
+          "summary": "9月7日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 8家中央金融企业拟增资3600亿元补充资本 9月6日，工商银行等8家中央金融企业分别发布增资计划，将补充核心一级资本。据统计，8家中央金融企业计划共增资3600亿元。专家认为，上述举措既是落实今年政府工作报告部署的关键落子，也是财政与金融协同发力的标志性举措之一。这将有助于相关金融机构提升长期盈…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-09-06T22:03:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 5,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1303ae58deb8",
+          "title": "本周重磅日程：中美CPI、苹果折叠屏iPhone首秀、甲骨文财报、欧央行决议",
+          "titleZh": "本周重磅日程：中美CPI、苹果折叠屏iPhone首秀、甲骨文财报、欧央行决议",
+          "url": "https://wallstreetcn.com/articles/3781074",
+          "summary": "09月07日 - 09月13日当周重磅财经事件一览，以下均为北京时间： 见闻财经日历提醒下周重点关注： 中美通胀数据：美国8月CPI是美联储9月议息前最后一份通胀读数，当前美联储“传声筒”沃勒已表态倾向维持利率不变。中国8月CPI/PPI定调内需成色，机构普遍预计CPI回升至0.9%附近、PPI在3.2%—3.8%区间存在分歧；8月进出口检验外需韧性，机构预…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-06T11:54:59.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "756027ba61cb",
+          "title": "财政部大手笔注资银行、险企，总量达数千亿！",
+          "titleZh": "财政部大手笔注资银行、险企，总量达数千亿！",
+          "url": "https://wallstreetcn.com/articles/3781176",
+          "summary": "中国财政部启动新一轮大规模金融机构资本补充行动，注资规模横跨银行、保险、政策性金融机构，总量3600亿元。 据新华社及多家公司9月6日公告： 中国工商银行 ：拟向特定对象（包括财政部等）发行A股股票，募集资金不超过 1000亿元 ，用于补充核心一级资本。 中国农业银行 ：拟向特定对象（包括财政部等）发行A股股票，募集资金不超过 1600亿元 ，用于补充核心一…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-06T10:24:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c642f3f62815",
+          "title": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami - Reuters",
+          "titleZh": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxSZmhjRHBaRS1KVTJfWmUyVXFzOGs3NENFMU4wZFprQWVkX19CMGxSWlh0cW1GZzhYMWpIaWFjVWpSTUl3alNMY0lHVmlQOXlHRGZmNVJ0NElhN2UyOUN1MnozaFp0amh0YzV3VnhDX1VENFdjMk1aNU1IXzM4dWJjaXBRSzIxd3ZhOEtPRlppR3VMR01YRm1ZMlE3aWpIN0xURFhLSVpqLUFfWi1SaWdiTzZ1YnRqZGtGOQ?oc=5",
+          "summary": "At least 5 killed in Amazon Prime Air cargo plane crash in Miami Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-09-06T23:00:45.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "abc07c52e60f",
+          "title": "An Alien Mind",
+          "titleZh": "An Alien Mind",
+          "url": "https://openai.com/index/an-alien-mind",
+          "summary": "Jakub Pachocki reflects on increasingly capable AI and the challenge of keeping it aligned. He calls for stronger safeguards and international coordination.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-09-06T09:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://openai.com/index/an-alien-mind/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "30a78eaba4a1",
+          "title": "Research acceleration: The view inside OpenAI",
+          "titleZh": "Research acceleration: The view inside OpenAI",
+          "url": "https://openai.com/index/research-acceleration-view-inside-openai",
+          "summary": "Inside OpenAI, coding agents are reshaping AI research. Explore early data on agent usage, experiment velocity, task complexity, and research acceleration.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-09-06T08:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Simon Willison",
+              "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "31fbce1d160d",
+          "title": "The purpose of DNS is to spread scams",
+          "titleZh": "The purpose of DNS is to spread scams",
+          "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams/",
+          "summary": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-06T14:40:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fae09028ce70",
+          "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "titleZh": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
+          "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+          "summary": "Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 150 # Comments: 65",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-09-06T20:24:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4321e92ee978",
+          "title": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
+          "titleZh": "早报｜iPhone 18价格疑似泄露，埃及运营商否认/雷军晒图：54个品牌为小米澎程送祝福/华为大阔折曝光波尔多红配色",
+          "url": "https://www.ifanr.com/1678581?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "Vodafone Egypt 否认泄露 iPhone 18 系列价格 苹果新薪酬方案曝光：库克转任执行董事长获 4500 万美元股票奖励 54 个品牌账号为小米澎程上市送祝福，雷军回应致谢 华为 Pura X Max 两款新配色曝光，9 月 7 日亮相 曝 Anthropic 接近确定 IPO 核心承销商 AI 空间站上架 Kimi、MiniMax 等模型订…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-09-07T00:10:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8a83e3f85e47",
+          "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "titleZh": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+          "summary": "The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI bega…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-09-06T23:36:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06d4cf3817cb",
+          "title": "Women account for nearly all new US jobs in August",
+          "titleZh": "Women account for nearly all new US jobs in August",
+          "url": "https://www.semafor.com/article/09/06/2026/women-account-for-nearly-all-new-us-jobs-in-august",
+          "summary": "Women accounted for 98% of the 162,000 jobs the US added in August, an unprecedented figure that could point to broader labor market shifts. The figure reflects growth in health an…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-06T22:41:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6241c50b7a37",
+          "title": "New dossier sheds light on Sudan chemical weapons allegations",
+          "titleZh": "New dossier sheds light on Sudan chemical weapons allegations",
+          "url": "https://www.semafor.com/article/09/06/2026/new-dossier-sheds-light-on-sudan-chemical-weapons-allegations",
+          "summary": "A dossier made public Saturday shed light on allegations that Sudan’s military developed and used chemical weapons in the country’s devastating civil war. Documents, videos, and te…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-06T22:35:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "ed056a6cb043",
+          "title": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test.",
+          "titleZh": "AfD just won 44% in a German state. Now Germany's firewall faces its biggest test.",
+          "url": "https://www.axios.com/2026/09/06/afd-saxony-anhalt-germany-far-right-firewall",
+          "summary": "Germany's far-right Alternative for Germany (AfD) won a record 44% in Saxony-Anhalt on Sunday, leaving a small party with seats that could determine whether it can lead the nation'…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-06T22:16:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91d4231e2047",
+          "title": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
+          "titleZh": "Exclusive: Latino leaders push Beshear on Texas' race for governor",
+          "url": "https://www.axios.com/2026/09/06/latino-leaders-pressure-beshear-texas",
+          "summary": "Dozens of Latino lawmakers and leaders are pressuring Kentucky Gov. Andy Beshear , who chairs the Democratic Governors Association, to invest $10 million in the Texas governor's ra…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-06T21:50:12.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6376da45040d",
+          "title": "Dem governors weighing White House face the DeSantis dilemma",
+          "titleZh": "Dem governors weighing White House face the DeSantis dilemma",
+          "url": "https://www.axios.com/2026/09/06/democrats-governors-desantis-dilemma",
+          "summary": "Top aides for Florida Gov. Ron DeSantis ' failed 2024 presidential campaign have a warning for Democratic governors eyeing a 2028 run: Don't wait too long after November's midterms…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-06T21:40:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "12990f8bf511",
+          "title": "拿下全球第一，半年亏30亿，江西老板“放权”",
+          "titleZh": "拿下全球第一，半年亏30亿，江西老板“放权”",
+          "url": "https://www.huxiu.com/article/4888989.html?f=rss",
+          "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：苗诗雨，原文标题：《拿下全球第一，半年亏 30 亿，江西老板“放权”》 当“出货量第一”都无法阻止亏损，他的新剧本能否奏效？ 一份全球出货量第一、账面亏损超30亿元的半年报，一笔一年内两度下修转股价格的可转债，一次全年出货目标下调，让上半年的晶科能源格外刺眼。 9月3日，它此前发行的100亿元可转债，继续向下修正…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-07T00:10:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f0cc5942b144",
+          "title": "财政千亿注资",
+          "titleZh": "财政千亿注资",
+          "url": "https://www.huxiu.com/article/4888988.html?f=rss",
+          "summary": "本文来自微信公众号： 香帅的金融江湖 ，作者：香帅团队 昨天，财政部公告将于近期发行3000亿元特别国债，为工行、农行、进出口银行及5家央属险资补充核心资本，加上烟草系出资的600亿元，本轮增资总规模约3600亿元。其中，工行和农行分别被注资1000亿元、1600亿元，其余1000亿元注入进出口银行和五家险资。 这笔钱补进少数金融机构的资产负债表，该怎么理解…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-07T00:08:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-07T00:17:40.658Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-07T00:17:40.658Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-07T00:17:40.658Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "6523dbc8d6b3",
+          "title": "China marks major tunnel milestone for Central Asia railway bypassing Russia",
+          "titleZh": "China marks major tunnel milestone for Central Asia railway bypassing Russia",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366555/china-marks-major-tunnel-milestone-central-asia-railway-bypassing-russia?utm_source=rss_feed",
+          "summary": "Fresh off Chinese President Xi Jinping’s visit to Kyrgyzstan, project officials have announced the successful drilling of a key tunnel along the long-stalled China-Kyrgyzstan-Uzbek…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-07T00:00:21.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a1ae78641edc",
+          "title": "Heading to America to bridge the gap in US-China relations",
+          "titleZh": "Heading to America to bridge the gap in US-China relations",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3366098/heading-america-bridge-gap-us-china-relations?utm_source=rss_feed",
+          "summary": "Before boarding my flight to Boston late last month, I spent the better part of three days doing something I never imagined I would do in more than 30 years of covering China: scru…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-06T21:30:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 27,
+    "itemsPublished": 24,
+    "itemsFiltered": 3,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 50,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
