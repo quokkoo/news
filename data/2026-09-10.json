@@ -1,0 +1,1205 @@
+{
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-10T00:31:53.512Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度等 10 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "7b6eabe74be0",
+          "title": "Christine Lagarde: The choice facing Europeans",
+          "titleZh": "Christine Lagarde: The choice facing Europeans",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+          "summary": "Speech by Christine Lagarde, President of the ECB, at the official dinner of the Deutsche Bundesbank in Berlin, Germany Berlin, 9 September 2026 It is a pleasure to be here at the …",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-09T17:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc4ef0406dcd",
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "titleZh": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "summary": "美国财政部部长贝森特本周连续出手：先是高调警告市场不要做空日元，日元随即走强；紧接着大幅扩大美债回购规模，试图压住长端收益率。结果，日元涨了，但美债跌了。 两件事单独看，各有逻辑。合在一起，却构成了对美股近四年牛市的双重威胁——日元走强冲击套息交易，美债收益率走高压制估值。 9月9日周三，美股连续第三日下跌。道指跌逾400点，跌幅0.8%；标普500跌0.5…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T00:17:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b2456af2e7d",
+          "title": "海力士美股大涨创新高，存储全线走强！高盛高呼：最差的日子已经过去",
+          "titleZh": "海力士美股大涨创新高，存储全线走强！高盛高呼：最差的日子已经过去",
+          "url": "https://wallstreetcn.com/articles/3781453",
+          "summary": "高盛对存储芯片板块转为积极，触发周三存储股全线上涨，SK海力士美股领涨，逆势跑赢大盘。 SK海力士美股早盘大涨约4%至193.53美元，盘中创历史新高，收盘涨幅扩大至7%，领跑整个存储板块。美光科技收涨约2%至1027.77美元，闪迪收涨约1.51%至1764.17美元，延续近一个月来的强势走势。 与此同时，追踪存储板块的Roundhill Memory E…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T00:10:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "90902905196d",
+          "title": "OpenAI\"失控\"智能体活动范围远超此前披露，公司任命安全研究员入驻董事会",
+          "titleZh": "OpenAI\"失控\"智能体活动范围远超此前披露，公司任命安全研究员入驻董事会",
+          "url": "https://wallstreetcn.com/articles/3781443",
+          "summary": "独立研究人员发现，OpenAI\"失控\"智能体活动范围远超此前披露。与此同时，OpenAI宣布将一名知名AI安全研究员纳入非营利董事会，此举被外界视为对日益高涨的安全质疑的回应。 9月9日，据路透社报道，六组独立调查人员及其审阅的数据显示，OpenAI智能体在今年5月至7月间曾借助至少18个此前未披露的网站相互传递信息。 加利福尼亚州非营利机构CivAI研究员…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T00:06:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e1e7601b41e8",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月10日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月10日",
+          "url": "https://wallstreetcn.com/articles/3781450",
+          "summary": "华见早安之声 要闻精选 特朗普：美国中选后伊朗战事会“立即”结束、油价会跌，普京“想达成协议”。伊朗宣布设立新的海上\"制裁区域\"并袭击美军基地，美军打击伊朗油轮，中东局势升级推动布伦特原油一个多月来首次站上100美元、收报101.21美元。 中国商务部：美方AI蒸馏指控是推行科技霸权、搞算力垄断，中方坚决反对。 国家统计局数据显示，中国8月CPI同比涨幅扩大…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-09T23:08:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d282d2dabfad",
+          "title": "“贝森特带着豌豆射手打坦克战”，美债回购碰壁，10年期美债收益率三年新高",
+          "titleZh": "“贝森特带着豌豆射手打坦克战”，美债回购碰壁，10年期美债收益率三年新高",
+          "url": "https://wallstreetcn.com/articles/3781446",
+          "summary": "美国财政部长贝森特大幅扩大国债回购规模的举措，在市场面前碰壁。 周三，财政部宣布将单次长期国债回购上限提升至60亿美元，较上月原定规模翻三倍，但这一力度仍未能遏制债市抛售势头。10年期美债收益率盘中触及三年新高，当日国债回购声明公布后跌势反而延续。 贝森特此前明确将压低长端收益率列为施政目标，但当前局面与之背道而驰——高油价加剧通胀担忧、市场对美联储加息预期…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-09T22:51:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "247598db64b2",
+          "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "titleZh": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
+          "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
+          "summary": "High-performance zero-shot forecasting with commercial-friendly open licensing Time-series foundation models are changing the way forecasting systems are built. Instead of training…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-09T15:36:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "824861a062eb",
+          "title": "The quick guide to fall vaccines and when you should get them",
+          "titleZh": "The quick guide to fall vaccines and when you should get them",
+          "url": "https://arstechnica.com/health/2026/09/what-to-know-about-covid-and-flu-shots-as-rfk-jr-s-chaos-drags-on/",
+          "summary": "Labor Day is in the rearview mirror, kids are back to school, and a squall of pumpkin spice is upon us. It's that time again to prepare for the equally inevitable respiratory virus…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T18:39:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e83eaf6f4cc",
+          "title": "When will average people feel AI’s impact?",
+          "titleZh": "When will average people feel AI’s impact?",
+          "url": "https://www.interconnects.ai/p/when-will-average-people-feel-ais",
+          "summary": "Housekeeping: Paid subscribers to Interconnects now get a permanent 40% discount on my book when purchasing at Manning.com. Access the code at the Interconnects perks page . Many A…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-09-09T11:01:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f272c1ae91a3",
+          "title": "4 groups caught using the same Chrome and Windows exploit kit",
+          "titleZh": "4 groups caught using the same Chrome and Windows exploit kit",
+          "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit/",
+          "summary": "A nearly identical exploit kit that targets critical vulnerabilities in both Chromium-based browsers and older versions of Windows is being actively used by at least four hacking g…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T20:55:02.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4aeeed48e75e",
+          "title": "When it comes to Beatles references, scientists can't let it be",
+          "titleZh": "When it comes to Beatles references, scientists can't let it be",
+          "url": "https://arstechnica.com/science/2026/09/scientists-really-love-to-reference-the-beatles-in-their-work/",
+          "summary": "Scientists have an indisputable playful side, evidenced by frequent allusions to popular culture in their research publications. That includes popular song lyrics. And the most pop…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T19:31:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ac58fde4a67a",
+          "title": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+          "titleZh": "Lawsuit: Amazon refused to give pregnant workers bathroom breaks and chairs",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+          "summary": "Amazon discriminated against pregnant warehouse employees by denying accommodations like bathroom breaks and the option to sit while working, according to a lawsuit filed yesterday…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T19:09:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ceb78540dada",
+          "title": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+          "titleZh": "Anthropic researcher quits with a warning: Self-improving AI could \"kill us all\"",
+          "url": "https://arstechnica.com/ai/2026/09/anthropic-researcher-quits-with-a-warning-self-improving-ai-could-kill-us-all/",
+          "summary": "When a prominent researcher quits a job at a frontier AI lab these days, it's often to pursue a new startup or protest a new business model . But AI researcher Jacob Coxon is using…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T16:59:40.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4cc299373f33",
+          "title": "Google's AI genome system evaluates every possible one-base change",
+          "titleZh": "Google's AI genome system evaluates every possible one-base change",
+          "url": "https://arstechnica.com/science/2026/09/googles-ai-genome-system-evaluates-every-possible-one-base-change/",
+          "summary": "On Tuesday, Google announced AlphaGenome Atlas , a resource that attempts to predict the consequences of every possible single-base variant in the human genome. The human genome is…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-09T16:34:18.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "a1730e7f06cb",
+          "title": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
+          "titleZh": "Exclusive: Trump plans to send $500 Obamacare rebates before election",
+          "url": "https://www.axios.com/2026/09/09/trump-obamacare-rebates-election",
+          "summary": "The Trump administration plans to send $500 rebate checks to as many as 1 million people who it says were overcharged for their coverage under Obamacare, Axios has learned. Why it …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-09T23:30:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "299500ce6705",
+          "title": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+          "titleZh": "Scoop: Anthropic whistleblower gave up his equity to leave the company",
+          "url": "https://www.axios.com/2026/09/09/anthropic-researcher-ai-warning-interview",
+          "summary": "Anthropic researcher Jacob Coxon quit his job due to concerns about the safety of AI two months before his equity would have vested, he told Axios. Why it matters: The disclosure r…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-09T23:14:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "38c75f24e4ca",
+          "title": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+          "titleZh": "Exclusive: Fetterman to praise Trump in bombshell GOP convention video",
+          "url": "https://www.axios.com/2026/09/09/fetterman-video-gop-convention-trump",
+          "summary": "DALLAS — Pennsylvania Sen. John Fetterman (D) is preparing to make a bombshell appearance Wednesday night at the GOP convention, in a video praising President Trump and Republican …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-09T22:17:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14e1f5ce84ab",
+          "title": "AI's extinction debate breaks containment",
+          "titleZh": "AI's extinction debate breaks containment",
+          "url": "https://www.axios.com/2026/09/09/anthropic-ai-human-extinction-pdoom-safety-risks",
+          "summary": "An online panic erupted this week after millions discovered that leading AI researchers routinely debate and calculate the risk of human extinction. Taken at face value, the odds a…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-09T22:10:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dd22c630ae4d",
+          "title": "MiniMax靠什么实现AGI？",
+          "titleZh": "MiniMax靠什么实现AGI？",
+          "url": "https://www.huxiu.com/article/4889977.html?f=rss",
+          "summary": "本文来自微信公众号： 海克财经 ，作者：范东成 技术水准才是硬通货。 AI大模型领域热度被不断推高。 近来海外玩家更新AI大模型的速度尤为惊人。9月1日，Anthropic发布Claude Fable 5.1，该模型号称“全球最先进的编程和知识工作模型”；9月2日，Meta发布Muse Spark 1.3，称之为“模型史上最大性能跳跃之一”，谷歌则发布了Ge…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-10T00:26:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-10T00:31:44.708Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-10T00:31:44.708Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-10T00:31:44.708Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "167b8daa9c83",
+          "title": "LEDs Push Wireless Power Further",
+          "titleZh": "LEDs Push Wireless Power Further",
+          "url": "https://www.eetimes.com/leds-push-wireless-power-further/",
+          "summary": "Professor Tomoyuki Miyamoto leads the Laboratory for Future Interdisciplinary Research of Science and Technology at the Institute of Science Tokyo. (Source: Institute of Science To…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-09T20:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "52e1e255cfbc",
+          "title": "Quantinuum Finalizes $100 Million CHIPS R&D Award with U.S. Department of Commerce",
+          "titleZh": "Quantinuum Finalizes $100 Million CHIPS R&D Award with U.S. Department of Commerce",
+          "url": "https://www.semiconductor-digest.com/quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce/?utm_source=rss&utm_medium=rss&utm_campaign=quantinuum-finalizes-100-million-chips-rd-award-with-u-s-department-of-commerce",
+          "summary": "Quantinuum (Nasdaq: QNT ), a quantum computing company, today announced it has finalized an agreement with the U.S. Department of Commerce’s CHIPS Research and Development Office f…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-09T20:46:31.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9fda126a530f",
+          "title": "SEMI Calls on the Chips Act 2.0 to Strengthen Semiconductor Competitiveness and Resilience",
+          "titleZh": "SEMI Calls on the Chips Act 2.0 to Strengthen Semiconductor Competitiveness and Resilience",
+          "url": "https://www.semiconductor-digest.com/semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience/?utm_source=rss&utm_medium=rss&utm_campaign=semi-calls-on-the-chips-act-2-0-to-strengthen-semiconductor-competitiveness-and-resilience",
+          "summary": "SEMI renewed its call on European policymakers to use the proposed Chips Act 2.0 to strengthen Europe’s semiconductor competitiveness, reinforce supply chain resilience, and create…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-09T20:44:11.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0562d4d404dd",
+          "title": "ASML Begins Construction of New Eindhoven Campus",
+          "titleZh": "ASML Begins Construction of New Eindhoven Campus",
+          "url": "https://www.semiconductor-digest.com/asml-begins-construction-of-new-eindhoven-campus/?utm_source=rss&utm_medium=rss&utm_campaign=asml-begins-construction-of-new-eindhoven-campus",
+          "summary": "ASML Holding N.V. (ASML) today marked the start of construction of its second major industrial campus in the Brainport region, the Netherlands. Together with partners, the company …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-09T20:42:16.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "3aae0d0091d5",
+          "title": "US says China ‘on track’ to fulfil farm purchases ahead of Xi’s Washington visit",
+          "titleZh": "US says China ‘on track’ to fulfil farm purchases ahead of Xi’s Washington visit",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3366979/us-says-china-track-fulfil-farm-purchases-ahead-xis-washington-visit?utm_source=rss_feed",
+          "summary": "The Trump administration on Wednesday said that China is on track to meet its agricultural purchase commitments, with the sector expected to feature prominently in the deliverables…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-09T23:09:49.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0c245d1b7d2e",
+          "title": "Once sidelined, China stands ready to broker 4th Trump-Kim handshake",
+          "titleZh": "Once sidelined, China stands ready to broker 4th Trump-Kim handshake",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3366918/once-sidelined-china-stands-ready-broker-fourth-trump-kim-handshake?utm_source=rss_feed",
+          "summary": "China is willing to help broker a possible meeting between US President Donald Trump and North Korean leader Kim Jong-un, sources have said just weeks before Chinese President Xi J…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-09T22:00:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "56d72a3d6ecb",
+          "title": "US sanctions Chinese-language Xinbi Guarantee marketplace over cyber scams",
+          "titleZh": "US sanctions Chinese-language Xinbi Guarantee marketplace over cyber scams",
+          "url": "https://www.scmp.com/news/us/article/3366977/us-sanctions-chinese-language-xinbi-guarantee-marketplace-over-cyber-scams?utm_source=rss_feed",
+          "summary": "The Trump administration sanctioned Chinese-language marketplace Xinbi Guarantee on Wednesday, along with two affiliated organisations, as part of a wider crackdown on transnationa…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-09T21:48:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae323d9a41a5",
+          "title": "US drone ban proposal to combat China’s dominance concerns American police, farmers",
+          "titleZh": "US drone ban proposal to combat China’s dominance concerns American police, farmers",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3366976/us-drone-ban-proposal-combat-chinas-dominance-concerns-american-police-farmers?utm_source=rss_feed",
+          "summary": "Greg Reverdiau, an Arizona-based drone trainer, said he saw something highly unusual for politically polarised America when he waded through public comments on a US government prop…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-09T21:48:20.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "f0a46bbf13d9",
+          "title": "Denisovans were strong and agile hunters, fossil elbow and primitive tools suggest",
+          "titleZh": "Denisovans were strong and agile hunters, fossil elbow and primitive tools suggest",
+          "url": "https://www.science.org/content/article/mysterious-human-relatives-were-strong-and-agile-fossil-elbow-and-primitive-tools",
+          "summary": "The first arm bone fragment from these mysterious human relatives was found near cutting instruments and animal remains in southwestern China",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-09T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f15a0535afd3",
+          "title": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+          "titleZh": "STAT+: U.K. unveils recommendations for regulating AI in medicine",
+          "url": "https://www.statnews.com/2026/09/09/uk-unveils-recommendations-ai-regulation-medicine/?utm_campaign=rss",
+          "summary": "LONDON &#x2014; A U.K. commission on Thursday unveiled its recommendations for how the country should regulate artificial intelligence in medicine, as health authorities globally t…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-09-09T23:01:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "7152c1c2c5e0",
+          "title": "Claude did best on a new benchmark for ‘agents that build agents’. It still passed fewer than a quarter of the tests.",
+          "titleZh": "Claude did best on a new benchmark for ‘agents that build agents’. It still passed fewer than a quarter of the tests.",
+          "url": "https://thenewstack.io/claude-build-agents-benchmark/",
+          "summary": "AI models now power all manner of agents , from coding assistants that write and debug software to customer service systems that answer questions, process refunds, change bookings,…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-09T20:14:09.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9d9cead406c8",
+          "title": "OpenAI gave an AI the power to block its own engineers’ code",
+          "titleZh": "OpenAI gave an AI the power to block its own engineers’ code",
+          "url": "https://thenewstack.io/openai-ai-code-review/",
+          "summary": "Every pull request submitted by an OpenAI engineer now goes through an automated security review, and the AI model can stop code from being merged if it finds a vulnerability. Thib…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-09T19:53:08.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c4fd1a153923",
+          "title": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
+          "titleZh": "“It could kill us all”: what Anthropic’s own researchers really think about superintelligence",
+          "url": "https://thenewstack.io/anthropic-alignment-superintelligence-warnings/",
+          "summary": "On Tuesday evening, Anthropic pretraining researcher Jacob Coxon announced on X that he’d resigned. Within hours, two of his colleagues &mdash; still employed at the company &mdash…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-09T19:51:46.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f70fbd7d58af",
+          "title": "How much control should AI get? A CISO roundtable takes on SOC autonomy",
+          "titleZh": "How much control should AI get? A CISO roundtable takes on SOC autonomy",
+          "url": "https://thenewstack.io/ai-agents-soc-autonomy/",
+          "summary": "Security operations centers have struggled with alerts for years , and AI agents offer a new way to tackle it: Enable machines investigate some of those alerts themselves. That’s a…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-09T15:38:58.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "2da770023bed",
+          "title": "Aerie soars in back-to-school sales, while American Eagle works to ‘balance’ denim",
+          "titleZh": "Aerie soars in back-to-school sales, while American Eagle works to ‘balance’ denim",
+          "url": "https://www.modernretail.co/operations/aerie-soars-in-back-to-school-sales-while-american-eagle-works-to-balance-denim/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "As the back-to-school season dies down, Aerie is continuing its hot streak. Meanwhile, American Eagle is still dealing with sales slumps as it works to reposition its denim busines…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-09T21:38:01.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "326a34869165",
+          "title": "Now it’s China’s experts who are gig workers training AI",
+          "titleZh": "Now it’s China’s experts who are gig workers training AI",
+          "url": "https://restofworld.org/2026/china-expert-ai-trainers/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "As a Shenzhen-based architect in her 40s, Cuicui has vast experience designing public stadiums, schools, and hospitals at an architecture firm. But over the past five years, declin…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-09-09T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "723fe95dd715",
+          "title": "As online eyewear matures, GlassesUSA’s parent company doubles down on vertical integration",
+          "titleZh": "As online eyewear matures, GlassesUSA’s parent company doubles down on vertical integration",
+          "url": "https://www.modernretail.co/sponsored/glassesusa-online-eyewear-market-matures/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Online eyewear has reached a new phase of maturity, as consumers grow more confident purchasing prescription products digitally and as retailers invest in faster fulfillment, impro…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-09T18:02:16.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 39,
+    "itemsFiltered": 1,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 62,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
