@@ -1,0 +1,1205 @@
+{
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-11T00:29:30.468Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 74 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "3613cd6e1d11",
+        "reason": "Google Research，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "adebbbdd924e",
+          "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+          "titleZh": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+          "summary": "September 10, 2026 Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle Board of Governors of the Federal Reserve System Federal Depo…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-09-10T20:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2bb73efc65d2",
+          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
+          "titleZh": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
+          "url": "https://wallstreetcn.com/articles/3781540",
+          "summary": "多重利空同步引爆，美国金融市场遭遇罕见冲击。油价飙升至四个月高位、财政部债券回购操作令市场大失所望、特朗普豪掷逾万亿美元\"派钱\"承诺——三重压力叠加，美债收益率全线急升，30年期美债收益率触及19年新高，10年期收益率逼近5%关键心理关口，股市同步下挫，上演\"股债双杀\"。 周四，美债市场遭遇多重打击。布伦特原油结算价单日暴涨6.3%至每桶107.63美元，盘…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T00:10:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6cbf05118e08",
+          "title": "被OpenAI的AI攻破之后，Hugging Face创始人刊文：闭源工具失守，安全解法在开源模型",
+          "titleZh": "被OpenAI的AI攻破之后，Hugging Face创始人刊文：闭源工具失守，安全解法在开源模型",
+          "url": "https://wallstreetcn.com/articles/3781537",
+          "summary": "Hugging Face联合创始人称既然商业闭源AI工具在关键时刻失效，解决问题的路径就不应回到更封闭的体系，而应转向可被外部审查的开源权重模型。 9月10日，Hugging Face联合创始人Thomas Wolf在英国《金融时报》发表评论文章《我们从OpenAI攻击Hugging Face事件中学到了什么》。 文章披露今年7月，约700个AI智能体对AI…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T00:05:26.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a86887bcfeab",
+          "title": "五角大楼高官驳斥Anthropic研究员“AI消灭人类”：不过是对变革的恐惧，别陷入末日论",
+          "titleZh": "五角大楼高官驳斥Anthropic研究员“AI消灭人类”：不过是对变革的恐惧，别陷入末日论",
+          "url": "https://wallstreetcn.com/articles/3781527",
+          "summary": "五角大楼与Anthropic之间的裂痕持续扩大。美国国防部首席技术官公开批驳近期引发广泛关注的AI风险警告，同时披露国防部正加速将AI工作负载从Anthropic迁移，并将双方法律纠纷定性为涉及国家安全的核心争议。 美国国防部首席技术官Emil Michael周四在华盛顿一场国防工业会议上，直接回应前Anthropic工程师Jacob Coxon发出的AI警…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T23:06:18.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9492c82fe640",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月11日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月11日",
+          "url": "https://wallstreetcn.com/articles/3781533",
+          "summary": "华见早安之声 要闻精选 国家主席习近平将于9月12日至13日赴印度新德里出席金砖国家领导人第十八次会晤，金砖国家财长和央行行长会议已在孟买先期举行。 《金融强国建设\"十五五\"规划》正式出台，证监会表示将进一步拓宽中长期资金来源、渠道和入市方式，全力维护资本市场平稳运行。 中国人民银行宣布将于9月14日至17日开展隔夜逆回购操作，采用固定利率、数量招标，每日操…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T23:02:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "016fa684ddad",
+          "title": "Adobe三季度营收、利润双双超预期，AI驱动月活用户突破10亿，Q4指引不够“惊喜”｜财报见闻",
+          "titleZh": "Adobe三季度营收、利润双双超预期，AI驱动月活用户突破10亿，Q4指引不够“惊喜”｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3781528",
+          "summary": "Adobe公布创纪录的第三财季业绩，营收和盈利双双超越华尔街预期，AI优先战略持续兑现，月活跃用户首次突破10亿大关。公司随即上调全年业绩指引，但第四财季营收指引略低于分析师预期，盘后股价下跌2%。 9月10日美股盘后，Adobe公布2026财年第三财季业绩，营收达到67.6亿美元，同比增长13%，高于市场预期的67亿美元，并创下公司第三财季纪录。 利润端同…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-10T22:26:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "3613cd6e1d11",
+          "title": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+          "titleZh": "ToolGrad: Efficient tool-use dataset generation with textual \"gradients\"",
+          "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients/",
+          "summary": "AI agents have shown great potential in automating real-world tasks, such as conducting a Google Search, reading local computer files, or executing generated Python scripts. To ach…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-10T22:50:22.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "416005f7f8be",
+          "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
+          "titleZh": "Boy developed \"toasted skin\" condition from using a laptop every day",
+          "url": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
+          "summary": "Fears that modern electronic devices may harm children are nothing new. Gadgets with screens of any size have long been allegedly melting, rotting, and/or corrupting the brains of …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-10T22:16:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "268820e82dfd",
+          "title": "Any Nix package, live in your browser",
+          "titleZh": "Any Nix package, live in your browser",
+          "url": "https://simonwillison.net/2026/Sep/10/trynix/",
+          "summary": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machi…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-10T23:44:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0a0e8f027f1d",
+          "title": "One resignation turned the embers of AI fear into a wildfire",
+          "titleZh": "One resignation turned the embers of AI fear into a wildfire",
+          "url": "https://www.interconnects.ai/p/one-resignation-turned-the-embers",
+          "summary": "As AI became more powerful, it was inevitable that a different, growing group would start to take AI safety more seriously – what we did not know ahead of time, is which set of vie…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-09-10T15:28:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fa631099dee7",
+          "title": "Native is now the future of mobile at Shopify",
+          "titleZh": "Native is now the future of mobile at Shopify",
+          "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native/",
+          "summary": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-10T21:11:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "defb959c9280",
+          "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+          "titleZh": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
+          "url": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
+          "summary": "LinkedIn beat two lawsuits over its practice of scanning users’ browser extensions, with a judge granting the Microsoft subsidiary's motion to dismiss the cases. The users who sued…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-10T20:55:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cab7e520ca1f",
+          "title": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+          "titleZh": "Europe will go it alone on Venus mission after NASA yanks radar instrument",
+          "url": "https://arstechnica.com/space/2026/09/europe-will-go-it-alone-on-venus-mission-after-nasa-yanks-radar-instrument/",
+          "summary": "The European Space Agency is moving \"full steam ahead\" with development of a robotic mission to Venus after NASA officials determined they were unlikely to fulfill a commitment to …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-10T19:09:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d87c80b54004",
+          "title": "Android can now securely migrate your logins between password managers",
+          "titleZh": "Android can now securely migrate your logins between password managers",
+          "url": "https://arstechnica.com/gadgets/2026/09/android-can-now-securely-migrate-your-logins-between-password-managers/",
+          "summary": "As longer, more complex passwords have become a necessity, remembering all those strings of numbers, letters, and special characters has become nearly impossible. Password managers…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-10T18:41:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "a5ba6f396534",
+          "title": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+          "titleZh": "Trump's plan if Democrats win Congress: \"I'll be a blocker\"",
+          "url": "https://www.axios.com/2026/09/10/trump-congress-republicans-rnc-convention-democrats",
+          "summary": "President Trump acknowledged on Fox News Channel's \" The Ingraham Angle \" Thursday night that he plans to block Democrats' legislation if they retake the House and Senate after the…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-10T23:31:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "12e832dd08fa",
+          "title": "AI接连刷新素数间隔纪录，为何最后的2仍遥不可及？",
+          "titleZh": "AI接连刷新素数间隔纪录，为何最后的2仍遥不可及？",
+          "url": "https://www.huxiu.com/article/4890264.html?f=rss",
+          "summary": "本文来自微信公众号： 返朴 ，作者：嘉伟 3和5，5和7，11和13……这些相差2的素数对被称为“孪生素数”。一个看似简单的问题困扰了数学界上百年：孪生素数是否有无穷多对？这就是著名的孪生素数猜想。我们至今还无法给出确切答案，但已经能够证明：存在无穷多对素数，它们之间的间隔不会超过某个固定常数。这个常数能压到多低，也就成了逼近孪生素数猜想的一项重要尺度。 十…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T00:22:42.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "57e54b06f0da",
+          "title": "最高罚10万，收费带人闯禁区，“黑领队”“黑导游”遭重罚",
+          "titleZh": "最高罚10万，收费带人闯禁区，“黑领队”“黑导游”遭重罚",
+          "url": "https://www.huxiu.com/article/4890263.html?f=rss",
+          "summary": "本文来自微信公众号： 徒步中国 ，作者：小海，原文标题：《最高罚10万！收费带人闯禁区，“黑领队”“黑导游”遭重罚！》 9月3日，陕西太白县公布了一张关于鳌太线的罚单。 5个人违规进入自然保护区核心区，组织者汤某被罚2.5万元，另外4人分别被罚2万元和1万元。同一支队伍，同一条线路，处罚却不相同。 差别在于，汤某不只是跟着进山的人。违规穿越的念头由他发起，人…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T00:19:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "340b0c58a2ae",
+          "title": "麦肯锡79页报告的另一面：美国最强的指标，可能正是最危险的信号？",
+          "titleZh": "麦肯锡79页报告的另一面：美国最强的指标，可能正是最危险的信号？",
+          "url": "https://www.huxiu.com/article/4890262.html?f=rss",
+          "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 2026年3月，麦肯锡全球研究院（MGI）发布了一份长达79页的报告，把250年底美国的历史画成了四个很漂亮的“篇章”： 第一章是农业时代（1776年建国）； 第二章是工业时代（1865年南北战争结束）； 第三章是科学时代（1941年二战爆发）； 第四章是数字时代（1991年冷战结束）。 麦肯锡的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T00:18:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e3e566ef3c00",
+          "title": "不婚不恋的日本年轻人，把钱花给了中国App",
+          "titleZh": "不婚不恋的日本年轻人，把钱花给了中国App",
+          "url": "https://www.huxiu.com/article/4890235.html?f=rss",
+          "summary": "本文来自微信公众号：表外表里，作者：吴雨，编辑：曹宾玲，题图来自：视觉中国 不想谈恋爱和结婚，在中国叫“单身贵族”，韩国叫“一人居”，东南亚则用Bo-chup（莫睬）来描述对婚恋“顺其自然”乃至“摆烂”的佛系心态。 这些词的态度足够鲜明，但比起眼看要“失去40年”的日本，还是温和了些。继“草食系男子”之后，日本社交网络上又出现了“绝食系男子”，这类人不是对恋…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T00:12:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-11T00:29:14.341Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-11T00:29:14.341Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-11T00:29:14.341Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "34e3048f1038",
+          "title": "From AI-Assisted EDA to AI-Mediated Engineering",
+          "titleZh": "From AI-Assisted EDA to AI-Mediated Engineering",
+          "url": "https://www.eetimes.com/from-ai-assisted-eda-to-ai-mediated-engineering/",
+          "summary": "Eighteen months ago, AI in EDA was still largely an EDA story: established tool teams and design groups dabbling with copilots, scripts, and point optimizers bolted onto 40-year-ol…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-10T20:23:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ad1560fa0d2d",
+          "title": "eBeam Initiative Survey of Semiconductor Luminaries Predicts a Bright Outlook for the Photomask Industry",
+          "titleZh": "eBeam Initiative Survey of Semiconductor Luminaries Predicts a Bright Outlook for the Photomask Industry",
+          "url": "https://www.semiconductor-digest.com/ebeam-initiative-survey-of-semiconductor-luminaries-predicts-a-bright-outlook-for-the-photomask-industry/?utm_source=rss&utm_medium=rss&utm_campaign=ebeam-initiative-survey-of-semiconductor-luminaries-predicts-a-bright-outlook-for-the-photomask-industry",
+          "summary": "The eBeam Initiative, a forum dedicated to the education and promotion of new semiconductor manufacturing approaches based on electron beam (eBeam) technologies, today announced th…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-10T21:51:14.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9a1a6cf90a1a",
+          "title": "NY Creates Announces Participation in 12-Inch Mask Industry Initiative to Advance High NA EUV Lithography Ecosystem",
+          "titleZh": "NY Creates Announces Participation in 12-Inch Mask Industry Initiative to Advance High NA EUV Lithography Ecosystem",
+          "url": "https://www.semiconductor-digest.com/ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=ny-creates-announces-participation-in-12-inch-mask-industry-initiative-to-advance-high-na-euv-lithography-ecosystem",
+          "summary": "NY Creates today announced its inclusion in the 12-inch mask industry initiative, a newly formed collaboration designed to strengthen the high numerical aperture extreme ultraviole…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-10T21:39:46.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59f0510b97af",
+          "title": "Samsung Electro-Mechanics Showcases Next-Generation Semiconductor Package Substrate Technologies for AI and Servers at ‘KPCA Show 2026’",
+          "titleZh": "Samsung Electro-Mechanics Showcases Next-Generation Semiconductor Package Substrate Technologies for AI and Servers at ‘KPCA Show 2026’",
+          "url": "https://www.semiconductor-digest.com/samsung-electro-mechanics-showcases-next-generation-semiconductor-package-substrate-technologies-for-ai-and-servers-at-kpca-show-2026/?utm_source=rss&utm_medium=rss&utm_campaign=samsung-electro-mechanics-showcases-next-generation-semiconductor-package-substrate-technologies-for-ai-and-servers-at-kpca-show-2026",
+          "summary": "Samsung Electro-Mechanics will participate in the ‘KPCA Show 2026’ (International Semiconductor Substrate & Advanced Packaging Industry Exhibition) held at Songdo Convensia in Inch…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-10T21:37:57.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "64e7d08244e5",
+          "title": "Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims",
+          "titleZh": "Moonshot, DeepSeek secretly routed user requests to Claude, Anthropic claims",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3367112/moonshot-deepseek-secretly-routed-user-requests-claude-anthropic-claims?utm_source=rss_feed",
+          "summary": "American artificial intelligence (AI) giant Anthropic has accused its Chinese AI rivals DeepSeek and Moonshot on Thursday of covertly routing customer requests to its Claude models…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-10T23:23:18.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1d1c23270f46",
+          "title": "Tech, EV and aerospace executives likely to join Xi’s US trip to mirror Trump team",
+          "titleZh": "Tech, EV and aerospace executives likely to join Xi’s US trip to mirror Trump team",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367094/tech-ev-and-aerospace-executives-likely-join-xis-us-trip-mirror-trump-team?utm_source=rss_feed",
+          "summary": "Beijing is weighing plans to send a group of top tech, electric vehicle and aerospace executives to accompany Chinese President Xi Jinping to Washington later this month, as the tw…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-10T22:00:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "865275fe9304",
+          "title": "China rebuts top US diplomat Marco Rubio over ‘Communist Party-backed projects’ in Peru",
+          "titleZh": "China rebuts top US diplomat Marco Rubio over ‘Communist Party-backed projects’ in Peru",
+          "url": "https://www.scmp.com/news/us/article/3367108/china-rebuts-top-us-diplomat-marco-rubio-over-communist-party-backed-projects-peru?utm_source=rss_feed",
+          "summary": "US Secretary of State Marco Rubio held talks in Peru on Thursday on countering Beijing’s growing footprint around the strategic Chancay megaport, drawing a sharp response from Chin…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-10T21:40:04.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a90196a22c8c",
+          "title": "Top Republicans didn’t expect Trump’s dividends. Now they’re scrambling.",
+          "titleZh": "Top Republicans didn’t expect Trump’s dividends. Now they’re scrambling.",
+          "url": "https://www.politico.com/news/2026/09/10/republicans-split-trump-payouts-midterms-01071816",
+          "summary": "DALLAS — Top Republican lawmakers had no idea President Donald Trump was going to promise $5,000 checks to every adult American so long as his party keeps control of Congress. Now,…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-10T22:33:38.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "21d4ee46ada7",
+          "title": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+          "titleZh": "Guest post: How extreme heat is ‘creeping’ from summer into autumn and spring",
+          "url": "https://www.carbonbrief.org/guest-post-how-extreme-heat-is-creeping-from-summer-into-autumn-and-spring",
+          "summary": "Extreme heat is one of the deadliest climate hazards , but no two heatwaves are the same. Heat extremes that happen outside of the peak summer months are often more dangerous becau…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-10T13:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eaba8cb25fc6",
+          "title": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
+          "titleZh": "Mass. utilities and Hydro-Quebec sue each other over missing hydropower",
+          "url": "https://www.canarymedia.com/articles/hydropower/massachusetts-utilities-hydro-quebec-sue-each-other",
+          "summary": "Three Massachusetts utilities are suing Canadian energy giant Hydro-Québec after it failed to deliver promised hydropower for several days during a cold snap this winter. Hydro-Qué…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-10T21:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9c1bd7075272",
+          "title": "Google bankrolls PG&E virtual power plant",
+          "titleZh": "Google bankrolls PG&E virtual power plant",
+          "url": "https://www.utilitydive.com/news/google-virtual-power-plant-vpp-pge/830036/",
+          "summary": "The SHARE program is a proof-of-concept for privately-funded distributed energy capacity and could eventually expand to include commercial, industrial and utility-scale resources, …",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-10T16:43:17.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "fbb5c0cbdccb",
+          "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "titleZh": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+          "summary": "When an agent makes a change to your code, you want to review it, run it, and see what changed. Great news: now you can do all three without having to leave the GitHub Copilot app …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-10T21:31:19.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "255cf65b6ef7",
+          "title": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
+          "titleZh": "AWS open-sources Pizza Bot: email-style inbox for background AI agents",
+          "url": "https://thenewstack.io/aws-pizza-bot-agent-inbox/",
+          "summary": "Amazon Web Services (AWS) has released a new open-source application dubbed Pizza Bot , which gives developers an email-style inbox for managing AI agents that run in the backgroun…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-10T22:54:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "49734d9e4f78",
+          "title": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
+          "titleZh": "OpenAI split a voice model’s brain. Then one team deleted 23,000 lines of code.",
+          "url": "https://thenewstack.io/gpt-live-1-voice-api/",
+          "summary": "Building an AI voice agent has always been clunkier than it seems. Most voice agents are really a chain of systems passing a conversation back and forth. What you say gets turned i…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-10T20:08:18.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91e23517a7c6",
+          "title": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
+          "titleZh": "“Six tools, one harness”: Salesforce loops together a six-pack of favorites",
+          "url": "https://thenewstack.io/salesforce-enterprise-ai-harness/",
+          "summary": "Salesforce introduced its Salesforce Enterprise AI Harness on Thursday as a formalized amalgamation of the AI harness concepts and infrastructure the company has been working to al…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-10T20:03:25.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "ab2086484c38",
+          "title": "Why seasonal success depends on early media allocation",
+          "titleZh": "Why seasonal success depends on early media allocation",
+          "url": "https://www.modernretail.co/sponsored/seasonal-marketing-early-media-allocation/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Justin Jefferson, vp of strategy and insights, Keen Decision Systems Every year, marketers know when to expect the same tentpole events. Back-to-school buying occurs around August …",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-10T20:18:58.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2cb50b2b7c05",
+          "title": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+          "titleZh": "Google Earth’s AI experiment lasted 24 hours. The damage to trust will linger",
+          "url": "https://restofworld.org/2026/google-earth-ai-deepfake-iran-war/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "Since Israel and the U.S. launched strikes against Iran in February, plunging the Gulf region into conflict, the countries have also been waging an information war using tools powe…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-09-10T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "3613cd6e1d11",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 39,
+    "itemsFiltered": 0,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 74,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
