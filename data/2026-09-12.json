@@ -1,0 +1,1273 @@
+{
+  "date": "2026-09-12",
+  "generatedAt": "2026-09-12T00:34:21.971Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、开源与开发者生态等 11 个领域，全部读完约需 71 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "cd185fd4f57e",
+          "title": "伦巴德：GPIF超配日债或引发全球套息平仓，西班牙国际银行：GPIF或抛售620亿美元美债！",
+          "titleZh": "伦巴德：GPIF超配日债或引发全球套息平仓，西班牙国际银行：GPIF或抛售620亿美元美债！",
+          "url": "https://wallstreetcn.com/articles/3781612",
+          "summary": "日本全球最大养老基金GPIF的资产配置动向，正成为全球债券与外汇市场新的系统性风险来源。 伦巴德全球宏观研究公司（TS Lombard）与西班牙国际银行（Banco Santander）近期相继发布报告指出：GPIF正在或即将加速回流日本国内债券，其规模或将对美欧国债收益率产生实质冲击。 据西班牙国际银行测算，即便不触发正式的资产配置审查，GPIF最多可在现…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T23:15:05.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "462adc517b9d",
+          "title": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+          "titleZh": "油价下挫提振风险偏好，道指涨逾500点终结四连跌，戴尔飙12%创新高",
+          "url": "https://wallstreetcn.com/articles/3781549",
+          "summary": "美国8月CPI核心环比涨幅超预期、美联储下周加息概率升至近九成，但中东局势出现缓和迹象带动国际油价自四个多月高位回落，叠加甲骨文财报强化AI算力需求预期，美股结束连续四个交易日下跌、长端美债表现优于短端，美元指数小幅走低，黄金与比特币小幅反弹。 美国股市周五结束了连续四个交易日的下跌。道指收涨近1%、涨509.19点终结四连跌，标普500涨0.86%、纳指涨…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T23:13:47.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "72813ce20abf",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月12日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月12日",
+          "url": "https://wallstreetcn.com/articles/3781610",
+          "summary": "华见早安之声 要闻精选 商务部新闻发言人就美国中情局高官公开表示对中国开展间谍活动答记者问。 国务院常务会议部署进一步完善算力基础设施，要求坚持合理布局、规范有序，积极推进关键技术和装备研发应用，构建多层次网络化算力体系。 三部门：探索运用高通量卫星、低轨卫星互联网等方式为农村及偏远地区提供多样化网络接入服务。 证监会发布修订后的《期货公司监督管理办法》，将…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T23:10:42.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d195286ea1a1",
+          "title": "Anthropic IPO财富盛宴引爆争夺战：高盛、美银等竞逐员工财富管理业务",
+          "titleZh": "Anthropic IPO财富盛宴引爆争夺战：高盛、美银等竞逐员工财富管理业务",
+          "url": "https://wallstreetcn.com/articles/3781604",
+          "summary": "华尔街顶级银行在竞争Anthropic IPO承销资格的同时，正将目光投向另一块潜在的巨大蛋糕——这家AI公司员工在上市后有望积累的数亿美元财富。 据彭博援引知情人士透露，高盛、美国银行、纽约梅隆银行旗下财富管理部门、摩根大通及富国银行已与Anthropic展开接触。Anthropic正寻求为员工提供一份顾问名单，帮助他们规划即将到来的财富。 Anthrop…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T21:42:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2ff5701bc9be",
+          "title": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户",
+          "titleZh": "胡塞武装被曝用Claude Code替代工程师开发导弹，Anthropic：已封相关账户",
+          "url": "https://wallstreetcn.com/articles/3781607",
+          "summary": "Anthropic于美东时间9月10日周四发布威胁情报报告称，公司发现一个位于也门北部的“威胁行为者小组”利用Claude开展导弹和制导火箭研发。 Anthropic没有直接点名胡塞武装，但也门北部大部分地区由胡塞控制，因此一些媒体均将相关人员与胡塞武装联系起来。 更值得关注的是，Anthropic称，这些人员使用Claude Code承担原本由人类软件工程…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-11T23:14:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "70ddc3f1f255",
+          "title": "Philip R. Lane: Outlook for the euro area economy",
+          "titleZh": "Philip R. Lane: Outlook for the euro area economy",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-11T17:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "d6592706b75e",
+          "title": "Some satellite companies still have an appetite for boutique launch services",
+          "titleZh": "Some satellite companies still have an appetite for boutique launch services",
+          "url": "https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/",
+          "summary": "If you ask most satellite companies aside from SpaceX, they will tell you the world doesn't have enough capacity for launching payloads into orbit. This is despite the blistering l…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-11T23:34:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1800057bb46a",
+          "title": "Random rewards enrich classic game-theory insights",
+          "titleZh": "Random rewards enrich classic game-theory insights",
+          "url": "https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/",
+          "summary": "Games may be life with all the hard bits removed, but they provide a way to study why people make the choices they make. Traditional games are usually played against a static backg…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-11T21:41:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c84645cc5f4",
+          "title": "So you want to use OpenRouter?",
+          "titleZh": "So you want to use OpenRouter?",
+          "url": "https://simonwillison.net/2026/Sep/11/so-you-want-to-use-openrouter/",
+          "summary": "So you want to use OpenRouter? One of OpenRouter's selling points is that it \"handles fallbacks automatically and picks the most cost-effective option for each request\", so you can…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-11T22:49:18.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c395e24eeb0",
+          "title": "Trump's forced coal plant extensions thrown out by judge",
+          "titleZh": "Trump's forced coal plant extensions thrown out by judge",
+          "url": "https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/",
+          "summary": "The use of coal to generate electricity on the US grid has been plunging for nearly two decades, and the first Trump administration was unable to affect the trend. So his second ad…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-11T20:32:59.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e8773bb5dc4b",
+          "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+          "titleZh": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+          "url": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+          "summary": "Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm Credit: Museum of Mediterranean and Near Eastern Antiquities, Stockholm The precise composition of ancient E…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-11T18:49:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c96b40f1ace1",
+          "title": "Open-Source AI & Open Models Reading List",
+          "titleZh": "Open-Source AI & Open Models Reading List",
+          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+          "summary": "List last updated: 11 Sep. 2026 This is my list of the best writing on open models in the last few years. If someone decides they want to get up to speed on the area, reading this …",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-09-11T12:36:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0796a364c6db",
+          "title": "Feeling sad about AI",
+          "titleZh": "Feeling sad about AI",
+          "url": "https://simonwillison.net/2026/Sep/11/feeling-sad-about-ai/",
+          "summary": "My comment on Feeling sad about AI &mdash; Hacker News. I'm not sure how useful it is to say this, but I think a lot of people (myself included, a few years ago now) have been thro…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-11T17:28:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b95ce690c1c1",
+          "title": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "titleZh": "ChatGPT-using lawyer punished for citing fake testimony from made-up witnesses",
+          "url": "https://arstechnica.com/tech-policy/2026/09/chatgpt-using-lawyer-punished-for-citing-fake-testimony-from-made-up-witnesses/",
+          "summary": "The New Mexico Supreme Court held a ChatGPT-using lawyer in direct contempt of court for submitting a brief with \"false testimony from wholly fabricated witnesses,\" including fake …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-11T19:34:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "7795866700da",
+          "title": "90万一集的AI长剧，如何炸出芒果130亿市值？",
+          "titleZh": "90万一集的AI长剧，如何炸出芒果130亿市值？",
+          "url": "https://www.huxiu.com/article/4890512.html?f=rss",
+          "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜芒果 TV 尽管 AI 短剧早已遍地开花，但长剧始终是 AI 影视一块难啃的硬骨头。这两年，从平台到制作公司，AI 影视精品化、长剧化被不断提起，但真正落地的项目少之又少。口号喊久了，市场多少有点“狼来了”的感觉。 但这次，狼没来，猴先来了。 8 月 31 日，《后西游记》在芒果 TV 和湖南卫视黄金档…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T23:32:36.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4f76565c6774",
+          "title": "汽车手动挡正在奢侈化",
+          "titleZh": "汽车手动挡正在奢侈化",
+          "url": "https://www.huxiu.com/article/4890601.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 2026年5月18日，宝马在美国发布M3 CS手动版（M3 CS Handschalter）。这是一辆只供应北美的六速手动挡后驱轿车，起价10.71万美元，另收1350美元运输费。宝马没有公布总产量，只说数量“非常有限”。 三个月后，宝马北美传播负责人杰夫·沙茨（Jeff Schat…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-11T23:09:31.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0b9778e2af22",
+          "title": "Record diesel prices stoke food inflation, transportation costs",
+          "titleZh": "Record diesel prices stoke food inflation, transportation costs",
+          "url": "https://www.axios.com/2026/09/11/diesel-fuel-prices-food-transportation",
+          "summary": "The record price of diesel threatens to stoke inflation at a time when consumers are already price-sensitive and businesses are reeling from higher costs due to trade tensions. Why…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-11T20:29:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7bc50cbbece7",
+          "title": "9/11 widow blasts Saudi Arabia during annual ceremony",
+          "titleZh": "9/11 widow blasts Saudi Arabia during annual ceremony",
+          "url": "https://www.axios.com/2026/09/11/911-widow-saudi-arabia-trump",
+          "summary": "A widow of a 9/11 victim used the annual reading of the names of those killed to plead with the Trump administration about Saudi Arabian officials' alleged ties to the terror attac…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-11T19:54:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f9c86da2dc4f",
+          "title": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
+          "titleZh": "Afghan woman deported in first-ever \"Alien Terrorist\" court case, DOJ says",
+          "url": "https://www.axios.com/2026/09/11/alien-terrorist-court-first-deportation",
+          "summary": "An Afghan national who was the first-ever case before the federal Alien Terrorist Removal Court has been deported, the Justice Department announced Friday. The big picture: The DOJ…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-11T19:39:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-12T00:34:04.527Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-12T00:34:04.527Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-12T00:34:04.527Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "c56a6d8bdd09",
+          "title": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
+          "titleZh": "Fabships Aim to Exploit ‘Free’ Space Vacuum for Compound Semiconductor Substrates",
+          "url": "https://www.eetimes.com/fabships-aim-to-exploit-free-space-vacuum-for-compound-semiconductor-substrates/",
+          "summary": "We’ve heard quite a lot in recent months about putting data centers in space, with the strongest advocates being Elon Musk and Jeff Bezos. But some startups have been looking at ex…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-11T21:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a1405c48f305",
+          "title": "Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware",
+          "titleZh": "Xanadu, ASML to Advance Lithography for Photonic Quantum Hardware",
+          "url": "https://www.semiconductor-digest.com/xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware/?utm_source=rss&utm_medium=rss&utm_campaign=xanadu-asml-to-advance-lithography-for-photonic-quantum-hardware",
+          "summary": "Canadian photonic quantum computing company Xanadu and ASML have announced a collaboration to develop advanced lithography processes for Xanadu’s photonic quantum hardware. This co…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-11T19:02:26.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "173bf09e8399",
+          "title": "Synopsys and A*STAR IME Join Forces to Accelerate Innovation for Advanced Semiconductor Packaging",
+          "titleZh": "Synopsys and A*STAR IME Join Forces to Accelerate Innovation for Advanced Semiconductor Packaging",
+          "url": "https://www.semiconductor-digest.com/synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-astar-ime-join-forces-to-accelerate-innovation-for-advanced-semiconductor-packaging",
+          "summary": "Synopsys, Inc. , the leader in silicon to systems design solutions and Singapore’s Agency for Science, Technology and Research (A*STAR), have signed a Memorandum of Understanding (…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-11T18:58:55.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a9ff78f50c6c",
+          "title": "National Network for Microelectronics Education Announces Inaugural Industry Advisory Committee to Help Shape America’s Semiconductor Workforce Strategy",
+          "titleZh": "National Network for Microelectronics Education Announces Inaugural Industry Advisory Committee to Help Shape America’s Semiconductor Workforce Strategy",
+          "url": "https://www.semiconductor-digest.com/national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=national-network-for-microelectronics-education-announces-inaugural-industry-advisory-committee-to-help-shape-americas-semiconductor-workforce-strategy",
+          "summary": "The National Network for Microelectronics Education (NNME) , a national workforce development initiative supported by the U.S. National Science Foundation (NSF) in partnership with…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-11T18:42:16.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "071e63fecd30",
+          "title": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+          "titleZh": "Chinese AI firms shunned US delegation over sanctions fears, commission says",
+          "url": "https://www.scmp.com/news/us/article/3367269/chinese-ai-firms-shunned-us-delegation-over-sanctions-fears-commission-says?utm_source=rss_feed",
+          "summary": "A US congressional advisory body on China said on Friday that leading Chinese artificial intelligence firms declined to meet its members during a recent Beijing visit over concerns…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-11T22:36:20.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ab85d17f571e",
+          "title": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
+          "titleZh": "AI fight shadows final preparations for Xi Jinping’s White House visit to meet Donald Trump",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367242/ai-fight-shadows-final-preparations-xi-jinpings-white-house-visit?utm_source=rss_feed",
+          "summary": "Rising tensions over artificial intelligence are shaping the final preparations for Chinese President Xi Jinping’s visit to the United States. Washington and Beijing are discussing…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-11T22:00:10.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f0a459b64e0d",
+          "title": "At 9/11 ceremony, Giuliani and Mamdani … shake hands?",
+          "titleZh": "At 9/11 ceremony, Giuliani and Mamdani … shake hands?",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/11/at-9-11-ceremony-giuliani-and-mamdani-shake-hands-01073067",
+          "summary": "BEST FRENEMIES: Didn’t see this one coming. At Friday’s ceremony commemorating the 25th anniversary of the Sept. 11 terrorist attacks, former Mayor Rudy Giuliani — he of the recent…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-11T21:32:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "72cc837ce14d",
+          "title": "xAI has quietly built a massive battery at its Memphis data center hub",
+          "titleZh": "xAI has quietly built a massive battery at its Memphis data center hub",
+          "url": "https://www.canarymedia.com/articles/batteries/xai-massive-battery-memphis-data-center",
+          "summary": "Elon Musk’s SpaceXAI has built what may be the biggest battery in the U.S. at its controversial Memphis AI computing hub. The exact size of the battery is unclear. Canary Media cou…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-11T22:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a247ed5156d",
+          "title": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+          "titleZh": "El Niño: Indonesia fire emissions in 2026 ‘on track’ to match record for this century",
+          "url": "https://www.carbonbrief.org/el-nino-indonesia-fire-emissions-in-2026-on-track-to-match-record-for-this-century",
+          "summary": "Print article Share Wildfires currently burning large swathes of land in Indonesia are on track to produce emissions on a par with the country’s most-intense fire season this centu…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-11T14:06:49.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "45743a95747e",
+          "title": "Court rules that Trump can’t force a Michigan coal plant to keep running",
+          "titleZh": "Court rules that Trump can’t force a Michigan coal plant to keep running",
+          "url": "https://www.canarymedia.com/articles/fossil-fuels/court-rules-against-trump-michigan-coal-plant",
+          "summary": "A federal court has ruled that the Department of Energy acted outside the bounds of its legal authority when it forced a coal plant in Michigan to keep running last year — a decisi…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-11T17:19:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "b4227e6fce4a",
+          "title": "Swiss trial for 2017 avalanche deaths unsettles hazard researchers",
+          "titleZh": "Swiss trial for 2017 avalanche deaths unsettles hazard researchers",
+          "url": "https://www.science.org/content/article/swiss-trial-2017-avalanche-deaths-unsettles-hazard-researchers",
+          "summary": "Geologist and officials were acquitted last week, but scientists fear future liability for failing to predict similar disasters",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-11T12:40:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f144cd008638",
+          "title": "Common gene variant that increases risk of lupus may protect against viruses",
+          "titleZh": "Common gene variant that increases risk of lupus may protect against viruses",
+          "url": "https://www.science.org/content/article/common-gene-variant-increases-risk-lupus-may-protect-against-viruses",
+          "summary": "An evolutionary trade-off may have helped a mutation linked to auto-immune disease persist in human populations",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-11T11:25:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d139d6f5f8b5",
+          "title": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+          "titleZh": "STAT+: Scholar Rock wins FDA approval for first drug to target SMA muscle loss",
+          "url": "https://www.statnews.com/2026/09/11/scholar-rock-spinal-muscular-atrophy-isembyld-clinical-trial-fda-approval/?utm_campaign=rss",
+          "summary": "Scholar Rock on Friday received Food and Drug Administration approval for the first-ever therapy that targets the loss of muscle in spinal muscle atrophy, raising hopes that patien…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-09-11T23:30:21.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "bc3ce908dd81",
+          "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "titleZh": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+          "url": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+          "summary": "I run marketing for GitHub in Japan and Korea, and events are the heartbeat of it: a recurring webinar series for enterprise developers, community meetups in Tokyo, invite-only exe…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-11T18:26:10.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a3a379f2e3ed",
+          "title": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+          "titleZh": "OpenAI’s researchers burned $7,000 a day on AI agents — now it’s opening the floodgates",
+          "url": "https://thenewstack.io/openai-agents-api-compute/",
+          "summary": "OpenAI rolled out its Agents API in public beta Thursday, opening the backend behind Codex to developers looking to run agents unattended for days. Now, developers don&rsquo;t have…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-11T21:27:42.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6d05a6b23360",
+          "title": "OpenAI’s safety system is already cutting off API responses mid-task",
+          "titleZh": "OpenAI’s safety system is already cutting off API responses mid-task",
+          "url": "https://thenewstack.io/openai-slowing-ai-development/",
+          "summary": "AI companies have spent the last few years competing to build the best models, faster than the other, with each new release raising the bar on intelligence. Now OpenAI is consideri…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-11T17:52:56.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "195ab8f95646",
+          "title": "Cohere’s new translation model is open weights — but not for commercial use",
+          "titleZh": "Cohere’s new translation model is open weights — but not for commercial use",
+          "url": "https://thenewstack.io/cohere-translation-commercial-licensing/",
+          "summary": "This week, Cohere released North Small Translate 1.0 under a CC BY-NC 4.0 license: the weights are there to download, evaluate and study, but not to run in production without a com…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-11T17:50:11.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "67e895b5dd67",
+          "title": "Kroger’s ad business sees most profit growth since 2021",
+          "titleZh": "Kroger’s ad business sees most profit growth since 2021",
+          "url": "https://www.modernretail.co/marketing/krogers-ad-business-sees-most-profit-growth-since-2021/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Retail media is becoming increasingly critical to one of the nation’s largest grocery chains. Profit for the Kroger Precision Marketing advertising business grew 24% in the second …",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-11T18:54:06.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cd7468d9ab97",
+          "title": "The AI talent war is coming for Big Tech’s Asia executives",
+          "titleZh": "The AI talent war is coming for Big Tech’s Asia executives",
+          "url": "https://restofworld.org/2026/openai-anthropic-big-tech-executives-asia/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "Silicon Valley’s artificial intelligence talent wars are now playing out in Asia. OpenAI and Anthropic are poaching top talent from U.S. tech giants including Google, Microsoft, an…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-09-11T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 41,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 70,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
