@@ -1,0 +1,922 @@
+{
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-13T00:13:13.306Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 31 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、地缘政治与政策监管等 8 个领域，全部读完约需 62 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "8eec166a95fa",
+          "title": "Christine Lagarde: Interview with Ouest-France",
+          "titleZh": "Christine Lagarde: Interview with Ouest-France",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260912~3cc706f4d6.en.html",
+          "summary": "12 September 2026 Interview with Christine Lagarde, President of the ECB, conducted by Jean-Christophe Lalay and Maxime Mainguet on 12 September 2026 What brings you to the Fête de…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-12T20:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f4c404e776da",
+          "title": "Christine Lagarde: Europe seen from Normandy",
+          "titleZh": "Christine Lagarde: Europe seen from Normandy",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+          "summary": "Speech by Christine Lagarde, President of the ECB, at Fête de la Pomme in Épreville-en-Lieuvin, France Épreville-en-Lieuvin, 12 September 2026 It is a particular pleasure to be her…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-12T10:15:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c7ed6af2a68",
+          "title": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+          "titleZh": "Inflation is outpacing wage growth again, squeezing Americans’ paychecks",
+          "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html",
+          "summary": "Wage growth for U.S. workers has cooled substantially from the pandemic period while inflation remains elevated, a trend that is adding to economic pressures. Diy13 | Istock | Gett…",
+          "whyItMatters": "",
+          "sourceName": "CNBC Economy",
+          "publishedAt": "2026-09-12T12:49:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.75,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "CNBC Finance",
+              "url": "https://www.cnbc.com/2026/09/12/inflation-is-outpacing-wage-growth-again-squeezing-americans-paychecks.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5e34c7c0a948",
+          "title": "Why Weil Gotshal’s Highest-Paid Partner Jumped to Cravath, Shocking Big Law",
+          "titleZh": "Why Weil Gotshal’s Highest-Paid Partner Jumped to Cravath, Shocking Big Law",
+          "url": "https://www.wsj.com/business/why-weil-gotshals-highest-paid-partner-jumped-to-cravath-shocking-big-law-86f669dc?mod=rss_markets_main",
+          "summary": "A star dealmaker’s defection reveals two starkly different views of the legal world’s race for scale.",
+          "whyItMatters": "",
+          "sourceName": "WSJ Markets",
+          "publishedAt": "2026-09-12T23:04:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "WSJ Business",
+              "url": "https://www.wsj.com/business/why-weil-gotshals-highest-paid-partner-jumped-to-cravath-shocking-big-law-86f669dc?mod=pls_whats_news_us_business_f"
+            }
+          ],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "d82f6fab4d0a",
+          "title": "石油市场已达“转折点”？",
+          "titleZh": "石油市场已达“转折点”？",
+          "url": "https://wallstreetcn.com/articles/3781634",
+          "summary": "全球原油市场正站在一个关键节点上。库存加速去化、中国需求强势回归、中东航运通道持续受阻——多重因素叠加，推动油价突破每桶100美元大关，能源分析机构Energy Aspects将当前市场定性为\"转折点\"，并警告油价正迈向\"上行螺旋\"。 Energy Aspects创始人兼市场情报总监Amrita Sen 9月11日在接受CNBC采访时表示，原油价格具备进一步…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-12T11:40:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "01c8b2dae1c1",
+          "title": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
+          "titleZh": "高盛最新判断：利率上升≠美股下跌，盈利增长才是牛市关键",
+          "url": "https://wallstreetcn.com/articles/3781632",
+          "summary": "华尔街正被“高息恐慌”笼罩，30年期美债收益率飙升至5.3%的近20年高点，10年期逼近5%。但高盛给出了截然不同的冷酷现实：利率上升绝不等于美股崩盘，盈利才是驱动股市的真正核心。 据追风交易台消息，高盛9月11日最新研报的核心判断是：高利率是股市的逆风，但不是终结牛市的力量。只要盈利增长保持强劲、企业资产负债表维持健康，美股牛市就有坚实的基础继续延续。 报…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-12T10:50:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "aae1a392ce83",
+          "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+          "titleZh": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+          "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
+          "summary": "The difference between FDE and consulting; diagram by Vinoo Ganesh FDEs have the hottest job in AI. Labs, startups and PE firms are all hiring engineers to sit inside their custome…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-12T15:01:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fe5678bebd86",
+          "title": "An open letter to Dario: if you mean it, open the weights",
+          "titleZh": "An open letter to Dario: if you mean it, open the weights",
+          "url": "https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/",
+          "summary": "Article URL: https://jacob.gold/posts/open-letter-to-dario-amodei-about-open-weights/ Comments URL: https://news.ycombinator.com/item?id=49676085 Points: 266 # Comments: 91",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-12T19:15:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "83cc5501d9cd",
+          "title": "Make your first edit to OpenStreetMap",
+          "titleZh": "Make your first edit to OpenStreetMap",
+          "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+          "summary": "Article URL: https://high5apps.github.io/josm-plugin-website-wizard/ Comments URL: https://news.ycombinator.com/item?id=49674050 Points: 298 # Comments: 70",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-12T16:25:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://high5apps.github.io/josm-plugin-website-wizard/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "809cd1c9ed83",
+          "title": "Nvidia is the central bank of AI",
+          "titleZh": "Nvidia is the central bank of AI",
+          "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+          "summary": "https://archive.ph/kt50V Comments URL: https://news.ycombinator.com/item?id=49673098 Points: 366 # Comments: 252",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-12T15:08:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7d26e771eea5",
+          "title": "We must pace the frontier",
+          "titleZh": "We must pace the frontier",
+          "url": "https://darioamodei.com/post/we-must-pace-the-frontier",
+          "summary": "Article URL: https://darioamodei.com/post/we-must-pace-the-frontier Comments URL: https://news.ycombinator.com/item?id=49672510 Points: 512 # Comments: 704",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-12T14:10:49.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://darioamodei.com/post/we-must-pace-the-frontier"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8dbc84c1bd1c",
+          "title": "OpenAI’s rogue AI tried to hack another company in May",
+          "titleZh": "OpenAI’s rogue AI tried to hack another company in May",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994383/openais-rogue-ai-rubygems-hack",
+          "summary": "In May, hundreds of malicious and spam packages were uploaded to RubyGems, causing a serious disruption for the host. Now independent researchers have said that a swarm of OpenAI a…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-09-12T21:41:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "caab1ade1fab",
+          "title": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "titleZh": "Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/994384/sam-altman-no-openai-ipo-ill-advised",
+          "summary": "OpenAI CEO Sam Altman confirmed that there would be no OpenAI IPO in 2026 during an interview with Fortune. Over the course of 45 minutes, Altman discussed a variety of subjects in…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-09-12T21:16:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6afbba357346",
+          "title": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+          "titleZh": "[AINews] DeepSeek v4.1-Flash: 763B-P8B-D16B novel causal Encoder–Decoder architecture with vision marks the Return of the Whale",
+          "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
+          "summary": "We are late to this but better than never. Have been busy finalizing the second AIE NYC , which is happening in one month. Get your tix before prices go up - we will announce speak…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-12T05:56:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "3cc94c8d71df",
+          "title": "从OpenAI的《外星思维》说起：AI越来越强，我们为什么还要亲自学习？",
+          "titleZh": "从OpenAI的《外星思维》说起：AI越来越强，我们为什么还要亲自学习？",
+          "url": "https://www.huxiu.com/article/4890730.html?f=rss",
+          "summary": "本文来自微信公众号： 快刀青衣 ，作者：快刀广播站 AI能替我们干，但判断仍要长在自己身上。 在AI领域，半年前的事，现在想起来就像过去了一个世纪。三年前呢？那差不多就是白垩纪了。 第一次被AI震撼到的感觉，估计很多人都还记得。我那次就是只说了一句话，AI直接给我生成了一张海报。放以前，这种活儿得找专业设计师。 而2023年的一天晚上，OpenAI的两位研究…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-13T00:12:20.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "18d1ba536a49",
+          "title": "出海即盈利，7家车企净赚了400亿",
+          "titleZh": "出海即盈利，7家车企净赚了400亿",
+          "url": "https://www.huxiu.com/article/4890729.html?f=rss",
+          "summary": "本文来自微信公众号： 亿欧汽车 ，作者：郭怀毅，编辑：郝秋慧，原文标题：《出海即盈利！7家车企净赚了400亿》 2026年上半年，15家中国车企中，7家披露了完整海外销量数据：全部盈利，净利润合计413.6亿元。 6家未披露海外销量的车企，无一例外，全部亏损。 出海，已经卷出了一条利润斩杀线。曾以出海为亮点冲刺IPO，但最终爆雷的哪吒汽车，可谓是殷鉴不远。 …",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-13T00:07:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6082ca7957f",
+          "title": "11年后，全网重审内娱名著《花少2》",
+          "titleZh": "11年后，全网重审内娱名著《花少2》",
+          "url": "https://www.huxiu.com/article/4890137.html?f=rss",
+          "summary": "出品 | 虎嗅青年文化组 作者 | 黄瓜汽水 编辑 | 渣渣郡 本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 你永远不知道下一个热点有多莫名其妙。 毛阿敏在我的手机里唱了半个月《相思》，地铁上随处可见年轻人的手机里循环播放着11年前的《花少2》。 满纸荒唐言，一把辛酸泪。一档无聊的综…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-12T23:32:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "749ca3ab8e3c",
+          "title": "加密资产安全幻象：当黑客、AI与“白帽”撕下底层的遮羞布",
+          "titleZh": "加密资产安全幻象：当黑客、AI与“白帽”撕下底层的遮羞布",
+          "url": "https://www.huxiu.com/article/4890728.html?f=rss",
+          "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 在我周围的圈子里，有一个不成文的潜规则：每个人都要有一部苹果手机，必须得是欧美版或者澳新版，最低也得是个韩版，港版都已经不太满足要求了。 别多想，这部手机里没有什么绯闻线索或者绝密情报，它只有一个功能——加密钱包。加密货币在某些圈子里就是社交货币，你没有就说明你的买卖做得不够大，也不够国际化，也就没有上桌吃饭的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-12T23:16:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "65e7c172f7fe",
+          "title": "中国车企出海，向现代起亚学什么",
+          "titleZh": "中国车企出海，向现代起亚学什么",
+          "url": "https://www.huxiu.com/article/4890726.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：黄大路，作者：推动新汽车向前进 很多全球车企，在中国和在世界其他地方是两种现状。 比如雷诺，一个在中国已失去存在感的品牌，在欧洲却像吉利之于中国，正生机勃勃。 再比如现代、起亚，已多年在中国直不起腰来，但在美国、欧洲乃至其他市场，长期是当地消费者购车的重要选择之一。 现代汽车集团在中国被低估，但这也与它自身战略以及…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-12T23:09:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-13T00:13:02.486Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-13T00:13:02.486Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-13T00:13:02.486Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "7a5b2663ceac",
+          "title": "China’s anti-corruption law is going global. What does it mean for overseas firms?",
+          "titleZh": "China’s anti-corruption law is going global. What does it mean for overseas firms?",
+          "url": "https://www.scmp.com/news/china/politics/article/3367286/chinas-anti-corruption-law-going-global-what-does-it-mean-overseas-firms?utm_source=rss_feed",
+          "summary": "China’s new draft law on combating cross-border corruption is as much a weapon against foreign interference as it is a tool against illicit financial flows, analysts say. The draft…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-13T00:00:16.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "11c69e1074d1",
+          "title": "J.D. Vance group courted Brazil’s Flavio Bolsonaro over anti-China rare earth deal: report",
+          "titleZh": "J.D. Vance group courted Brazil’s Flavio Bolsonaro over anti-China rare earth deal: report",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367328/jd-vance-network-courted-brazils-flavio-bolsonaro-over-anti-china-mineral-deal-report?utm_source=rss_feed",
+          "summary": "A campaign document belonging to Flavio Bolsonaro, the right-wing front-runner in the presidential election to be held in Brazil next month, offered Washington a rare earths supply…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-12T22:55:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "93487497e13f",
+          "title": "Republicans fear they have a North Carolina problem",
+          "titleZh": "Republicans fear they have a North Carolina problem",
+          "url": "https://www.politico.com/news/2026/09/12/gop-anxiety-grows-north-carolina-senate-race-01073311",
+          "summary": "DALLAS — Republicans are increasingly worried that North Carolina’s Senate race is slipping out of contention. For months, they had argued that a post-Labor Day infusion of cash co…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-12T18:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "13d9b2ccface",
+          "title": "Why MCP security is about permissions overhaul",
+          "titleZh": "Why MCP security is about permissions overhaul",
+          "url": "https://thenewstack.io/mcp-security-permissions-overhaul/",
+          "summary": "Anthropic’s Model Context Protocol (MCP) went into production in late 2024. It spread rapidly after that. Since then, thousands of MCP servers have been created. Microsoft, Google,…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-12T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "932644b900c1",
+          "title": "“Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI",
+          "titleZh": "“Same mission, bigger stage”: OpenAI hires Git AI founders to help Codex prove its ROI",
+          "url": "https://thenewstack.io/openai-hires-git-ai/",
+          "summary": "OpenAI has hired the founders of Git AI , an open-source tool that tracks how much code AI writes and measures the performance and cost of coding agents. Taking to LinkedIn late Fr…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-12T14:46:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6bbaba3c011c",
+          "title": "The AI-native SDLC won’t be one process",
+          "titleZh": "The AI-native SDLC won’t be one process",
+          "url": "https://thenewstack.io/spec-driven-sdlc-gates/",
+          "summary": "Anthropic recently published its AI-Native SDLC Playbook . Its central claim is that “code is no longer the bottleneck.” When agents can produce an implementation in minutes, the c…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-12T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bcab1146239c",
+          "title": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+          "titleZh": "Jacob Coxon warns AI could kill us all. Anthropic’s own report exposes safety gaps.",
+          "url": "https://thenewstack.io/coxon-anthropic-ai-monitoring-failures/",
+          "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, explaining what they mean for people and organizations putti…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-12T11:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 31,
+    "itemsPublished": 29,
+    "itemsFiltered": 2,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 60,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
