@@ -1,0 +1,970 @@
+{
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-14T00:23:01.042Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 32 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "1fd739cec07a",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月14日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月14日",
+          "url": "https://wallstreetcn.com/articles/3781660",
+          "summary": "华见早安之声 要闻精选 习近平：让新兴技术照亮共同繁荣之路。 智谱以零息+溢价转股形式融资50亿美元，主要用于算力基础设施与模型研发。 美国8月CPI核心环比0.3%超预期，美联储本周加息概率升至近九成。白宫国家经济委员会主任哈塞特：特朗普和我都认为没有理由加息。 美国赤字逼近2万亿，利息账单首破1万亿，长端美债为债务螺旋定价。 报道：延布港库存仅能维持5至…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-13T23:01:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23c6350dfb36",
+          "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
+          "titleZh": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
+          "url": "https://wallstreetcn.com/articles/3781665",
+          "summary": "围绕霍尔木兹海峡通航问题的外交努力遭遇重大挫折，能源市场随即作出强烈反应。 据新华社报道，阿曼外交大臣巴德尔13日宣布，原定14日在阿曼南部城市塞拉莱举行的地区会议已推迟，理由是各方仍需寻求共识。伊朗外交部发言人巴加埃此前表示，伊朗和阿曼原计划在该会议上向海湾国家通报两国有关霍尔木兹海峡通航问题的磋商结果。 与此同时，美国能源部长克里斯·赖特在维也纳明确向市…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-14T00:09:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "39dfbf57bd6b",
+          "title": "9月14日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "titleZh": "9月14日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "url": "http://finance.eastmoney.com/news/11158,202609143872917637.html",
+          "summary": "9月14日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 “央行超级周”来袭 A股怎么走 外围扰动加剧，A股市场延续调整态势。本周，美联储、日本央行、英国央行将召开议息会议，成为市场各方关注的话题。在业内机构看来，若美联储加息“靴子落地”，有望凝聚共识并开启新一轮行情。本轮调整大概率进入尾声，建议利用波动提高对科技制造与有色金属板块的配置。此外，前期…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-09-13T22:03:05.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d00aa052bd95",
+          "title": "我们距离RSI还有多远？来自AI一线的观点",
+          "titleZh": "我们距离RSI还有多远？来自AI一线的观点",
+          "url": "https://wallstreetcn.com/articles/3781652",
+          "summary": "AI递归自我改进（RSI）的时间表，正成为业界最具争议的核心命题。 在播客主持人Dwarkesh Patel与三位AI研究者的深度对谈中，OpenAI联合创始人、现Thinking Machines首席科学家John Schulman预判：距离AI在所有可在计算机上完成的认知工作中全面超越顶尖人类专家，可能只需3至4年。与此同时，三人一致认为，在AI研究者生…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-13T11:15:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b61636e8771f",
+          "title": "智谱以零息+溢价转股形式融资50亿美元，主要用于算力基础设施与模型研发",
+          "titleZh": "智谱以零息+溢价转股形式融资50亿美元，主要用于算力基础设施与模型研发",
+          "url": "https://wallstreetcn.com/articles/3781656",
+          "summary": "智谱9月13日公告，公司完成约50亿美元（人民币约335亿元）新一轮融资，由约20亿美元股份配售与约30亿美元零息可转债共同构成。距离上一次7月配售融资约40亿美元，时隔仅两个月。 这是智谱自今年1月登陆港交所以来的第三次股权融资动作。从IPO到两次再融资，募资节奏持续提速，资金流向也高度一致——算力、模型研发与基础设施。 融资结构：折价配售叠加零息溢价转债…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-13T10:59:37.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b2e5ecfa065",
+          "title": "Widening Mideast Instability Squeezes Global Oil Supplies",
+          "titleZh": "Widening Mideast Instability Squeezes Global Oil Supplies",
+          "url": "https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=pls_whats_news_us_business_f",
+          "summary": "A Houthi offensive in Yemen has put a second vital energy corridor in the region under the sway of Iran and its allies.",
+          "whyItMatters": "",
+          "sourceName": "WSJ Business",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "WSJ World News",
+              "url": "https://www.wsj.com/world/middle-east/widening-mideast-instability-squeezes-global-oil-supplies-0cd316ad?mod=rss_worldnews"
+            }
+          ],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "eed786d5aaca",
+          "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "titleZh": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+          "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+          "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-09-14T00:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "18f96a6dcffa",
+          "title": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "titleZh": "Unvaccinated Pennsylvania woman died of measles complications, coroner says",
+          "url": "https://arstechnica.com/health/2026/09/unvaccinated-pennsylvania-woman-died-of-measles-complications-coroner-says/",
+          "summary": "A 40-year-old woman in Jefferson County, Pennsylvania has died of complications from measles, according to the county's coroner. It marks the third vaccine-preventable, measles-lin…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-13T21:56:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8f0d710d74cb",
+          "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "titleZh": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+          "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+          "summary": "Article URL: https://www.vals.ai/blogs/fable-solves-cyphral-distich Comments URL: https://news.ycombinator.com/item?id=49688695 Points: 357 # Comments: 142",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-09-13T21:06:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eff3de64d34b",
+          "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+          "titleZh": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+          "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+          "summary": "Article URL: https://twitter.com/TechEmails/status/2099214399840059428 Comments URL: https://news.ycombinator.com/item?id=49688157 Points: 254 # Comments: 103",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-09-13T20:08:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "111ef781e3bc",
+          "title": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+          "titleZh": "早报｜iPhone 18 Pro首批售罄，发货延至10月/OpenAI放弃今年上市/罗永浩评价野人先生冰淇淋「难吃」",
+          "url": "https://www.ifanr.com/1679930?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "iPhone 18 Pro 系列首批多平台售罄，部分型号发货延至 10 月 Gurman：iPhone Duo 有望成为苹果历史级产品 智谱完成约 50 亿美元融资，主要用于下一代模型研发 荣耀回应「魔法画报耽误拨打 120」争议：发帖与事实不符，不予追究 黄仁勋重申：2030 年全球 AI 基础设施年支出将达 3 万亿至 4 万亿美元 英伟达洽谈成为 An…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-09-14T00:09:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1eb6815e3ca2",
+          "title": "Everyone expects two AI blocs. The Gulf is betting on both",
+          "titleZh": "Everyone expects two AI blocs. The Gulf is betting on both",
+          "url": "https://www.semafor.com/article/09/13/2026/everyone-expects-two-ai-blocs-the-gulf-is-betting-on-both",
+          "summary": "Judah’s view Saudi Arabia is building enormous AI infrastructure, partnering with US firms and using American chips — AWS alone has committed $5.3 billion to data centers in the ki…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-13T19:06:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3bc00d39749a",
+          "title": "Trump says US interest rates should be lowest in the world",
+          "titleZh": "Trump says US interest rates should be lowest in the world",
+          "url": "https://www.semafor.com/article/09/13/2026/trump-calls-for-lower-rates-setting-up-test-for-fed-chair-warsh",
+          "summary": "President Donald Trump said on Sunday that the US should have the world’s lowest interest rates , piling pressure on Federal Reserve Chair Kevin Warsh days before the bank is expec…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-13T22:30:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a942797417ff",
+          "title": "Trump blames Kyiv for diesel shortage",
+          "titleZh": "Trump blames Kyiv for diesel shortage",
+          "url": "https://www.semafor.com/article/09/13/2026/trump-blames-kyiv-for-diesel-shortage",
+          "summary": "US President Donald Trump on Sunday called on Ukraine to stop striking Russian refineries, after Kyiv struck several over the weekend, attacks that he said were increasing the pric…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-13T22:27:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "0bd5e159fc29",
+          "title": "Dems' primary plan gives Native Americans more power",
+          "titleZh": "Dems' primary plan gives Native Americans more power",
+          "url": "https://www.axios.com/2026/09/13/democrats-2028-primary-native-americans",
+          "summary": "The 2028 race for the White House will give new political clout to a long-overlooked constituency: Native American voters. Driving the news: New Mexico now holds an influential ear…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-13T21:45:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b6592870f113",
+          "title": "豆包大战WorkBuddy，受伤的是WPS？",
+          "titleZh": "豆包大战WorkBuddy，受伤的是WPS？",
+          "url": "https://www.huxiu.com/article/4890868.html?f=rss",
+          "summary": "本文来自微信公众号： 人人都是产品经理 ，作者：怪哥 最近国内AI办公赛道突然热闹得有点离谱。 腾讯有WorkBuddy，阿里有千问办公，字节有豆包工作，百度有百度搭子Dumate。 乍一看，这是熟悉的互联网大厂“四国大战”：腾讯盯着字节，字节防着阿里，阿里又在看百度，大家都想抢AI办公的第一张船票。 但这几天把这些产品放在一起看，我越来越觉得： 他们表面上…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-14T00:12:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "228c50340d16",
+          "title": "非标商业的竞争，正在转向中后台",
+          "titleZh": "非标商业的竞争，正在转向中后台",
+          "url": "https://www.huxiu.com/article/4890867.html?f=rss",
+          "summary": "本文来自微信公众号： Mall先生 ，作者：朱雁南 过去几年，非标商业凭借鲜明的空间表达和跳脱常规的业态组合迅速建立起市场认知。但当第一批项目进入稳定运营期，在场景、环境、首店这些可见的醒目标签逐渐归于日常后，非标项目需要回答的问题，也已经有所转向。 沿着今年上半年非标商业领域的亮点和趋势可以发现，存量非标商业项目的变化正在朝两个方向展开： 向内，文化生产的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-14T00:11:25.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "892f08f92260",
+          "title": "城市更新，必须借力“青春经济”赚钱",
+          "titleZh": "城市更新，必须借力“青春经济”赚钱",
+          "url": "https://www.huxiu.com/article/4890866.html?f=rss",
+          "summary": "本文来自微信公众号： 丈量城市 ，作者：华高莱斯，原文标题：《城市更新，必须借力「青春经济」赚钱！》 1.青春经济不是消费，是闭环 2.别把青春经济做成概念 3.四类存量空间，四种赚钱路数 城市更新是个筐，什么都能往里装。但从8月底开始，检验这个筐「质量」的时刻到了—— 国家金融监督管理总局、住建部联合印发《城市更新项目贷款管理办法（试行）》，条文不长，信号…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-14T00:08:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "15b431149f4d",
+          "title": "亏31亿的“小生意”，茂名老板让蔚小理排队送钱",
+          "titleZh": "亏31亿的“小生意”，茂名老板让蔚小理排队送钱",
+          "url": "https://www.huxiu.com/article/4890865.html?f=rss",
+          "summary": "本文来自微信公众号： 中国企业家杂志 ，作者：苗诗雨 一家在亏损中的二线电池玩家，为何被知名车企同时选择。 9月4日，欣旺达一口气出了两张牌。 小米汽车举办“龙甲”电池战略合作发布会，欣旺达子公司欣旺达动力（以下简称“欣动力”）被确认为其中的电芯供应商；晚间，它又宣布，理想汽车出资26.5亿元增资欣动力，认购8.79%的股份，交易完成后，理想系合计持股11.…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-14T00:06:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-14T00:22:40.006Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-14T00:22:40.006Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-14T00:22:40.006Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "2d7d648dfdaa",
+          "title": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
+          "titleZh": "China’s intelligence chief warns of risks from AI as ‘new arena for strategic rivalry’",
+          "url": "https://www.scmp.com/news/china/politics/article/3367349/chinas-intelligence-chief-warns-risks-ai-new-arena-strategic-rivalry?utm_source=rss_feed",
+          "summary": "China’s top intelligence official has warned of rising national security risks posed by artificial intelligence (AI), calling for robust risk prevention frameworks and stronger glo…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-14T00:00:10.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "517e8ea9c9c5",
+          "title": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+          "titleZh": "Texas Republicans denounce GOP statewide candidate over xenophobic post",
+          "url": "https://www.politico.com/news/2026/09/13/john-cornyn-bo-french-texas-students-01073901",
+          "summary": "Prominent Texas Republicans are denouncing Bo French, a Republican nominee to join the state’s railroad commission, after he made a xenophobic post describing a group of Asian Amer…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-13T22:00:48.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a9e567c913c4",
+          "title": "Obama calls for Dems to focus on AI",
+          "titleZh": "Obama calls for Dems to focus on AI",
+          "url": "https://www.politico.com/news/2026/09/13/obama-ai-democrats-fundraiser-01073778",
+          "summary": "Former President Barack Obama is urging Democrats — including 2028 presidential candidates and congressional leaders — to more aggressively focus on a comprehensive AI agenda, warn…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-13T15:55:04.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "af254e51fba1",
+          "title": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "titleZh": "“Chilling” warning or overreaction? AI bioweapons report divides experts",
+          "url": "https://www.science.org/content/article/chilling-warning-or-overreaction-ai-bioweapons-report-divides-experts",
+          "summary": "Anthropic describes five cases where scientists in unnamed countries tried to use its Claude software for potentially nefarious work on viruses or toxins",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-13T10:40:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "010649f48b02",
+          "title": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
+          "titleZh": "STAT+: Trump’s secretive pharma deals may undermine ‘most-favored nation’ pricing, an analysis suggests",
+          "url": "https://www.statnews.com/pharmalot/2026/09/13/trump-secretive-pharma-deals-undermine-most-favored-nation-pricing/?utm_campaign=rss",
+          "summary": "The projected savings from a highly touted Trump administration plan to lower Medicare drug costs may be drastically reduced &#x2014; by as much as 80% &#x2014;&#xA0;thanks to secr…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-09-13T22:30:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "f3a2ab9adc5e",
+          "title": "Meta Open-Sources Astryx, Its Agent-Ready React Design System",
+          "titleZh": "Meta Open-Sources Astryx, Its Agent-Ready React Design System",
+          "url": "https://www.infoq.com/news/2026/09/meta-astryx-design-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Meta recently announced the beta release of Astryx, an open-source React design system developed internally over eight years. Astryx builds on React 19 and StyleX to provide over 1…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-09-13T23:39:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0f0fc25ed5f4",
+          "title": "Chip Huyen explains how to cut inference costs without new hardware",
+          "titleZh": "Chip Huyen explains how to cut inference costs without new hardware",
+          "url": "https://thenewstack.io/pg-99-conf-2026-inference-costs/",
+          "summary": "Last October, the P99 conference &mdash; the online gathering for developers focused on high-performance, low-latency applications &mdash; featured a cracking keynote from Chip Huy…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-13T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ccd17d92e285",
+          "title": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
+          "titleZh": "“Machine translation is still broken for most of the world’s languages”: Cohere builds non-reasoning for a reason",
+          "url": "https://thenewstack.io/cohere-north-translate-sovereignty/",
+          "summary": "Enterprise AI company Cohere announced North Small Translate last week, a mixture-of-experts (MOE) open-weight machine translation model that works across 50 languages. Developers …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-13T14:21:46.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7b4945f0e06",
+          "title": "It passed CI. It passed your evals. The customer still got the wrong answer.",
+          "titleZh": "It passed CI. It passed your evals. The customer still got the wrong answer.",
+          "url": "https://thenewstack.io/ai-agent-trace-debugging/",
+          "summary": "A diff is not evidence. It’s a statement of intent. The tests passed. The review&rsquo;s done. The change is live. Then someone says the app is slow, or the answers are wrong, or b…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-13T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 32,
+    "itemsPublished": 31,
+    "itemsFiltered": 1,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
