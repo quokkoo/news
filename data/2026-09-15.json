@@ -1,0 +1,1137 @@
+{
+  "date": "2026-09-15",
+  "generatedAt": "2026-09-15T00:52:05.126Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 71 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "debeef05664f",
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "titleZh": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "summary": "美国10年期国债收益率作为全球数万亿美元资产的基准，受伊朗战争冲击飙升至5%，这被普遍认为是一个令人担忧的临界点。除了2023年短暂升至5%之外，上一次10年期国债收益率徘徊在5%以上，还是在全球金融危机爆发前夕。 隔夜，10年期美债收益率盘中一度升至5.012%，创2007年以来最高盘中水平，随后回落至4.960%收盘。这一关键门槛的触及，正迫使投资者直面…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T00:40:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1eeb0f32162f",
+          "title": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
+          "titleZh": "特朗普当众致电黄仁勋：AI危险论是\"骗局\"，数据中心重要性超过互联网",
+          "url": "https://wallstreetcn.com/articles/3781745",
+          "summary": "英伟达首席执行官黄仁勋在All-In峰会上演讲时，接到了一个无法拒接的电话，电话来自美国总统特朗普。 9月14日，在美国洛杉矶举行的“All-In Summit”峰会上，黄仁勋在台上接到了特朗普的电话。黄仁勋当场将电话调至免提模式，让现场观众同步听到通话内容。黄仁勋告诉特朗普： 我和好朋友们一起在台上。 特朗普电话中将AI危险论斥为\"骗局\"，并将放缓AI发展…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T00:27:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a79946c5236",
+          "title": "俄乌冲突导致“全球柴油价格上涨”！特朗普称俄乌同意互不攻击能源目标，泽连斯基要“面谈”",
+          "titleZh": "俄乌冲突导致“全球柴油价格上涨”！特朗普称俄乌同意互不攻击能源目标，泽连斯基要“面谈”",
+          "url": "https://wallstreetcn.com/articles/3781732",
+          "summary": "俄乌能源战场出现新的缓和信号，但双方对相关安排的表述并不完全一致。 美东时间9月14日周一，据新华社，美国总统特朗普在社交媒体上说，俄罗斯和乌克兰已同意不攻击对方的能源目标。“乌克兰已同意不攻击俄罗斯的能源目标，俄罗斯也同意同样不攻击乌克兰”，“全球柴油价格上涨主要是由俄乌冲突造成的，而非伊朗”。 特朗普上述宣布令乌克兰官员感到意外，此前美方多次斡旋停止攻击…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T00:12:37.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 5,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "64293914cd11",
+          "title": "芯片股重挫之际，“网络安全软件”全线大涨，CrowdStrike和Palo Alto Networks创出新高",
+          "titleZh": "芯片股重挫之际，“网络安全软件”全线大涨，CrowdStrike和Palo Alto Networks创出新高",
+          "url": "https://wallstreetcn.com/articles/3781750",
+          "summary": "AI安全警告引发科技板块内部分化，网络安全ETF单日跑赢半导体ETF逾10个百分点，创史上最大差距。 周一，CrowdStrike单日收涨13.8%，创历史收盘新高；Palo Alto Networks大涨13%，创2025年4月以来最大单日涨幅；Fortinet收涨9%。三只个股均位居标普500当日涨幅榜前列。此前，Anthropic首席执行官Dario …",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-14T23:58:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "37d0f2b234e7",
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "titleZh": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "summary": "围绕AI监管的博弈正在重塑美国政治版图，由多位科技行业领袖发起的“放缓AI发展”倡议，正引发华盛顿的剧烈分化。 一方面，极右翼与激进左翼罕见结盟呼吁加强监管；另一方面，美国总统特朗普明确拒绝为该行业设置严苛限制，以确保美国在科技领域的绝对领先优势。 特朗普周一在社交媒体上对近期业界的安全性警告予以强硬回击。据媒体报道，他将业界对AI失控的担忧定性为类似于“全…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-14T23:52:42.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "423d0a5a14fe",
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "titleZh": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "summary": "人工智能领军人物罕见联手呼吁放缓前沿模型开发，叠加中东局势恶化推动油价急涨。双重冲击令美股周一全线下跌，美债收益率盘中突破5%的心理关口，全球金融市场进入高度警戒状态。 （10年期美债收益率日内一度涨破5%） Anthropic首席执行官Dario Amodei发表逾3800字声明，呼吁放缓前沿AI模型开发速度，并获OpenAI CEO Sam Altman…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-14T23:18:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "dc15fdbd63e8",
+          "title": "Humanity’s Last Invention — Richard Socher of Recursive",
+          "titleZh": "Humanity’s Last Invention — Richard Socher of Recursive",
+          "url": "https://www.latent.space/p/recursive",
+          "summary": "At 1:09:00 we talk about the rise of AI x Finance, and AIE NYC is one month away - our hotel block is 97% sold out, get tix & travel ASAP - we will announce speakers from Bridgewat…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-14T16:04:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f2c10a3f54f5",
+          "title": "The AI industry has taken a doomer turn. What now?",
+          "titleZh": "The AI industry has taken a doomer turn. What now?",
+          "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
+          "summary": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . This weekend, Dario Amodei, CEO of Anthropic, posted…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-14T17:54:22.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "454ede40c241",
+          "title": "Donated livers can be made biologically younger",
+          "titleZh": "Donated livers can be made biologically younger",
+          "url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
+          "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution , bag it, and put it on ice—where it immediate…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-14T16:11:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fadc641c7cc",
+          "title": "AI agents blew the whistle on their cheating colleagues",
+          "titleZh": "AI agents blew the whistle on their cheating colleagues",
+          "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
+          "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the fir…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-14T16:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "64fc6321a3d8",
+          "title": "The contagion of fear",
+          "titleZh": "The contagion of fear",
+          "url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear/",
+          "summary": "The contagion of fear Bryan Cantrill responds to the tweet by former Anthropic employee Jacob Coxon confirming that many Anthropic researchers believe AI \"could kill us all by the …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-14T21:18:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2e0aefed94ba",
+          "title": "Prehistoric builders transported Devil's Arrows 11 miles",
+          "titleZh": "Prehistoric builders transported Devil's Arrows 11 miles",
+          "url": "https://arstechnica.com/science/2026/09/prehistoric-builders-transported-devils-arrows-11-miles/",
+          "summary": "Stonehenge is the most famous example of megalithic architecture across Britain and Ireland, but there are plenty of others, including Calanais, Newgrange, and Avebury, as well as …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-14T17:10:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "42f5ebf39b06",
+          "title": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "titleZh": "RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield",
+          "url": "https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/",
+          "summary": "US Health Secretary Robert F. Kennedy Jr. will deliver a keynote address at an anti-vaccine conference being held in Washington, DC, later this week and hosted by the anti-vaccine …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-14T22:06:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "89f898606cb2",
+          "title": "What blog posts influenced your thinking the most?",
+          "titleZh": "What blog posts influenced your thinking the most?",
+          "url": "https://simonwillison.net/2026/Sep/14/influences/",
+          "summary": "My comment on What blog posts influenced your thinking the most? &mdash; Lobste.rs. An early Joel Spolsky one for me was The Law of Leaky Abstractions . I read that near the start …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-14T20:21:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "9162f129b87e",
+          "title": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
+          "titleZh": "\"Look for other ways to get attention\": House Dems face new Trump impeachment blowup",
+          "url": "https://www.axios.com/2026/09/14/trump-impeachment-al-green-democrats-house-vote",
+          "summary": "Rep. Al Green (D-Texas) is facing swift and intense anger from his Democratic colleagues after announcing plans to force a vote to impeach President Trump this week. Why it matters…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-15T00:37:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4c606a407554",
+          "title": "Supreme Court strikes down USPS mail-in voting rule",
+          "titleZh": "Supreme Court strikes down USPS mail-in voting rule",
+          "url": "https://www.axios.com/2026/09/14/supreme-court-trump-mail-in-voting-rule",
+          "summary": "The Supreme Court struck down the U.S. Postal Service's rule restructuring mail-in voting Monday, halting a major Trump administration priority. The big picture: The 7-2 decision i…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-15T00:21:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ebfb30d453c2",
+          "title": "Thune sees role for Congress on AI — Trump does not",
+          "titleZh": "Thune sees role for Congress on AI — Trump does not",
+          "url": "https://www.axios.com/2026/09/14/ai-john-thune-republicans-donald-trump-congress",
+          "summary": "Majority Leader John Thune is asserting Congress' prerogative to act on AI — but he's urging a \"light touch\" even in the face of \"consequential risks.\" Why it matters: On his first…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-14T23:49:47.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "45f395137401",
+          "title": "Trump's $5,000 checks get chilly Senate GOP reception",
+          "titleZh": "Trump's $5,000 checks get chilly Senate GOP reception",
+          "url": "https://www.axios.com/2026/09/14/trump-republicans-5000-checks-mike-johnson-midterms",
+          "summary": "Data: OMB ; Chart: Erin Davis/Axios Visuals Senate Republicans are doubtful — and, in some cases, dismissive — of President Trump's proposal to give Americans $5,000 checks if Repu…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-14T23:49:20.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "773d839823ab",
+          "title": "McConnell returns to Capitol after 3-month absence",
+          "titleZh": "McConnell returns to Capitol after 3-month absence",
+          "url": "https://www.axios.com/2026/09/14/mitch-mcconnell-senate-republicans-capitol-vote-fall-hospital",
+          "summary": "Sen. Mitch McConnell voted at the U.S. Capitol on Monday for the first time in three months after being hospitalized in June. Why it matters: The Kentucky Republican's return could…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-14T22:10:33.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-15T00:51:43.829Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-15T00:51:43.829Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-15T00:51:43.829Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "c03963fd3f14",
+          "title": "Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26",
+          "titleZh": "Omdia: Global Semiconductor Revenue Surges 31% to Record $425B in 2Q26",
+          "url": "https://www.semiconductor-digest.com/omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-global-semiconductor-revenue-surges-31-to-record-425b-in-2q26",
+          "summary": "Global semiconductor revenue surpassed $425bn in 2Q26 reaching another all-time high as the market grew a record 31.4% quarter-over-quarter (QoQ), according to new research from Om…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-14T21:46:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1f446ea2919f",
+          "title": "MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026",
+          "titleZh": "MIRTEC to Showcase Cutting-Edge 3D Semiconductor Inspection System at SEMICON West 2026",
+          "url": "https://www.semiconductor-digest.com/mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026/?utm_source=rss&utm_medium=rss&utm_campaign=mirtec-to-showcase-cutting-edge-3d-semiconductor-inspection-system-at-semicon-west-2026",
+          "summary": "MIRTEC announced its participation in SEMICON West 2026. The premier event will be held from October 13-15, 2026, at the San Francisco Moscone Center. Visitors can find MIRTEC at B…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-14T21:40:02.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c44f58b89b8b",
+          "title": "The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort",
+          "titleZh": "The NY Creates and Micron Technology Joint Apprenticeship Program Welcomes First Cohort",
+          "url": "https://www.semiconductor-digest.com/the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort/?utm_source=rss&utm_medium=rss&utm_campaign=the-ny-creates-and-micron-technology-joint-apprenticeship-program-welcomes-first-cohort",
+          "summary": "NY Creates (the New York Center for Research, Economic Advancement, Technology, Engineering, and Science) and Micron Technology, Inc., held a signing ceremony where 10 apprentices …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-14T21:35:50.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d06a808f8979",
+          "title": "Hardware Assisted Verification Is Key to AI Chip Design",
+          "titleZh": "Hardware Assisted Verification Is Key to AI Chip Design",
+          "url": "https://www.semiconductor-digest.com/hardware-assisted-verification-is-key-to-ai-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=hardware-assisted-verification-is-key-to-ai-chip-design",
+          "summary": "By JUERGEN JAEGER , Director of Prototyping Product Strategy, Siemens EDA A decade ago, only the largest chipmakers could justify investing in hardware emulation to verify their bi…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-14T17:54:22.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "9ba2064fd8e8",
+          "title": "Huawei’s US trial puts jury to the test amid China, Iran links",
+          "titleZh": "Huawei’s US trial puts jury to the test amid China, Iran links",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367516/huaweis-us-trial-puts-jury-test-amid-china-iran-links?utm_source=rss_feed",
+          "summary": "The unique circumstances surrounding Huawei Technologies’ landmark trial in a US court made jury selection especially important to ensuring a fair trial for the Chinese tech giant,…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-14T23:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9f5e0a472d38",
+          "title": "Hochul’s how-to guide to stopping ICE",
+          "titleZh": "Hochul’s how-to guide to stopping ICE",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/14/hochuls-how-to-guide-to-stopping-ice-01075287",
+          "summary": "ICE TO SEE YOU: Gov. Kathy Hochul’s office is advising local governments that zoning and state environmental laws can stymie Immigration and Customs Enforcement from building or ex…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-14T21:03:18.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "75139b866781",
+          "title": "Texas GOP candidate stands by xenophobic comments following backlash",
+          "titleZh": "Texas GOP candidate stands by xenophobic comments following backlash",
+          "url": "https://www.politico.com/news/2026/09/14/bo-french-ut-football-students-01075214",
+          "summary": "Bo French, the GOP nominee for a spot on the Texas Railroad Commission, doubled down on Monday on a xenophobic post that disparaged Asian American students at the University of Tex…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-14T20:12:44.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "29fa5d564f96",
+          "title": "The 2026 race that’s testing Andy Beshear’s 2028 reach",
+          "titleZh": "The 2026 race that’s testing Andy Beshear’s 2028 reach",
+          "url": "https://www.politico.com/news/2026/09/14/beshear-texas-governor-hinojosa-01074891",
+          "summary": "Kentucky Gov. Andy Beshear has a simmering Latino revolt on his hands. Quelling it could come down to Texas. A group of Latino Democratic officials — including operatives and local…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-14T18:55:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "07a32568f439",
+          "title": "California moves to cut red tape for heat pumps, solar, and more",
+          "titleZh": "California moves to cut red tape for heat pumps, solar, and more",
+          "url": "https://www.canarymedia.com/articles/heat-pumps/california-to-cut-red-tape-heat-pumps-solar",
+          "summary": "Californians could soon find it easier and cheaper to install rooftop solar, home batteries, and energy-saving heat pumps and heat-pump water heaters. Late last month, the state Le…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-14T20:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b7188a83e47",
+          "title": "Gavin Newsom’s complicated legacy on climate and clean energy",
+          "titleZh": "Gavin Newsom’s complicated legacy on climate and clean energy",
+          "url": "https://www.canarymedia.com/articles/clean-energy/gavin-newsom-complicated-clean-energy-legacy",
+          "summary": "Gavin Newsom’s eight-year run as California’s Democratic governor — and as self-styled U.S. climate change warrior — comes to an end in January. At this pivotal moment for the stat…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-14T16:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a22b52fe6fc7",
+          "title": "Revealed: England’s June 2026 heatwave sparked record demand for ambulances",
+          "titleZh": "Revealed: England’s June 2026 heatwave sparked record demand for ambulances",
+          "url": "https://www.carbonbrief.org/revealed-englands-june-2026-heatwave-sparked-record-demand-for-ambulances",
+          "summary": "Print article Share All the ambulance services in England experienced some of their busiest-ever days during this summer’s record-breaking June heatwave, according to data obtained…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-14T07:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "12ce311703e8",
+          "title": "AI’s best coding agent fails 60% of the time — and the data backs it up",
+          "titleZh": "AI’s best coding agent fails 60% of the time — and the data backs it up",
+          "url": "https://thenewstack.io/real-swe-coding-benchmark/",
+          "summary": "Claude Fable 5.1 just won a new coding benchmark despite failing more than six out of 10 times. Its 38.8% score comes from Real-SWE, a benchmark from Y Combinator-backed Specific L…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-14T22:22:27.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "580ab437c4f9",
+          "title": "Perplexity’s new agent runs entirely on your GPU — with one expensive catch",
+          "titleZh": "Perplexity’s new agent runs entirely on your GPU — with one expensive catch",
+          "url": "https://thenewstack.io/perplexity-portable-computer-windows/",
+          "summary": "Running an LLM on your PC is easy enough , but putting an agent to work there is a different story. Portable Computer, the local version of Perplexity’s Computer agent, is now avai…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-14T18:21:44.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "77e53393d654",
+          "title": "AI keeps finding security flaws — here’s what to fix first",
+          "titleZh": "AI keeps finding security flaws — here’s what to fix first",
+          "url": "https://thenewstack.io/vulnerability-prioritization-business-context/",
+          "summary": "A security researcher testing a 300-person B2B company with a global footprint discovered an internet-exposed database with weak authentication during a routine scan. The database …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-14T15:20:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dd7ad4e63ccf",
+          "title": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
+          "titleZh": "Your AI coding spend bought 25% more output. Duplication rose 81%.",
+          "url": "https://thenewstack.io/ai-coding-duplication-rose/",
+          "summary": "Since they arrived on the scene , a great swathe of the software industry has pinned its hopes on AI tools, whether that’s early chat interfaces or modern agentic swarms. But the t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-14T14:39:14.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 37,
+    "itemsFiltered": 2,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 69,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
