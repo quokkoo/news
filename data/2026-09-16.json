@@ -1,0 +1,1158 @@
+{
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T00:44:45.017Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 71 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "2485805189b7",
+        "reason": "Google DeepMind 等 2 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "5e60a4e4b0bb",
+          "title": "字节跳动上半年营收直追Meta，但受AI投入拖累，利润降至200亿美元",
+          "titleZh": "字节跳动上半年营收直追Meta，但受AI投入拖累，利润降至200亿美元",
+          "url": "https://wallstreetcn.com/articles/3781844",
+          "summary": "字节跳动正站在规模扩张与利润承压的十字路口。这家中国最大科技公司上半年营收强劲增长，几乎与Meta并驾齐驱，但大规模AI投入正在侵蚀其盈利能力，利润出现多年来罕见的下滑。 据科技媒体The Information报道，三位知情人士透露，字节跳动今年上半年净利润同比下降个位数百分比，至约200亿美元；同期营收同比增长约30%，达到约1200亿美元。与此同时，M…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T00:31:28.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0691abeffd7c",
+          "title": "笃信今晚美联储加息！美债市场现“极端空头”",
+          "titleZh": "笃信今晚美联储加息！美债市场现“极端空头”",
+          "url": "https://wallstreetcn.com/articles/3781839",
+          "summary": "美债市场空头仓位已积累至近年罕见水平，交易员正押注美联储今晚将重启加息周期。 美国10年期国债收益率周二升至2007年以来最高水平，2年期收益率亦触及2024年以来峰值。市场定价显示，华尔街对美联储今晚会议加息25个基点的概率预期已超过90%。利率互换市场则反映，今年余下时间美联储累计紧缩幅度约为50个基点。 花旗策略师David Bieber表示，\"过去一…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T00:23:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7660eb0505f5",
+          "title": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
+          "titleZh": "1票之差！“里程碑”式数字货币法案未能通过美国参议院，币圈遭重击",
+          "url": "https://wallstreetcn.com/articles/3781823",
+          "summary": "美国参议院周二在程序性投票中否决了一项具有里程碑意义的数字资产监管法案，彻底击碎了加密货币行业期待已久的政策催化剂，并引发了市场的剧烈抛售。 据报道，旨在为数字资产建立全面监管框架的《数字资产市场结构清晰法案》（Clarity Act）以49票赞成、50票反对的结果未能推进，距离通过所需的60票门槛仍有差距。受此消息冲击，比特币价格一度下跌5.3%至7491…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T00:06:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b031737096e5",
+          "title": "油价=美债！高盛和野村观点一致：能源才是主导市场的关键，而非AI",
+          "titleZh": "油价=美债！高盛和野村观点一致：能源才是主导市场的关键，而非AI",
+          "url": "https://wallstreetcn.com/articles/3781841",
+          "summary": "当市场还在争论AI能否支撑估值时，两家华尔街顶级机构已经给出了截然不同的答案：真正在驱动市场的，是原油。 高盛单一德尔塔交易台负责人Rich Privorotsky与野村顶级跨资产策略师Charlie McElligott从各自不同的分析框架出发，却得出了完全一致的结论：原油决定债券市场，债券市场决定风险资产，在油价停止上涨之前，所有估值逻辑——包括AI叙事…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T23:55:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b973c45e8e5f",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月16日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月16日",
+          "url": "https://wallstreetcn.com/articles/3781834",
+          "summary": "华见早安之声 要闻精选 国家统计局公布8月经济数据，规模以上工业增加值同比增长5.2%、高技术制造业增加值增长16.7%，社会消费品零售总额同比增长0.4%，1至8月城镇固定资产投资同比下降7.2%、房地产开发投资下降19.9%。70城房价：一线城市新房价格环比由持平转为上涨0.1%，二三线城市房价环比降幅总体收窄。 《求是》杂志发表习近平总书记重要文章《在…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T23:08:32.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23572fb31985",
+          "title": "日本被曝拟将防务开支翻倍至GDP 3.5%，防务省否认，日债收益率仍创三十年新高",
+          "titleZh": "日本被曝拟将防务开支翻倍至GDP 3.5%，防务省否认，日债收益率仍创三十年新高",
+          "url": "https://wallstreetcn.com/articles/3781830",
+          "summary": "当地时间25日周二传出日本考虑大幅提升防务开支中期目标的消息，本已承压的日本国债市场再度剧烈震荡。市场对日本财政可持续性的担忧骤然升温，基准日债收益率体现的长期利率指标又创三十年新高。在首相高市早苗同步推进减税与扩军的政策组合下，日本债务管理面临的挑战正引发投资者的高度警惕。 据彭博报道，知情人士透露，日本防务官员已在与美国的会谈中释放出大幅增加防务开支的意…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-15T22:17:06.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "2485805189b7",
+          "title": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "titleZh": "Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking",
+          "url": "https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/",
+          "summary": "Sep 15, 2026 | Gemini 3.8 Live and Gemini 3.8 Live Extended Thinking are our most advanced live dialogue models yet. Major upgrades in intelligence and parallel reasoning make them…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-15T17:05:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 8.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ce0c92518d7c",
+          "title": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+          "titleZh": "Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train",
+          "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/",
+          "summary": "Modern search or recommendation applications are increasingly expected to return a coherent set of results rather than a single best match. For example, when a user searches for \"c…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-15T20:00:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7df8ef032bc8",
+          "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+          "titleZh": "Can Skills Learned in Games Transfer to Real-World Work?",
+          "url": "https://www.latent.space/p/good-start-labs",
+          "summary": "“Games have always been these underrated educational tools. They’re super approachable. They’re very human.” Those are the words of Alex Duffy , co-founder and CEO of Good Start La…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-15T20:11:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d077af0ce5e5",
+          "title": "Your Agent Aced the Task. Will It Do It Again?",
+          "titleZh": "Your Agent Aced the Task. Will It Do It Again?",
+          "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+          "summary": "Your agent works in rehearsal, but during the live demo, it takes a different path and fails the same task. That is embarrassing onstage. In production, it is a reliability problem…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-15T16:00:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3fa812b8f20b",
+          "title": "Gemini Live audio",
+          "titleZh": "Gemini Live audio",
+          "url": "https://simonwillison.net/2026/Sep/15/gemini-live/",
+          "summary": "Tool: Gemini Live audio Google released Gemini 3.8 Live and 3.8 Live Extended Thinking today - two new speech-to-speech models that are a similar shape to OpenAI's GPT-Live family.…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-15T22:47:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "20549f551d53",
+          "title": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+          "titleZh": "Demand for EV chargers is outstripping supply, says ChargePoint report",
+          "url": "https://arstechnica.com/cars/2026/09/ev-charging-infrastructure-is-still-lagging-adoption-report-says/",
+          "summary": "There might not be the same degree of optimism regarding electric vehicle adoption as a few short years ago, but the transition toward battery-electric vehicles continues neverthel…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-15T17:58:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "82cdefa87453",
+          "title": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+          "titleZh": "The Roman telescope has enough gas for 22 years, double NASA's expectations",
+          "url": "https://arstechnica.com/space/2026/09/the-roman-telescope-has-enough-gas-for-22-years-double-nasas-expectations/",
+          "summary": "NASA's Nancy Grace Roman Space Telescope is gliding toward its distant observation post on a pinpoint trajectory so precise that engineers estimate the spacecraft's fuel load will …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-15T22:26:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e13ef59e7db8",
+          "title": "Roundtables: Could AI really kill us all?",
+          "titleZh": "Roundtables: Could AI really kill us all?",
+          "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
+          "summary": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is t…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-09-15T17:47:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "b8a0010f4068",
+          "title": "AI panic sparks rare bipartisan moment on Capitol Hill",
+          "titleZh": "AI panic sparks rare bipartisan moment on Capitol Hill",
+          "url": "https://www.axios.com/2026/09/15/ai-congress-regulation-bill-trump-bipartisan",
+          "summary": "Lawmakers who want to regulate AI are doing something unusual as Congress barrels towards a lengthy recess with no tangible solution in sight: They're working across the aisle. Why…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-15T23:08:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "71850369142e",
+          "title": "House GOP's Epstein files headache is back",
+          "titleZh": "House GOP's Epstein files headache is back",
+          "url": "https://www.axios.com/2026/09/15/house-republicans-epstein-files-thomas-massie",
+          "summary": "The Epstein files fight that consumed the House last year is threatening to engulf Republicans all over again. Why it matters: Rep. Thomas Massie (R-Ky.) is now just one Republican…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-15T22:30:49.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "855938cc4d37",
+          "title": "How Ed Sheeran's tour imploded over a geopolitical fight",
+          "titleZh": "How Ed Sheeran's tour imploded over a geopolitical fight",
+          "url": "https://www.axios.com/2026/09/15/ed-sheeran-loop-tour-macklemore-gaza-backlash",
+          "summary": "Ed Sheeran's world tour spiraled into chaos this week after one opener was removed, every remaining opening act quit and stadiums threatened to pull the plug on the tour. Why it ma…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-15T21:53:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59e28a5a456b",
+          "title": "AI眼镜，谁是第一？",
+          "titleZh": "AI眼镜，谁是第一？",
+          "url": "https://www.huxiu.com/article/4891494.html?f=rss",
+          "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 “百镜大战”里的口径生意。 定焦One（dingjiaoone）原创 张茗是一家国资背景投资基金的经理。2024年10月她在深圳出差时看了几家AI眼镜公司，最终没有出手。彼时AI眼镜已经在海外火了大约半年，但一级市场对这种产品形态还没有形成共识，很多人和她一样，选择了只看不投。 几个月后，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-16T00:34:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a0b29286423",
+          "title": "重启人生的10件小事",
+          "titleZh": "重启人生的10件小事",
+          "url": "https://www.huxiu.com/article/4891480.html?f=rss",
+          "summary": "本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：视觉中国 心理学上有一个概念，叫“重新开始效应”（fresh start effect）。 2014 年，宾大沃顿商学院的一项研究发现，人们在某些时间节点上，会明显更愿意做出改变。比如一年的开始、一个月的开始、一周的第一天，或者是生日之后。 因为这些节点，在心理上帮我们划出了…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-16T00:29:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-16T00:44:35.331Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-16T00:44:35.331Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-16T00:44:35.331Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "912b7f980b87",
+          "title": "Aircraft Actuator Electrification Redefines System-Level Architecture",
+          "titleZh": "Aircraft Actuator Electrification Redefines System-Level Architecture",
+          "url": "https://www.eetimes.com/aircraft-actuator-electrification-redefines-system-level-architecture/",
+          "summary": "“Electric” aircraft are getting a lot of attention lately. Whether it’s all-electric air taxis, small passenger aircraft that are all-electric or hybrid electric/hydrocarbon, or ev…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-15T19:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "71d81bdb9a27",
+          "title": "Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah",
+          "titleZh": "Gradiant Wins New Water Contracts for Major US Semiconductor Fabs in New York, Virginia, Idaho, and Utah",
+          "url": "https://www.semiconductor-digest.com/gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah/?utm_source=rss&utm_medium=rss&utm_campaign=gradiant-wins-new-water-contracts-for-major-us-semiconductor-fabs-in-new-york-virginia-idaho-and-utah",
+          "summary": "Gradiant , the water layer of the AI economy, today announced $300 million in new contracts from semiconductor manufacturing customers since the start of 2026, reflecting strong co…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-15T22:20:07.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0a7344ef2f7c",
+          "title": "Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies",
+          "titleZh": "Aeluma Executes Strategic Agreement with Sumitomo Chemical Advanced Technologies",
+          "url": "https://www.semiconductor-digest.com/aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-executes-strategic-agreement-with-sumitomo-chemical-advanced-technologies",
+          "summary": "Aeluma, Inc., a semiconductor company specializing in high-performance, scalable technologies for AI, mobile and consumer, defense and aerospace, and quantum, announced today it ha…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-15T22:17:19.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "05c6f976d9dc",
+          "title": "TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems",
+          "titleZh": "TeRAM Emerges from Stealth with $37M to Develop 3D SRAM for AI Systems",
+          "url": "https://www.semiconductor-digest.com/teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=teram-emerges-from-stealth-with-37m-to-develop-3d-sram-for-ai-systems",
+          "summary": "TeRAM today emerged from stealth with $37 million in equity financing from early-stage investors to tackle the memory wall facing AI deployment. The company is developing custom 3D…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-15T22:13:17.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "9f8dec4c5010",
+          "title": "Beijing hosts Xiangshan Forum, marking 20th anniversary of China’s top defence conference",
+          "titleZh": "Beijing hosts Xiangshan Forum, marking 20th anniversary of China’s top defence conference",
+          "url": "https://www.scmp.com/news/china/military/article/3367649/beijing-hosts-xiangshan-forum-marking-20th-anniversary-chinas-top-defence-conference?utm_source=rss_feed",
+          "summary": "This live article is freely available to our registered users. Please log in or create an account below. Beijing is hosting China’s most important annual defence conference, the Be…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-16T00:26:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b4937ac43e54",
+          "title": "Department of Investigation eyes NYPD disability pensions",
+          "titleZh": "Department of Investigation eyes NYPD disability pensions",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/15/department-of-investigation-eyes-nypd-disability-pensions-01078076",
+          "summary": "HELP! I’VE FALLEN AND I CAN GET UP: A report from the New York City Department of Investigation confirmed today what many political watchers have long suspected — that the city’s p…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-15T21:28:42.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "8e7c58590fdd",
+          "title": "CCC: Heathrow expansion could push flights to ‘80% of UK emissions by 2050’",
+          "titleZh": "CCC: Heathrow expansion could push flights to ‘80% of UK emissions by 2050’",
+          "url": "https://www.carbonbrief.org/ccc-heathrow-expansion-could-push-flights-to-80-of-uk-emissions-by-2050",
+          "summary": "Print article Share Aviation is on track to be responsible for 80% of the UK’s carbon dioxide (CO2) emissions by 2050, according to the Climate Change Committee (CCC). Emissions fr…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-15T23:01:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ec55cdae67a9",
+          "title": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards",
+          "titleZh": "EPA scraps Biden power plant GHG rules, moves to eliminate other standards",
+          "url": "https://www.utilitydive.com/news/epa-scraps-biden-power-plant-ghg-rules-moves-to-eliminate-other-standards/830433/",
+          "summary": "Rachael Marsh, chief legal officer at the Edison Electric Institute, which represents investor-owned utilities, said in an emailed statement to Utility Dive that the group supporte…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-15T17:00:17.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "588f2999cacd",
+          "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
+          "titleZh": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
+          "summary": "The U.S. Food and Drug Administration today announced the final design of the Expedited Investigational New Drug (IND) Pilot.",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-15T13:53:31.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1f3135097e0a",
+          "title": "Why AI agents invent their own language if you let them chat",
+          "titleZh": "Why AI agents invent their own language if you let them chat",
+          "url": "https://www.science.org/content/article/why-ai-agents-invent-their-own-language-if-you-let-them-chat",
+          "summary": "“Weird terms” are a natural—but disturbing—byproduct of agent swarms, researchers find",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-15T12:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fb100fdd9b26",
+          "title": "Exclusive: New NIH research center on vaccine harms takes shape",
+          "titleZh": "Exclusive: New NIH research center on vaccine harms takes shape",
+          "url": "https://www.science.org/content/article/exclusive-new-nih-research-center-vaccine-harms-takes-shape",
+          "summary": "Clinical researchers will probe complications that can arise after immunization, but some worry about political influence",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-15T09:55:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "79a39a78a1bb",
+          "title": "OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents",
+          "titleZh": "OpenAI president: “The computer should be there to empower you.” So stop retooling software for AI agents",
+          "url": "https://thenewstack.io/computer-use-agent-connectors/",
+          "summary": "This week on the a16z show , Greg Brockman , president and co-founder of OpenAI, made the point that developers have been &ldquo;retooling the world&rdquo; to make software more ac…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-15T23:41:22.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "475ad9fd52c9",
+          "title": "Meta lets Claude and Codex configure WhatsApp Business via MCP",
+          "titleZh": "Meta lets Claude and Codex configure WhatsApp Business via MCP",
+          "url": "https://thenewstack.io/meta-mcp-whatsapp-business-claude/",
+          "summary": "Any business worth its salt in 2026 needs to be embracing the right tools to reach its customers, and few tools carry as much weight as WhatsApp. Paid messaging on the app crossed …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-15T22:08:56.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cebf7da642a6",
+          "title": "OpenAI’s voice model doesn’t think. That’s the point.",
+          "titleZh": "OpenAI’s voice model doesn’t think. That’s the point.",
+          "url": "https://thenewstack.io/voice-agent-latency-architectures/",
+          "summary": "Voice agents have a latency problem that shows up as soon as they have to do real work. Within five days, Google and OpenAI shipped two very different fixes. On Tuesday, Google lau…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-15T21:50:15.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06586241202e",
+          "title": "AWS agents will suggest your new flights. Code decides what gets booked.",
+          "titleZh": "AWS agents will suggest your new flights. Code decides what gets booked.",
+          "url": "https://thenewstack.io/aws-agents-deterministic-validation/",
+          "summary": "AWS published a new Step Functions pattern this week that gives AI agents a role in airline rebooking while keeping reservation changes and payments under code&rsquo;s control. Ama…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-15T21:27:21.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "2485805189b7",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 37,
+    "itemsFiltered": 1,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 70,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
