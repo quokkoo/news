@@ -1,9 +1,14 @@
 {
-  "updatedAt": "2026-09-16T00:44:43.634Z",
+  "updatedAt": "2026-09-17T00:51:18.357Z",
   "sources": {
     "wsj-markets": {
       "name": "WSJ Markets",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 24
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -33,11 +38,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 27
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 24
         }
       ],
       "consecutiveFailures": 0,
@@ -46,6 +46,11 @@
     "wsj-world": {
       "name": "WSJ World News",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 15
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -75,11 +80,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 14
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 16
         }
       ],
       "consecutiveFailures": 0,
@@ -88,6 +88,11 @@
     "wsj-business": {
       "name": "WSJ Business",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 29
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -117,11 +122,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 31
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 28
         }
       ],
       "consecutiveFailures": 0,
@@ -130,6 +130,11 @@
     "bloomberg-markets": {
       "name": "Bloomberg Markets",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 19
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -159,11 +164,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 20
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 20
         }
       ],
       "consecutiveFailures": 0,
@@ -172,6 +172,11 @@
     "bloomberg-economics": {
       "name": "Bloomberg Economics",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 20
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -201,11 +206,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 20
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 18
         }
       ],
       "consecutiveFailures": 0,
@@ -214,6 +214,11 @@
     "cnbc-economy": {
       "name": "CNBC Economy",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -243,11 +248,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -256,6 +256,11 @@
     "cnbc-finance": {
       "name": "CNBC Finance",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -285,11 +290,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -298,6 +298,11 @@
     "marketwatch-top": {
       "name": "MarketWatch",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -327,11 +332,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 10
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -340,6 +340,11 @@
     "ftchinese": {
       "name": "FT中文网",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -369,11 +374,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 10
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -382,6 +382,11 @@
     "wallstreetcn": {
       "name": "华尔街见闻",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 61
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -411,11 +416,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 65
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 58
         }
       ],
       "consecutiveFailures": 0,
@@ -425,6 +425,11 @@
       "name": "东方财富",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 23
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 7
@@ -453,11 +458,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 8
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 22
         }
       ],
       "consecutiveFailures": 0,
@@ -467,6 +467,11 @@
       "name": "美联储公告",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -495,11 +500,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -508,6 +508,11 @@
     "ecb-press": {
       "name": "欧洲央行公告",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -537,11 +542,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -550,6 +550,11 @@
     "calculated-risk": {
       "name": "Calculated Risk",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -577,11 +582,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -593,6 +593,11 @@
       "name": "Reuters（经 Google News）",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 40
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 40
@@ -621,11 +626,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 40
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 40
         }
       ],
       "consecutiveFailures": 0,
@@ -634,6 +634,11 @@
     "techcrunch": {
       "name": "TechCrunch",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 20
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -663,11 +668,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 20
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 20
         }
       ],
       "consecutiveFailures": 0,
@@ -676,6 +676,11 @@
     "theverge": {
       "name": "The Verge",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -705,11 +710,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 10
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -718,6 +718,11 @@
     "arstechnica": {
       "name": "Ars Technica",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 16
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -747,11 +752,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 9
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 16
         }
       ],
       "consecutiveFailures": 0,
@@ -760,6 +760,11 @@
     "hn-front": {
       "name": "Hacker News",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 7
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -790,11 +795,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Request timed out after 15000ms"
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 14
         }
       ],
       "consecutiveFailures": 0,
@@ -803,6 +803,11 @@
     "hn-best": {
       "name": "Hacker News Best",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 9
+        },
         {
           "date": "2026-09-16",
           "ok": false,
@@ -836,19 +841,19 @@
           "ok": false,
           "itemCount": 0,
           "error": "Status code 502"
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 10
         }
       ],
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 0,
       "successRate7d": 0.42857142857142855
     },
     "mit-tr": {
       "name": "MIT Technology Review",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -878,11 +883,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 6
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -891,6 +891,11 @@
     "openai-news": {
       "name": "OpenAI",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -920,11 +925,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -933,6 +933,11 @@
     "deepmind": {
       "name": "Google DeepMind",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -960,11 +965,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -976,6 +976,11 @@
       "name": "Google Research",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 1
@@ -1004,11 +1009,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1018,6 +1018,11 @@
       "name": "Hugging Face",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 1
@@ -1046,11 +1051,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1060,6 +1060,12 @@
       "name": "Import AI",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-09-16",
           "ok": false,
           "itemCount": 0,
@@ -1091,12 +1097,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
-        },
-        {
-          "date": "2026-09-10",
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"
@@ -1109,6 +1109,11 @@
       "name": "Latent Space",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 2
@@ -1135,11 +1140,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 1
         }
@@ -1151,6 +1151,11 @@
       "name": "Interconnects",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1179,11 +1184,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1192,6 +1192,11 @@
     "simonwillison": {
       "name": "Simon Willison",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1222,11 +1227,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1235,6 +1235,11 @@
     "semafor-tech": {
       "name": "Semafor",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 31
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1264,11 +1269,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 27
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 36
         }
       ],
       "consecutiveFailures": 0,
@@ -1277,6 +1277,11 @@
     "ifanr": {
       "name": "爱范儿",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1306,11 +1311,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 6
         }
       ],
       "consecutiveFailures": 0,
@@ -1319,6 +1319,11 @@
     "geekpark": {
       "name": "极客公园",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1349,11 +1354,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -1362,6 +1362,11 @@
     "cnbeta": {
       "name": "cnBeta",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 72
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1392,11 +1397,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 80
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 80
         }
       ],
       "consecutiveFailures": 0,
@@ -1405,6 +1405,11 @@
     "solidot": {
       "name": "Solidot",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 12
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1434,11 +1439,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 8
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 8
         }
       ],
       "consecutiveFailures": 0,
@@ -1447,6 +1447,11 @@
     "stratechery": {
       "name": "Stratechery",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1474,11 +1479,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 1
         }
@@ -1490,6 +1490,11 @@
       "name": "The Generalist",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1518,11 +1523,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1531,6 +1531,11 @@
     "huxiu": {
       "name": "虎嗅",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 23
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1560,11 +1565,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 15
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 15
         }
       ],
       "consecutiveFailures": 0,
@@ -1573,6 +1573,11 @@
     "tmtpost": {
       "name": "钛媒体",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 19
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1602,11 +1607,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 19
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 17
         }
       ],
       "consecutiveFailures": 0,
@@ -1615,6 +1615,11 @@
     "axios": {
       "name": "Axios",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 17
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1644,11 +1649,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 9
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 16
         }
       ],
       "consecutiveFailures": 0,
@@ -1657,6 +1657,11 @@
     "exponential-view": {
       "name": "Exponential View",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1684,11 +1689,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -1700,6 +1700,11 @@
       "name": "Paul Graham",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 20
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 20
@@ -1726,11 +1731,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 20
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 20
         }
@@ -1742,6 +1742,11 @@
       "name": "Not Boring",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1770,11 +1775,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1784,6 +1784,11 @@
       "name": "Sequoia Capital",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1810,11 +1815,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -1826,6 +1826,11 @@
       "name": "Astral Codex Ten",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1854,11 +1859,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1867,6 +1867,11 @@
     "marginalrevolution": {
       "name": "Marginal Revolution",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1896,11 +1901,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -1909,6 +1909,11 @@
     "benedictevans": {
       "name": "Benedict Evans",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -1936,11 +1941,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -1952,6 +1952,11 @@
       "name": "One Useful Thing",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -1978,11 +1983,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -1994,6 +1994,11 @@
       "name": "Construction Physics",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -2020,11 +2025,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -2036,6 +2036,11 @@
       "name": "Noahpinion",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -2064,11 +2069,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -2078,6 +2078,11 @@
       "name": "The Pragmatic Engineer",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -2106,11 +2111,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2119,6 +2119,11 @@
     "semianalysis": {
       "name": "SemiAnalysis",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2146,11 +2151,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -2161,6 +2161,11 @@
     "digitimes": {
       "name": "DigiTimes Asia",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 35
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2190,11 +2195,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 35
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 35
         }
       ],
       "consecutiveFailures": 0,
@@ -2203,6 +2203,11 @@
     "eetimes": {
       "name": "EE Times",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2232,11 +2237,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -2245,6 +2245,11 @@
     "nikkei-asia": {
       "name": "日经亚洲",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 50
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2274,11 +2279,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 50
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 50
         }
       ],
       "consecutiveFailures": 0,
@@ -2287,6 +2287,11 @@
     "tomshardware": {
       "name": "Tom's Hardware",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 17
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2316,11 +2321,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 18
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 18
         }
       ],
       "consecutiveFailures": 0,
@@ -2329,6 +2329,11 @@
     "trendforce": {
       "name": "TrendForce",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2358,11 +2363,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2371,6 +2371,11 @@
     "semiconductor-digest": {
       "name": "Semiconductor Digest",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 6
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2400,11 +2405,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -2413,6 +2413,11 @@
     "politico": {
       "name": "Politico",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2442,11 +2447,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -2455,6 +2455,11 @@
     "foreignaffairs": {
       "name": "Foreign Affairs",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2484,11 +2489,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -2497,6 +2497,11 @@
     "scmp-china": {
       "name": "南华早报",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 17
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2526,11 +2531,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 17
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 20
         }
       ],
       "consecutiveFailures": 0,
@@ -2539,6 +2539,11 @@
     "gnews-export-controls": {
       "name": "出口管制（Google News）",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 40
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2568,11 +2573,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 26
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 40
         }
       ],
       "consecutiveFailures": 0,
@@ -2581,6 +2581,11 @@
     "canarymedia": {
       "name": "Canary Media",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2610,11 +2615,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -2623,6 +2623,11 @@
     "carbonbrief": {
       "name": "Carbon Brief",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2652,11 +2657,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2665,6 +2665,11 @@
     "utilitydive": {
       "name": "Utility Dive",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2694,11 +2699,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -2707,6 +2707,12 @@
     "heatmap": {
       "name": "Heatmap News",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        },
         {
           "date": "2026-09-16",
           "ok": false,
@@ -2742,12 +2748,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Feed not recognized as RSS 1 or 2."
-        },
-        {
-          "date": "2026-09-10",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
       "consecutiveFailures": 7,
@@ -2756,6 +2756,11 @@
     "statnews": {
       "name": "STAT News",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 11
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2785,11 +2790,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 14
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 11
         }
       ],
       "consecutiveFailures": 0,
@@ -2798,6 +2798,11 @@
     "endpoints": {
       "name": "Endpoints News",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 8
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -2827,11 +2832,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 9
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 11
         }
       ],
       "consecutiveFailures": 0,
@@ -2840,6 +2840,12 @@
     "fiercepharma": {
       "name": "FiercePharma",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "html.replace is not a function"
+        },
         {
           "date": "2026-09-16",
           "ok": false,
@@ -2872,12 +2878,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": false,
-          "itemCount": 0,
-          "error": "html.replace is not a function"
-        },
-        {
-          "date": "2026-09-10",
           "ok": false,
           "itemCount": 0,
           "error": "html.replace is not a function"
@@ -2890,6 +2890,11 @@
       "name": "Nature News",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -2916,11 +2921,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -2932,6 +2932,11 @@
       "name": "Science News",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 4
@@ -2960,11 +2965,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -2974,6 +2974,11 @@
       "name": "FDA 公告",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 1
@@ -3000,11 +3005,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -3015,6 +3015,11 @@
     "github-blog": {
       "name": "GitHub Blog",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3044,11 +3049,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3057,6 +3057,11 @@
     "hn-show": {
       "name": "Hacker News Show HN",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3089,20 +3094,19 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 502"
         }
       ],
       "consecutiveFailures": 0,
-      "successRate7d": 0.42857142857142855
+      "successRate7d": 0.5714285714285714
     },
     "infoq-en": {
       "name": "InfoQ",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 9
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3132,11 +3136,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 6
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -3145,6 +3144,12 @@
     "infoq-cn": {
       "name": "InfoQ 中文",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        },
         {
           "date": "2026-09-16",
           "ok": false,
@@ -3180,12 +3185,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Feed not recognized as RSS 1 or 2."
-        },
-        {
-          "date": "2026-09-10",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
       "consecutiveFailures": 7,
@@ -3194,6 +3193,11 @@
     "changelog": {
       "name": "Changelog",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3223,11 +3227,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3236,6 +3235,11 @@
     "golang-blog": {
       "name": "Go Blog",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3263,11 +3267,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -3279,6 +3278,11 @@
       "name": "Rust Blog",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 0
@@ -3307,11 +3311,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3320,6 +3319,11 @@
     "thenewstack": {
       "name": "The New Stack",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3349,11 +3353,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 14
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 6
         }
       ],
       "consecutiveFailures": 0,
@@ -3362,6 +3361,11 @@
     "sspai": {
       "name": "少数派",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3391,11 +3395,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 6
         }
       ],
       "consecutiveFailures": 0,
@@ -3405,6 +3404,11 @@
       "name": "arXiv cs.AI",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 120
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 120
@@ -3433,11 +3437,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 120
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3447,6 +3446,11 @@
       "name": "arXiv cs.LG",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 120
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 120
@@ -3475,11 +3479,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 120
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3488,6 +3487,11 @@
     "arxiv-cl": {
       "name": "arXiv cs.CL",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 120
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3517,11 +3521,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 120
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3530,6 +3529,11 @@
     "arxiv-econ": {
       "name": "arXiv econ.GN",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 8
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3559,11 +3563,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 14
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3572,6 +3571,11 @@
     "arxiv-qbio": {
       "name": "arXiv q-bio",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 26
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3601,11 +3605,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 31
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3614,6 +3613,11 @@
     "nature-research": {
       "name": "Nature 研究论文",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3641,11 +3645,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 0
         }
@@ -3657,6 +3656,11 @@
       "name": "Rest of World",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-09-16",
           "ok": true,
           "itemCount": 1
@@ -3683,11 +3687,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": true,
-          "itemCount": 1
-        },
-        {
-          "date": "2026-09-10",
           "ok": true,
           "itemCount": 1
         }
@@ -3699,6 +3698,12 @@
       "name": "Business of Fashion",
       "history": [
         {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-09-16",
           "ok": false,
           "itemCount": 0,
@@ -3733,12 +3738,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"
-        },
-        {
-          "date": "2026-09-10",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
         }
       ],
       "consecutiveFailures": 7,
@@ -3747,6 +3746,11 @@
     "modernretail": {
       "name": "Modern Retail",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3776,11 +3780,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -3789,6 +3788,11 @@
     "technode": {
       "name": "TechNode",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 7
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3818,11 +3822,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 10
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 11
         }
       ],
       "consecutiveFailures": 0,
@@ -3831,6 +3830,11 @@
     "theblock": {
       "name": "The Block",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3860,11 +3864,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 12
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 14
         }
       ],
       "consecutiveFailures": 0,
@@ -3873,6 +3872,11 @@
     "coindesk": {
       "name": "CoinDesk",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 25
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3902,11 +3906,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 24
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 25
         }
       ],
       "consecutiveFailures": 0,
@@ -3915,6 +3914,11 @@
     "blockworks": {
       "name": "Blockworks",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3944,11 +3948,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3957,6 +3956,11 @@
     "bankless": {
       "name": "Bankless",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-09-16",
           "ok": true,
@@ -3986,11 +3990,6 @@
           "date": "2026-09-11",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-09-10",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -3999,6 +3998,12 @@
     "fintech-weekly": {
       "name": "Fintech Business Weekly",
       "history": [
+        {
+          "date": "2026-09-17",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
         {
           "date": "2026-09-16",
           "ok": false,
@@ -4031,12 +4036,6 @@
         },
         {
           "date": "2026-09-11",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
-        },
-        {
-          "date": "2026-09-10",
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"

@@ -1,0 +1,1267 @@
+{
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T00:51:19.673Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "a77340e8f793",
+          "title": "“鹰派加息”！沃什“巨变”",
+          "titleZh": "“鹰派加息”！沃什“巨变”",
+          "url": "https://wallstreetcn.com/articles/3781938",
+          "summary": "9月17日，美联储在FOMC会议上以12比0全票通过加息25个基点，将联邦基金利率目标区间调升至3.75%-4.00%。这是一次“言行一致”的鹰派加息：主席沃什在新闻发布会上的措辞，与他在杰克逊霍尔会议上奠定的鹰派基调言论完全吻合。 据追风交易台消息，瑞银随即发布报告解读本次加息。报告显示，沃什在会后的新闻发布会上不止一次强调，当前金融条件“并不构成限制性”…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-17T00:20:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "27218530592d",
+          "title": "美联储“如期加息”了，市场关心的是“接下来还有几次”？",
+          "titleZh": "美联储“如期加息”了，市场关心的是“接下来还有几次”？",
+          "url": "https://wallstreetcn.com/articles/3781935",
+          "summary": "美联储时隔两年重启加息，但一次25个基点的举措本身已不是焦点——市场真正在押注的，是后续紧缩路径究竟延伸多远。 美联储周三宣布将基准利率上调25个基点，决议获得全票通过，为自2023年7月以来的首次加息。与此同时，19位官员中有16位预计今年晚些时候还将再加息一次，时间窗口指向10月或12月会议。消息公布后，市场反应超出预期：2年期美国国债收益率跳升至202…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-17T00:03:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "447a2e8f1117",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月17日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月17日",
+          "url": "https://wallstreetcn.com/articles/3781931",
+          "summary": "华见早安之声 要闻精选 中共中央政治局委员、外交部长王毅在北京同伊朗外长阿拉格齐会谈，敦促各方采取有效措施早日开放霍尔木兹海峡，维护国际航道畅通安全与国际能源运输、产供链稳定。 香港特区政府发布首份五年规划（2026-2030年），以人工智能和大湾区融合为核心设六大目标，人工智能被列为战略产业，并强化全球最大离岸人民币枢纽功能，研发开支占比目标定为2030年…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T23:01:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "942b36ac737a",
+          "title": "地缘风险溢价收窄叠加库存数据偏弱，原油盘中跌超4%",
+          "titleZh": "地缘风险溢价收窄叠加库存数据偏弱，原油盘中跌超4%",
+          "url": "https://wallstreetcn.com/articles/3781926",
+          "summary": "国际原油期货周三大幅回落，市场情绪从此前的供应恐慌转向获利了结，几重利空共同压制多头情绪。 美股早盘刷新日低时，美国WTI原油跌至101美元下方，日内跌约4.6%，布伦特原油跌至104美元，日内跌近4.4%。到周三收盘，原油均跌落两连涨刷新的近四个月收盘高位。其中，WTI 10月原油期货收跌3.21%，创8月4日以来最大跌幅，报102.43美元/桶。布伦特1…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T22:56:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9d886c1d0335",
+          "title": "日本干预汇市“抽血”？7月海外持美债降至九个月低谷，中国持仓创2008年来新低",
+          "titleZh": "日本干预汇市“抽血”？7月海外持美债降至九个月低谷，中国持仓创2008年来新低",
+          "url": "https://wallstreetcn.com/articles/3781925",
+          "summary": "美国官方数据显示，今年7月，海外投资者的美国国债持仓规模降至九个月低谷，这一时间恰恰与美国最大海外“债主”日本干预汇市、支持日元的行动重合。 据美国财政部于美东时间9月16日周三公布国际资本流动报告（TIC），7月海外投资者持有的美国国债规模连降两个月，环比6月减少504亿美元，降至9.25万亿美元，为2025年10月以来最低水平。 TIC报告显示，法国和加…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-16T21:52:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3205769806fa",
+          "title": "美联储三年来首次加息，华尔街解读偏鹰：更多紧缩或在路上",
+          "titleZh": "美联储三年来首次加息，华尔街解读偏鹰：更多紧缩或在路上",
+          "url": "https://wallstreetcn.com/articles/3781936",
+          "summary": "美联储时隔三年重启加息，市场随即以抛售作答，华尔街对此次政策转向的解读普遍偏鹰。 美联储周三以全票通过的方式将基准利率上调25个基点至3.75%-4.00%区间，为2023年以来首次加息。美联储主席沃什在新闻发布会上表示，此举旨在\"移除一剂宽松\"，以使金融与信贷条件更符合政策目标。这一措辞被市场普遍解读为进一步加息的信号——两年期美债收益率随即升至逾两年新高…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-17T00:20:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "ab28c6509643",
+          "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+          "titleZh": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
+          "url": "https://www.latent.space/p/aiuc",
+          "summary": "AIUC first got our attention with the NFDG backing, and have just announced a $40M series A today, with the most impressive industry advisor list we may have ever seen for an early…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-16T18:07:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "417661114a49",
+          "title": "Scientists develop new method for deciphering ancient scrolls",
+          "titleZh": "Scientists develop new method for deciphering ancient scrolls",
+          "url": "https://arstechnica.com/science/2026/09/why-researchers-made-their-own-model-herculaneum-scrolls/",
+          "summary": "The Vesuvius Challenge is an ongoing project that combines \"digital unwrapping\" with crowdsourced machine learning to decipher the so-called Herculaneum scrolls, badly charred 2,00…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-16T18:43:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c8afc841f50",
+          "title": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "titleZh": "Apple reportedly building server packed with M-series Ultra chips for AI",
+          "url": "https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/",
+          "summary": "Apple is working on an AI server that would use Apple’s high-performance M-series Ultra chips found in Mac desktops. The potential product’s expected release in 2029 would mark the…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-16T22:02:46.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f75952b4eaf",
+          "title": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "titleZh": "[AINews] Jev: a “System One Model” that only decides/classifies/routes/scores — >100x faster, >200x cheaper than small frontier LLMs",
+          "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that",
+          "summary": "AIEi Paris (Sep 23-24) and AIE NYC (Oct 12-14) is >50% sold out, AIE CODE ( Nov 10-12 in SF ) and AIEi Shanghai (Nov 5-6) are next on deck before AIEi Sydney (Dec 7-8 alongside Neu…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-16T11:09:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7cfb80a22d8",
+          "title": "datasette 1.0a40",
+          "titleZh": "datasette 1.0a40",
+          "url": "https://simonwillison.net/2026/Sep/16/datasette/",
+          "summary": "Release: datasette 1.0a40 Same security fix as 0.65.5 , plus some neat new features and bug fixes: Plugins can now launch and manage background tasks using the new datasette.add_ba…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-16T23:51:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d0e3343ee0f1",
+          "title": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+          "titleZh": "Not just Proton: Getting to know Valve's new SteamOS compatibility layers",
+          "url": "https://arstechnica.com/gaming/2026/09/not-just-proton-getting-to-know-valves-new-steamos-compatibility-layers/",
+          "summary": "Since the release of the Steam Deck , Valve fans have gotten very familiar with the idea of the Proton compatibility layer that allows games written for Windows to run capably on t…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-16T20:23:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a3da462bc17",
+          "title": "California may gut state net neutrality law to comply with Trump admin demand",
+          "titleZh": "California may gut state net neutrality law to comply with Trump admin demand",
+          "url": "https://arstechnica.com/tech-policy/2026/09/california-may-gut-state-net-neutrality-law-to-comply-with-trump-admin-demand/",
+          "summary": "California is on the verge of accepting $1.86 billion in federal broadband grant funds, despite the Trump administration telling states they cannot enforce net neutrality rules on …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-16T19:36:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f921892b9159",
+          "title": "Researchers swap in human brain cells for a mouse's cortex",
+          "titleZh": "Researchers swap in human brain cells for a mouse's cortex",
+          "url": "https://arstechnica.com/science/2026/09/researchers-swap-in-human-brain-cells-for-a-mouses-cortex/",
+          "summary": "In recent years, there has been a lot of excitement about the potential for studying human diseases in what are called \"organoids.\" These small patches of tissue, formed using stem…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-16T19:08:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "82e844fcdbe2",
+          "title": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
+          "titleZh": "Scoop: Trump to hold Iran talks with Gulf leaders next week",
+          "url": "https://www.axios.com/2026/09/16/trump-iran-talks-gulf-leaders-un",
+          "summary": "President Trump is expected to hold a meeting with Gulf leaders on the sidelines of the UN General Assembly in New York next Tuesday to discuss the next steps in the war with Iran …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-16T23:40:35.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ee979b56c3c",
+          "title": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\"",
+          "titleZh": "Johnson-Massie feud boils over: \"Why are we taking days off our calendar?\"",
+          "url": "https://www.axios.com/2026/09/16/johnson-massie-feud-boils-over-why-are-we-taking-days-off-our-calendar",
+          "summary": "Mike Johnson 's decision to send the House home early — again — is fueling an increasingly bitter feud with Rep. Thomas Massie (R-Ky.) over whether the speaker is using the calenda…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-16T23:14:46.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "57bc61233680",
+          "title": "Canada could become the EU's first \"associate member\"",
+          "titleZh": "Canada could become the EU's first \"associate member\"",
+          "url": "https://www.axios.com/2026/09/16/eu-canada-associate-membership-carney-trump",
+          "summary": "European Commission President Ursula von der Leyen on Wednesday proposed making Canada the European Union's first \"associate member.\" Why it matters: Canada and the EU are testing …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-16T23:05:08.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a9f14e9efa61",
+          "title": "House votes to curb AI data center costs",
+          "titleZh": "House votes to curb AI data center costs",
+          "url": "https://www.axios.com/2026/09/16/house-ai-data-center-power-bills",
+          "summary": "The House passed the bipartisan Ratepayer Protection Act on Wednesday, marking Congress' most significant step yet to shield consumers from the soaring infrastructure costs of the …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-16T22:56:02.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "10dd5e85524c",
+          "title": "House passes Russia sanctions bill",
+          "titleZh": "House passes Russia sanctions bill",
+          "url": "https://www.axios.com/2026/09/16/house-russia-sanctions-bill-graham",
+          "summary": "The House passed a sweeping Russia sanctions bill Thursday, sending the long-awaited legislation to President Trump's desk. Why it matters: The measure would significantly expand e…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-16T22:30:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-17T00:51:11.190Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-17T00:51:11.190Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-17T00:51:11.190Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "f4dbac042d90",
+          "title": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
+          "titleZh": "Micron Appoints Deirdre Hanford to Lead Micron Research Labs",
+          "url": "https://www.semiconductor-digest.com/micron-appoints-deirdre-hanford-to-lead-micron-research-labs/?utm_source=rss&utm_medium=rss&utm_campaign=micron-appoints-deirdre-hanford-to-lead-micron-research-labs",
+          "summary": "Micron Technology, Inc. (Nasdaq: MU) today announced the appointment of Deirdre Hanford as corporate vice president and president of Micron Research Labs, the company’s flagship lo…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-16T19:23:18.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a02c7b436cb",
+          "title": "ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating",
+          "titleZh": "ClassOne Technology Secures Multi-System Follow-on Orders from Top Photonics Manufacturers for High-Volume 6-inch InP Gold Plating",
+          "url": "https://www.semiconductor-digest.com/classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating/?utm_source=rss&utm_medium=rss&utm_campaign=classone-technology-secures-multi-system-follow-on-orders-from-top-photonics-manufacturers-for-high-volume-6-inch-inp-gold-plating",
+          "summary": "ClassOne Technology today announced that two industry-leading photonics manufacturers have placed follow-on production orders for multiple Solstice S8 advanced single-wafer wet pro…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-16T19:21:11.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0febf407ef97",
+          "title": "Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture",
+          "titleZh": "Arteris Accelerates Industry Transition to Multi-Die Chiplet-Based Architecture",
+          "url": "https://www.semiconductor-digest.com/arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture/?utm_source=rss&utm_medium=rss&utm_campaign=arteris-accelerates-industry-transition-to-multi-die-chiplet-based-architecture",
+          "summary": "Arteris, Inc. (Nasdaq: AIP), a provider of semiconductor technology for accelerating innovation in the AI era, today announced an expansion of its multi-die portfolio that helps se…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-16T19:18:37.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7369c14dcbf4",
+          "title": "Micron Advances Memory Innovation With the World’s First Ultra-Dense Module for Next-Generation Servers",
+          "titleZh": "Micron Advances Memory Innovation With the World’s First Ultra-Dense Module for Next-Generation Servers",
+          "url": "https://www.semiconductor-digest.com/micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers/?utm_source=rss&utm_medium=rss&utm_campaign=micron-advances-memory-innovation-with-the-worlds-first-ultra-dense-module-for-next-generation-servers",
+          "summary": "Micron Technology, Inc. today announced a major milestone in memory innovation with the successful demonstration of the world’s first 512GB DDR5 module on multiple server platforms…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-16T19:13:53.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "e3088e8a5d83",
+          "title": "US Congress passes bill targeting Russia’s leading energy buyers – China and India",
+          "titleZh": "US Congress passes bill targeting Russia’s leading energy buyers – China and India",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3367782/us-congress-passes-bill-targeting-russias-leading-energy-buyers-china-and-india?utm_source=rss_feed",
+          "summary": "The US Congress on Wednesday passed a bill to strengthen sanctions on Russia by targeting Moscow’s leading energy buyers – China and India – just days before Chinese President Xi J…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-16T22:50:16.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a716b6a54a3c",
+          "title": "Huawei accused of stealing robot tech to get hands on T-Mobile’s trade secrets",
+          "titleZh": "Huawei accused of stealing robot tech to get hands on T-Mobile’s trade secrets",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3367779/huawei-accused-stealing-robot-tech-get-hands-t-mobiles-trade-secrets?utm_source=rss_feed",
+          "summary": "The criminal trial of Huawei Technologies on racketeering charges shifted this week into a slower, more laborious pace in what is expected to be a weeks-long trial as the US Govern…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-16T22:03:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "76962e390431",
+          "title": "Jay Jacobs gets his first-ever challenger for state Dem chair",
+          "titleZh": "Jay Jacobs gets his first-ever challenger for state Dem chair",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/16/jay-jacobs-gets-his-first-ever-challenger-for-state-dem-chair-01080908",
+          "summary": "JACOB’S LADDER: Otsego County Democratic Chair Caitlin Ogden is launching a bid for the top spot in the state party — the first time its current chair, Jay Jacobs, has had a challe…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-16T20:52:59.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "0ff9ab01419c",
+          "title": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
+          "titleZh": "Analysis: India’s power-sector emissions flat for two years due to clean-energy surge",
+          "url": "https://www.carbonbrief.org/analysis-indias-power-sector-emissions-flat-for-two-years-due-to-clean-energy-surge",
+          "summary": "Print article Share Article Contents Expand menu Close Flatlining fossils Clean-energy growth matches power demand Which states led the clean-power shift? Fall in oil and gas consu…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-16T23:01:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d83e4fdf802c",
+          "title": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+          "titleZh": "Analysis: Global fossil-fuel emissions set to fall in 2026 amid Hormuz crisis",
+          "url": "https://www.carbonbrief.org/analysis-global-fossil-fuel-emissions-set-to-fall-in-2026-amid-hormuz-crisis",
+          "summary": "Print article Share Global fossil-fuel emissions are set to fall by around 0.5% in 2026 amid the fallout from the Hormuz crisis, according to Carbon Brief analysis. The US-Iran war…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-16T13:34:02.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14adf9f39041",
+          "title": "Newsom's last chance to tackle California's electricity costs",
+          "titleZh": "Newsom's last chance to tackle California's electricity costs",
+          "url": "https://www.canarymedia.com/articles/affordability/newsom-last-chance-california-electricity-costs",
+          "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack . I’m launching this newsl…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-16T17:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "c434cb941011",
+          "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "titleZh": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+          "url": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+          "summary": "The GitHub Copilot CLI , GitHub Copilot app , and GitHub Copilot SDK are all backed by the Copilot agent runtime, an agentic harness that can be embedded into applications and serv…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-17T00:26:43.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "55a97aabd0fd",
+          "title": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
+          "titleZh": "Perplexity’s AI agents helped build a database. They weren’t allowed to run it.",
+          "url": "https://thenewstack.io/perplexity-cobbledb-ai-database/",
+          "summary": "Perplexity decided it was paying too much for DynamoDB and wasn’t getting the control it wanted over read performance. So it built its own database: CobbleDB. Built by two engineer…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-16T21:51:15.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "90a1aee4fc2d",
+          "title": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
+          "titleZh": "Automattic says CEO Mullenweg was gone and back inside 33 hours. What happened between?",
+          "url": "https://thenewstack.io/automattic-mullenweg-boardroom-reversal/",
+          "summary": "There were unusual goings-on this month at Automattic , a company known for its free and open-source app for building WordPress sites. The company issued a notice last Thursday con…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-16T20:39:42.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "61d9574f37e3",
+          "title": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
+          "titleZh": "“Everyone’s in a race to replace GitHub”: Zed launches Delta because agents made pull requests obsolete",
+          "url": "https://thenewstack.io/zed-delta-github-alternative/",
+          "summary": "Something of a consensus has emerged from the developer fraternity in 2026 — GitHub, a platform built substantively for human developers, is no longer fit for purpose . Part of the…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-16T19:45:30.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "f3a3b52ea858",
+          "title": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+          "titleZh": "Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation",
+          "url": "https://arxiv.org/abs/2609.16145",
+          "summary": "arXiv:2609.16145v1 Announce Type: new Abstract: We study a practical question: can a small correction module fix errors in a frozen language model's outputs without degrading its b…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-16T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.16145"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.16145"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8cf679639c33",
+          "title": "Interpreting and Steering LLM Agents for Social Simulations",
+          "titleZh": "Interpreting and Steering LLM Agents for Social Simulations",
+          "url": "https://arxiv.org/abs/2609.16436",
+          "summary": "arXiv:2609.16436v1 Announce Type: cross Abstract: Simulations based on large language models (LLMs) have proven to be powerful for understanding human behavior, making them valuabl…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-16T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.16436"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.16436"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "54d6d1ec33c7",
+          "title": "HintMiner: Automatic Question Hints Mining From Q&A Web Posts with Language Model via Self-Supervised Learning",
+          "titleZh": "HintMiner: Automatic Question Hints Mining From Q&A Web Posts with Language Model via Self-Supervised Learning",
+          "url": "https://arxiv.org/abs/2609.16060",
+          "summary": "arXiv:2609.16060v1 Announce Type: cross Abstract: Users often need ask questions and seek answers online. The Question - Answering (QA) forums such as Stack Overflow cannot always …",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-16T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.16060"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.16060"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7455ae4ca5a2",
+          "title": "POSPAN: Position-Constrained Span Masking for Language Model Pre-training",
+          "titleZh": "POSPAN: Position-Constrained Span Masking for Language Model Pre-training",
+          "url": "https://arxiv.org/abs/2609.16061",
+          "summary": "arXiv:2609.16061v1 Announce Type: cross Abstract: Span-level masked language modeling (MLM) has shown to be advantageous to pre-trained language models over the original single-tok…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-09-16T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 8,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2609.16061"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2609.16061"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 40,
+    "itemsFiltered": 2,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
