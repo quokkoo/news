@@ -1,0 +1,885 @@
+{
+  "date": "2026-09-20",
+  "generatedAt": "2026-09-20T00:21:10.815Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 29 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 7 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "cfb11dae4c84",
+          "title": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+          "titleZh": "Refineries Are Now the Main Chokepoint for Global Energy Supplies",
+          "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main",
+          "summary": "The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel.",
+          "whyItMatters": "",
+          "sourceName": "WSJ Markets",
+          "publishedAt": "2026-09-19T20:53:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "WSJ Business",
+              "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=pls_whats_news_us_business_f"
+            },
+            {
+              "sourceName": "WSJ World News",
+              "url": "https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_worldnews"
+            }
+          ],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        },
+        {
+          "id": "2531b46b43e6",
+          "title": "沙特又找到一条“运油路线”，但代价高昂",
+          "titleZh": "沙特又找到一条“运油路线”，但代价高昂",
+          "url": "https://wallstreetcn.com/articles/3782136",
+          "summary": "东西输油管道遭无人机袭击被迫关闭，沙特阿拉伯不得不重新依赖霍尔木兹海峡\"接力运油\"方案，但高昂成本与日趋紧张的设备供应令这条退路充满挑战。 管道被炸、红海受阻——沙特能源出口通道正在逐一收窄。据《华尔街日报》报道，近日一架由伊朗盟友武装从伊拉克发射的无人机击中沙特东西输油管道，迫使其关闭。这条管道此前一直是全球油市的关键缓冲器，其受损令市场压力骤然上升。布伦…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-19T12:10:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "60306fc0d0b3",
+          "title": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+          "titleZh": "智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？",
+          "url": "https://wallstreetcn.com/articles/3782133",
+          "summary": "作者 | 林克、郑好 过去两年，涉及Agent安全讨论的重心主要放在模型失控、提示词投毒和外部攻击者身上，相比之下，Agent厂商自身的数据行为很少被当作一级风险讨论。 近日曝出的智谱ZCode事件，正在把问题转向了一个此前很少被认真对待的方向，那就是Agent的制造商本身是否也可能成为数据外传的来源。 9月18日，技术博主ferstar发布了对智谱ZCod…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-19T09:54:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "da9076d58c30",
+          "title": "Raphinha hat-trick maintains Barcelona’s perfect LaLiga start - reuters.com",
+          "titleZh": "Raphinha hat-trick maintains Barcelona’s perfect LaLiga start - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUJMR1dnNHU2ekhqOURIQ2dZU01hQ1JmZk9yXzByblR5bHNXTFRQSFZ3Y1Q4anJhZUlTanktaWpYMEI0Nml3clVlTW9ONVZzV3piMkVMMzVpZzJtOHYtUkhrTjJnUFhuOS1LWUFoak12dDNpczBFdFRJekFGYnE4NnVTYS0xa2x2dmJKTWQxOGtqdDRLZnh2dmY2dHg0a0tPWjZiQTdRMlpsM19pU29r?oc=5",
+          "summary": "Raphinha hat-trick maintains Barcelona’s perfect LaLiga start reuters.com",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-09-19T21:41:40.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f678e56ae0fc",
+          "title": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division - reuters.com",
+          "titleZh": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division - reuters.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckNCakJvb1JpZnluMzdhMkY2ck95S0ZCMm04RElYWEEzSGNnbGFZWGFLS3dsYm1wVEtsWTBpUXVBczlObFVaaHJxZGduY0ZVam1uLUFHVzdvQVpVaEF0UHZIOFRkVENteXo5YzJ4NFkzVmItS2tFM3pPMFVxaFdOd2hKOUZMbmZHWkhtWkRiNl92cWNndVE1ZkNlTDR3azRjOHgtRmhkU253UjVBb2x0NmhwNDFLODAt?oc=5",
+          "summary": "Hungarians and Slovaks share breakfast on Danube bridge that survived war and division reuters.com",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-09-19T21:46:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c24158d9ed45",
+          "title": "2张反对票意味着什么？日本这次加息“最值得玩味的问题”",
+          "titleZh": "2张反对票意味着什么？日本这次加息“最值得玩味的问题”",
+          "url": "https://wallstreetcn.com/articles/3782127",
+          "summary": "在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。 据追风交易台，花旗银行日本经济分析师Sosuke Nakamura 18日发布研究报告，深度复盘日本央行（BoJ）9月…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-19T05:42:49.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "35002bbbdd6f",
+          "title": "Why I still haven’t bought into true RSI",
+          "titleZh": "Why I still haven’t bought into true RSI",
+          "url": "https://www.interconnects.ai/p/where-i-stand-on-rsi",
+          "summary": "We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These organizations happen to be just the frontier AI labs…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-09-19T15:42:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e29797e0911",
+          "title": "datasette-auth-github 1.0",
+          "titleZh": "datasette-auth-github 1.0",
+          "url": "https://simonwillison.net/2026/Sep/19/datasette-auth-github/",
+          "summary": "Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren't lasting very long. It tur…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-19T19:52:02.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "79f5dac04846",
+          "title": "California Sea Lion, Brandt's Cormorant",
+          "titleZh": "California Sea Lion, Brandt's Cormorant",
+          "url": "https://simonwillison.net/2026/Sep/19/sighting-401567341/",
+          "summary": "California Sea Lion, Brandt&#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-19T17:10:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cac8154b9196",
+          "title": "I built non-autoregressive decision models with RL a year ago",
+          "titleZh": "I built non-autoregressive decision models with RL a year ago",
+          "url": "https://laya.convaiinnovations.com/",
+          "summary": "Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1062 # Comments: 249",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-09-19T10:46:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://laya.convaiinnovations.com/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9879edfaf995",
+          "title": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+          "titleZh": "专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本",
+          "url": "https://www.ifanr.com/1680763?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "从 2019 年 2 月三星发布第一代 Galaxy Fold 算起，折叠屏手机已经走过七年半。 7 年足够一个新品类从惊艳变成日常，但却依然没能把它熬成一个大众市场，折叠屏上那些无法忽视的痛点也没有随着时间消失。 直到苹果带着 iPhone Duo 迟迟入场。 这符合苹果一贯的节奏，很少急于抢占第一，而习惯于耐心等待技术熬过试错期，再凭借成熟的软硬件整合能…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-09-19T16:00:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "29a12e1224f2",
+          "title": "[AINews] Here are 6 Clones of Jev in 2 days",
+          "titleZh": "[AINews] Here are 6 Clones of Jev in 2 days",
+          "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in",
+          "summary": "We covered Jev’s launch on Wednesday , and they have completely taken over the timeline, with 36M views of their launch video (by comparison, OpenAI’s Navier Stokes result got 74M …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-19T05:48:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "349aee03632f",
+          "title": "Rings around a tiny body have changed over the past decade",
+          "titleZh": "Rings around a tiny body have changed over the past decade",
+          "url": "https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/",
+          "summary": "For decades, astronomers thought rings were something only giant planets had. That changed in 2013, when a small, dark body orbiting between Saturn and Uranus passed in front of a …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-19T10:00:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41eac2232564",
+          "title": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+          "titleZh": "Does AI need an antitrust exemption so it doesn’t kill everyone????",
+          "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
+          "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Just…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-09-19T14:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "817370d2866c",
+          "title": "🔮 AI politics & the future of growth ++ #602",
+          "titleZh": "🔮 AI politics & the future of growth ++ #602",
+          "url": "https://www.exponentialview.co/p/ev-602",
+          "summary": "Hi all, The past ten days have felt like the AI pot finally boiled over. It’s a complicated and confusing moment. We have to hold in our heads that most Americans appear to loathe …",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-09-19T14:22:55.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4a5757c43b35",
+          "title": "一个月跌了2500亿，具身智能仍遭疯抢",
+          "titleZh": "一个月跌了2500亿，具身智能仍遭疯抢",
+          "url": "https://www.huxiu.com/article/4892522.html?f=rss",
+          "summary": "本文来自微信公众号： 亿欧汽车 ，作者：郭怀毅，编辑：郝秋慧 8月19日，宇树上市首日市值冲到了4449亿。不到一个月，却已蒸发了2500亿。 宇树虽然在二级市场遇冷，但一级市场完全是另一番景象：2026年上半年，具身智能赛道约发生了322起融资，吸金超过935亿，较2025年同期增长了5倍。 目前仍有源源不断的创业者投身具身赛道，好的项目依旧在遭到资本疯抢…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-20T00:06:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "78713be95ab9",
+          "title": "在资本市场，瑞幸咖啡需要再赢一次",
+          "titleZh": "在资本市场，瑞幸咖啡需要再赢一次",
+          "url": "https://www.huxiu.com/article/4892521.html?f=rss",
+          "summary": "本文来自微信公众号： 好看商业 ，作者：好看商业，编辑：安心 瑞幸已经在为重启IPO铺路了。 近日，一则跨境交易搅动市场：中东顶级金主穆巴达拉（Mubadala）战略投资瑞幸咖啡，交易规模约10亿美元。 据公开披露的信息，穆巴达拉并非直接向瑞幸注资入股，而是从瑞幸控股股东大钲资本手中买走部分瑞幸高级可转换优先股，总对价约10亿美元。 交易的卖方是大钲资本旗下…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-19T23:50:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2615d260fba5",
+          "title": "全国在线旅游大厂，为何接连被查？",
+          "titleZh": "全国在线旅游大厂，为何接连被查？",
+          "url": "https://www.huxiu.com/article/4892520.html?f=rss",
+          "summary": "本文来自微信公众号： 旅界 ，作者：theodore熙少 酒店和OTA，是时候重新算账了。 ▲ 01 昨天，美团、飞猪、同程、途家相关主体均被北京市市场监督管理局立案调查，消息一经传出，瞬间在行业炸开了锅。 看到消息时，我却突然想起前段时间，一场饭局上，国内某知名酒店集团高管和我聊起携程被罚没52亿元之前的一则小故事。 当时，他们几家酒店集团参加了一场部里规…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-19T23:48:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3946cfa9e63",
+          "title": "三倍预算办赛仍被吐槽，名古屋亚运的钱花哪了？",
+          "titleZh": "三倍预算办赛仍被吐槽，名古屋亚运的钱花哪了？",
+          "url": "https://www.huxiu.com/article/4892519.html?f=rss",
+          "summary": "本文来自微信公众号：体育产业生态圈，作者：ECO氪体，头图来自：视觉中国 9月19日，第20届亚运会在日本爱知县首府名古屋正式开幕。 这场时隔32年再次来到日本的亚洲体育盛会，原本应该以一场精心准备的开幕式拉开序幕，但运动员住宿、信息录入、交通接驳等一系列问题，已经让这届亚运会提前成为了舆论焦点。 一向以严谨细致著称的日本人，为什么会在一场如此重要的大赛上接…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-19T23:31:19.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-20T00:20:49.762Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-20T00:20:49.762Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-20T00:20:49.762Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "e310330ded28",
+          "title": "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
+          "titleZh": "Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368100/analysts-tip-stronger-hand-china-ahead-xi-trump-summit-washington?utm_source=rss_feed",
+          "summary": "When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work toward…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-19T22:00:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8817e0c437ad",
+          "title": "What China really means when it says it’s being ‘strategic’",
+          "titleZh": "What China really means when it says it’s being ‘strategic’",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3367441/what-china-really-means-when-it-says-its-being-strategic?utm_source=rss_feed",
+          "summary": "On September 12, Chinese President Xi Jinping met Indian Prime Minister Narendra Modi on the sidelines of the Brics summit in New Delhi. In their talks, Xi said China approached th…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-19T21:30:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eca8e13d5298",
+          "title": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+          "titleZh": "Farm-state Republicans are having a cow over Trump's beef imports as Election Day approaches",
+          "url": "https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910",
+          "summary": "Farm-state Republicans don’t support President Donald Trump’s move to import cheap beef — but they’re still getting grilled for it. Trump’s plan to combat sky-high beef prices by i…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-19T16:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "d78d2545479b",
+          "title": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+          "titleZh": "One engineer shipped 2,000 PRs a month to production. Verification is the key.",
+          "url": "https://thenewstack.io/agentic-verification-distributed-systems/",
+          "summary": "Lauren Tan, an engineer on the Grok team at SpaceXAI, who previously worked at Cursor and Meta, recently published a guide to her personal agent workflow: pstack. The attention-gra…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-19T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8a961e4412a",
+          "title": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+          "titleZh": "“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules",
+          "url": "https://thenewstack.io/vercel-hobby-deployment-retention/",
+          "summary": "Vercel announced this week that teams on its free Hobby plan will now have older, unprotected deployments deleted immediately if they exceed the 10GB Deployment Storage limit. When…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-19T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7bbe32d1559a",
+          "title": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+          "titleZh": "This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models",
+          "url": "https://thenewstack.io/ai-agent-harness-economics/",
+          "summary": "Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching tutorial. Five different stories about the same problem: Tu…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-19T10:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 29,
+    "itemsPublished": 28,
+    "itemsFiltered": 1,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 62,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
