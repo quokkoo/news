@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:21:10 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:27:38 GMT</lastBuildDate>
     <item>
-      <title>【2026-09-20 今日导读】</title>
+      <title>【2026-09-21 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-09-20</guid>
-      <pubDate>Sun, 20 Sep 2026 00:21:10 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 29 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 7 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-09-21</guid>
+      <pubDate>Mon, 21 Sep 2026 00:27:38 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 61 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>Refineries Are Now the Main Chokepoint for Global Energy Supplies</title>
-      <link>https://www.wsj.com/business/energy-oil/refineries-are-now-the-main-chokepoint-for-global-energy-supplies-f923e1ba?mod=rss_markets_main</link>
-      <guid isPermaLink="false">cfb11dae4c84</guid>
-      <pubDate>Sat, 19 Sep 2026 20:53:00 GMT</pubDate>
+      <title>Applovin CEO：股价暴跌92%的“至暗时刻”与“自我救赎”</title>
+      <link>https://wallstreetcn.com/articles/3782172</link>
+      <guid isPermaLink="false">a811f9dbe0f9</guid>
+      <pubDate>Mon, 21 Sep 2026 00:17:52 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>The Iran and Ukraine wars have exposed the world’s reliance on the Middle East and Russia for diesel.
-
-来源：WSJ Markets · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>沙特又找到一条“运油路线”，但代价高昂</title>
-      <link>https://wallstreetcn.com/articles/3782136</link>
-      <guid isPermaLink="false">2531b46b43e6</guid>
-      <pubDate>Sat, 19 Sep 2026 12:10:22 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>东西输油管道遭无人机袭击被迫关闭，沙特阿拉伯不得不重新依赖霍尔木兹海峡&quot;接力运油&quot;方案，但高昂成本与日趋紧张的设备供应令这条退路充满挑战。 管道被炸、红海受阻——沙特能源出口通道正在逐一收窄。据《华尔街日报》报道，近日一架由伊朗盟友武装从伊拉克发射的无人机击中沙特东西输油管道，迫使其关闭。这条管道此前一直是全球油市的关键缓冲器，其受损令市场压力骤然上升。布伦…
+      <description>今天，AppLovin是美国市值最高的科技公司之一，今年预计产生约60亿美元现金，旗下广告平台的年度广告支出已达200亿美元。但很少有人知道，就在不到三年前，这家公司的股价曾从高点暴跌92%。 近日，在2026年All-In Summit上，AppLovin创始人兼CEO Adam Foroughi首次系统讲述了这段历史——从IPO崩盘到AI转型，再到用回购…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>智谱ZCode偷传代码风波追踪：Agent的数据行为谁来审计？</title>
-      <link>https://wallstreetcn.com/articles/3782133</link>
-      <guid isPermaLink="false">60306fc0d0b3</guid>
-      <pubDate>Sat, 19 Sep 2026 09:54:31 GMT</pubDate>
+      <title>韩媒称“贝森特导师”德鲁肯米勒将首访韩国，将与海力士、三星电子和斗山等洽谈投资</title>
+      <link>https://wallstreetcn.com/articles/3782170</link>
+      <guid isPermaLink="false">a3d5774b4206</guid>
+      <pubDate>Mon, 21 Sep 2026 00:16:51 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>作者 | 林克、郑好 过去两年，涉及Agent安全讨论的重心主要放在模型失控、提示词投毒和外部攻击者身上，相比之下，Agent厂商自身的数据行为很少被当作一级风险讨论。 近日曝出的智谱ZCode事件，正在把问题转向了一个此前很少被认真对待的方向，那就是Agent的制造商本身是否也可能成为数据外传的来源。 9月18日，技术博主ferstar发布了对智谱ZCod…
+      <description>“贝森特导师”、全球宏观投资大佬Stanley Druckenmiller正式访问韩国，计划与三星电子、SK海力士、斗山等主要企业高管会面，探讨投资机会。这是他首次公开访问韩国，被市场视为韩国企业在全球AI供应链中地位跃升的重要信号。 据韩国媒体9月20日报道，韩国业界人士透露，Druckenmiller最早将于9月22日在首尔与斗山株式会社及斗山能源（Do…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
+    </item>
+    <item>
+      <title>莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧</title>
+      <link>https://wallstreetcn.com/articles/3782171</link>
+      <guid isPermaLink="false">73fc657bd5e6</guid>
+      <pubDate>Mon, 21 Sep 2026 00:16:11 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>地缘冲突对全球能源基础设施的冲击正在加剧，乌克兰对俄罗斯莫斯科炼油厂的重大无人机打击，正将本已紧绷的全球成品油市场推向新的危机边缘。 据央视新闻，当地时间9月20日，乌克兰武装部队总参谋部通报称，当天凌晨，乌军对俄罗斯莫斯科地区的莫斯科炼油厂实施打击。乌方称，炼油厂区域发生大规模火灾，AVT-6初级炼油装置、综合原油加工装置等遭到打击。乌军方称，莫斯科炼油厂…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Raphinha hat-trick maintains Barcelona’s perfect LaLiga start - reuters.com</title>
-      <link>https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUJMR1dnNHU2ekhqOURIQ2dZU01hQ1JmZk9yXzByblR5bHNXTFRQSFZ3Y1Q4anJhZUlTanktaWpYMEI0Nml3clVlTW9ONVZzV3piMkVMMzVpZzJtOHYtUkhrTjJnUFhuOS1LWUFoak12dDNpczBFdFRJekFGYnE4NnVTYS0xa2x2dmJKTWQxOGtqdDRLZnh2dmY2dHg0a0tPWjZiQTdRMlpsM19pU29r?oc=5</link>
-      <guid isPermaLink="false">da9076d58c30</guid>
-      <pubDate>Sat, 19 Sep 2026 21:41:40 GMT</pubDate>
+      <title>华尔街见闻早餐FM-Radio | 2026年9月21日</title>
+      <link>https://wallstreetcn.com/articles/3782126</link>
+      <guid isPermaLink="false">1952e066e2f9</guid>
+      <pubDate>Sun, 20 Sep 2026 23:02:15 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Raphinha hat-trick maintains Barcelona’s perfect LaLiga start reuters.com
-
-来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Hungarians and Slovaks share breakfast on Danube bridge that survived war and division - reuters.com</title>
-      <link>https://news.google.com/rss/articles/CBMiuAFBVV95cUxOckNCakJvb1JpZnluMzdhMkY2ck95S0ZCMm04RElYWEEzSGNnbGFZWGFLS3dsYm1wVEtsWTBpUXVBczlObFVaaHJxZGduY0ZVam1uLUFHVzdvQVpVaEF0UHZIOFRkVENteXo5YzJ4NFkzVmItS2tFM3pPMFVxaFdOd2hKOUZMbmZHWkhtWkRiNl92cWNndVE1ZkNlTDR3azRjOHgtRmhkU253UjVBb2x0NmhwNDFLODAt?oc=5</link>
-      <guid isPermaLink="false">f678e56ae0fc</guid>
-      <pubDate>Sat, 19 Sep 2026 21:46:51 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>Hungarians and Slovaks share breakfast on Danube bridge that survived war and division reuters.com
-
-来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>2张反对票意味着什么？日本这次加息“最值得玩味的问题”</title>
-      <link>https://wallstreetcn.com/articles/3782127</link>
-      <guid isPermaLink="false">c24158d9ed45</guid>
-      <pubDate>Sat, 19 Sep 2026 05:42:49 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>在2026年9月的议息会议上，日本央行如期将政策利率从1.00%上调至1.25%。然而，剥开符合预期的表象，真正的市场信号隐藏在两张反对票中。花旗银行指出一个看似矛盾的“悖论”：鸽派委员的反对票，反而将促使日本央行以更快的速度冲刺终端利率。 据追风交易台，花旗银行日本经济分析师Sosuke Nakamura 18日发布研究报告，深度复盘日本央行（BoJ）9月…
+      <description>华见早安之声 要闻精选 中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商。新华社：中美经贸磋商周日在美国纽约开始举行。 中国9月LPR连续16个月维持不变，央行主管媒体刊评“直接下调政策利率的必要性不高”。 国常会听取老龄工作情况汇报，部署实施医疗康复护理扩容提升工程。 中国财政部:1至8月全国一般公共预算收入同比增长5.7%，证券交易印花…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Why I still haven’t bought into true RSI</title>
-      <link>https://www.interconnects.ai/p/where-i-stand-on-rsi</link>
-      <guid isPermaLink="false">35002bbbdd6f</guid>
-      <pubDate>Sat, 19 Sep 2026 15:42:20 GMT</pubDate>
+      <title>算力上天 商业航天开始争夺这块蛋糕了</title>
+      <link>https://wallstreetcn.com/articles/3782166</link>
+      <guid isPermaLink="false">0c94f8a53178</guid>
+      <pubDate>Mon, 21 Sep 2026 00:19:31 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>9月20日12时03分，力箭一号遥十八运载火箭以“一箭9星”方式，将“超智算一号”等卫星送入预定轨道。 这次发射呈现出在轨卫星的一项新变化：计算能力正在进入卫星的核心载荷，卫星从数据采集终端向计算节点演进。 “超智算一号”搭载光学遥感和AI计算载荷。 据项目方介绍，卫星可以在轨处理影像、识别目标，只将筛选后的高价值数据传回地面，部分场景的数据响应时间可由数小…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
+    </item>
+    <item>
+      <title>9月21日国内四大证券报纸、重要财经媒体头版头条内容精华摘要</title>
+      <link>http://finance.eastmoney.com/news/1344,202609203879462893.html</link>
+      <guid isPermaLink="false">4dafa9fad887</guid>
+      <pubDate>Sun, 20 Sep 2026 22:03:10 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>9月21日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 市场监管总局：已建立公平竞争审查制度 反垄断执法将更聚焦原料药、水电气暖、平台经济等领域 9月20日，国家市场监督管理总局新闻发言人、副局长束为在国新办举行的新闻发布会上表示，为综合整治“内卷式”竞争，今年市场监管总局部署开展了打击劣质低价专项行动，截至8月底全国共查办劣质低价违法案件2.9万…
+
+来源：东方财富 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>llm-keys-ui 0.1</title>
+      <link>https://simonwillison.net/2026/Sep/20/llm-keys-ui/</link>
+      <guid isPermaLink="false">97deff1280b7</guid>
+      <pubDate>Sun, 20 Sep 2026 19:22:19 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>We’re in an era where a few organizations are using thousands of concurrent agents to improve their processes and output. These organizations happen to be just the frontier AI labs…
-
-来源：Interconnects · 前沿科技与 AI 产业 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>datasette-auth-github 1.0</title>
-      <link>https://simonwillison.net/2026/Sep/19/datasette-auth-github/</link>
-      <guid isPermaLink="false">7e29797e0911</guid>
-      <pubDate>Sat, 19 Sep 2026 19:52:02 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Release: datasette-auth-github 1.0 I run this GitHub login plugin on the agent.datasette.io demo site and I noticed that my authenticated sessions weren&apos;t lasting very long. It tur…
+      <description>Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I&apos;ve started using Codex Remote to run coding agents on various machines while controlling them from my phone. …
 
 来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>California Sea Lion, Brandt&apos;s Cormorant</title>
-      <link>https://simonwillison.net/2026/Sep/19/sighting-401567341/</link>
-      <guid isPermaLink="false">79f5dac04846</guid>
-      <pubDate>Sat, 19 Sep 2026 17:10:08 GMT</pubDate>
+      <title>Quoting voxium</title>
+      <link>https://simonwillison.net/2026/Sep/20/voxium/</link>
+      <guid isPermaLink="false">67c2548927ef</guid>
+      <pubDate>Sun, 20 Sep 2026 21:06:43 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>California Sea Lion, Brandt&amp;#x27;s Cormorant, in Pillar Point Harbor, CA, US I only noticed this after I had taken the photo: Morris the Northern Gannet is peeking out from behind …
+      <description>It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc.,…
 
 来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>I built non-autoregressive decision models with RL a year ago</title>
-      <link>https://laya.convaiinnovations.com/</link>
-      <guid isPermaLink="false">cac8154b9196</guid>
-      <pubDate>Sat, 19 Sep 2026 10:46:58 GMT</pubDate>
+      <title>早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻</title>
+      <link>https://www.ifanr.com/1681049?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">e0cd15796b45</guid>
+      <pubDate>Mon, 21 Sep 2026 00:14:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 1062 # Comments: 249
+      <description>曝 iPhone Duo 原计划配专属磁吸触控笔，因技术问题未能落地 John Ternus：iPhone Duo 是乔布斯「技术与人文」理念的体现 小米 18 Pro 系列 9 月 23 日发布，卢伟冰称价格会上涨 Google Gemini 安全测试越界，误攻 3 家真实企业 零跑拟参与一汽旗新动力 A 轮融资，并合作开发前沿电池 硅基流动年内融资近 2…
 
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：爱范儿 · 前沿科技与 AI 产业 · 约 3 分钟</description>
     </item>
     <item>
-      <title>专访苹果高管，揭秘 iPhone Duo 幕后工程和设计哲学 副本</title>
-      <link>https://www.ifanr.com/1680763?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">9879edfaf995</guid>
-      <pubDate>Sat, 19 Sep 2026 16:00:45 GMT</pubDate>
+      <title>Experts warn of AI warfare risk</title>
+      <link>https://www.semafor.com/article/09/20/2026/experts-warn-of-ai-warfare-risk</link>
+      <guid isPermaLink="false">627855f47d53</guid>
+      <pubDate>Sun, 20 Sep 2026 22:28:16 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>从 2019 年 2 月三星发布第一代 Galaxy Fold 算起，折叠屏手机已经走过七年半。 7 年足够一个新品类从惊艳变成日常，但却依然没能把它熬成一个大众市场，折叠屏上那些无法忽视的痛点也没有随着时间消失。 直到苹果带着 iPhone Duo 迟迟入场。 这符合苹果一贯的节奏，很少急于抢占第一，而习惯于耐心等待技术熬过试错期，再凭借成熟的软硬件整合能…
+      <description>The US military reportedly prepared to intercept a Chinese vessel in the Middle East this spring after an AI chatbot misidentified materials on board, a close call that “almost sta…
 
-来源：爱范儿 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>[AINews] Here are 6 Clones of Jev in 2 days</title>
-      <link>https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in</link>
-      <guid isPermaLink="false">29a12e1224f2</guid>
-      <pubDate>Sat, 19 Sep 2026 05:48:28 GMT</pubDate>
+      <title>Houthis hit Saudia Arabia, threatening further escalation</title>
+      <link>https://www.semafor.com/article/09/20/2026/middle-east-tensions-threaten-escalation</link>
+      <guid isPermaLink="false">3d59201864b7</guid>
+      <pubDate>Sun, 20 Sep 2026 22:27:58 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>We covered Jev’s launch on Wednesday , and they have completely taken over the timeline, with 36M views of their launch video (by comparison, OpenAI’s Navier Stokes result got 74M …
+      <description>Yemen’s Iran-backed Houthi fighters struck Saudi Arabia over the weekend as Iran warned against new US attacks, threatening to ignite another round of regional escalation. Accordin…
 
-来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Rings around a tiny body have changed over the past decade</title>
-      <link>https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/</link>
-      <guid isPermaLink="false">349aee03632f</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:06 GMT</pubDate>
+      <title>US, Chinese officials meet before summit</title>
+      <link>https://www.semafor.com/article/09/20/2026/us-chinese-officials-meet-before-trump-xi-summit</link>
+      <guid isPermaLink="false">4c8843807a67</guid>
+      <pubDate>Sun, 20 Sep 2026 22:26:42 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>For decades, astronomers thought rings were something only giant planets had. That changed in 2013, when a small, dark body orbiting between Saturn and Uranus passed in front of a …
+      <description>US Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng in New York on Sunday before this week’s high-stakes summit between US President Donald Trump and Chines…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Does AI need an antitrust exemption so it doesn’t kill everyone????</title>
-      <link>https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition</link>
-      <guid isPermaLink="false">41eac2232564</guid>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 GMT</pubDate>
+      <title>Merz&apos;s CDU collapses in German regional elections &apos;disaster&apos;</title>
+      <link>https://www.semafor.com/article/09/20/2026/merzs-cdu-collapses-in-german-regional-elections-disaster</link>
+      <guid isPermaLink="false">8b2273382fab</guid>
+      <pubDate>Sun, 20 Sep 2026 22:26:35 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Just…
+      <description>Germany’s governing CDU suffered its worst result in 80 years in regional elections Sunday, which Chancellor Friedrich Merz called a “disaster” for his party, as both the far left …
 
-来源：The Verge · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>🔮 AI politics &amp; the future of growth ++ #602</title>
-      <link>https://www.exponentialview.co/p/ev-602</link>
-      <guid isPermaLink="false">817370d2866c</guid>
-      <pubDate>Sat, 19 Sep 2026 14:22:55 GMT</pubDate>
+      <title>NATO backs US, Denmark deal over Greenland security</title>
+      <link>https://www.semafor.com/article/09/20/2026/nato-backs-us-denmark-deal-over-greenland-security</link>
+      <guid isPermaLink="false">3e8db2d19862</guid>
+      <pubDate>Sun, 20 Sep 2026 22:34:41 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>NATO endorsed an agreement between the US and Denmark to expand Washington’s military presence in Greenland, potentially forestalling President Donald Trump’s demands to take over …
+
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Exclusive: Beshear says next president must go big on housing</title>
+      <link>https://www.axios.com/2026/09/20/beshear-housing-2028-president</link>
+      <guid isPermaLink="false">708d5cae93d1</guid>
+      <pubDate>Sun, 20 Sep 2026 21:40:05 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Hi all, The past ten days have felt like the AI pot finally boiled over. It’s a complicated and confusing moment. We have to hold in our heads that most Americans appear to loathe …
+      <description>Kentucky Gov. Andy Beshear signaled in an interview with Axios that he would put America&apos;s housing affordability crisis at the center of his campaign if he ran for president in 202…
 
-来源：Exponential View · 商业模式与行业深度 · 约 2 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
-      <title>一个月跌了2500亿，具身智能仍遭疯抢</title>
-      <link>https://www.huxiu.com/article/4892522.html?f=rss</link>
-      <guid isPermaLink="false">4a5757c43b35</guid>
-      <pubDate>Sun, 20 Sep 2026 00:06:43 GMT</pubDate>
+      <title>Many ex-aides to Harris betting against a 2028 run</title>
+      <link>https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign</link>
+      <guid isPermaLink="false">ead88af17296</guid>
+      <pubDate>Sun, 20 Sep 2026 21:30:06 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 亿欧汽车 ，作者：郭怀毅，编辑：郝秋慧 8月19日，宇树上市首日市值冲到了4449亿。不到一个月，却已蒸发了2500亿。 宇树虽然在二级市场遇冷，但一级市场完全是另一番景象：2026年上半年，具身智能赛道约发生了322起融资，吸金超过935亿，较2025年同期增长了5倍。 目前仍有源源不断的创业者投身具身赛道，好的项目依旧在遭到资本疯抢…
+      <description>Many of those who know Kamala Harris best think she ultimately won&apos;t run for the White House in 2028. Why it matters: What the former vice president decides to do is one of the big…
+
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>用AI“复活”家人，似乎不是个好生意</title>
+      <link>https://www.tmtpost.com/8146329.html</link>
+      <guid isPermaLink="false">4ed0f5dc15ee</guid>
+      <pubDate>Mon, 21 Sep 2026 00:19:54 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 用AI&amp;ldquo;复活&amp;rdquo;已逝亲友的想法太过诱人，所以当ChatGPT诞生、掀起新一轮AI浪潮之后，哀伤生意与AI的碰撞几乎是注定的。 但如今，曾经寄希望于AI初创公司的悲伤之人，不得不与&amp;ldquo;亲友&amp;rdquo;再次告别了。 今年7月，帮人留住亲人声音的AI公司HereAfte…
+
+来源：钛媒体 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>当AI巨头开始在数学中圈地，数学家必须找准前进的方向</title>
+      <link>https://www.huxiu.com/article/4892744.html?f=rss</link>
+      <guid isPermaLink="false">de51767d1d4c</guid>
+      <pubDate>Mon, 21 Sep 2026 00:15:15 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 返朴 ，作者：邵城阳 当资本裹挟AI巨头企业席卷数学并有能力垄断算力和平台时，对数学界来说，改变机器及其产物的产权规则与分配机制或许是唯一的出路。在关乎知识所有权的博弈中，仅仅请求企业向高校提供少许优惠接口或算力补贴，不过是温和的乞讨。 本文收录于合集学界观察与指南 在《人类数学家，终于还是踩进了历史的泥潭》中，我们以珍妮纺纱机的问世为…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>在资本市场，瑞幸咖啡需要再赢一次</title>
-      <link>https://www.huxiu.com/article/4892521.html?f=rss</link>
-      <guid isPermaLink="false">78713be95ab9</guid>
-      <pubDate>Sat, 19 Sep 2026 23:50:38 GMT</pubDate>
+      <title>公园越来越火，城市反而快养不起了？</title>
+      <link>https://www.huxiu.com/article/4892743.html?f=rss</link>
+      <guid isPermaLink="false">8414084a646a</guid>
+      <pubDate>Mon, 21 Sep 2026 00:12:40 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 好看商业 ，作者：好看商业，编辑：安心 瑞幸已经在为重启IPO铺路了。 近日，一则跨境交易搅动市场：中东顶级金主穆巴达拉（Mubadala）战略投资瑞幸咖啡，交易规模约10亿美元。 据公开披露的信息，穆巴达拉并非直接向瑞幸注资入股，而是从瑞幸控股股东大钲资本手中买走部分瑞幸高级可转换优先股，总对价约10亿美元。 交易的卖方是大钲资本旗下…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>全国在线旅游大厂，为何接连被查？</title>
-      <link>https://www.huxiu.com/article/4892520.html?f=rss</link>
-      <guid isPermaLink="false">2615d260fba5</guid>
-      <pubDate>Sat, 19 Sep 2026 23:48:26 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 旅界 ，作者：theodore熙少 酒店和OTA，是时候重新算账了。 ▲ 01 昨天，美团、飞猪、同程、途家相关主体均被北京市市场监督管理局立案调查，消息一经传出，瞬间在行业炸开了锅。 看到消息时，我却突然想起前段时间，一场饭局上，国内某知名酒店集团高管和我聊起携程被罚没52亿元之前的一则小故事。 当时，他们几家酒店集团参加了一场部里规…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>三倍预算办赛仍被吐槽，名古屋亚运的钱花哪了？</title>
-      <link>https://www.huxiu.com/article/4892519.html?f=rss</link>
-      <guid isPermaLink="false">f3946cfa9e63</guid>
-      <pubDate>Sat, 19 Sep 2026 23:31:19 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号：体育产业生态圈，作者：ECO氪体，头图来自：视觉中国 9月19日，第20届亚运会在日本爱知县首府名古屋正式开幕。 这场时隔32年再次来到日本的亚洲体育盛会，原本应该以一场精心准备的开幕式拉开序幕，但运动员住宿、信息录入、交通接驳等一系列问题，已经让这届亚运会提前成为了舆论焦点。 一向以严谨细致著称的日本人，为什么会在一场如此重要的大赛上接…
+      <description>本文来自微信公众号： 丈量城市 ，作者：华高莱斯 1.公园的公与私：数十年的摇摆 2.新经济地理学下的公园突围 3.中心公园的「全年龄段」 4.郊区公园的「场景需求」 5.新城公园的「特色组合牌」 城市公园，已经跑出了一批领跑者。 朝阳公园是北京年轻人最密集的城市公园，北京书市、灯光节等活动接连刷屏；2025年，泡泡玛特乐园客流同比增长超70%，跻身北京入境…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Sun, 20 Sep 2026 00:20:49 GMT</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:27:24 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Sun, 20 Sep 2026 00:20:49 GMT</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:27:24 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,71 +228,31 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Sun, 20 Sep 2026 00:20:49 GMT</pubDate>
+      <pubDate>Mon, 21 Sep 2026 00:27:24 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Analysts tip a stronger hand for China ahead of Xi-Trump summit in Washington</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3368100/analysts-tip-stronger-hand-china-ahead-xi-trump-summit-washington?utm_source=rss_feed</link>
-      <guid isPermaLink="false">e310330ded28</guid>
-      <pubDate>Sat, 19 Sep 2026 22:00:08 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>When the presidents of the United States and China meet in Washington, the world will be watching to see whether their two countries can make good on their agreement to work toward…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>What China really means when it says it’s being ‘strategic’</title>
-      <link>https://www.scmp.com/opinion/china-opinion/article/3367441/what-china-really-means-when-it-says-its-being-strategic?utm_source=rss_feed</link>
-      <guid isPermaLink="false">8817e0c437ad</guid>
-      <pubDate>Sat, 19 Sep 2026 21:30:06 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>On September 12, Chinese President Xi Jinping met Indian Prime Minister Narendra Modi on the sidelines of the Brics summit in New Delhi. In their talks, Xi said China approached th…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Farm-state Republicans are having a cow over Trump&apos;s beef imports as Election Day approaches</title>
-      <link>https://www.politico.com/news/2026/09/19/trumps-beef-plan-problem-nebraska-iowa-kansas-texas-01084910</link>
-      <guid isPermaLink="false">eca8e13d5298</guid>
-      <pubDate>Sat, 19 Sep 2026 16:00:00 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Farm-state Republicans don’t support President Donald Trump’s move to import cheap beef — but they’re still getting grilled for it. Trump’s plan to combat sky-high beef prices by i…
-
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>One engineer shipped 2,000 PRs a month to production. Verification is the key.</title>
-      <link>https://thenewstack.io/agentic-verification-distributed-systems/</link>
-      <guid isPermaLink="false">d78d2545479b</guid>
-      <pubDate>Sat, 19 Sep 2026 14:00:00 GMT</pubDate>
+      <title>Your AI agent failed. The model might not be the problem.</title>
+      <link>https://thenewstack.io/nvidia-agent-debugging-safe/</link>
+      <guid isPermaLink="false">6154722b63f4</guid>
+      <pubDate>Sun, 20 Sep 2026 14:04:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Lauren Tan, an engineer on the Grok team at SpaceXAI, who previously worked at Cursor and Meta, recently published a guide to her personal agent workflow: pstack. The attention-gra…
+      <description>As AI agents move into production, the path between a request and its result is becoming less predictable. An agent can choose its own tools and change course as it works, which ma…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>“Dormant deployments were quietly consuming storage”: Why Vercel tightened its free-tier rules</title>
-      <link>https://thenewstack.io/vercel-hobby-deployment-retention/</link>
-      <guid isPermaLink="false">b8a961e4412a</guid>
-      <pubDate>Sat, 19 Sep 2026 13:00:00 GMT</pubDate>
+      <title>Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks</title>
+      <link>https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <guid isPermaLink="false">f9705191e0a4</guid>
+      <pubDate>Sun, 20 Sep 2026 19:51:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Vercel announced this week that teams on its free Hobby plan will now have older, unprotected deployments deleted immediately if they exceed the 10GB Deployment Storage limit. When…
+      <description>Bun creator Jarred Sumner recently announced that Bun, the JavaScript/TypeScript runtime, bundler and package manager has been rewritten from Zig to Rust. The rewrite seeks to elim…
 
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>This week’s news from Zed, Anthropic, and OpenRouter shows why better harnesses matter more than better models</title>
-      <link>https://thenewstack.io/ai-agent-harness-economics/</link>
-      <guid isPermaLink="false">7bbe32d1559a</guid>
-      <pubDate>Sat, 19 Sep 2026 10:00:00 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Our five most-read stories this week covered code collaboration, a model router, a UI change, a benchmark, and a caching tutorial. Five different stories about the same problem: Tu…
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
+来源：InfoQ · 开源与开发者生态 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,756 @@
+{
+  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T00:27:38.031Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 61 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "a811f9dbe0f9",
+          "title": "Applovin CEO：股价暴跌92%的“至暗时刻”与“自我救赎”",
+          "titleZh": "Applovin CEO：股价暴跌92%的“至暗时刻”与“自我救赎”",
+          "url": "https://wallstreetcn.com/articles/3782172",
+          "summary": "今天，AppLovin是美国市值最高的科技公司之一，今年预计产生约60亿美元现金，旗下广告平台的年度广告支出已达200亿美元。但很少有人知道，就在不到三年前，这家公司的股价曾从高点暴跌92%。 近日，在2026年All-In Summit上，AppLovin创始人兼CEO Adam Foroughi首次系统讲述了这段历史——从IPO崩盘到AI转型，再到用回购…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-21T00:17:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a3d5774b4206",
+          "title": "韩媒称“贝森特导师”德鲁肯米勒将首访韩国，将与海力士、三星电子和斗山等洽谈投资",
+          "titleZh": "韩媒称“贝森特导师”德鲁肯米勒将首访韩国，将与海力士、三星电子和斗山等洽谈投资",
+          "url": "https://wallstreetcn.com/articles/3782170",
+          "summary": "“贝森特导师”、全球宏观投资大佬Stanley Druckenmiller正式访问韩国，计划与三星电子、SK海力士、斗山等主要企业高管会面，探讨投资机会。这是他首次公开访问韩国，被市场视为韩国企业在全球AI供应链中地位跃升的重要信号。 据韩国媒体9月20日报道，韩国业界人士透露，Druckenmiller最早将于9月22日在首尔与斗山株式会社及斗山能源（Do…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-21T00:16:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "73fc657bd5e6",
+          "title": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧",
+          "titleZh": "莫斯科遭“最大规模袭击”，乌克兰“击中俄罗斯重要石油工业设施”，全球“炼油危机”加剧",
+          "url": "https://wallstreetcn.com/articles/3782171",
+          "summary": "地缘冲突对全球能源基础设施的冲击正在加剧，乌克兰对俄罗斯莫斯科炼油厂的重大无人机打击，正将本已紧绷的全球成品油市场推向新的危机边缘。 据央视新闻，当地时间9月20日，乌克兰武装部队总参谋部通报称，当天凌晨，乌军对俄罗斯莫斯科地区的莫斯科炼油厂实施打击。乌方称，炼油厂区域发生大规模火灾，AVT-6初级炼油装置、综合原油加工装置等遭到打击。乌军方称，莫斯科炼油厂…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-21T00:16:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1952e066e2f9",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月21日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月21日",
+          "url": "https://wallstreetcn.com/articles/3782126",
+          "summary": "华见早安之声 要闻精选 中国商务部：何立峰于9月19日至23日率团赴美国与美方举行经贸磋商。新华社：中美经贸磋商周日在美国纽约开始举行。 中国9月LPR连续16个月维持不变，央行主管媒体刊评“直接下调政策利率的必要性不高”。 国常会听取老龄工作情况汇报，部署实施医疗康复护理扩容提升工程。 中国财政部:1至8月全国一般公共预算收入同比增长5.7%，证券交易印花…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-20T23:02:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0c94f8a53178",
+          "title": "算力上天 商业航天开始争夺这块蛋糕了",
+          "titleZh": "算力上天 商业航天开始争夺这块蛋糕了",
+          "url": "https://wallstreetcn.com/articles/3782166",
+          "summary": "9月20日12时03分，力箭一号遥十八运载火箭以“一箭9星”方式，将“超智算一号”等卫星送入预定轨道。 这次发射呈现出在轨卫星的一项新变化：计算能力正在进入卫星的核心载荷，卫星从数据采集终端向计算节点演进。 “超智算一号”搭载光学遥感和AI计算载荷。 据项目方介绍，卫星可以在轨处理影像、识别目标，只将筛选后的高价值数据传回地面，部分场景的数据响应时间可由数小…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-21T00:19:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4dafa9fad887",
+          "title": "9月21日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "titleZh": "9月21日国内四大证券报纸、重要财经媒体头版头条内容精华摘要",
+          "url": "http://finance.eastmoney.com/news/1344,202609203879462893.html",
+          "summary": "9月21日(星期一)，今日报刊头条主要内容精华如下： 中国证券报 市场监管总局：已建立公平竞争审查制度 反垄断执法将更聚焦原料药、水电气暖、平台经济等领域 9月20日，国家市场监督管理总局新闻发言人、副局长束为在国新办举行的新闻发布会上表示，为综合整治“内卷式”竞争，今年市场监管总局部署开展了打击劣质低价专项行动，截至8月底全国共查办劣质低价违法案件2.9万…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-09-20T22:03:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "97deff1280b7",
+          "title": "llm-keys-ui 0.1",
+          "titleZh": "llm-keys-ui 0.1",
+          "url": "https://simonwillison.net/2026/Sep/20/llm-keys-ui/",
+          "summary": "Release: llm-keys-ui 0.1 This plugin solves a very specific problem. I've started using Codex Remote to run coding agents on various machines while controlling them from my phone. …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-20T19:22:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "67c2548927ef",
+          "title": "Quoting voxium",
+          "titleZh": "Quoting voxium",
+          "url": "https://simonwillison.net/2026/Sep/20/voxium/",
+          "summary": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc.,…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-20T21:06:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0cd15796b45",
+          "title": "早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻",
+          "titleZh": "早报｜特努斯：iPhone Duo是乔布斯理念体现/小米18 Pro确认涨价/西贝否认倒闭传闻",
+          "url": "https://www.ifanr.com/1681049?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "曝 iPhone Duo 原计划配专属磁吸触控笔，因技术问题未能落地 John Ternus：iPhone Duo 是乔布斯「技术与人文」理念的体现 小米 18 Pro 系列 9 月 23 日发布，卢伟冰称价格会上涨 Google Gemini 安全测试越界，误攻 3 家真实企业 零跑拟参与一汽旗新动力 A 轮融资，并合作开发前沿电池 硅基流动年内融资近 2…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-09-21T00:14:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "627855f47d53",
+          "title": "Experts warn of AI warfare risk",
+          "titleZh": "Experts warn of AI warfare risk",
+          "url": "https://www.semafor.com/article/09/20/2026/experts-warn-of-ai-warfare-risk",
+          "summary": "The US military reportedly prepared to intercept a Chinese vessel in the Middle East this spring after an AI chatbot misidentified materials on board, a close call that “almost sta…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-20T22:28:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3d59201864b7",
+          "title": "Houthis hit Saudia Arabia, threatening further escalation",
+          "titleZh": "Houthis hit Saudia Arabia, threatening further escalation",
+          "url": "https://www.semafor.com/article/09/20/2026/middle-east-tensions-threaten-escalation",
+          "summary": "Yemen’s Iran-backed Houthi fighters struck Saudi Arabia over the weekend as Iran warned against new US attacks, threatening to ignite another round of regional escalation. Accordin…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-20T22:27:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4c8843807a67",
+          "title": "US, Chinese officials meet before summit",
+          "titleZh": "US, Chinese officials meet before summit",
+          "url": "https://www.semafor.com/article/09/20/2026/us-chinese-officials-meet-before-trump-xi-summit",
+          "summary": "US Treasury Secretary Scott Bessent met with Chinese Vice Premier He Lifeng in New York on Sunday before this week’s high-stakes summit between US President Donald Trump and Chines…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-20T22:26:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8b2273382fab",
+          "title": "Merz's CDU collapses in German regional elections 'disaster'",
+          "titleZh": "Merz's CDU collapses in German regional elections 'disaster'",
+          "url": "https://www.semafor.com/article/09/20/2026/merzs-cdu-collapses-in-german-regional-elections-disaster",
+          "summary": "Germany’s governing CDU suffered its worst result in 80 years in regional elections Sunday, which Chancellor Friedrich Merz called a “disaster” for his party, as both the far left …",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-20T22:26:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3e8db2d19862",
+          "title": "NATO backs US, Denmark deal over Greenland security",
+          "titleZh": "NATO backs US, Denmark deal over Greenland security",
+          "url": "https://www.semafor.com/article/09/20/2026/nato-backs-us-denmark-deal-over-greenland-security",
+          "summary": "NATO endorsed an agreement between the US and Denmark to expand Washington’s military presence in Greenland, potentially forestalling President Donald Trump’s demands to take over …",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-20T22:34:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "708d5cae93d1",
+          "title": "Exclusive: Beshear says next president must go big on housing",
+          "titleZh": "Exclusive: Beshear says next president must go big on housing",
+          "url": "https://www.axios.com/2026/09/20/beshear-housing-2028-president",
+          "summary": "Kentucky Gov. Andy Beshear signaled in an interview with Axios that he would put America's housing affordability crisis at the center of his campaign if he ran for president in 202…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-20T21:40:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ead88af17296",
+          "title": "Many ex-aides to Harris betting against a 2028 run",
+          "titleZh": "Many ex-aides to Harris betting against a 2028 run",
+          "url": "https://www.axios.com/2026/09/20/kamala-harris-ex-aides-2028-campaign",
+          "summary": "Many of those who know Kamala Harris best think she ultimately won't run for the White House in 2028. Why it matters: What the former vice president decides to do is one of the big…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-20T21:30:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ed0f5dc15ee",
+          "title": "用AI“复活”家人，似乎不是个好生意",
+          "titleZh": "用AI“复活”家人，似乎不是个好生意",
+          "url": "https://www.tmtpost.com/8146329.html",
+          "summary": "（本文作者为 字母AI，钛媒体经授权发布） 文 | 字母AI 用AI&ldquo;复活&rdquo;已逝亲友的想法太过诱人，所以当ChatGPT诞生、掀起新一轮AI浪潮之后，哀伤生意与AI的碰撞几乎是注定的。 但如今，曾经寄希望于AI初创公司的悲伤之人，不得不与&ldquo;亲友&rdquo;再次告别了。 今年7月，帮人留住亲人声音的AI公司HereAfte…",
+          "whyItMatters": "",
+          "sourceName": "钛媒体",
+          "publishedAt": "2026-09-21T00:19:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "cnBeta",
+              "url": "https://www.cnbeta.com.tw/articles/tech/1578862.htm"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "de51767d1d4c",
+          "title": "当AI巨头开始在数学中圈地，数学家必须找准前进的方向",
+          "titleZh": "当AI巨头开始在数学中圈地，数学家必须找准前进的方向",
+          "url": "https://www.huxiu.com/article/4892744.html?f=rss",
+          "summary": "本文来自微信公众号： 返朴 ，作者：邵城阳 当资本裹挟AI巨头企业席卷数学并有能力垄断算力和平台时，对数学界来说，改变机器及其产物的产权规则与分配机制或许是唯一的出路。在关乎知识所有权的博弈中，仅仅请求企业向高校提供少许优惠接口或算力补贴，不过是温和的乞讨。 本文收录于合集学界观察与指南 在《人类数学家，终于还是踩进了历史的泥潭》中，我们以珍妮纺纱机的问世为…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-21T00:15:15.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8414084a646a",
+          "title": "公园越来越火，城市反而快养不起了？",
+          "titleZh": "公园越来越火，城市反而快养不起了？",
+          "url": "https://www.huxiu.com/article/4892743.html?f=rss",
+          "summary": "本文来自微信公众号： 丈量城市 ，作者：华高莱斯 1.公园的公与私：数十年的摇摆 2.新经济地理学下的公园突围 3.中心公园的「全年龄段」 4.郊区公园的「场景需求」 5.新城公园的「特色组合牌」 城市公园，已经跑出了一批领跑者。 朝阳公园是北京年轻人最密集的城市公园，北京书市、灯光节等活动接连刷屏；2025年，泡泡玛特乐园客流同比增长超70%，跻身北京入境…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-21T00:12:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-21T00:27:24.565Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-21T00:27:24.565Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-21T00:27:24.565Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "6154722b63f4",
+          "title": "Your AI agent failed. The model might not be the problem.",
+          "titleZh": "Your AI agent failed. The model might not be the problem.",
+          "url": "https://thenewstack.io/nvidia-agent-debugging-safe/",
+          "summary": "As AI agents move into production, the path between a request and its result is becoming less predictable. An agent can choose its own tools and change course as it works, which ma…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-20T14:04:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f9705191e0a4",
+          "title": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks",
+          "titleZh": "Bun Rewrites 535K Lines of Zig into Rust in Four Months, Eliminates Numerous Memory Leaks",
+          "url": "https://www.infoq.com/news/2026/09/bun-AI-rewrite-zig-rust-4-months/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Bun creator Jarred Sumner recently announced that Bun, the JavaScript/TypeScript runtime, bundler and package manager has been rewritten from Zig to Rust. The rewrite seeks to elim…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-09-20T19:51:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 27,
+    "itemsPublished": 24,
+    "itemsFiltered": 3,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 57,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
