@@ -1,0 +1,1231 @@
+{
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T00:45:04.272Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 41 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "4b817dd60fff",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月25日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月25日",
+          "url": "https://wallstreetcn.com/articles/3782511",
+          "summary": "华见早安之声 要闻精选 习近平同美国总统特朗普会谈。 美财长称中美已同意将贸易休战协议延长至明年1月，外交部回应。 中国商务部：中美双方就人工智能进行了首次对话；第八轮经贸磋商达成了多项共识。 中国央行：建议发挥增量政策和存量政策集成效应，增强政策前瞻性灵活性针对性。 购房定金最高不超1%！北京打响现房销售“第一枪”。 报道：DeepSeek年化营收突破10…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-24T23:16:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a9b99511ce70",
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "titleZh": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "url": "https://wallstreetcn.com/articles/3782452",
+          "summary": "美债持续承压、油价走高与美联储官员密集发表鹰派表态，三重压力叠加，令市场风险偏好明显收紧。 30年期美债收益率触及2004年以来最高水平，10年期收益率升破5.2%，2007年来首次。受此拖累，标普500指数收盘基本持平，但内部结构分化明显，多数成分股下跌。 布伦特原油结算价维持在每桶107美元附近，此前曾因有报道称美国与伊朗正就重开霍尔木兹海峡探索阶段性协…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-24T22:03:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb6e9028eab4",
+          "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+          "titleZh": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+          "summary": "PRESS RELEASE 24 September 2026 Ms Schnabel to be appointed IMF Financial Counsellor and Director of the Monetary and Capital Markets Department Ms Schnabel to remain a member of t…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-24T12:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c5db5fa26e98",
+          "title": "报道：蓝色起源按1400亿美元估值融资100亿美元",
+          "titleZh": "报道：蓝色起源按1400亿美元估值融资100亿美元",
+          "url": "https://wallstreetcn.com/articles/3782506",
+          "summary": "蓝色起源完成首轮外部融资，估值达1400亿美元，创始人杰夫·贝索斯在这家太空公司上的累计投入已高达300亿美元。这轮融资将为蓝色起源提供追赶SpaceX的弹药，并为其雄心勃勃的营收增长计划提供资金支撑。 9月24日，据《华尔街日报》报道，蓝色起源已完成100亿美元的外部融资，公司估值约为1400亿美元。 贝索斯本人在本轮融资中额外注资20亿美元，将其自200…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-24T23:28:47.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5481273d9aa5",
+          "title": "美联储3位官员同日放鹰，市场预期10月加息概率升至69%",
+          "titleZh": "美联储3位官员同日放鹰，市场预期10月加息概率升至69%",
+          "url": "https://wallstreetcn.com/articles/3782502",
+          "summary": "美联储多位官员近日密集表态，警告通胀持续高企，当前政策立场可能仍不足以将物价压回2%目标，市场对10月加息的预期随之大幅升温。 周四，费城联储主席Anna Paulson明确表示，若经济形势如预期演变，\"适度进一步收紧政策或有必要\"。纽约联储主席John Williams亦在同日发言表示，年底前再度加息是“合理”的，降低通胀仍需付出更多努力。 两人的表态与美…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-24T22:52:18.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ca039c03f7de",
+          "title": "美参议院以一票之差否决终止伊朗战争决议，油价压力令共和党人承压",
+          "titleZh": "美参议院以一票之差否决终止伊朗战争决议，油价压力令共和党人承压",
+          "url": "https://wallstreetcn.com/articles/3782508",
+          "summary": "美国参议院周四以微弱劣势否决了一项要求终止对伊战争的决议，但围绕这场冲突的政治裂痕正在共和党内部加速扩大。 周四，参议院以微弱优势否决了一项要求结束美国与伊朗战争的法案。表决结果为49票赞成、50票反对。 这项依据《战争权力法》提出的\"共同决议\"不具法律效力，无需总统签署，因此本质上属于象征性表态。 然而，全美平均油价已攀升至每加仑4.48美元，持续的经济压…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-24T22:16:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "f6f63d205003",
+          "title": "Introducing Gemini 3.8 Live with Live Avatar",
+          "titleZh": "Introducing Gemini 3.8 Live with Live Avatar",
+          "url": "https://deepmind.google/blog/introducing-gemini-38-live-with-live-avatar/",
+          "summary": "Sep 24, 2026 | Gemini 3.8 Live with Live Avatar brings real-time visual presence to Gemini’s conversational AI. By natively coupling our live dialogue capabilities with low-latency…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-24T16:20:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "622b27d2d665",
+          "title": "Automating coherent long-form video generation",
+          "titleZh": "Automating coherent long-form video generation",
+          "url": "https://research.google/blog/coherent-long-form-video-generation/",
+          "summary": "Recent advancements in video diffusion demonstrate remarkable high-fidelity generation with models that can render realistic scenes in seconds. However, while diffusion models gene…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-24T19:40:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "54e2c406b0d2",
+          "title": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "titleZh": "CDC opens state ordering for COVID-19 vaccines after unexplained delay",
+          "url": "https://arstechnica.com/health/2026/09/cdc-opens-state-ordering-for-covid-19-vaccines-after-unexplained-delay/",
+          "summary": "After a nearly monthlong delay, states are now able to order this season's COVID-19 vaccines through a federal program that provides free immunizations to low-income children, the …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-24T22:29:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e06a8d83b8a6",
+          "title": "Foundries vs Navigators: Lowering the Cost of Science",
+          "titleZh": "Foundries vs Navigators: Lowering the Cost of Science",
+          "url": "https://www.latent.space/p/foundries-vs-navigators-lowering",
+          "summary": "What does the future of science look like in the world of AI? Anthropic has some lofty goals for science and is even opening a wet lab . Meanwhile a quiet transformation 1 is happe…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-24T15:03:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e313717b837c",
+          "title": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+          "titleZh": "We have a trailer for Musk documentary Elon called a \"hit piece\"",
+          "url": "https://arstechnica.com/culture/2026/09/we-have-a-trailer-for-musk-documentary-elon-called-a-hit-piece/",
+          "summary": "Oscar-winning documentary filmmaker Alex Gibney has never been one to shy away from controversy. His latest feature, Musk , has stirred up plenty even before its release, drawing t…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-24T18:52:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3087bc7909e",
+          "title": "Google's first Suncatcher orbital data center test launches October 1",
+          "titleZh": "Google's first Suncatcher orbital data center test launches October 1",
+          "url": "https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1/",
+          "summary": "Google is taking its first step toward making Project Suncatcher a reality. Announced last year, Suncatcher is Google's \"moonshot\" effort to design orbital AI data centers, which A…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-24T16:16:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "766c7464f81b",
+          "title": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+          "titleZh": "Formula 1 looks at 3.0 L V8 turbos and smaller hybrids for 2030",
+          "url": "https://arstechnica.com/cars/2026/09/formula-1-looks-at-3-0-l-v8-turbos-and-smaller-hybrids-for-2030/",
+          "summary": "We’re not even a full year into the new regulations, and Formula 1 is already thinking hard about its next iteration, set to be introduced as early as the start of 2030. This was s…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-24T15:48:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "683b3c4cef90",
+          "title": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "titleZh": "Accelerating vision-language models with LFM2.5-VL-DSpark",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
+          "summary": "Today, we release an experimental DSpark draft model for our vision-language model (VLM) LFM2.5-VL-3B . As with our recently released LFM2.5-DSpark drafter models , it adds a specu…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-24T14:08:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "f1252881172f",
+          "title": "Senate Democrats put Trump's D.C. makeover on notice",
+          "titleZh": "Senate Democrats put Trump's D.C. makeover on notice",
+          "url": "https://www.axios.com/2026/09/24/democrats-trump-kennedy-center-triumphal-arch",
+          "summary": "Sen. Jeff Merkley (D-Ore.) plans to force a Senate vote next week on two new resolutions aimed at preventing President Trump from demolishing the Kennedy Center or building his pro…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-24T23:41:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "99c2b2bb58ec",
+          "title": "Scoop: NRSC pleads for $9M to defend three red seats",
+          "titleZh": "Scoop: NRSC pleads for $9M to defend three red seats",
+          "url": "https://www.axios.com/2026/09/24/nrsc-republicans-alaska-iowa-ohio",
+          "summary": "The Senate GOP campaign arm is making an extraordinary late ask — $8.9 million, to be exact — for three red states: Alaska, Iowa and Ohio, according to a memo sent Thursday and obt…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-24T23:37:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "153b47a42ed7",
+          "title": "月饼，还是炒着最好吃",
+          "titleZh": "月饼，还是炒着最好吃",
+          "url": "https://www.huxiu.com/article/4893899.html?f=rss",
+          "summary": "本文来自微信公众号： 冯仑风马牛 ，作者：风小二 今年月饼卖得很难，比去年更难。 8月14日至9月13日，本该是中秋节前送月饼最频繁的时间，但全国主要门店月饼销售额同比下滑45.17%，销售量下降40.67%，礼盒销量同比下滑49.04%，连续第二年下行。去年月饼卖了282.4亿元，较前一年下滑了5.9%，不知道今年能卖多少。 人人都说，中秋是团圆的节日，月…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-25T00:23:12.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "766ac9a01c22",
+          "title": "哈巴雪山八天两起坠亡，入门级雪山有腿就行？",
+          "titleZh": "哈巴雪山八天两起坠亡，入门级雪山有腿就行？",
+          "url": "https://www.huxiu.com/article/4893897.html?f=rss",
+          "summary": "本文来自微信公众号： 徒步中国 ，作者：小海 8月23日，一名26岁男子未经报备，独自从哈巴雪山西线登山。在海拔5020米处，他滑坠约120米，身亡。路过的登山者下撤到有信号的地方报警。8月27日，救援人员用无人机吊运遗体下山。 8月30日，哈巴雪山新建营地附近再出坠亡事故。遇难者25岁，此次进山同样未经报备。 8月30日的遇难者向某某来自重庆涪陵，是重庆城…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-25T00:18:15.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8dc20cbaa1a",
+          "title": "车企造电池的坑，通用先看明白了",
+          "titleZh": "车企造电池的坑，通用先看明白了",
+          "url": "https://www.huxiu.com/article/4893896.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 2026年8月11日，韩国三星集团旗下电池企业三星SDI宣布，收购通用汽车在双方合资公司Synergy Cells中持有的全部49.99%股权，全面接管位于印第安纳州新卡莱尔的电池工厂项目。 这已经是通用汽车在不到两年内第二次出售规划中电芯工厂的股权。 2024年12月，它将尚未投产的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-24T23:09:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-25T00:44:55.787Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-25T00:44:55.787Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-25T00:44:55.787Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "be6e3bfa9052",
+          "title": "Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors",
+          "titleZh": "Broadband Distributed Amplifier for Data Centers, Measurement Systems and Sensors",
+          "url": "https://www.semiconductor-digest.com/broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors/?utm_source=rss&utm_medium=rss&utm_campaign=broadband-distributed-amplifier-for-data-centers-measurement-systems-and-sensors",
+          "summary": "Modern data centers, high-precision measurement systems and high-resolution radar sensors rely on extremely broadband amplifier chips that feature both low noise and high output po…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-24T21:26:33.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5d4fb6a2c337",
+          "title": "ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure",
+          "titleZh": "ACCM Expands US Manufacturing Capacity Across Four Advanced Materials Segments for AI Infrastructure",
+          "url": "https://www.semiconductor-digest.com/accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=accm-expands-us-manufacturing-capacity-across-four-advanced-materials-segments-for-ai-infrastructure",
+          "summary": "Advanced Chip and Circuit Materials, Inc. today announced a major expansion of its US manufacturing capacity for the Celeritas family of advanced dielectric materials, covering the…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-24T21:23:49.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "57107cca2ff6",
+          "title": "EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI",
+          "titleZh": "EdgeCortix Unveils RAIDEN, a Scalable, Energy-Efficient AI Chiplet Platform Purpose-Built for Physical AI",
+          "url": "https://www.semiconductor-digest.com/edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=edgecortix-unveils-raiden-a-scalable-energy-efficient-ai-chiplet-platform-purpose-built-for-physical-ai",
+          "summary": "Physical AI has a system problem. Machines that perceive, reason and act in the real world cannot scale by adding AI accelerators alone. Compute, memory capacity, memory bandwidth,…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-24T21:21:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0c1aea9236a2",
+          "title": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
+          "titleZh": "Synopsys and TSMC Partner to Accelerate AI Systems Innovation with Agentic AI and Advanced Design",
+          "url": "https://www.semiconductor-digest.com/synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design/?utm_source=rss&utm_medium=rss&utm_campaign=synopsys-and-tsmc-partner-to-accelerate-ai-systems-innovation-with-agentic-ai-and-advanced-design",
+          "summary": "Synopsys has announced new innovations with TSMC that accelerate the development of next-generation AI, high-performance computing (HPC), and advanced semiconductor systems. Throug…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-24T21:03:52.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "acc9fbdb9134",
+          "title": "Culinary diplomacy on the menu for Xi and Trump at the White House",
+          "titleZh": "Culinary diplomacy on the menu for Xi and Trump at the White House",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368729/culinary-diplomacy-menu-xi-and-trump-white-house?utm_source=rss_feed",
+          "summary": "As Donald Trump and Xi Jinping meet at the White House for a state dinner on Thursday, culinary diplomacy is on the menu for guests who include business leaders and government offi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-25T00:17:37.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fb1ab74345d5",
+          "title": "China-US ‘new joint arrangement’, CEO arrivals: what you missed overnight from Xi-Trump summit",
+          "titleZh": "China-US ‘new joint arrangement’, CEO arrivals: what you missed overnight from Xi-Trump summit",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368723/china-us-new-joint-arrangement-ceo-arrivals-what-you-missed-overnight-xi-trump-summit?utm_source=rss_feed",
+          "summary": "1. B-2 Spirit, AI cooperation, no US-China conflict: key Xi-Trump takeaways so far Chinese President Xi Jinping and his American counterpart Donald Trump delivered remarks at the W…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-24T22:49:18.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50aa3957762e",
+          "title": "Pat on the back? Xi and Trump’s body language speaks volumes",
+          "titleZh": "Pat on the back? Xi and Trump’s body language speaks volumes",
+          "url": "https://www.scmp.com/news/us/article/3368725/pat-back-xi-and-trumps-body-language-speaks-volumes?utm_source=rss_feed",
+          "summary": "Arm touches, laughs, and firm handshakes were on display as Chinese President Xi Jinping and his American counterpart Donald Trump began their high-stakes summit in Washington, whi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-24T22:47:50.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2f36aa84f331",
+          "title": "Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room",
+          "titleZh": "Inside Melania Trump and Peng Liyuan’s visit to the Smithsonian’s Peacock Room",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368724/inside-melania-trump-and-peng-liyuans-visit-smithsonians-peacock-room?utm_source=rss_feed",
+          "summary": "Melania Trump and China’s first lady Peng Liyuan toured Chinese artworks and a room shaped by Asian design at the Smithsonian’s National Museum of Asian Art in Washington on Thursd…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-24T22:46:33.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "f2113cc69a00",
+          "title": "Advanced grid tech gets a $1.9B DOE boost",
+          "titleZh": "Advanced grid tech gets a $1.9B DOE boost",
+          "url": "https://www.canarymedia.com/articles/transmission/advanced-grid-tech-doe-boost",
+          "summary": "For years now, grid experts have been trying to get utilities to deploy advanced transmission technologies that can squeeze more capacity out of overstressed U.S. power grids. On T…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-24T21:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91517502901b",
+          "title": "Meet the solar industry’s new Republican evangelist",
+          "titleZh": "Meet the solar industry’s new Republican evangelist",
+          "url": "https://www.canarymedia.com/articles/solar/solar-industry-new-republican-evangelist",
+          "summary": "Tim Pawlenty was a two-term Republican governor of Minnesota and made a run in the 2012 presidential primary, which ultimately went to Mitt Romney. Now, Pawlenty has reemerged on t…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-24T16:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "714625ab30de",
+          "title": "Exelon’s climate arm backs grid-planning firm Continuum",
+          "titleZh": "Exelon’s climate arm backs grid-planning firm Continuum",
+          "url": "https://www.utilitydive.com/news/utility-giant-exelons-climate-arm-backs-grid-planning-firm-continuum/831276/",
+          "summary": "“Technologies that help the utility be more efficient in terms of building infrastructure … is a space that we're looking at,” an Exelon executive said.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-09-24T16:12:30.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8be081d1ee09",
+          "title": "When chat is the wrong UI",
+          "titleZh": "When chat is the wrong UI",
+          "url": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
+          "summary": "We&rsquo;re 176 years into this AI experiment. Wait&hellip;it&rsquo;s only been three years? Are you sure? Sometimes I remember things that happened last year, but it feels like it…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-24T20:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6fbddda8d61",
+          "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "titleZh": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
+          "url": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
+          "summary": "If you&rsquo;re new to fuzzing and want to learn the fundamentals first, check out our Fuzzing 101 course at gh.io/fuzzing101 . Continuous fuzzing is not a magic solution that solv…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-24T18:26:12.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "81033e6f62db",
+          "title": "OpenAI’s agent had a routine task. It breached a government portal.",
+          "titleZh": "OpenAI’s agent had a routine task. It breached a government portal.",
+          "url": "https://thenewstack.io/ai-agents-probe-vulnerabilities/",
+          "summary": "An OpenAI agent researching public medicine spending bypassed security blocks and gained unauthorized access to public and non-public files on an Australian government Medicare sta…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-24T19:16:28.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "480fe7176ba1",
+          "title": "How a forgotten node can put Oracle Java back in production",
+          "titleZh": "How a forgotten node can put Oracle Java back in production",
+          "url": "https://thenewstack.io/azul-ai-assistant-java-risk/",
+          "summary": "Enterprise Java company Azul announced its Azul Intelligence Cloud AI Assistant on Wednesday. The technology arrives in response to industry-wide alerts that AI has become a force …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-24T17:50:35.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "71355d938588",
+          "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
+          "titleZh": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
+          "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Costco’s business is increasingly living beyond the doors of its core warehouses. During its fiscal fourth-quarter and full-year earnings call on Thursday, Costco CEO Ron Vachris s…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-09-24T21:41:10.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8b5df9d55bca",
+          "title": "China is excelling in health tech. That’s good news for the world",
+          "titleZh": "China is excelling in health tech. That’s good news for the world",
+          "url": "https://restofworld.org/2026/china-ai-healthcare-biotech-drugs/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "If you want to see a doctor in China, you’d first go to a mobile app. You can book an appointment at a hospital using the messaging app WeChat or...",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-09-24T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8179b3f3c109",
+          "title": "As AI agents scale, H3C shifts the focus from more GPUs to better Token efficiency",
+          "titleZh": "As AI agents scale, H3C shifts the focus from more GPUs to better Token efficiency",
+          "url": "https://technode.com/2026/09/24/as-ai-agents-scale-h3c-shifts-the-focus-from-more-gpus-to-better-token-efficiency/",
+          "summary": "If the keyword for AI infrastructure over the past few years was simply more compute, the large-scale deployment of Agentic AI is forcing the industry to confront a more practical …",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-09-24T12:00:26.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 41,
+    "itemsPublished": 40,
+    "itemsFiltered": 1,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 69,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
