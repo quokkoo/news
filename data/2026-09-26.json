@@ -1,0 +1,1153 @@
+{
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T00:50:08.945Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "f380b66b9c67",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "badec8ee333a",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月26日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月26日",
+          "url": "https://wallstreetcn.com/articles/3782568",
+          "summary": "华见早安之声 市场概述 美国消费者信心公布后，标普纳指曾转跌，最终和此前三连跌的道指均收涨；Meta回落跌超3%，但智能体火爆带动，全周和英特尔等芯片股均涨超10%，数据中心遭遇不可抗力的甲骨文一周跌逾7%。10年期美债收益率盘中再创2007年来新高后转降，仍连升四周；美债创19个月最差周表现。日美官员释放“弱日元有问题”信号，日元扭转五连跌。美伊技术性谈判…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T23:20:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d0d4657237a5",
+          "title": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
+          "titleZh": "标普震荡反弹，海峡重开前景击落原油，日元盘中反弹逾1%，美债抛售暂歇但全周遭血洗",
+          "url": "https://wallstreetcn.com/articles/3782519",
+          "summary": "9月25日周五，美股震荡上行；霍尔木兹海峡重开的前景推动原油回落；日元表现亮眼，盘中一度大涨1.2%，成为G10货币中表现最强的品种，市场聚焦日本和美国官员接连释放的“弱日元有问题”信号；随着油价回落，美债抛售势头缓和，但在PMI等数据助推在美联储10月加息预期升温的一周，创19个月来最差单周表现。 市场预计美联储10月加息的概率本周一度升至70% 美股早盘…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T22:51:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a3b3ab932b1f",
+          "title": "拖了近10年，特斯拉Semi终于量产！",
+          "titleZh": "拖了近10年，特斯拉Semi终于量产！",
+          "url": "https://wallstreetcn.com/articles/3782552",
+          "summary": "特斯拉迟到近十年的重型电动卡车Semi正式进入量产阶段，并于本周启动首批客户交付。在销量下滑、品牌形象承压的背景下，这款产品能否兑现当初的承诺，对特斯拉而言意义重大。 当地时间本周四晚，特斯拉在内华达州Sparks的Semi专属工厂举办交付活动，宣布PepsiCo、DHL、US Foods、WattEV、ABF、Einride、IMC及OK Produce等…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T22:48:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "115ea6e52ad4",
+          "title": "柴油逼近6.5美元纪录位，白宫权衡停税与放开红色柴油，出口禁令仍在评估",
+          "titleZh": "柴油逼近6.5美元纪录位，白宫权衡停税与放开红色柴油，出口禁令仍在评估",
+          "url": "https://wallstreetcn.com/articles/3782569",
+          "summary": "美国柴油价格持续高企，特朗普政府正在权衡多项干预措施，从暂停联邦燃油税到放开“红色柴油”管制，出口禁令方案亦未完全退出讨论。然而截至目前，任何政策决定均未迫在眉睫，内部辩论仍在持续。 据彭博报道，目前讨论涉及美国副总统万斯、能源部长赖特、内政部长伯格姆及财政部长贝森特等核心官员。万斯已明确敦促采取行动遏制柴油价格涨势，并主动询问可用政策选项。与此同时，赖特透…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T23:22:50.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d9b4df291b99",
+          "title": "微软把Office三件套塞进Copilot，AI助手从“插件”变“入口”，股价上涨3.7%",
+          "titleZh": "微软把Office三件套塞进Copilot，AI助手从“插件”变“入口”，股价上涨3.7%",
+          "url": "https://wallstreetcn.com/articles/3782567",
+          "summary": "微软正在进一步扩大Copilot的产品边界。 周五，微软宣布为Copilot推出多项新功能，将Word、Excel和PowerPoint直接整合进这一AI助手，同时新增编程工具Code和能够持续运行的AI代理Autopilot，试图将Copilot从单一的AI助手进一步打造为覆盖办公、编程和任务执行的一站式工作入口。 微软希望通过此次产品升级扩大Copilo…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T23:01:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ce848d1559c",
+          "title": "日本财务大臣：高市早苗并非\"再通胀主义者，非常尊重央行独立性\"",
+          "titleZh": "日本财务大臣：高市早苗并非\"再通胀主义者，非常尊重央行独立性\"",
+          "url": "https://wallstreetcn.com/articles/3782563",
+          "summary": "日本政府正集中火力，试图扭转市场对高市早苗政府施压日本央行、奉行宽松政策的固有印象。 日本财务大臣片山皋月（Satsuki Katayama）周五表示，高市早苗首相并非\"再通胀主义者，非常尊重央行独立性\"，并称高市本人一再要求她向海外投资者澄清这一立场，\"我们希望确保在这一点上不存在任何误解。\" 片山同时重申干预汇市、支撑日元的意愿，并淡化了近期日本国债收益…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-25T22:19:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "f380b66b9c67",
+          "title": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+          "titleZh": "OpenRouter: from Seed to Stripe — with OpenRouter’s Alex Atallah & AMP’s Anjney Midha",
+          "url": "https://www.latent.space/p/openrouter",
+          "summary": "From the earliest days of open-weight models to becoming the neutral routing layer for more than 10 million developers , OpenRouter is one of the clearest bets that the future of A…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-25T23:14:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1db5e4495270",
+          "title": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "titleZh": "Proaction boosts sales 60% and saves 75+ hours with Codex",
+          "url": "https://openai.com/index/proaction",
+          "summary": "Proaction ⁠ (opens in a new window) builds software for businesses that manage fleets of vehicles, from cars and trucks to construction machinery. Because every fleet operates diff…",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-09-25T19:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6fdfff222e7e",
+          "title": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+          "titleZh": "AI was supposed to hit new grads hard. So far, unemployment data says otherwise.",
+          "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+          "summary": "Last month, we shared word of a Stanford study that found entry-level employment in so-called \"AI-impacted\" occupations lagging well behind that in other fields. Now, a new working…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-25T19:11:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fc8fb9c19ea",
+          "title": "Is solar's growth finally slowing in the US?",
+          "titleZh": "Is solar's growth finally slowing in the US?",
+          "url": "https://arstechnica.com/science/2026/09/is-solars-growth-finally-slowing-in-the-us/",
+          "summary": "Normally, we try to update you quarterly on what's going on with the US electric grid since it provides a nice view of developing trends and smooths out some month-to-month randomn…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-25T18:27:18.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fbcccd40f52f",
+          "title": "Quoting John Gruber",
+          "titleZh": "Quoting John Gruber",
+          "url": "https://simonwillison.net/2026/Sep/25/john-gruber/",
+          "summary": "Muse is getting a lot of attention — including mine — because it’s both groundbreaking technically (each user gets their own entire persistent Linux VM running in Meta’s cloud) and…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-25T17:22:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "71cf6e4ded8c",
+          "title": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+          "titleZh": "Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)",
+          "url": "https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/",
+          "summary": "As Apple's Tim Cook era draws to a close, we're seeing more experimentation with the iPhone's design than we've seen in a long time, but you wouldn't know it from the iPhone 18 Pro…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-25T19:34:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1fb469b009cf",
+          "title": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+          "titleZh": "Paramount/WBD merger conditions give the public \"virtually nothing,\" judge is told",
+          "url": "https://arstechnica.com/tech-policy/2026/09/paramount-wbd-merger-conditions-give-the-public-virtually-nothing-judge-is-told/",
+          "summary": "Free speech and media advocacy groups urged a judge to block a California settlement with Paramount Skydance that would let the company finalize its $111 billion merger with Warner…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-25T18:42:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14e97fabf433",
+          "title": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+          "titleZh": "Microsoft stops insisting you need a \"Copilot+ PC\"",
+          "url": "https://arstechnica.com/gadgets/2026/09/microsoft-stops-insisting-you-need-a-copilot-pc/",
+          "summary": "Since 2024 , Microsoft has tried to sell “Copilot+ PC.” The marketing initiative was aimed at making it easy for people to know which Windows systems were approved to run AI-accele…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-25T17:57:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "be235c9381d5",
+          "title": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+          "titleZh": "OpenAI agents posted user images online, disclose dozens of third party incidents",
+          "url": "https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode",
+          "summary": "OpenAI disclosed dozens of incidents in which its models behaved in ways it has deemed problematic, including leaking more than 50 images from ChatGPT users online. Why it matters …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-25T22:36:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7367b3821ed",
+          "title": "🤖 Your agent, whose interests?",
+          "titleZh": "🤖 Your agent, whose interests?",
+          "url": "https://www.exponentialview.co/p/meta-muse-digital-butler",
+          "summary": "Meta launched Muse earlier this month. It soon became the top free iPhone app in the US. It is a cousin of Instinct , the invite-only assistant you text, and of OpenClaw agents lik…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-09-25T15:11:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a49f22e6333b",
+          "title": "第一批“请3休13”的人，已经在焦虑酒店的神秘小虫子了",
+          "titleZh": "第一批“请3休13”的人，已经在焦虑酒店的神秘小虫子了",
+          "url": "https://www.huxiu.com/article/4893993.html?f=rss",
+          "summary": "本文来自微信公众号： 新周刊 ，作者：洛卡来，编辑：贾小凡 旅行本来就是短暂离开熟悉生活的过程，住酒店要操心的事已经够多了，现在又多了一项看不见、说不准、也很难证明的“床虱焦虑”。（本文没有恐怖的虫子特写图，请放心阅读）。 第一批“请3休13”的人已经出发了，还有一批在盼着假期出游的人，正在悄悄搜索一个不那么浪漫的词：床虱。 在北方，它还有个更家常的名字：臭…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-26T00:37:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "197eb808e3bc",
+          "title": "0元购机，卒于2026",
+          "titleZh": "0元购机，卒于2026",
+          "url": "https://www.huxiu.com/article/4893992.html?f=rss",
+          "summary": "本文来自微信公众号： 超聚焦foci ，作者：肖恩 “0元购机”突然踩下刹车。 近日，据新浪科技报道，三大运营商旗下的金融分期业务自9月24日起全面暂停新受理。 中国移动的“和包信用购”、中国电信的“橙分期”、中国联通的“沃分期”，这些曾在营业厅里被包装成“免费领手机”“0元购机”的产品，如今都停止了新增办理。多地运营商员工已收到通知，三大运营商客服也均确认…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-25T23:49:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e1c3d7dc2ef6",
+          "title": "英国汽车的中国难题",
+          "titleZh": "英国汽车的中国难题",
+          "url": "https://www.huxiu.com/article/4893991.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 “我们不是你们的敌人。” 2026年9月21日，赴纽约参加联合国大会途中，今年7月接任英国首相的安迪·伯纳姆（Andy Burnham）向随行记者谈及欧盟“欧洲制造”计划时表示，英国希望成为欧盟的“可信赖伙伴”。 安迪·伯纳姆在前往纽约的途中告诉记者：“我们的立场得到了成员国的广泛支持…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-25T23:20:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-26T00:49:53.404Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-26T00:49:53.404Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-26T00:49:53.404Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "08848ffc1d2b",
+          "title": "HANMI Semiconductor Ships First ‘FC Bonder 75’ for AI System Semiconductors",
+          "titleZh": "HANMI Semiconductor Ships First ‘FC Bonder 75’ for AI System Semiconductors",
+          "url": "https://www.semiconductor-digest.com/hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-ships-first-fc-bonder-75-for-ai-system-semiconductors",
+          "summary": "HANMI Semiconductor today announced that it has shipped the first “FC Bonder 75” to a customer. Designed for 2.5D AI semiconductor packaging, the new system marks the company’s exp…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-25T20:17:13.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "593f5356cabd",
+          "title": "TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips",
+          "titleZh": "TRUMPF Enables Integrated Chip Cooling for the Next Generation of AI Chips",
+          "url": "https://www.semiconductor-digest.com/trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips/?utm_source=rss&utm_medium=rss&utm_campaign=trumpf-enables-integrated-chip-cooling-for-the-next-generation-of-ai-chips",
+          "summary": "The next generation of high-performance AI chips requires new cooling solutions. At Semicon, TRUMPF is showcasing a new ultrashort-pulse laser application that enables, for the fir…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-25T20:12:32.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b2049df15ca8",
+          "title": "Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System",
+          "titleZh": "Shanghai Chengwei Semiconductor Equipment Launches High Precision Laboratory Central Gas Supply System",
+          "url": "https://www.semiconductor-digest.com/shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system/?utm_source=rss&utm_medium=rss&utm_campaign=shanghai-chengwei-semiconductor-equipment-launches-high-precision-laboratory-central-gas-supply-system",
+          "summary": "Shanghai Chengwei Semiconductor Equipment Co., Ltd . has officially announced the launch of its latest laboratory central gas supply system . This high purity engineering infrastru…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-25T20:02:33.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5eaf7bceb83d",
+          "title": "Singapore Announces SG Semiconductor",
+          "titleZh": "Singapore Announces SG Semiconductor",
+          "url": "https://www.semiconductor-digest.com/singapore-announces-sg-semiconductor/?utm_source=rss&utm_medium=rss&utm_campaign=singapore-announces-sg-semiconductor",
+          "summary": "Minister for Trade and Industry (Energy and Industry) Dr Tan See Leng today announced SG Semiconductor, a national identity for Singapore’s semiconductor sector, at Innovate Togeth…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-25T19:35:05.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "aee8be97bb6c",
+          "title": "Xi-Trump atmospherics welcomed but mask structural rifts: analysts",
+          "titleZh": "Xi-Trump atmospherics welcomed but mask structural rifts: analysts",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368875/xi-trump-atmospherics-welcomed-mask-structural-rifts-analysts?utm_source=rss_feed",
+          "summary": "During their three-day summit that ended on Friday, US President Donald Trump and Chinese President Xi Jinping worked overtime to underscore their increasingly close relationship e…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-26T00:02:27.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "127dc8e05759",
+          "title": "What Donald Trump and Xi Jinping revealed in the body language with their wives",
+          "titleZh": "What Donald Trump and Xi Jinping revealed in the body language with their wives",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3368874/what-donald-trump-and-xi-jinping-revealed-body-language-their-wives?utm_source=rss_feed",
+          "summary": "As Chinese leader Xi Jinping and US President Donald Trump wrapped up their three-day state visit on Friday, a stark contrast in the two presidential couples’ hand-holding dynamics…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-25T23:29:47.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d49086ed3455",
+          "title": "Trump will hit several deep-red states in October campaign blitz",
+          "titleZh": "Trump will hit several deep-red states in October campaign blitz",
+          "url": "https://www.politico.com/news/2026/09/25/trump-midterms-travel-iowa-florida-red-states-01093710",
+          "summary": "President Donald Trump is hitting the campaign trail — and a series of his stops are in deep-red states he comfortably won in 2024. Trump will campaign in Iowa, Florida, Texas and …",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-25T20:48:14.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "3a9aa5075237",
+          "title": "The challenges and opportunities of clean energy in rural America",
+          "titleZh": "The challenges and opportunities of clean energy in rural America",
+          "url": "https://www.canarymedia.com/articles/land-use/challenges-opportunities-clean-energy-rural-america",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. The U.S. energy transition runs through rural America: As of last year,…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-25T20:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc641bbe5d90",
+          "title": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
+          "titleZh": "‘Concerning’ low sea ice persists as Antarctic hits third-lowest winter peak",
+          "url": "https://www.carbonbrief.org/concerning-low-sea-ice-persists-as-antarctic-hits-third-lowest-winter-peak",
+          "summary": "Print article Share Antarctic sea ice has recorded its third-smallest winter peak extent since satellite records began 48 years ago, new data reveals. Provisional data from the US …",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-25T12:45:39.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "8088febca6aa",
+          "title": "Japan’s Science Council to face greater governmental oversight",
+          "titleZh": "Japan’s Science Council to face greater governmental oversight",
+          "url": "https://www.science.org/content/article/japan-s-science-council-face-greater-governmental-oversight",
+          "summary": "Imminent change in legal status raises concerns that national academy will serve political interests",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-25T12:38:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc2626892d64",
+          "title": "Laser-generated particles allow scientists to see through walls",
+          "titleZh": "Laser-generated particles allow scientists to see through walls",
+          "url": "https://www.science.org/content/article/laser-generated-particles-allow-scientists-see-through-walls",
+          "summary": "First clean pictures from a muon beam point to a new way to peer inside suspicious packages and ancient structures",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-25T12:25:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "5fcf70913418",
+          "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "titleZh": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+          "summary": "Most tools give you a fixed set of screens and ask you to fit your work into them. But what if you could start with the workflow you want instead and have the interface take shape …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-25T18:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6f5450f7f5cf",
+          "title": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+          "titleZh": "Microsoft’s new Copilot agents get their own email, calendar — and a place in the org chart",
+          "url": "https://thenewstack.io/copilot-agents-identity-runtime/",
+          "summary": "Microsoft announced what it calls its biggest Copilot update to date on Friday, with CEO Satya Nadella describing Copilot as “a new OS for work.” Nadella framed Copilot as spanning…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-25T17:16:31.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "845438a5c508",
+          "title": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+          "titleZh": "OpenTelemetry and Prometheus are getting along. What’s still missing?",
+          "url": "https://thenewstack.io/opentelemetry-prometheus-observability-interoperability/",
+          "summary": "Welcome to another edition of Road to KubeCon , where we’re tracking the major movements in the Kubernetes and cloud native ecosystem on the path to KubeCon + CloudNativeCon NA 202…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-25T16:56:47.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b68be41fb3ee",
+          "title": "Improving site performance by shipping more CSS",
+          "titleZh": "Improving site performance by shipping more CSS",
+          "url": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+          "summary": "The Primer Design System powers many of the experiences you see on GitHub today. From buttons to banners to breadcrumbs, these foundational components are required to be accessible…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-09-25T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "f380b66b9c67",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 37,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
