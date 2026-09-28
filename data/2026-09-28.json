@@ -1,0 +1,751 @@
+{
+  "date": "2026-09-28",
+  "generatedAt": "2026-09-28T01:06:49.156Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 24 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 5 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "74b34eb082cf",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "f90481bf73db",
+          "title": "伊朗称“已为与美战事重开做好准备，但未放弃外交途径”，调解国认为“重返谈判希望渺茫”",
+          "titleZh": "伊朗称“已为与美战事重开做好准备，但未放弃外交途径”，调解国认为“重返谈判希望渺茫”",
+          "url": "https://wallstreetcn.com/articles/3782614",
+          "summary": "特朗普拒绝停火提案后，谈判陷入僵局。伊朗一边备战，一边等待调解方传话；调解国卡塔尔坦言，眼下没有终结冲突的清晰路径。 据新华社援引伊朗媒体27日报道，伊朗外长阿拉格齐表示，伊朗已做好与美国战事重开的准备，但尚未放弃通过外交途径进行接触。他说，“我们已为战事重开做好充分准备”，与此同时，“我们也随时准备进行外交接触”。“这取决于美国总统特朗普的选择。” 此前，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-28T00:28:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba190fbe52e9",
+          "title": "特朗普称“非常认真考虑柴油出口禁令”，高盛分析禁令的“五大影响”",
+          "titleZh": "特朗普称“非常认真考虑柴油出口禁令”，高盛分析禁令的“五大影响”",
+          "url": "https://wallstreetcn.com/articles/3782615",
+          "summary": "美国柴油价格创历史新高之际，特朗普亲口确认正认真考虑出口禁令，高盛随即建模推演了禁令落地后的传导路径。 9月27日周日，美国总统特朗普在芝加哥附近出席总统杯高尔夫赛事期间，回应了外界持续发酵的柴油出口禁令传闻，称正“非常认真”考虑禁止美国柴油出口。他对记者说道： 这有时会导致汽车汽油价格小幅上涨，所以我们正在非常认真地研究这件事——我们可能会这么做。 据彭博…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-28T00:22:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "00ee25464537",
+          "title": "\"从ICU到KTV\"！两级摇摆的\"AI叙事\"让投资者\"心累\"",
+          "titleZh": "\"从ICU到KTV\"！两级摇摆的\"AI叙事\"让投资者\"心累\"",
+          "url": "https://wallstreetcn.com/articles/3782611",
+          "summary": "AI股票市场在短短两周内经历了从恐慌性抛售到狂热追涨的极端轮回，数千亿美元资金随叙事切换而剧烈进出，令投资者疲于应对。 过去两周，AI相关股票上演了一出令人眩晕的\"过山车\"行情——先是因行业领袖呼吁放缓AI开发而遭遇重挫，纳斯达克100指数两日内蒸发逾6000亿美元市值；随后又因Meta个人助手的爆红引发市场狂欢，科技股强势反弹，纳斯达克100指数自9月15…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-28T00:03:44.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "abd142cf1d40",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月28日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月28日",
+          "url": "https://wallstreetcn.com/articles/3782578",
+          "summary": "华见早安之声 市场概述 上周五，美国消费者信心公布后，标普纳指曾转跌，最终和此前三连跌的道指均收涨；Meta回落，跌超3%，但智能体火爆带动，全周和英特尔等芯片股均涨超10%，数据中心遭遇不可抗力的甲骨文一周跌逾7%。 美债抛售暂歇但全周遭血洗：10年期美债收益率盘中再创2007年来新高后转降，仍连升四周；美债创19个月最差周表现。日美官员释放“弱日元有问题…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-27T23:01:26.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0add9b28acbf",
+          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
+          "titleZh": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
+          "url": "https://wallstreetcn.com/articles/3782618",
+          "summary": "在Meta个人AI智能体Muse获得摩根大通最高评级、风头一时无两之际，OpenAI正加速推出一款名为\"o\"的常驻AI助手，以正面迎击这场日益激烈的AI智能体竞赛。 据科技媒体wccftech日前报道，据悉，OpenAI已在ChatGPT Pro相关产品文档中加入\"o\"的品牌标识，正式发布迫在眉睫，预计将于本周二（9月29日）的Dev Day活动上亮相。 这…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-28T00:33:42.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "154e702a3463",
+          "title": "美债收益率曲线逼近倒挂！债市质疑美国经济前景？",
+          "titleZh": "美债收益率曲线逼近倒挂！债市质疑美国经济前景？",
+          "url": "https://wallstreetcn.com/articles/3782612",
+          "summary": "美国国债收益率曲线正逼近倒挂临界点，债券市场开始对美联储持续加息可能拖累经济发出警示信号。 上周10年期与2年期美债收益率之差收窄至最低17个基点，为2025年初以来最小利差，曲线平坦化趋势显著加剧。这一动态发生在美联储本月完成三年来首次加息、并暗示后续将继续收紧之后，市场目前已消化未来一年内至少三次25个基点加息的预期。 收益率曲线倒挂历史上曾先于1960…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-28T00:23:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "74b34eb082cf",
+          "title": "2026 in LLMs (so far)",
+          "titleZh": "2026 in LLMs (so far)",
+          "url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far/",
+          "summary": "On Friday I gave the closing keynote at the WeAreDevelopers World Congress North America in San Jose. I tied together the key trends from the past year into a chronological explora…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-27T23:54:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a8b9026e1ecf",
+          "title": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+          "titleZh": "传 OpenAI 29 日推个人 AI 助手；AI 专家偏远地区买地，担心「AI 失控」；挖掘机能自动「挖沟」，网友：蓝翔还能开几年？",
+          "url": "http://www.geekpark.net/news/371044",
+          "summary": "消息称 OpenAI 将推出常驻 AI 助手「O」，预计 9 月 29 日发布 9 月 27 日消息，据消息人士 Alexey Shabanov 昨日透露，OpenAI 即将推出一款常驻 AI 助手，其代号为「O」，预计将在 9 月 29 日的 OpenAI DevDay 推出。 据报道，ChatGPT 的配置文件中已经出现了许多与「O」相关的线索，包括将「…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-09-28T00:06:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ffa61008dc0",
+          "title": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+          "titleZh": "早报｜苹果Vision新项目曝光，减重成为第一目标/三大运营商暂停「零元购机」/问界确认仍属鸿蒙智行",
+          "url": "https://www.ifanr.com/1682201?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "曝苹果重新评估 Vision Pro 路线，测试更轻机型 洛图：8 月中国笔电线上销量降 20.8%，苹果与小米份额上升 苹果触觉反馈专利案被裁赔 57 亿美元，称将上诉 OpenAI 暂停最强模型的工具使用训练，沙盒 DNS 漏洞让智能体访问外部聊天服务 OpenAI DevDay 将于 9 月 29 日举行，Altman 主题演讲开放直播 豆包手机助手回…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-09-28T00:25:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d28402eb3e47",
+          "title": "Firms take lead on AI safety standards as security incidents mount",
+          "titleZh": "Firms take lead on AI safety standards as security incidents mount",
+          "url": "https://www.semafor.com/article/09/27/2026/firms-take-lead-on-ai-safety-standards-as-security-incidents-mount",
+          "summary": "Progress in frontier AI development is far outpacing governments’ capabilities — and willingness — to police it. “There is a disconnect between the law and the reality of what is b…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-27T22:35:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "051d9a1734af",
+          "title": "Foreign investors buy into US equities at record rate",
+          "titleZh": "Foreign investors buy into US equities at record rate",
+          "url": "https://www.semafor.com/article/09/27/2026/foreign-investors-buy-into-us-equities-at-record-rate",
+          "summary": "Net purchases of US equities and investment fund shares by foreign investors reached a record $426 billion in the second quarter, as overseas capital piled into an AI boom that has…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-27T22:29:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e5d8175dc7d6",
+          "title": "US-Iran talks continue as tensions rise",
+          "titleZh": "US-Iran talks continue as tensions rise",
+          "url": "https://www.semafor.com/article/09/27/2026/us-iran-talks-continue-as-tensions-rise",
+          "summary": "The US and Iran signaled a willingness to continue negotiating this week, even as the two sides appeared no closer to closing the stark gap between them. US President Donald Trump …",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-27T22:26:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "36ea5d9226f5",
+          "title": "Swiss vote down neutrality measures",
+          "titleZh": "Swiss vote down neutrality measures",
+          "url": "https://www.semafor.com/article/09/27/2026/swiss-vote-down-neutrality-measures",
+          "summary": "Swiss voters on Sunday decisively rejected stricter neutrality rules that would have prevented the country from sanctioning Russia and curbed its cooperation with NATO , delivering…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-27T22:25:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bebd04e82495",
+          "title": "US troops join Ecuador’s drug war",
+          "titleZh": "US troops join Ecuador’s drug war",
+          "url": "https://www.semafor.com/article/09/27/2026/us-troops-join-ecuadors-drug-war",
+          "summary": "American military personnel joined Ecuador’s security forces in raids and arrests around the country targeting alleged drug traffickers, as the Trump administration steps up its ha…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-09-27T22:24:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "6eb63dfcd352",
+          "title": "但斌之问：强大的中国制造为何不赚钱？",
+          "titleZh": "但斌之问：强大的中国制造为何不赚钱？",
+          "url": "https://www.huxiu.com/article/4894166.html?f=rss",
+          "summary": "本文来自微信公众号： 赛格大道 ，作者：傅蔚冈 最近，知名投资人但斌在一次视频采访中提到一个很有意思的现象：“中国人一主导某个产业，马上就没利润了，这个是比较要命的东西。” 我们不妨把这个问题称为“但斌之问”。 这问题之所以值得讨论，并不是因为这句话已经给出了答案，而是因为它准确地触碰到了中国制造业一个长期存在的悖论：过去几十年，中国企业在越来越多产业中完成…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-28T00:40:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5ca0dab110d6",
+          "title": "小鹏没有产品经理",
+          "titleZh": "小鹏没有产品经理",
+          "url": "https://www.huxiu.com/article/4894179.html?f=rss",
+          "summary": "本文来自微信公众号： 岳涌大江流 ，作者：岳老狮 试完G9L，我坐在车里想了半天：这到底是一台什么车？ 王凤英曾直言，小鹏G9L是一台“全球没有对手”的车型。 这句评价，如今再回头看，多少有些意味深长。 并不是说G9L产品力不行。恰恰相反，单论硬件素质，它完全称得上诚意满满。外观舒展大气，车内空间宽裕，底盘调校偏向舒适家用。双腔空悬、CDC、后轮转向、800…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-28T00:35:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e68bfc747ac",
+          "title": "一个AI应用爆火，会带动多少硬件生意？",
+          "titleZh": "一个AI应用爆火，会带动多少硬件生意？",
+          "url": "https://www.huxiu.com/article/4894175.html?f=rss",
+          "summary": "本文来自微信公众号： 反熵 ，作者：一笑 豆包、DeepSeek、ChatGPT，我们已经越来越熟悉了。AI应用已经从少数人尝鲜的工具，迅速进入办公、搜索、编程和内容生产。 但一个AI应用突然拥有几千万甚至上亿用户之后，手机和电脑屏幕之外，还会发生什么？这些新增用户，最后会变成多少服务器、芯片、内存和存储订单？ TrendForce预计，Google、Ama…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-28T00:25:33.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f4bf4667b08",
+          "title": "第一次徒步，就把自己走废了？",
+          "titleZh": "第一次徒步，就把自己走废了？",
+          "url": "https://www.huxiu.com/article/4894176.html?f=rss",
+          "summary": "本文来自微信公众号： 徒步中国 ，作者：阿瑶 讲真，我十分迫切的希望更多新人进入户外，爱上户外，大自然曾赠予我的一切美妙经历，都希望有更多人来共享。 以前很多人觉得户外离自己很远，现在可能周末找座山走一走，越来越多人尝试徒步，这当然是件好事。但如果真有一个完全没徒步过的新人来咨询户外线路，我又挺担心的，怕万一线路不如预期、行程或体验发生了什么问题，甚至是他走…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-28T00:23:45.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ad482e910ae4",
+          "title": "华盛顿三天谈完，白宫的降税清单为什么挑了彩灯、玩具、小家电和安全座椅？",
+          "titleZh": "华盛顿三天谈完，白宫的降税清单为什么挑了彩灯、玩具、小家电和安全座椅？",
+          "url": "https://www.huxiu.com/article/4894174.html?f=rss",
+          "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：创新区研究组 上周华盛顿的三天会面结束了，访问一结束，白宫就公布了一份“双向各300亿美元”的关税互降安排。 清单念出来，像一张超市购物单。 美国对中国降税的，是小家电、玩具、圣诞装饰和儿童安全座椅。 中国对美国降税的，是农产品、鱼和海鲜、原木、化妆品和医疗器械。 另外，中国承诺2027和2028年每年至少买…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-28T00:19:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-28T01:06:32.627Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-28T01:06:32.627Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-28T01:06:32.627Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "ae8dea63be05",
+          "title": "Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take",
+          "titleZh": "Performance engineering from kernel analysis to AI: Adrian Cockcroft’s take",
+          "url": "https://thenewstack.io/cockcroft-performance-engineering-ai/",
+          "summary": "Over its five-year history, P99 CONF has hosted quite a few speakers who&rsquo;ve offered pointed takedowns of the namesake metric. At last year&rsquo;s conference, Adrian Cockcrof…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-27T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1b46e0a4cb74",
+          "title": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+          "titleZh": "The rise of agentic AI on Kubernetes: unleashing the new infrastructure layer",
+          "url": "https://thenewstack.io/agentic-ai-kubernetes-management/",
+          "summary": "AI is changing expectations around infrastructure and operations , including Kubernetes management. When models run close to the data they use, deployment, scaling, and governance …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-27T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "74b34eb082cf",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 24,
+    "itemsPublished": 24,
+    "itemsFiltered": 0,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 66,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
