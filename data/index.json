@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-28T01:06:49.184Z",
+  "updatedAt": "2026-09-29T02:15:24.795Z",
   "days": [
+    {
+      "date": "2026-09-29",
+      "itemCount": 38,
+      "topPickTitles": [
+        "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
+        "Superlinear Returns",
+        "How to Do Great Work"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-09-28",
       "itemCount": 24,
