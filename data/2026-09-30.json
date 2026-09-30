@@ -1,0 +1,1059 @@
+{
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T01:29:15.255Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "08cb36d76878",
+          "title": "美债收益率持续走高、美股广度持续恶化，美股指数却依旧抗跌，下一步走向何方？",
+          "titleZh": "美债收益率持续走高、美股广度持续恶化，美股指数却依旧抗跌，下一步走向何方？",
+          "url": "https://wallstreetcn.com/articles/3782783",
+          "summary": "美股正处于一场罕见的内部撕裂之中。收益率飙升、市场广度持续恶化、信用利差走阔，但标普500指数却岿然不动，多空双方陷入僵局，市场情绪日趋焦灼。 周三，高盛单一delta交易台负责人Rich Privorotsky直言，美债利率上行的速度\"已经严苛到无法忽视\"，实际利率单月涨幅已是2013年以来最差水平之一。他警告称，利率波动率的飙升正在压缩华尔街的风险中介能…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-30T00:29:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ec3e4b02572c",
+          "title": "“过去两年最准”的摩根大通交易台“翻多”",
+          "titleZh": "“过去两年最准”的摩根大通交易台“翻多”",
+          "url": "https://wallstreetcn.com/articles/3782782",
+          "summary": "摩根大通机构市场情报交易台（Market Intel Desk）以过去两年精准捕捉市场拐点著称，如今再度发出重要信号——由\"战术性谨慎/中性\"转向\"战术性看多\"。这一转变发生在宏观与微观数据密集发布的关键窗口前，引发市场广泛关注。 最新报告显示，该交易台将立场转变的核心依据归结为五大支柱：宏观基本面超预期、消费者韧性持续、盈利预期偏低、债券收益率趋于稳定，以…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-29T23:59:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d9edb58a8d01",
+          "title": "特朗普会晤科技巨头：签署AI\"道德约束\"协议，推行行业自律监管，“AI远超工业革命”",
+          "titleZh": "特朗普会晤科技巨头：签署AI\"道德约束\"协议，推行行业自律监管，“AI远超工业革命”",
+          "url": "https://wallstreetcn.com/articles/3782769",
+          "summary": "特朗普在白宫与全球顶级人工智能企业领袖举行闭门午餐会，随后宣布与美国顶尖科技公司就人工智能治理达成原则性协议，将监管主导权交由行业自身，并表示正式将\"人工智能\"更名为\"超级智能\"。 9月29日，美国总统特朗普在白宫宴请近二十余名科技行业领袖，特朗普向媒体表示会谈\"极为顺利、富有成效\"，并称与会各方就诸多议题达成\"大量共识\"。 随后，特朗普政府与Anthrop…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-29T23:36:50.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7084fc5733bd",
+          "title": "30年期美债收益率创2002年新高，抛售潮在季节性压力下恐延续",
+          "titleZh": "30年期美债收益率创2002年新高，抛售潮在季节性压力下恐延续",
+          "url": "https://wallstreetcn.com/articles/3782779",
+          "summary": "美国国债市场抛售浪潮再度升级，30年期美国国债收益率升至逾二十四年来最高水平。 9月29日，30年期美债收益率盘中一度攀升至5.62%，创2002年6月以来新高，连续第六个交易日录得上涨。 10年期收益率同步走高，盘中最高触及5.29%，为2007年以来最高水平。两年期收益率约为4.9%，是主要期限中最后一个仍低于5%的品种。彭博指标显示，美国国债今年以来已…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-29T23:21:37.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d305f3eacd63",
+          "title": "华尔街见闻早餐FM-Radio | 2026年9月30日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年9月30日",
+          "url": "https://wallstreetcn.com/articles/3782777",
+          "summary": "华见早安之声 要闻精选 商务部新闻发言人就媒体报道欧盟相关成员国推动欧委会打造欧版“301”工具事答记者问。 中央财政史上首次！“房贷贴息”节前落地：首套、120平方米以下、150万元以内可享。 中国央行“出手”：“降息”、加大“六张网”金融支持、扩大“再贷款额度”。 报道：美伊谈判进展甚微，双方均不愿让步。 美国8月JOLTS职位空缺降至707.9万个，为…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-29T23:17:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "52f29278dda9",
+          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "titleZh": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "summary": "美国长期国债收益率飙升至数十年高位，叠加油价下跌与美联储政策路径不确定性，市场在多重压力交织下陷入方向迷失。当日市场在\"鸽派\"声音的短暂安抚下有所回稳，但整体仍难掩疲态。 美联储纽约联储主席John Williams周二表示，今年或仅需再加息一次，且无需急于行动，此言论迅速压低市场对10月加息的预期，短端收益率小幅回落。 与此同时，卡塔尔释放的外交斡旋信号以…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-29T23:06:16.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "e0f856f1d9e9",
+          "title": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "titleZh": "Most powerful obesity drug yet: People lost up to 25% of weight in trial",
+          "url": "https://arstechnica.com/health/2026/09/most-powerful-obesity-drug-yet-people-lost-up-to-25-of-weight-in-trial/",
+          "summary": "Researchers published late-stage clinical trial data today for the latest obesity drug, retatrutide—expected to be the most powerful formula yet—and the results appear in line with…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-29T22:30:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.5,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d5c64846530d",
+          "title": "How Diffusion Controller unifies and simplifies AI image generation",
+          "titleZh": "How Diffusion Controller unifies and simplifies AI image generation",
+          "url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation/",
+          "summary": "The rapid advancement of text-to-image AI models, such as Nano Banana , Stable Diffusion and Flux , has fundamentally transformed creative design, allowing anyone to synthesize pho…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-09-29T18:38:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "977004e08369",
+          "title": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+          "titleZh": "Trump ads paid for by US government allegedly violate anti-propaganda laws",
+          "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+          "summary": "Broadcasters should be ordered to stop running Trump commercials that appear to violate US laws, consumer advocacy group Public Citizen said today in a complaint to the Federal Com…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-29T20:23:40.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9468d89d4e51",
+          "title": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "titleZh": "Here's what actually happened in OpenAI's Australian gov't server hack",
+          "url": "https://arstechnica.com/ai/2026/09/heres-what-actually-happened-in-openais-australian-govt-server-hack/",
+          "summary": "Last week, when Australian Prime Minister Anthony Albanese told the world that an OpenAI agent had accessed \"non-public files\" from his country's Medicare statistics portal during …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-29T18:11:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0a8afc8f3825",
+          "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "titleZh": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
+          "url": "https://huggingface.co/blog/nvidia/kumo-tabular",
+          "summary": "Highlights (TL;DR) NVIDIA Kumo Tabular, part of the NVIDIA Kumo Structured model collection, is an open foundation model for tabular data now available on Hugging Face . Given a ta…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-09-29T15:30:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "44a435156dc4",
+          "title": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "titleZh": "AMD acquires World Labs AI startup, upping the ante against Nvidia",
+          "url": "https://arstechnica.com/ai/2026/09/amd-acquires-world-labs-ai-pioneer-fei-fei-lis-world-models-startup/",
+          "summary": "Chipmaker AMD and world models company World Labs announced that AMD will acquire the AI company by the end of the year, pending regulatory approval. The transaction is valued at $…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-29T21:14:49.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "824bd308cd30",
+          "title": "NASA has a Dragon dilemma, and there appear to be no good answers",
+          "titleZh": "NASA has a Dragon dilemma, and there appear to be no good answers",
+          "url": "https://arstechnica.com/space/2026/09/nasa-has-a-dragon-dilemma-and-there-appear-to-be-no-good-answers/",
+          "summary": "For two decades, largely in service to the International Space Station, NASA has sought to foster an \"economy\" in low-Earth orbit. Twenty years ago, with a program to develop priva…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-29T18:34:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "930595cc877b",
+          "title": "Quoting Anthropic Frontier Red Team",
+          "titleZh": "Quoting Anthropic Frontier Red Team",
+          "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team/",
+          "summary": "We evaluate several models on 100 tasks from the [internal Binary Exploitation benchmark] (selected at random), and find that GLM-5.3 develops full control flow hijacks in 4% of th…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-09-29T22:20:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "efdaa4bed17f",
+          "title": "Periodic Labs: A chatbot walks into a laboratory",
+          "titleZh": "Periodic Labs: A chatbot walks into a laboratory",
+          "url": "https://www.generalist.com/p/a-chatbot-walks-into-a-laboratory",
+          "summary": "“Most AI has been trained on the final artifacts of science, like the final paper, the final recount in a textbook. That isn’t often how the scientific process unfolded – it’s sort…",
+          "whyItMatters": "",
+          "sourceName": "The Generalist",
+          "publishedAt": "2026-09-29T12:04:23.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "115cf8e0fed6",
+          "title": "🚨 The first existential IPO",
+          "titleZh": "🚨 The first existential IPO",
+          "url": "https://www.exponentialview.co/p/the-first-existential-ipo",
+          "summary": "Every technology platform reaches a moment in its lifecycle when startups prepare to enter the public markets. Anthropic seems set to go public first, and yesterday Reuters got hol…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-09-29T15:54:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "39c2852f5033",
+          "title": "当Agent 开始“摇人”，安全的边界变了",
+          "titleZh": "当Agent 开始“摇人”，安全的边界变了",
+          "url": "https://www.huxiu.com/article/4894718.html?f=rss",
+          "summary": "本文来自微信公众号： AIGC从0到1 ，作者：王零壹，原文标题：《当 Agent 开始“摇人”，安全的边界变了》 传统计算机安全第一次大规模面对一种新东西：一个被合法部署在系统内部、带着真实权限、会为完成目标持续寻找替代路径的通用优化器。 它没有从外面闯进来。 它本来就在系统里面。 这轮事件里最抓人的细节，来自独立研究团队Swarm Traces对Hugg…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-30T01:16:47.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5e360df7d2b6",
+          "title": "为什么果酒品牌难以做大？",
+          "titleZh": "为什么果酒品牌难以做大？",
+          "url": "https://www.huxiu.com/article/4894712.html?f=rss",
+          "summary": "本文来自微信公众号： 曾问品牌战略&设计 ，作者：曾问 引言： 先看几组数据。 2025年，中国果酒行业第一名梅见，零售额约43亿元，同一年，燕京啤酒旗下的大单品U8，一款酒卖出90万千升。按500毫升一瓶折算，是18亿瓶。而梅见从2019年上市至今，全球累计销量1.5亿瓶。换句话说：啤酒行业一款大单品一年的销量，超过了果酒行业第1名八年的累计销量。 再看盘…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-30T01:10:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c6d723577628",
+          "title": "南北丰田确定重新分工，一汽广汽结盟交出首张答卷",
+          "titleZh": "南北丰田确定重新分工，一汽广汽结盟交出首张答卷",
+          "url": "https://www.huxiu.com/article/4894715.html?f=rss",
+          "summary": "本文来自微信公众号： 汽车商业评论 ，编辑：张南，作者：推动新汽车向前进 广汽收购一汽丰田全部50%中方股权后，南北丰田如何重组，已经有了初步答案。 《汽车商业评论》了解到，有关方面将重新组建公司，原广汽丰田方面主要负责研发和供应链，原一汽丰田方面主要负责营销、渠道和客户经营。 这意味着，长期分别由一汽和广汽代表中方经营的南北丰田，将从相互竞争转向统一协调。…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-09-30T01:02:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-30T01:29:06.029Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-30T01:29:06.029Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-09-30T01:29:06.029Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "b76fb2b7b742",
+          "title": "Astera Labs’ Leo Controller Update Targets Memory Constraints",
+          "titleZh": "Astera Labs’ Leo Controller Update Targets Memory Constraints",
+          "url": "https://www.eetimes.com/astera-labs-leo-controller-update-targets-memory-constraints/",
+          "summary": "The memory wall is seen as the biggest hurdle for rapidly scaling AI deployments, and moving memory closer to compute is seen as the optimal solution to the problem. Astera Labs’ u…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-29T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4c5ebb4c35c9",
+          "title": "Lam’s New Logistics Hub Built for Velocity, Resilience, and AI-Era Growth",
+          "titleZh": "Lam’s New Logistics Hub Built for Velocity, Resilience, and AI-Era Growth",
+          "url": "https://www.semiconductor-digest.com/lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth/?utm_source=rss&utm_medium=rss&utm_campaign=lams-new-logistics-hub-built-for-velocity-resilience-and-ai-era-growth",
+          "summary": "Lam Research has opened its largest U.S. warehouse, a 470,000-square-foot logistics hub designed to strengthen the semiconductor supply chain and support demand for AI-enabled tech…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-29T17:11:02.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "05ce5e4eae03",
+          "title": "Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26",
+          "titleZh": "Omdia: IFP/Touch Displays Lead Growth as Global Public Display Market Surpasses $1.73M in 2Q26",
+          "url": "https://www.semiconductor-digest.com/omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26/?utm_source=rss&utm_medium=rss&utm_campaign=omdia-ifp-touch-displays-lead-growth-as-global-public-display-market-surpasses-1-73m-in-2q26",
+          "summary": "New research from Omdia’s latest Public Displays Market Tracker reveals that global public display and signage TV shipments surpassed 1.73 million units in 2Q26, up from 1.61 milli…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-29T16:48:45.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c45a37fbdecd",
+          "title": "Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition for Advanced Materials Applications",
+          "titleZh": "Gigaphoton Begins Evaluation of L300KZ Excimer Laser for Pulsed Laser Deposition for Advanced Materials Applications",
+          "url": "https://www.semiconductor-digest.com/gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications/?utm_source=rss&utm_medium=rss&utm_campaign=gigaphoton-begins-evaluation-of-l300kz-excimer-laser-for-pulsed-laser-deposition-for-advanced-materials-applications",
+          "summary": "Gigaphoton Inc., a manufacturer of lightsources for leading-edge semiconductor fabrication processes, today announced that it has installed its L300KZ KrF excimer laser for pulsed …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-29T16:42:23.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d7e429511982",
+          "title": "‘Hold the status quo’? US Congress reviews Xi-Trump summit outcomes",
+          "titleZh": "‘Hold the status quo’? US Congress reviews Xi-Trump summit outcomes",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369261/hold-status-quo-us-congress-members-review-xi-trump-summit?utm_source=rss_feed",
+          "summary": "Chinese President Xi Jinping’s three-day state visit to Washington is over, but China watchers in Congress and the US-China policy community are still parsing a wide range of outco…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-30T01:01:52.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dcd8067a75cf",
+          "title": "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end",
+          "titleZh": "Inside Mamdani’s fraught effort to rein in the NYPD unit he pledged to end",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/09/29/inside-mamdanis-fraught-effort-to-rein-in-the-nypd-unit-he-pledged-to-end-01097516",
+          "summary": "POLICING PROBLEMS: In the early days of his administration, Mayor Zohran Mamdani placed a new requirement on the NYPD: The department would have to secure permission from his offic…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-09-29T20:13:46.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "d9225864ecd5",
+          "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
+          "titleZh": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+          "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33,…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-29T21:01:07.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cde283a367ef",
+          "title": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+          "titleZh": "STAT+: At MAHA Summit, a grassroots movement goes corporate",
+          "url": "https://www.statnews.com/2026/09/29/maha-summit-washington-dc-2026-corporate-interests-swamp-grassroots/?utm_campaign=rss",
+          "summary": "WASHINGTON &#x2014; The Make America Healthy Again movement has changed, if Tuesday&#x2019;s MAHA Summit is any indication. The insurgent movement that coalesced around mistrust of…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-09-29T22:46:45.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "02b9c4f1cefa",
+          "title": "Why Featherless says you don’t need a tank to deliver a pizza",
+          "titleZh": "Why Featherless says you don’t need a tank to deliver a pizza",
+          "url": "https://thenewstack.io/featherless-simple-jev-classifier/",
+          "summary": "The debate over what size, shape, and scale of model best suits each task isn’t going away any time soon. Joining the fray now is serverless inference provider Featherless . The co…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-29T19:38:59.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b4da8dddb1bf",
+          "title": "OpenAI makes ‘Sign in with ChatGPT’ a way to use your subscription in third-party developer tools",
+          "titleZh": "OpenAI makes ‘Sign in with ChatGPT’ a way to use your subscription in third-party developer tools",
+          "url": "https://thenewstack.io/sign-in-with-chatgpt/",
+          "summary": "OpenAI has announced that it’s making it easier for ChatGPT subscribers to use their allowance inside third-party AI and coding platforms such as Amp , Devin , Lovable , and OpenCl…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-29T17:31:05.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "728db8530d87",
+          "title": "OpenAI halves $200 plan allowance, launches $500 plan",
+          "titleZh": "OpenAI halves $200 plan allowance, launches $500 plan",
+          "url": "https://thenewstack.io/openai-halves-200-plan/",
+          "summary": "On Tuesday, OpenAI introduced a new $ 500-per-month Pro plan that gives subscribers the highest included usage of the company’s subscription plans. The new plan includes 25x the us…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-29T17:15:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dd50a83bb072",
+          "title": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
+          "titleZh": "OpenAI’s new GPT-6.1 Sol undercuts its own Astra flagship",
+          "url": "https://thenewstack.io/openai-gpt-6-1-sol/",
+          "summary": "OpenAI on Tuesday launched GPT-6.1 Sol , the newest version of its workhorse model, only a week after launching GPT-6 Sol . The company describes the new model as “an upgrade to GP…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-29T17:15:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 34,
+    "itemsFiltered": 2,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
