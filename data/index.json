@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-30T01:29:15.308Z",
+  "updatedAt": "2026-10-01T01:29:29.286Z",
   "days": [
+    {
+      "date": "2026-10-01",
+      "itemCount": 39,
+      "topPickTitles": [
+        "Christine Lagarde: Interview with La Croix",
+        "Gemini 4 Argon: our next era of frontier intelligence",
+        "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-09-30",
       "itemCount": 34,

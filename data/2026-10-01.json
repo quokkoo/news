@@ -1,0 +1,1205 @@
+{
+  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T01:29:29.224Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度、能源与气候科技等 10 个领域，全部读完约需 72 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "12fb04a58437",
+        "reason": "Google DeepMind，规则排序分数最高"
+      },
+      {
+        "itemId": "8137cb2fbf9a",
+        "reason": "欧洲央行公告，规则排序分数最高"
+      },
+      {
+        "itemId": "685227e92add",
+        "reason": "Latent Space，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "8137cb2fbf9a",
+          "title": "Christine Lagarde: Interview with La Croix",
+          "titleZh": "Christine Lagarde: Interview with La Croix",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+          "summary": "Interview with Christine Lagarde, President of the ECB, conducted by Jean-Claude Bourbon and Marie Dancer on 16 and 28 September 2026 30 September 2026 You have experienced all the…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-09-30T17:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "094de7e0c99c",
+          "title": "美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点",
+          "titleZh": "美光电话会：2027年产能已售75%，看不到供需平衡拐点，物理AI将成下一个爆发点",
+          "url": "https://wallstreetcn.com/articles/3782858",
+          "summary": "美光科技以一份打破多项纪录的季度财报为2026财年画上句号，并给出了远超市场预期的前景展望，令人工智能驱动的内存超级周期呈现出比外界预估更为持久的动能。 华尔街见闻提及，美东时间9月30日美股盘后，美光科技公布截至9月3日的2026财年第四财季的业绩报告。数据显示，美光Q4单季营收达到创纪录的542亿美元，环比增长31%，同比狂飙379%；单季毛利率大幅攀升…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-01T01:14:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a04aaba4e066",
+          "title": "特朗普再次布局中期选举：宣布韩国2000亿美元赴美投资计划，540亿美元投向阿拉斯加LNG",
+          "titleZh": "特朗普再次布局中期选举：宣布韩国2000亿美元赴美投资计划，540亿美元投向阿拉斯加LNG",
+          "url": "https://wallstreetcn.com/articles/3782855",
+          "summary": "美国总统特朗普周三宣布，韩国计划在美国投资最多2000亿美元，资金将投向能源及基础设施等项目，其中约540亿美元将用于长期筹划的阿拉斯加液化天然气（LNG）项目。 这是去年美韩贸易协议框架下首批大型战略投资项目的正式公布。除阿拉斯加LNG外，投资还包括建设8座大型核电站，以及在得州建设一座6吉瓦燃气发电设施。 其中，阿拉斯加LNG项目长期面临成本高企、融资困…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-01T01:01:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e62045f0080d",
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "titleZh": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "summary": "谷歌发布旗舰AI模型Gemini 4 Argon，在多项基准测试中超越OpenAI和Anthropic的顶级产品，标志着这家搜索巨头在历经数月落后后重新杀回竞争前沿。但这款备受期待的模型目前仅向特定网络安全合作伙伴开放，普通开发者和企业用户尚需等待。 9月30日，谷歌正式推出最新AI旗舰模型Gemini 4 Argon，该模型在18项基准测试中的13项位居榜…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-30T23:42:13.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fd93a76eb9f",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月1日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月1日",
+          "url": "https://wallstreetcn.com/articles/3782848",
+          "summary": "华见早安之声 要闻精选 《求是》杂志10月1日发表中共中央总书记重要文章《加强普惠性、基础性、兜底性民生建设》。 中国9月官方PMI双双升至扩张区间：制造业为50.1，非制造业为50.2。中国9月RatingDog制造业PMI升至五个月新高52.1，服务业PMI连续两月加速扩张。 统计口径修改后，美联储青睐通胀指标核心PCE物价指数8月同比涨3%，低于预期；…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-30T23:16:42.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2da88a42976e",
+          "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+          "titleZh": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "summary": "通胀降温信号短暂提振市场，却未能阻止美股在最后一小时逆转走低。标普500指数录得自6月以来最差月度表现，30年期美债收益率维持在2002年以来高位，油价徘徊于90美元上方。 美PCE后，三大美股指集体高开，但收盘涨跌不一，标普和道指三连跌，纳指反弹；9月道指半年来首次月跌，标普回落，纳指连涨两月；三季度，标普和纳指连涨两季，而道指连跌两季。Meta回落近2%…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-09-30T22:50:28.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "12fb04a58437",
+          "title": "Gemini 4 Argon: our next era of frontier intelligence",
+          "titleZh": "Gemini 4 Argon: our next era of frontier intelligence",
+          "url": "https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/",
+          "summary": "Sep 30, 2026 | Gemini 4 Argon delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cyber…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-30T20:01:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "685227e92add",
+          "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+          "titleZh": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+          "url": "https://www.latent.space/p/devday-2026",
+          "summary": "Three months ago Dwarkesh, who has been posting incredible blogs and episodes about RL, posted a framing question for his video essay on RLVR which upset a lot of Computer Use folk…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-09-30T22:23:40.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c76cf1762c95",
+          "title": "Introducing SynthID Bio",
+          "titleZh": "Introducing SynthID Bio",
+          "url": "https://deepmind.google/blog/introducing-synthid-bio/",
+          "summary": "September 30, 2026 Science Pushmeet Kohli, David Stutz, Ali Cowen-Rivers and Jeremy Ratcliff Proof of concept for watermarking AI-generated proteins while preserving biological fun…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-09-30T15:03:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fd6fb817e78e",
+          "title": "Dinosaur-killing impact crater might have been teeming with life",
+          "titleZh": "Dinosaur-killing impact crater might have been teeming with life",
+          "url": "https://arstechnica.com/science/2026/09/dinosaur-killing-impact-crater-might-have-been-teeming-with-life/",
+          "summary": "About 66 million years ago, the Chicxulub asteroid smashed into Earth, kicking up tsunamis and dropping hot debris that annihilated non-avian dinosaurs and many other species. But …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-30T21:54:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23b88d4f615c",
+          "title": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+          "titleZh": "Attackers have been exploiting critical Zimbra flaw to steal emails",
+          "url": "https://arstechnica.com/security/2026/09/attackers-have-been-exploiting-critical-zimbra-flaw-to-steal-emails/",
+          "summary": "Hackers have been exploiting a critical vulnerability in the Zimbra Collaboration Suite in an attempt to obtain email backups and authentication credentials of vulnerable organzati…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-30T20:44:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "69636d0efed1",
+          "title": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+          "titleZh": "Google announces Gemini 4 Argon AI model, but you can't use it yet",
+          "url": "https://arstechnica.com/google/2026/09/google-announces-gemini-4-argon-ai-model-but-you-cant-use-it-yet/",
+          "summary": "Google promised Gemini 3.5 Pro in June, but it spent the summer trotting out smaller Flash models . Now, Google is ready to take on the frontier again with Gemini 4 Argon . The com…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-30T20:11:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "63dd5cca431b",
+          "title": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+          "titleZh": "RFK Jr. thinks AI will free us from the \"tyranny\" of medical facts, expertise",
+          "url": "https://arstechnica.com/health/2026/09/rfk-jr-says-ai-backs-his-anti-vaccine-views-we-checked-it-doesnt/",
+          "summary": "At a Make America Healthy Again event Tuesday, anti-vaccine Health Secretary Robert F. Kennedy opened a \"fireside chat\" with Vice President JD Vance on the topic of artificial inte…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-30T19:31:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "30ced9fdadb1",
+          "title": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+          "titleZh": "\"An AI did it\" is no defense, says nonprofit suing OpenAI over Hugging Face hack",
+          "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-demands-openai-halt-unsafe-development-that-caused-hugging-face-hack/",
+          "summary": "OpenAI's hack of Hugging Face in July 2026 has spurred a lawsuit demanding that the company stop accessing third-party computer systems and halt AI development practices that can h…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-09-30T18:25:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "584cc12bbdd0",
+          "title": "Scoop: Rubio ordered Iranian delegation to leave the country, U.S. official says",
+          "titleZh": "Scoop: Rubio ordered Iranian delegation to leave the country, U.S. official says",
+          "url": "https://www.axios.com/2026/10/01/rubio-iran-unga-delegation-kicked-out",
+          "summary": "Secretary of State Marco Rubio demanded on Monday that the Iranian delegation to the United Nations General Assembly immediately leave the country after negotiations stalled, accor…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-01T00:08:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ad448276b38",
+          "title": "Netanyahu says FlyDubai pilots prevented a \"9/11 disaster\"",
+          "titleZh": "Netanyahu says FlyDubai pilots prevented a \"9/11 disaster\"",
+          "url": "https://www.axios.com/2026/09/30/netanyahu-flydubai-pilots-prevented-911-disaster",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu revealed new details about a FlyDubai flight bound for Israel during which a pilot stabbed a colleague, sending the plane spiraling thousa…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-09-30T23:17:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ad02be978883",
+          "title": "首次三连跌？国庆档的观众去哪了",
+          "titleZh": "首次三连跌？国庆档的观众去哪了",
+          "url": "https://www.huxiu.com/article/4894971.html?f=rss",
+          "summary": "本文来自微信公众号： 豹变 ，作者：高宇哲，编辑：刘杨 观众没走，只是不再为“档期”买单。 今年国庆档，电影市场的冷清在意料之内。 塔专业版数据显示，截至9月29日，国庆档定档的12部电影中，涵盖了喜剧、犯罪、动画、惊悚等多种类型。数量不少，类型也算丰富，但翻遍整个片单，很难找出一部“非看不可”的电影。既没有投资体量惊人的重工业大片，也缺少具备爆款潜力的头部…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-01T01:04:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "29a3ae675287",
+          "title": "3亿老人，550万护理员缺口：养老产业最大的问题不是“不够”，是“不对”",
+          "titleZh": "3亿老人，550万护理员缺口：养老产业最大的问题不是“不够”，是“不对”",
+          "url": "https://www.huxiu.com/article/4894969.html?f=rss",
+          "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯 9月9日，人社部等部门向社会发布了11个新职业。其中一个职业的名字，让我盯着看了很久：适老化改造设计师。 这个职业被正式命名，意味着它已经有足够的从业者、足够的市场需求、足够的产业基础，以至于国家需要为它建立职业标准和培训体系。 但盯着这六个字，我脑子里想的却是另一件事。 十多年前，我第一次接触“适老化改造”这…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-01T00:29:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "20b63be5683c",
+          "title": "大聪明：RSI 时代的命运与意义",
+          "titleZh": "大聪明：RSI 时代的命运与意义",
+          "url": "https://www.huxiu.com/article/4894970.html?f=rss",
+          "summary": "本文来自微信公众号： 橘AI ，作者：橘AI 科技的进步越来越快，AI已经发展到了RSI的自我迭代阶段，人们也开始以SI的命名来取代AI。 在RSI之后，人类的命运是什么？ 人类所不断追寻的意义，又是什么？ 对于这个问题，每个人都有自己的答案。 人类创造了很多科幻作品来阐述自己想象中的故事。 战锤，群星，沙丘，赛博朋克。 这期播客，我和赛博禅心主理人大聪明一…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-01T00:26:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "997ea0134858",
+          "title": "Trump Administration Limits Predatory Lending in Education",
+          "titleZh": "Trump Administration Limits Predatory Lending in Education",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/09/trump-administration-limits-predatory-lending-in-education.html?utm_source=rss&utm_medium=rss&utm_campaign=trump-administration-limits-predatory-lending-in-education",
+          "summary": "The New Republic writes “President Trump is banning students majoring in degrees that don’t make enough money from taking out college loans.” Yes, but do note that no student is ba…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-09-30T11:17:27.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "164ecfbd034b",
+          "title": "The polity that is Singapore",
+          "titleZh": "The polity that is Singapore",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/09/the-polity-that-is-singapore-3.html?utm_source=rss&utm_medium=rss&utm_campaign=the-polity-that-is-singapore-3",
+          "summary": "Police in Singapore have charged a man who is accused of posting an AI-generated image of a saltwater crocodile in a popular reservoir. Ye Lin was charged with communicating a fals…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-09-30T18:37:04.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c91a99ea38d3",
+          "title": "*Shade*",
+          "titleZh": "*Shade*",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/09/shade.html?utm_source=rss&utm_medium=rss&utm_campaign=shade",
+          "summary": "The author is Sam Bloch, and the subtitle is The Promise of a Forgotten Natural Resource . An interesting book on a neglected topic, here is one excerpt: Shade is not part of L.A.’…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-09-30T06:26:22.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "eaf79f3c7217",
+          "title": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+          "titleZh": "Emergence AI to Deploy Neuroformal AI With Fabless Chipmakers",
+          "url": "https://www.eetimes.com/emergence-ai-to-deploy-neuroformal-ai-with-fabless-chipmakers/",
+          "summary": "Emergence AI said it is moving its neuroformal AI technology into active deployments with fabless semiconductor companies, while integrated device manufacturers (IDMs) among its cu…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-09-30T21:31:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b40d1632a04",
+          "title": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "titleZh": "OpenAI and Synopsys Announce GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+          "url": "https://www.semiconductor-digest.com/openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=openai-and-synopsys-announce-gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design",
+          "summary": "Synopsys and OpenAI today announced a strategic partnership that brings together OpenAI’s advanced AI capabilities with Synopsys’ industry-leading EDA tools and agentic AI capabili…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-30T20:04:46.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a694b6ec21f8",
+          "title": "Advancing Quantum Computing with Zinc Oxide Quantum Dots",
+          "titleZh": "Advancing Quantum Computing with Zinc Oxide Quantum Dots",
+          "url": "https://www.semiconductor-digest.com/advancing-quantum-computing-with-zinc-oxide-quantum-dots/?utm_source=rss&utm_medium=rss&utm_campaign=advancing-quantum-computing-with-zinc-oxide-quantum-dots",
+          "summary": "Researchers at Tohoku University, in collaboration with the National Institute for Materials Science (NIMS) and the University of Tokyo, have taken an important step toward semicon…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-30T19:59:54.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "48e3df3571a4",
+          "title": "LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI",
+          "titleZh": "LG Innotek Accelerates Corporate Transformation Driven by Semiconductor Substrates and Physical AI",
+          "url": "https://www.semiconductor-digest.com/lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=lg-innotek-accelerates-corporate-transformation-driven-by-semiconductor-substrates-and-physical-ai",
+          "summary": "LG Innotek is demonstrating tangible results from the transformation of its business portfolio, delivering a remarkable performance rebound in the first half of the year—traditiona…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-09-30T19:52:32.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d2793c95c0c9",
+          "title": "How China became the world’s gold superpower",
+          "titleZh": "How China became the world’s gold superpower",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3369170/how-china-became-worlds-gold-superpower?utm_source=rss_feed",
+          "summary": "Perhaps no story illustrates the secret of China’s industrial success better than its rise as the world’s gold superpower. China has revered the metal for millennia, yet it has nev…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-01T01:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ad1d068bd21",
+          "title": "Trump claims he discussed release of political prisoners in China with Xi at summit",
+          "titleZh": "Trump claims he discussed release of political prisoners in China with Xi at summit",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369396/trump-claims-he-discussed-release-political-prisoners-xi-summit?utm_source=rss_feed",
+          "summary": "US President Donald Trump said on Wednesday that he discussed the release of political prisoners in China with his counterpart, Xi Jinping, in Washington last week. “We talked, and…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-30T23:13:15.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c2dd37c1d67b",
+          "title": "US criticises China’s WTO compliance as industry groups mount complaints",
+          "titleZh": "US criticises China’s WTO compliance as industry groups mount complaints",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369395/us-criticises-chinas-wto-compliance-industry-groups-mount-complaints?utm_source=rss_feed",
+          "summary": "At a hearing reviewing China’s compliance with its World Trade Organization (WTO) commitments, a senior US trade official said Beijing was targeting entire industrial sectors for g…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-09-30T22:43:04.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "6dc9aecb0151",
+          "title": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+          "titleZh": "Analysis: Wind and solar save UK from gas imports worth £5.9bn during Hormuz crisis",
+          "url": "https://www.carbonbrief.org/analysis-wind-and-solar-save-uk-from-gas-imports-worth-5-9bn-during-hormuz-crisis",
+          "summary": "Print article Share The UK has avoided the need for gas imports worth £5.9bn since the start of the Hormuz crisis as a result of record generation from wind and solar, reveals Carb…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-09-30T14:12:01.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ecde9e7746b8",
+          "title": "Senate permitting bill could greatly expand power lines and clean energy",
+          "titleZh": "Senate permitting bill could greatly expand power lines and clean energy",
+          "url": "https://www.canarymedia.com/articles/transmission/senate-permitting-bill-power-lines",
+          "summary": "The U.S. Senate energy permitting bill unveiled Wednesday could streamline the buildout of high-voltage power lines across the country, potentially delivering billions of dollars i…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-30T22:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb0226d50c52",
+          "title": "Electric trucks cost too much. California has a law for that.",
+          "titleZh": "Electric trucks cost too much. California has a law for that.",
+          "url": "https://www.canarymedia.com/articles/clean-fleets/electric-trucks-cost-too-much-california-has-a-bill-for-that",
+          "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Wednesday via Substack. Hello, everyone! We’re ba…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-09-30T17:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "59e129bef526",
+          "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
+          "titleZh": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees",
+          "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— th…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-09-30T13:26:33.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4248de65ba3f",
+          "title": "Method to ‘watermark’ AI-designed proteins could deter bioweapons, protect scientific credit",
+          "titleZh": "Method to ‘watermark’ AI-designed proteins could deter bioweapons, protect scientific credit",
+          "url": "https://www.science.org/content/article/method-watermark-ai-designed-proteins-could-deter-bioweapons-protect-scientific-credit",
+          "summary": "Google DeepMind team inserts identifiable pattern into protein’s sequence without compromising its structure or function",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-30T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9c0b72de69cc",
+          "title": "Butterfly wing patterns give predators the old razzle-dazzle",
+          "titleZh": "Butterfly wing patterns give predators the old razzle-dazzle",
+          "url": "https://www.science.org/content/article/butterfly-wing-patterns-give-predators-old-razzle-dazzle",
+          "summary": "Optical illusions trick enemies into misjudging the insects’ speed and direction",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-09-30T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "3abb147263a8",
+          "title": "Gemini 4 Argon is here: It’s great, and you can’t have it yet",
+          "titleZh": "Gemini 4 Argon is here: It’s great, and you can’t have it yet",
+          "url": "https://thenewstack.io/google-gemini-4-argon/",
+          "summary": "Google on Wednesday announced Gemini 4 Argon , the company’s long-awaited flagship model, and it looks like it was worth the wait. Across most benchmarks, Gemini 4 Argon beats Open…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-30T20:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "113b7b41de01",
+          "title": "Cohere’s faster query model barely dents retrieval quality in its tests",
+          "titleZh": "Cohere’s faster query model barely dents retrieval quality in its tests",
+          "url": "https://thenewstack.io/cohere-embed-pro-fast/",
+          "summary": "Cohere released Embed 5 on Wednesday , giving teams the option to index data with Embed 5 Pro and query those same vectors with the faster, cheaper Embed 5 Fast without creating a …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-30T18:41:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "30d223782636",
+          "title": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+          "titleZh": "CloudBees just committed to an AI-first pivot. Here’s why it matters for enterprise DevOps teams",
+          "url": "https://thenewstack.io/cloudbees-ceo-ai-transformation/",
+          "summary": "When new CloudBees CEO Mo Plassnig took the job earlier this year , his board of directors handed him a mandate that left little room for interpretation: Do not stay the course. In…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-30T18:08:49.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5cb2810f4b50",
+          "title": "OpenAI’s Dots boundary problem rate doubled in longer tests",
+          "titleZh": "OpenAI’s Dots boundary problem rate doubled in longer tests",
+          "url": "https://thenewstack.io/openai-dots-agent-permissions/",
+          "summary": "OpenAI&rsquo;s new Dots are built to keep working after you step away. Launched at DevDay on Tuesday, the always-on agents run on their own cloud computers, use GPT-6 Astra , and c…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-09-30T15:26:15.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "12fb04a58437",
+    "8137cb2fbf9a",
+    "685227e92add"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 39,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 71,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
