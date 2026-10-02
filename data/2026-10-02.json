@@ -1,0 +1,1273 @@
+{
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T01:47:47.089Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "e0cb6e2ebcbe",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "6e24c735536b",
+        "reason": "Astral Codex Ten，规则排序分数最高"
+      },
+      {
+        "itemId": "effea284c719",
+        "reason": "华尔街见闻，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "effea284c719",
+          "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "titleZh": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
+          "url": "https://wallstreetcn.com/articles/3782907",
+          "summary": "全球债市抛售正在从美债向欧洲扩散，欧洲国债收益率急升、利差快速走阔，市场对新一轮债务风险的担忧明显升温。 周四欧洲债市遭遇剧烈抛售，法国10年期国债收益率一度升至4.96%，创2002年以来新高，法德利差扩大至1.4个百分点，意大利、希腊国债收益率也同步上行；英国30年期国债收益率则首次突破6%。与此同时，美国10年期国债收益率盘中一度升至5.34%，创近2…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T01:20:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "83981c26ad30",
+          "title": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
+          "titleZh": "\"二号、三号高管\"连续放鸽，压制一众鹰派发声，美联储平息\"10月加息\"预期",
+          "url": "https://wallstreetcn.com/articles/3782895",
+          "summary": "美联储内部权力核心连续发出\"按兵不动\"信号，市场对10月加息的押注几近瓦解。 美联储副主席杰斐逊（Philip Jefferson）周四发表讲话，措辞与纽约联储主席威廉姆斯（John Williams）本周早些时候的表态高度一致，两人均强调在决定下一步政策行动之前需要更多时间评估数据。 分析认为，由于“二号高管”杰斐逊与“三号高管”威廉姆斯同属支持主席沃什的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T01:10:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "102581a36524",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月2日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月2日",
+          "url": "https://wallstreetcn.com/articles/3782904",
+          "summary": "华见早安之声 市场概述 周四，美股10月惊险开门红，三大美股指走V，美国ISM PMI指数发布后曾齐跌，美联储二把手、副主席杰斐逊讲话放鸽，助长反弹。 绩优埃森哲收涨近16%；业绩展望强劲且与OpenAI和亚马逊达成协议的新思科技涨13%；美光财报后先跌后涨、收涨3%，总营收和中国市场业绩逊色的耐克盘后一度跌近7%。 美国ISM指数后，10年期美债收益率冲上…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-01T23:09:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d82bce1a34f3",
+          "title": "Christine Lagarde: Where AI risks meet",
+          "titleZh": "Christine Lagarde: Where AI risks meet",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+          "summary": "Welcome address by Christine Lagarde, President of the ECB and Chair of the European Systemic Risk Board, at the tenth annual conference of the ESRB Frankfurt am Main, 1 October 20…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-01T13:30:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fd67385413d7",
+          "title": "芭比娃娃制造商美泰暴涨19%！获Authentic收购意向，报价或超每股20美元",
+          "titleZh": "芭比娃娃制造商美泰暴涨19%！获Authentic收购意向，报价或超每股20美元",
+          "url": "https://wallstreetcn.com/articles/3782902",
+          "summary": "芭比娃娃制造商美泰公司正面临股价持续下挫和管理层换届的双重压力，品牌授权巨头Authentic Brands Group的潜在收购兴趣为其带来了一线转机。 据华尔街日报援引知情人士透露，Authentic Brands Group已私下与美泰接触，讨论收购报价，出价可能超过每股20美元，对应整体估值约60亿美元或更高。 此次收购传闻出现的时机颇为微妙。周三美…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-01T23:32:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ece25f33fb76",
+          "title": "谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判",
+          "titleZh": "谷歌面临逾32亿美元广告技术垄断索赔，出版商获准推进陪审团审判",
+          "url": "https://wallstreetcn.com/articles/3782901",
+          "summary": "谷歌在广告技术垄断诉讼中面临新的重大法律压力。纽约联邦法院裁定，多家大型出版商可就谷歌垄断广告技术市场造成的损害寻求逾32亿美元赔偿。 据彭博报道，曼哈顿联邦地区法官P. Kevin Castel于周三晚间发布裁决意见，允许针对谷歌AdX广告交易平台相关行为的陪审团审判程序向前推进。 其中，约5000家出版商组成的集体诉讼方可寻求约17亿美元赔偿；《今日美国…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T00:10:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "e0cb6e2ebcbe",
+          "title": "Academia is for Ambition — Alex Zhang, MIT",
+          "titleZh": "Academia is for Ambition — Alex Zhang, MIT",
+          "url": "https://www.latent.space/p/rlm",
+          "summary": "Last call for regular tickets for AI Engineer NYC ! As an exclusive for Latent Space subscribers, the first 30 of you can take a 30% off code if it helps - for new tickets only, no…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-02T00:28:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ffe76d1492da",
+          "title": "Can good design stop content creators from having sex in robotaxis?",
+          "titleZh": "Can good design stop content creators from having sex in robotaxis?",
+          "url": "https://arstechnica.com/cars/2026/10/can-good-design-stop-content-creators-from-having-sex-in-robotaxis/",
+          "summary": "Humans can be a frisky bunch, and it wasn’t very long after Tesla Autopilot started letting drivers go hands-free before people decided to post footage of themselves having sex fro…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-01T19:19:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b19844593527",
+          "title": "Venus' mysterious haze is actually cosmic dust",
+          "titleZh": "Venus' mysterious haze is actually cosmic dust",
+          "url": "https://arstechnica.com/science/2026/10/venus-mysterious-haze-is-actually-cosmic-dust/",
+          "summary": "Venus is shrouded in a veil of mystery. The yellowish “lower haze” at the bottom of its atmosphere was discovered by the Venera and Pioneer Venus probes in the 1970s. These spacecr…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-01T22:27:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c415a1a8f23",
+          "title": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+          "titleZh": "Hacks of 2 federal agencies in a month have spilled a bonanza of sensitive data",
+          "url": "https://arstechnica.com/security/2026/10/hacks-of-2-federal-agencies-in-a-month-have-spilled-a-bonanza-of-sensitive-data/",
+          "summary": "The Pentagon is informing more than 2 million current and former military members that their personnel records storing sensitive personal information were stolen over a monthslong …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-01T20:28:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a57fa6f73144",
+          "title": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "titleZh": "Judge dismisses Chegg and Penske antitrust lawsuits targeting Google AI search",
+          "url": "https://arstechnica.com/google/2026/10/antitrust-lawsuits-targeting-google-ai-search-dismissed-by-federal-judge/",
+          "summary": "In a setback for publishers worried about the effects of AI search, a US federal judge has dismissed lawsuits filed by Chegg and Penske Media against Google. The companies accused …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-01T20:11:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fb674ac0c3d",
+          "title": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "titleZh": "Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs",
+          "url": "https://huggingface.co/blog/allenai/olmocore3",
+          "summary": "📄 Tech Report | 💻 Code | 🧩 Interactive demo Today we’re releasing Olmo-core 3 , a significant upgrade to our framework for developing large language models featuring a redesigne…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-01T15:01:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b4f18c8accb8",
+          "title": "Marvel releases one last VisionQuest trailer",
+          "titleZh": "Marvel releases one last VisionQuest trailer",
+          "url": "https://arstechnica.com/culture/2026/10/marvel-releases-one-last-visionquest-trailer/",
+          "summary": "With its premiere just two weeks away, Marvel Studios has dropped one last trailer for the limited series, VisionQuest , which will complete the trilogy begun with WandaVision and …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-01T18:04:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e759c8845eda",
+          "title": "The eternal complement",
+          "titleZh": "The eternal complement",
+          "url": "https://openai.com/index/the-eternal-complement",
+          "summary": "Advanced AI may matter most for the routine work behind breakthrough ideas. Explore why execution could shape the next economy and the pace of progress.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-10-01T17:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "93c4334b5c51",
+          "title": "Scoop: U.S. sent more Patriots to protect Saudi, Qatari energy sites",
+          "titleZh": "Scoop: U.S. sent more Patriots to protect Saudi, Qatari energy sites",
+          "url": "https://www.axios.com/2026/10/02/patriot-missiles-iran-war-saudi-arabia-qatar",
+          "summary": "The U.S. military in recent weeks sent two additional Patriot missile batteries to protect oil and gas facilities in Saudi Arabia and Qatar, two U.S. officials and one regional sou…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-02T00:35:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ce59c41fa721",
+          "title": "House Democrats' behind-the-scenes pitch for dues: Help us take on MAGA Inc.",
+          "titleZh": "House Democrats' behind-the-scenes pitch for dues: Help us take on MAGA Inc.",
+          "url": "https://www.axios.com/2026/10/01/maga-inc-trump-house-democrats-midterms-dccc-dues",
+          "summary": "House Democratic leadership is pointing to the colossal spending by President Trump's super PACs in their behind-the-scenes efforts to get members to pay their dues to the Democrat…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-01T23:43:27.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "653a4757490b",
+          "title": "Scoop: Dems beef with party leaders over snubbed Black candidates",
+          "titleZh": "Scoop: Dems beef with party leaders over snubbed Black candidates",
+          "url": "https://www.axios.com/2026/10/01/democrats-black-candidates-house-races",
+          "summary": "Democratic House leaders are being pressured by their members over the lack of Black candidates receiving top-level party support in the final weeks of the 2026 midterms, Axios has…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-01T23:42:20.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "689952205811",
+          "title": "宁德时代、小米都投了，苏度科技瞄准哪门生意",
+          "titleZh": "宁德时代、小米都投了，苏度科技瞄准哪门生意",
+          "url": "https://www.huxiu.com/article/4895110.html?f=rss",
+          "summary": "本文来自微信公众号： 经观感知 ，作者：DongX 在苏度科技公开发布R1系统之前，国寿股权就已经完成了投资。 今年9月底，小米等老股东继续跟投，这家成立不到一年半的企业又拿到一笔超过10亿元的融资。 9月30日，据上海国投先导基金披露，苏度科技完成新一轮超10亿元人民币融资。上海国投先导、国泰海通、孚腾资本联合领投，道禾长期、东风资产、国开金融、朗玛峰、量…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-02T01:34:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f1e0b71c9ff4",
+          "title": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+          "titleZh": "新势力9月洗牌：小鹏小米上4万，鸿蒙理想回落",
+          "url": "https://www.huxiu.com/article/4895109.html?f=rss",
+          "summary": "本文来自微信公众号： 定焦One ，作者：定焦One团队，编辑：魏佳 新车越上越多，销量没有普涨。 定焦One（dingjiaoone）原创 10月1日，新势力车企陆续交出9月成绩单。 零跑以105656辆继续居首，后面几名大洗牌，交付量集中在3万至4万辆。小鹏（41256辆）、小米（4万统意义上的+）排名第二、第三。第四名鸿蒙智行（37490辆）和第五名蔚…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-02T01:30:49.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "6e24c735536b",
+          "title": "Our AI Midwife",
+          "titleZh": "Our AI Midwife",
+          "url": "https://www.astralcodexten.com/p/our-ai-midwife",
+          "summary": "This is a guest post by Drew Housman , whose review of Dominion earned finalist status in the 2024 ACX book review contest. If you are unsuccessful for long enough on your pregnanc…",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-10-02T01:08:13.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c91fe8375e10",
+          "title": "The Dot and the Swarm",
+          "titleZh": "The Dot and the Swarm",
+          "url": "https://www.oneusefulthing.org/p/the-dot-and-the-swarm",
+          "summary": "I generally think I have done a good job anticipating the direction and pace of AI over the few years I have been writing this Substack, but I think I recently got something fairly…",
+          "whyItMatters": "",
+          "sourceName": "One Useful Thing",
+          "publishedAt": "2026-10-01T10:54:12.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9824c8e1d9c5",
+          "title": "Understanding the AI That Drives Robots",
+          "titleZh": "Understanding the AI That Drives Robots",
+          "url": "https://www.construction-physics.com/p/understanding-the-ai-that-drives",
+          "summary": "It’s been over a year since I last looked at the state of humanoid robots, and enthusiasm for the technology shows no sign of waning. Startups NEURA Robotics and Figure AI raised $…",
+          "whyItMatters": "",
+          "sourceName": "Construction Physics",
+          "publishedAt": "2026-10-01T12:04:36.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "02df870fce14",
+          "title": "SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026",
+          "titleZh": "SignatureIP Unveils IP Library for Chiplet-based AI, HPC and Data Center Systems at AI Infra Summit 2026",
+          "url": "https://www.semiconductor-digest.com/signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026/?utm_source=rss&utm_medium=rss&utm_campaign=signatureip-unveils-ip-library-for-chiplet-based-ai-hpc-and-data-center-systems-at-ai-infra-summit-2026",
+          "summary": "SignatureIP today announced the general availability of a comprehensive library of Interconnect, Interface and System-on-Chip (SoC) Subsystem IP purpose-built for chiplet-based sys…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-01T18:13:41.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "339a24f65bec",
+          "title": "SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip",
+          "titleZh": "SEMIFIVE, Mobilint Partner on LPDDR6/UCIe Robotics AI Chip",
+          "url": "https://www.semiconductor-digest.com/semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip/?utm_source=rss&utm_medium=rss&utm_campaign=semifive-mobilint-partner-on-lpddr6-ucie-robotics-ai-chip",
+          "summary": "SEMIFIVE, a global provider of custom AI semiconductor (ASIC) solutions, announced today that it has signed a turnkey development contract with Mobilint, a South Korean AI semicond…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-01T18:04:45.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "73f0f16ea9ad",
+          "title": "Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand",
+          "titleZh": "Infineon Opens Scalable Semiconductor Backend Manufacturing Hub in Thailand",
+          "url": "https://www.semiconductor-digest.com/infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-opens-scalable-semiconductor-backend-manufacturing-hub-in-thailand",
+          "summary": "Infineon Technologies AG officially inaugurated its new backend manufacturing site in Bangkok, Samut Prakan, together with Anutin Charnvirakul, Prime Minister of Thailand and Alexa…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-01T18:00:06.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8f72b865d8f8",
+          "title": "Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling",
+          "titleZh": "Applied Materials, Besi Expand Advanced Packaging Partnership for AI Scaling",
+          "url": "https://www.semiconductor-digest.com/applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-besi-expand-advanced-packaging-partnership-for-ai-scaling",
+          "summary": "Applied Materials, Inc. (Nasdaq: AMAT) and BE Semiconductor Industries N.V. (Besi) (Euronext Amsterdam: BESI) today announced an expansion of their longstanding strategic partnersh…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-01T17:57:40.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "7209efdde877",
+          "title": "Online claims revive mercury mystery around tomb of first Chinese emperor",
+          "titleZh": "Online claims revive mercury mystery around tomb of first Chinese emperor",
+          "url": "https://www.scmp.com/news/china/science/article/3369469/online-claims-revive-mercury-mystery-around-tomb-first-chinese-emperor?utm_source=rss_feed",
+          "summary": "Online claims that archaeologists have identified the source of mercury in the mausoleum of Qin Shi Huang – China’s first emperor, who unified the country more than 2,000 years ago…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-02T01:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fa359cbb03f0",
+          "title": "Greer says no specific timeline set for enforcing US-China Board of Trade",
+          "titleZh": "Greer says no specific timeline set for enforcing US-China Board of Trade",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3369490/greer-says-no-specific-timeline-set-enforcing-us-china-board-trade?utm_source=rss_feed",
+          "summary": "United States Trade Representative Jamieson Greer said on Thursday that there is no timeline yet for implementing the US-China Board of Trade, one of the key economic outcomes of C…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-01T22:54:03.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "259afa8cf641",
+          "title": "New York grapples with kinks in $1B Medicaid system",
+          "titleZh": "New York grapples with kinks in $1B Medicaid system",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/01/new-york-grapples-with-kinks-in-1b-medicaid-system-01103951",
+          "summary": "WORKING OUT THE KINKS: New York’s Department of Health began transitioning more than 147,000 Medicaid and Medicare Savings Program enrollees to an upgraded case management system a…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-01T20:30:32.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "33fb87b32b2d",
+          "title": "The USDA just made it way harder for farmers to get grants for solar",
+          "titleZh": "The USDA just made it way harder for farmers to get grants for solar",
+          "url": "https://www.canarymedia.com/articles/food-and-farms/usda-reap-grants-for-solar",
+          "summary": "Rules published Thursday essentially end federal grants that thousands of American farmers have long relied on to build revenue-generating solar systems on their land. The Trump ad…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-01T22:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "53abcaf57acb",
+          "title": "Newsom finally says yes to virtual power plants",
+          "titleZh": "Newsom finally says yes to virtual power plants",
+          "url": "https://www.canarymedia.com/articles/virtual-power-plants/newsom-yes-to-virtual-power-plants",
+          "summary": "California Gov. Gavin Newsom (D) defied political expectations on Wednesday and signed into law a slate of energy-affordability legislation aimed at containing the utility spending…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-01T17:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "1498d43ec4fb",
+          "title": "FDA Approves First Heart Valve Designed to Grow with Children",
+          "titleZh": "FDA Approves First Heart Valve Designed to Grow with Children",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+          "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary …",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-01T19:02:08.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "847a4be83993",
+          "title": "AI helps decipher what elephant herds are ‘saying’",
+          "titleZh": "AI helps decipher what elephant herds are ‘saying’",
+          "url": "https://www.science.org/content/article/ai-helps-decipher-what-elephant-herds-are-saying",
+          "summary": "What sounds like a jumble of noise is actually a group signal",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-01T11:05:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "51aa0f933517",
+          "title": "Oil wells could become mines for critical minerals",
+          "titleZh": "Oil wells could become mines for critical minerals",
+          "url": "https://www.science.org/content/article/oil-wells-could-become-mines-critical-minerals",
+          "summary": "Engineered fluids could extract metals from fracked reservoirs, supplying materials for solar cells and electric vehicles",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-01T09:30:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "456e563ff27a",
+          "title": "OpenAI’s always-on agents are free, until one specific thing happens",
+          "titleZh": "OpenAI’s always-on agents are free, until one specific thing happens",
+          "url": "https://thenewstack.io/openai-dots-codex-usage/",
+          "summary": "OpenAI’s new Dots can work around the clock without drawing down a user’s normal usage allowance during the launch period, but users might be surprised how that changes once an age…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-01T22:00:57.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2642643c8103",
+          "title": "Cloudflare brings paid access to MCP tools — who controls the agent’s spending?",
+          "titleZh": "Cloudflare brings paid access to MCP tools — who controls the agent’s spending?",
+          "url": "https://thenewstack.io/cloudflare-x402-agent-spending/",
+          "summary": "Cloudflare opened a closed beta of its Monetization Gateway on Wednesday , giving domain owners a way to charge AI agents for access to APIs, MCP tools, websites, and datasets. The…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-01T20:09:20.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a0426129469e",
+          "title": "“No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability",
+          "titleZh": "“No human wants to look at billions of traces”: Dynatrace bought Arize because agents need a new kind of observability",
+          "url": "https://thenewstack.io/dynatrace-arize-agents-observability/",
+          "summary": "Observability has long been a staple of enterprise operations, giving companies a way to understand what their applications and infrastructure are doing, where they are failing, an…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-01T20:05:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "643e4dc39efe",
+          "title": "Bit Cloud’s next chapter starts after the AI builds your app",
+          "titleZh": "Bit Cloud’s next chapter starts after the AI builds your app",
+          "url": "https://thenewstack.io/bit-cloud-component-reuse/",
+          "summary": "For many developers, building an application from an AI prompt is already part of the workday. Turning that first version into something a team can use, maintain, and build upon ta…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-01T17:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "554a0451673b",
+          "title": "Running was a bright spot for Nike in an otherwise gloomy quarter",
+          "titleZh": "Running was a bright spot for Nike in an otherwise gloomy quarter",
+          "url": "https://www.modernretail.co/operations/running-was-a-bright-spot-for-nike-in-an-otherwise-gloomy-quarter/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Nike’s turnaround is still a work in progress, but the company is seeing signs of promise in one of its core categories. On Thursday, Nike reported that during its fiscal first qua…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-10-01T22:27:34.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ac00f644d3d",
+          "title": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
+          "titleZh": "Awkward: Saudi Arabia’s new EV brand takes on the U.S. rival it already controls",
+          "url": "https://restofworld.org/2026/saudi-arabia-ceer-motors-ev-exobot-pif-lucid-byd/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "Saudi Arabia’s first homegrown electric-vehicle maker is set to take on a U.S. rival the kingdom already controls. Ceer Motors, majority-owned by the sovereign Public Investment Fu…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-10-01T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b41df0c3fb2",
+          "title": "Big-Box Briefing: What to watch for as Amazon, Target and Walmart host their fall sales",
+          "titleZh": "Big-Box Briefing: What to watch for as Amazon, Target and Walmart host their fall sales",
+          "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-for-as-amazon-target-and-walmart-host-their-fall-sales/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Next week, Amazon, Target and Walmart all kick off their major fall sales, in what will be a key test of consumer demand ahead of the all-important holiday season. Since 2022, when…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-10-01T18:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "e0cb6e2ebcbe",
+    "6e24c735536b",
+    "effea284c719"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 41,
+    "itemsFiltered": 1,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
