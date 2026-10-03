@@ -1,0 +1,1043 @@
+{
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T01:22:36.796Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度、地缘政治与政策监管等 9 个领域，全部读完约需 67 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "11fc8c8addd0",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "1480c400e74e",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "48abeb3c0806",
+        "reason": "Ars Technica，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "11fc8c8addd0",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月3日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月3日",
+          "url": "https://wallstreetcn.com/articles/3782954",
+          "summary": "华见早安之声 要闻精选 恒指失守24000点创三个月最大跌幅，物理AI牛股暴跌近50%，权重科网股集体下跌，赛力斯盘中一度大涨15%。 美国9月新增非农就业2.9万人，远低于华尔街预期9万，失业率小幅升至4.2%。机构高呼9月非农“杀死”10月加息预期、市场预计加息概率降至20%，“新美联储通讯社”：就业报告未改联储立场，9月CPI更重要。白宫经济顾问哈塞特…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T23:59:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1480c400e74e",
+          "title": "特斯拉大涨！三季度全球交付量超预期，欧洲8月同比增长53%，加拿大Model 3销量攀升",
+          "titleZh": "特斯拉大涨！三季度全球交付量超预期，欧洲8月同比增长53%，加拿大Model 3销量攀升",
+          "url": "https://wallstreetcn.com/articles/3782939",
+          "summary": "特斯拉第三季度全球交付量超出分析师预期，为这家电动车制造商在市场承压时期提供了一个企稳信号，但同比仍录得下滑。 特斯拉周五公布，三季度全球共交付486,532辆汽车，高于分析师平均预期463,761辆。欧洲特斯拉新车注册量出现明显回暖，中国市场销量同比回落。 此次交付数据出炉，正值特斯拉经历了一段销量下滑与股价疲软的困难期，竞争加剧以及美国需求低迷持续对公司…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T23:10:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "091612b437f4",
+          "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "titleZh": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "url": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+          "summary": "August-September 2026 2 October 2026 External communication Announcements related to the digital euro project On 30 July 2026 the ECB issued a press release outlining the accessibi…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-02T13:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c707c9852300",
+          "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+          "titleZh": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+          "summary": "Keynote speech by Boris Vujčić, Vice-President of the ECB, at the tenth annual conference of the European Systemic Risk Board (ESRB) Frankfurt am Main, 2 October 2026 It is a great…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-02T11:30:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "20e5b68931a3",
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "titleZh": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "summary": "美国9月非农就业报告意外大幅降温，市场对美联储短期加息的预期进一步降温。周五美股走高、美元走弱，美债收益率则在数据公布后短线大幅下行，随后快速V形反转并转升。与此同时，七国集团（G7）宣布释放1亿桶石油和石油产品储备，国际原油盘中跳水。 美伊会谈僵局本周曾打击美股、推升原油，周五经济的坏消息成美股的好消息，原油在释放油储消息后大幅回落 美国劳工部周五公布的数…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T22:04:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c2182b5a6739",
+          "title": "法德国债利差飙升至欧债危机以来新高，欧央行面临“噩梦情景”：出手救市还是保信用？",
+          "titleZh": "法德国债利差飙升至欧债危机以来新高，欧央行面临“噩梦情景”：出手救市还是保信用？",
+          "url": "https://wallstreetcn.com/articles/3782950",
+          "summary": "法国国债利差飙升至欧债危机以来最高水平，欧洲央行面临是否动用危机干预工具的艰难抉择，其公信力与市场稳定之间的张力正迅速激化。 法德10年期利差已升至约150个基点，为2012年欧债危机以来最高，法国5年期信用违约互换（CDS）升至约87个基点，为2013年初以来最高；这一轮走阔在一周内完成，为2011年以来最快。 法德国债利差的持续扩大，令外界对欧洲央行是否…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-02T21:56:35.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "48abeb3c0806",
+          "title": "Research roundup: 6 cool science stories we almost missed",
+          "titleZh": "Research roundup: 6 cool science stories we almost missed",
+          "url": "https://arstechnica.com/science/2026/10/research-roundup-6-cool-science-stories-we-almost-missed-6/",
+          "summary": "It’s a regrettable reality that there is never enough time to cover all the interesting scientific stories we come across. So every month, we highlight a handful of the best storie…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-02T18:17:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "897b36a5649f",
+          "title": "Toward provably private learning from federated data",
+          "titleZh": "Toward provably private learning from federated data",
+          "url": "https://research.google/blog/toward-provably-private-learning-from-federated-data/",
+          "summary": "In 2017, Google introduced Federated Learning (FL) a machine learning technique that trains models across decentralized, private data. It has been used to power everyday helpful fe…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-02T14:57:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "adc95e523d42",
+          "title": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+          "titleZh": "Inside-Out AI: Rebuilding Airbnb Behind the Scenes and Across the Guest Experience",
+          "url": "https://www.latent.space/p/airbnb",
+          "summary": "Prior to joining Airbnb as CTO in January, Ahmad Al-Dahle was head of generative AI at Meta and led the launch of its open source Llama models over 2023-2025. Now Al-Dahle is in ch…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-02T14:04:49.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "80679720a0b1",
+          "title": "How I kept cool with NYC's free battery program for window AC units",
+          "titleZh": "How I kept cool with NYC's free battery program for window AC units",
+          "url": "https://arstechnica.com/gadgets/2026/10/how-i-kept-cool-with-nycs-free-battery-program-for-window-ac-units/",
+          "summary": "My family has spent four summers participating in demand response programs whereby utility companies pay customers to reduce energy use on the hottest summer days. Most summers hav…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-02T17:20:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b2e484d73f6",
+          "title": "Redefining enterprise intelligence with autonomous AI",
+          "titleZh": "Redefining enterprise intelligence with autonomous AI",
+          "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+          "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of perfor…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-02T15:49:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c89d110bea8",
+          "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "titleZh": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+          "url": "https://huggingface.co/blog/allenai/astabrief",
+          "summary": "🤗 Model | 📊 Data Language models can already help researchers search the literature, synthesize evidence, and work through complex questions. But scientific work places particula…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-02T15:19:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "899e5f4c0834",
+          "title": "Someone got Doom in an SQL database",
+          "titleZh": "Someone got Doom in an SQL database",
+          "url": "https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/",
+          "summary": "\"Rendering Doom in a database is obviously a bad idea,\" Lukas Vogel writes in a lengthy blog post explaining how exactly he managed to render Doom using an SQL database. OK, that's…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-02T21:19:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e51ed548fdff",
+          "title": "Patient-zero drill put health facilities to the test—40% of them failed",
+          "titleZh": "Patient-zero drill put health facilities to the test—40% of them failed",
+          "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+          "summary": "COVID-19 made the weaknesses in our pandemic preparedness at national and global levels painfully clear. But a new study highlights that even at the first, local steps of an outbre…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-02T20:07:59.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "3b1d35b38119",
+          "title": "Saudis plan major offensive against the Houthis, but U.S. won't join for now",
+          "titleZh": "Saudis plan major offensive against the Houthis, but U.S. won't join for now",
+          "url": "https://www.axios.com/2026/10/02/saudis-yemen-houthis-bab-al-mandeb-strait",
+          "summary": "Saudi Arabia and Yemeni government forces are planning a major counteroffensive against Iran-backed Houthis in the coming days — an effort to push them away from areas on the Red S…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-02T23:08:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc6c41fa2698",
+          "title": "第一批用豆包“反向旅游”的人，被气笑了",
+          "titleZh": "第一批用豆包“反向旅游”的人，被气笑了",
+          "url": "https://www.huxiu.com/article/4895216.html?f=rss",
+          "summary": "本文来自微信公众号： 凤凰生活报告 ，编辑：|章鱼，作者：凤凰WEEKLY，原文标题：《第一批用豆包「反向旅游」的人，被气笑了》 国庆去哪里，既小众，又便宜？ 答曰：公司。 开玩笑的朋友们，这两年，几乎都可以算是反向旅游之年。 以前放假，大家往北京、杭州、厦门、成都跑； 现在，第一批聪明人已经悟了： 只要主流景区里挤的全是人，那就不去主流景区！ 不去大理去建…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-03T01:09:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aec52ab50137",
+          "title": "越南在美国发起“魅力攻势”",
+          "titleZh": "越南在美国发起“魅力攻势”",
+          "url": "https://www.huxiu.com/article/4895215.html?f=rss",
+          "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 越南当下正处于跟美国谈贸易协议的关键时刻，有点类似于1999年中美入世谈判时的节奏与心态。 正因如此，河内迫切希望促进交流，从官方层面到民间层面都给美国人画饼，进而减小在谈判桌上的压力。 基于这种考虑，9月22日苏林赴纽约参加联合国大会期间，曾到美国外交政策协会发表过一场政策演讲。 首先介绍一下这个美国外交政策…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-03T01:08:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a06b457185fb",
+          "title": "3天抓12万条，被毛毛虫害苦的北漂开始反击了",
+          "titleZh": "3天抓12万条，被毛毛虫害苦的北漂开始反击了",
+          "url": "https://www.huxiu.com/article/4895213.html?f=rss",
+          "summary": "本文来自微信公众号： 新周刊 ，作者：文雅，编辑：曾宝气 气候变暖不会给所有虫子统一加“繁殖buff”。太热、太干、暴雨、天敌增减等，都会产生影响。唯一确定的是，只要气候持续变暖，原本均衡的虫口制约、天敌匹配等机制都可能跟着乱套。 当天气越来越暖和，“人虫冲突”将不再局限于北京的动物园里。真正漫长的“抓虫赛季”，也许才刚拉开序幕。 今年北京人的“捡秋”，有点…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-03T00:23:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f281c052e209",
+          "title": "中国男足0：5不敌巴勒斯坦，最恶心的是伪球迷",
+          "titleZh": "中国男足0：5不敌巴勒斯坦，最恶心的是伪球迷",
+          "url": "https://www.huxiu.com/article/4895212.html?f=rss",
+          "summary": "本文来自微信公众号： 那些原本是废话的常识 ，作者：叶克飞 中国队在热身赛中0:5不敌巴勒斯坦，毫无意外地登上热搜第一，配合“60年首负”等字眼，更加触目惊心。输球当然不好看，不过本就是热身赛，目的是练兵，而且几名主力驰援亚运队，国家队也征召了不少年轻人。真正让我觉得恶心的，是那些从不看球只看比分、对足球一无所知、对事实毫不在意的伪球迷。 将国足输球上升为“…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-03T00:14:27.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "17893132532c",
+          "title": "Weekly Dose of Optimism #213",
+          "titleZh": "Weekly Dose of Optimism #213",
+          "url": "https://www.notboring.co/p/weekly-dose-of-optimism-213",
+          "summary": "Cover image generated by Runway . Hi friends , Happy Friday and welcome to our 213th Weekly Dose of Optimism. You might notice that the title card looks a little different than it…",
+          "whyItMatters": "",
+          "sourceName": "Not Boring",
+          "publishedAt": "2026-10-02T12:44:11.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d2377fe57580",
+          "title": "Supply is elastic, installment #1637",
+          "titleZh": "Supply is elastic, installment #1637",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/supply-is-elastic-installment-1637-2.html?utm_source=rss&utm_medium=rss&utm_campaign=supply-is-elastic-installment-1637-2",
+          "summary": "For taxes too: Using administrative data from Scandinavian countries, we provide evidence on international migration responses to wealth taxes and evaluate their aggregate economic…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-02T17:32:37.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b348d34701a",
+          "title": "A Normal Debate?",
+          "titleZh": "A Normal Debate?",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/a-normal-debate.html?utm_source=rss&utm_medium=rss&utm_campaign=a-normal-debate",
+          "summary": "Computer scientists Arvind Narayanan & Sayash Kapoor wrote AI as Normal Technology The statement “AI is normal technology” is three things: a description of current AI, a predictio…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-02T11:18:05.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "485f26d851bd",
+          "title": "Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems",
+          "titleZh": "Semiconductor Quantum-Dot Resonator Improves Single-Photon Quality for Quantum Systems",
+          "url": "https://www.semiconductor-digest.com/semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-quantum-dot-resonator-improves-single-photon-quality-for-quantum-systems",
+          "summary": "Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a significant breakthrough in the field of quant…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-02T21:50:04.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "24ce7a5b854f",
+          "title": "Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites",
+          "titleZh": "Crystal Design Controls Spin-Polarized Photocurrent in 2D Hybrid Perovskites",
+          "url": "https://www.semiconductor-digest.com/crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites/?utm_source=rss&utm_medium=rss&utm_campaign=crystal-design-controls-spin-polarized-photocurrent-in-2d-hybrid-perovskites",
+          "summary": "The circular photogalvanic effect (CPGE), a phenomenon that generates helicity-dependent photocurrents in noncentrosymmetric materials, can originate purely from a crystal’s intern…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-02T20:59:56.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b05204cbac6",
+          "title": "EMD Electronics Opens New R&D Facility in Wisconsin",
+          "titleZh": "EMD Electronics Opens New R&D Facility in Wisconsin",
+          "url": "https://www.semiconductor-digest.com/emd-electronics-opens-new-rd-facility-in-wisconsin/?utm_source=rss&utm_medium=rss&utm_campaign=emd-electronics-opens-new-rd-facility-in-wisconsin",
+          "summary": "EMD Electronics, the North America electronics business of Merck KGaA, Darmstadt, Germany, today announced the opening of a new 38,000-square-foot research and development facility…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-02T20:37:13.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "935958973c52",
+          "title": "Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration",
+          "titleZh": "Northrop Grumman Rebrands Wideband GaN Technology as FORTITUDE, Targets RF System Integration",
+          "url": "https://www.semiconductor-digest.com/northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration/?utm_source=rss&utm_medium=rss&utm_campaign=northrop-grumman-rebrands-wideband-gan-technology-as-fortitude-targets-rf-system-integration",
+          "summary": "Designed to solve one of the hardest problems in modern electronics — moving massive amounts of information quickly, cleanly and reliably — Northrop Grumman’s FORTITUDE™ processes …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-02T20:47:36.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "e653adf73f30",
+          "title": "US blast simulation targets China’s alleged secret nuclear testing",
+          "titleZh": "US blast simulation targets China’s alleged secret nuclear testing",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3369638/us-blast-simulation-targets-chinas-alleged-secret-nuclear-testing?utm_source=rss_feed",
+          "summary": "The US has conducted a non-nuclear underground experiment to enhance its ability to detect low-yield nuclear explosions that it explicitly linked with a test that Washington suspec…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-02T22:38:41.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0358101fca97",
+          "title": "Hochul eyes changes to state’s rape law amid Cornell crisis",
+          "titleZh": "Hochul eyes changes to state’s rape law amid Cornell crisis",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/02/hochul-eyes-changes-to-states-rape-law-amid-cornell-crisis-01105127",
+          "summary": "RAPE LAW LOOPHOLE: Gov. Kathy Hochul vowed today to close a loophole embedded in state rape law around voluntary intoxification as she laced into Cornell University police and a lo…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-02T20:07:34.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "706d10022877",
+          "title": "Kansas enters the chat as Senate map tilts further into red territory",
+          "titleZh": "Kansas enters the chat as Senate map tilts further into red territory",
+          "url": "https://www.politico.com/news/2026/10/02/kansas-becomes-a-surprise-senate-battleground-01105125",
+          "summary": "Senate Republicans are suddenly rushing to save a Senate seat in Kansas. On Friday, the Senate Leadership Fund, Senate Republicans’ top super PAC, reserved over $8 million in ads s…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-02T19:28:29.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6c54e4fd8ce4",
+          "title": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
+          "titleZh": "Top GOP groups retreat from North Carolina Senate race as hopes fade",
+          "url": "https://www.politico.com/news/2026/10/02/republicans-slf-scale-back-north-carolina-senate-spending-01104964",
+          "summary": "Leading Republicans are pulling back from the North Carolina Senate race, sending a clear message: What was a top-tier battleground at the start of the cycle is no longer worth the…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-02T17:03:21.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "2296348ad83e",
+          "title": "GitHub’s advice for its new Copilot feature is to try something else first",
+          "titleZh": "GitHub’s advice for its new Copilot feature is to try something else first",
+          "url": "https://thenewstack.io/github-copilot-computer-use-desktop/",
+          "summary": "GitHub launched computer use in public preview on Thursday , giving Copilot CLI and its desktop app the ability to operate applications on macOS and Windows. Agents can read app co…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-02T18:25:27.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eed41f52cf15",
+          "title": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+          "titleZh": "What Kubernetes’ “monolith” lesson means for AI agent harnesses",
+          "url": "https://thenewstack.io/kubecon-agent-harness-koordinator/",
+          "summary": "Welcome to another edition of Road to KubeCon , your source for everything Kubernetes and cloud-native as we count down the days to KubeCon + CloudNativeCon NA , happening November…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-02T16:31:26.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5a06ee61ff98",
+          "title": "AI is changing developer work. Here are three skills to strengthen.",
+          "titleZh": "AI is changing developer work. Here are three skills to strengthen.",
+          "url": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+          "summary": "AI is changing how developers work and apply their skills. Writing code is still essential, but developers increasingly need to know how to direct AI, evaluate its output, communic…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-02T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a52e008560a2",
+          "title": "“No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior",
+          "titleZh": "“No reason why everyone should have an identical Claude experience”: Anthropic’s mods let you change Claude Code’s look and behavior",
+          "url": "https://thenewstack.io/anthropic-claude-code-mods-plugins/",
+          "summary": "Developers have long been able to customize Claude Code to their preferences, via settings , persistent instructions in CLAUDE.md , hooks , and MCP servers , alongside tweaks such …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-02T14:07:50.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "11fc8c8addd0",
+    "1480c400e74e",
+    "48abeb3c0806"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 34,
+    "itemsFiltered": 2,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 65,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
