@@ -1,0 +1,751 @@
+{
+  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T01:12:09.321Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 25 条，覆盖 宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业、深度长文与思考等 6 个领域，全部读完约需 51 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "6209d58e53de",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "dda8d594281a",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "d5d802bf0d49",
+        "reason": "Axios，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "6209d58e53de",
+          "title": "英伟达重金力捧！“美版DeepSeek”即将发布开源模型",
+          "titleZh": "英伟达重金力捧！“美版DeepSeek”即将发布开源模型",
+          "url": "https://wallstreetcn.com/articles/3782993",
+          "summary": "获得英伟达8亿美元投资的AI初创公司Reflection，正准备发布其首款开放权重模型。 据Axios 10月4日报道，Reflection的首款模型预计发布初期能力仍将落后于美国最顶尖的前沿模型，但有望与中国领先的开放权重模型直接竞争。 据报道，消息人士表示，该模型具备足够强大的智能能力，可帮助企业以低成本构建专有AI系统——在某些情况下，将能力稍弱的开放…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-05T01:09:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dda8d594281a",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月5日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月5日",
+          "url": "https://wallstreetcn.com/articles/3782961",
+          "summary": "华见早安之声 要闻精选 G7决定释放1亿桶紧急油储，立即行动、持续四个月，前20天先大规模投放柴油。特朗普称不会实施柴油出口禁令。 中东战火恐升级：周五报道称沙特考虑大举反击胡塞武装，获美情报支持；也门胡塞武装称周六袭击并击中油企沙特阿美目标；也门政府周日宣布启动大规模军事行动，以收复胡塞武装近期控制地区。 特朗普称与伊战事将“很快结束”，对伊下一步行动“进…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-04T23:00:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aafb9ac7ae2f",
+          "title": "纳入6280亿美元表外承诺后，Meta股票“贵了”35%？",
+          "titleZh": "纳入6280亿美元表外承诺后，Meta股票“贵了”35%？",
+          "url": "https://wallstreetcn.com/articles/3782985",
+          "summary": "Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。 投行Needham分析师Laura Martin于10月2日发布研报指出，若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵。 Martin随后在CNBC公开表态：\"Met…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-04T10:18:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7accf9ffe256",
+          "title": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion - Reuters",
+          "titleZh": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkc3YlZHTHhpcnlWODR2SG9hUnMtRGQwakl3c3F5c1hTS2pMZFVDR3VpZDFJdTJhc3NBWjRhSE16UzBNb2FoWkJXNDRqQ3paek13NEUzb0Mwb29fR1YwNGlCTFhxd295RVVyU0txejZwQS0zUzg0QXhCZWt4bi1kQkh0VFAyVWRlekZQbzFlTkVBRWNKYTJSTWI3SkJIZkRoc3hiUnoxTlV3UVZ0ZUdld2RzTGllSE1DX2lF?oc=5",
+          "summary": "AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-10-04T23:59:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "902dfaabf7b9",
+          "title": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - Reuters",
+          "titleZh": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5",
+          "summary": "Oil climbs after Yemeni Houthis attack Saudi Aramco sites Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-10-04T23:51:21.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "93007cfdf396",
+          "title": "OpenAI's Altman says AI benefits warrant accepting some risks - Reuters",
+          "titleZh": "OpenAI's Altman says AI benefits warrant accepting some risks - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGhDUmJ2UzEwZ0hlenFISFFXdkZyVHd1TGNIZEhLTERLaDRWaXh4dlpVM1RfU0p4Vlh2cjVybWZtOWZkVVp0ZEVndGQ3T2pZd0tyelVvV3JnQ09FQlNOYWtVeUhCMjZud2NpYUVEZllhbHhIeVFvOXpEY0lLTklTNnNpNnhDTUdVS1dYSzl6S3VwbzgydXlKZVFRTkE4Y0dsYlJtQldVWkY?oc=5",
+          "summary": "OpenAI's Altman says AI benefits warrant accepting some risks Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-10-04T22:43:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "797300b8d4b9",
+          "title": "Marc Elias’ Democracy Docket sees Trump 2.0 success",
+          "titleZh": "Marc Elias’ Democracy Docket sees Trump 2.0 success",
+          "url": "https://www.semafor.com/article/10/04/2026/marc-elias-democracy-docket-sees-trump-20-success",
+          "summary": "The News One of the Democratic Party’s most prolific lawyers also is becoming one of its most prolific posters. Marc Elias has argued dozens of cases around mail-in balloting and e…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-10-05T00:48:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "581cbfa3f811",
+          "title": "CEO’s podcast sparks tensions atop The Atlantic",
+          "titleZh": "CEO’s podcast sparks tensions atop The Atlantic",
+          "url": "https://www.semafor.com/article/10/04/2026/ceos-podcast-sparks-tensions-atop-the-atlantic",
+          "summary": "The Scoop Atlantic CEO Nicholas Thompson was talking about the media business on Vox’s podcast last month when host Peter Kafka asked him: How was the magazine’s editor-in-chief, J…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-10-05T00:48:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "df90a288c27e",
+          "title": "AI nonprofit will spend $10 million on journalism",
+          "titleZh": "AI nonprofit will spend $10 million on journalism",
+          "url": "https://www.semafor.com/article/10/04/2026/ai-nonprofit-will-spend-10-million-on-journalism",
+          "summary": "The Scoop A Silicon Valley nonprofit close to the AI safety movement is pledging $10 million by the end of 2027 to fund mainstream and independent coverage of artificial intelligen…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-10-05T00:48:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bd0da7f75088",
+          "title": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
+          "titleZh": "马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道",
+          "url": "http://www.geekpark.net/news/372082",
+          "summary": "马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆·马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「Spa…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-10-05T00:36:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d4a71b34369c",
+          "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "titleZh": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+          "url": "https://github.com/omlahore/RemoveMacAI",
+          "summary": "Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 336 # Comments: 211",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-10-04T19:42:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "187c37cddef0",
+          "title": "Improper redaction reveals Google Data Center water and electricity usage",
+          "titleZh": "Improper redaction reveals Google Data Center water and electricity usage",
+          "url": "https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/",
+          "summary": "Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/it…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-10-04T19:37:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4518e5be364f",
+          "title": "The best early October Prime Day deals happening now",
+          "titleZh": "The best early October Prime Day deals happening now",
+          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up Oct…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-10-04T17:18:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e4b2bbb9dd3",
+          "title": "Yemen launches Saudi-backed counterattack against Houthis",
+          "titleZh": "Yemen launches Saudi-backed counterattack against Houthis",
+          "url": "https://www.semafor.com/article/10/04/2026/yemen-launches-saudi-backed-counterattack-against-houthis",
+          "summary": "Yemen’s Saudi-backed government forces launched a major military campaign Sunday to beat back Iran-aligned Houthi rebels, adding fresh risks to oil markets as Iran reiterated that …",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-10-04T22:41:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "d5d802bf0d49",
+          "title": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran",
+          "titleZh": "U.S. B-1 bombers evacuated from UK base after attack threats from Iran",
+          "url": "https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran",
+          "summary": "The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-04T22:37:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fbeaf3df18e6",
+          "title": "谁在制造让中产上瘾的纸片？",
+          "titleZh": "谁在制造让中产上瘾的纸片？",
+          "url": "https://www.huxiu.com/article/4895201.html?f=rss",
+          "summary": "出品 | 虎嗅青年文化组 作者 | 渣渣郡 本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 “这个市场正在快速发展，但如果一些事情现在不做，它可能会滑向一个危险的境地。” 说出这句话的，是Fanatics Collectibles亚太区总裁王莹，她口中的市场，指的是中国高速发展的球星卡…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-05T01:01:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "267869f58e44",
+          "title": "注射两次都没死，美国的死刑怎么了？",
+          "titleZh": "注射两次都没死，美国的死刑怎么了？",
+          "url": "https://www.huxiu.com/article/4895402.html?f=rss",
+          "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 9月30日，美国田纳西州对死囚Christa Gail Pike执行注射死刑，但在连续注射两针致死剂量的戊巴比妥后，Pike依然活着，直接在执行室里打起了呼噜。 为什么执行死刑能捅出那么大的篓子？ 这绝非Pike的生命力太强，而是美国执行死刑时长期困境的一个缩影。 美国的联邦政府与27个州有死…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-05T00:57:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b3b02b1815ca",
+          "title": "从多品牌到单品牌，安克创新为何最终“归一”？",
+          "titleZh": "从多品牌到单品牌，安克创新为何最终“归一”？",
+          "url": "https://www.huxiu.com/article/4895401.html?f=rss",
+          "summary": "本文来自微信公众号： 洞见学堂 ，作者：孙德馨 导读 2026年9月，安克创新在IFA展前发布会上宣布将旗下Anker、Anker SOLIX、eufy、eufyMake、soundcore五大品牌统一归至“Anker”单一品牌之下。这意味着，过去十多年安克建立起来的多品牌架构，将发生根本性的变化。那么，安克创新为何要放弃推动自身从充电配件厂成长为营收超30…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-05T00:36:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b474f5a1ad9e",
+          "title": "邱兵/持续三十年的百岁老人研究完全报告",
+          "titleZh": "邱兵/持续三十年的百岁老人研究完全报告",
+          "url": "https://www.huxiu.com/article/4895400.html?f=rss",
+          "summary": "本文来自微信公众号： 邱兵 ，作者：邱兵 托马斯·珀尔斯去探望一位102岁的老太太，经常扑空。 她叫Celia，住在一个供老人独立生活的社区。珀尔斯当时在哈佛接受老年医学训练，他原以为Celia出门看医生去了。后来才知道，她在外面参加钢琴演出，弹的还是复杂的肖邦作品。 2022年，珀尔斯在波士顿大学的一次访谈中讲起这段往事。在他此前的医学认知中，年龄最大的患…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-05T00:34:04.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4ea88b1e677a",
+          "title": "Does Costco Cause Cancer?",
+          "titleZh": "Does Costco Cause Cancer?",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&utm_medium=rss&utm_campaign=does-costco-cause-cancer",
+          "summary": "In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidenc…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-04T11:18:58.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6cfc12ae17d4",
+          "title": "Sunday assorted links",
+          "titleZh": "Sunday assorted links",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&utm_medium=rss&utm_campaign=sunday-assorted-links-585",
+          "summary": "1. New London play about Keynes . 2. Aphantasia, and looking at buildings . 3. AI and job growth in Africa . 4. On Nussbaum, opera, and liberalism . 5. Congress seeks to speed up e…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-04T17:43:19.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41d82e0db06a",
+          "title": "Do the elderly prefer robotic care?",
+          "titleZh": "Do the elderly prefer robotic care?",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&utm_medium=rss&utm_campaign=do-the-elderly-prefer-robotic-care",
+          "summary": "The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technolo…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-04T05:17:41.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "58657c4166ef",
+          "title": "Agents have made CI the bottleneck. Faster pipelines are the wrong fix.",
+          "titleZh": "Agents have made CI the bottleneck. Faster pipelines are the wrong fix.",
+          "url": "https://thenewstack.io/ci-bottleneck-agent-verification/",
+          "summary": "Three posts landed in September that I think engineering leaders should read together. Anthropic’s engineering team wrote that their continuous integration (CI) job volume grew 25x…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-04T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d56ee1435ce5",
+          "title": "Google's Android Security State Libraries Enable Component-Level Security Verification",
+          "titleZh": "Google's Android Security State Libraries Enable Component-Level Security Verification",
+          "url": "https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "Google's AndroidX Security State libraries enables apps to verify security patch status at the individual component level, rather than relying on a single, device-wide security pat…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-10-04T17:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "6209d58e53de",
+    "dda8d594281a",
+    "d5d802bf0d49"
+  ],
+  "stats": {
+    "itemsConsidered": 25,
+    "itemsPublished": 24,
+    "itemsFiltered": 1,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 50,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

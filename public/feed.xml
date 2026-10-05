@@ -6,283 +6,253 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 04 Oct 2026 01:57:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 01:12:09 GMT</lastBuildDate>
     <item>
-      <title>【2026-10-04 今日导读】</title>
+      <title>【2026-10-05 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-10-04</guid>
-      <pubDate>Sun, 04 Oct 2026 01:57:28 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、深度长文与思考、商业模式与行业深度等 6 个领域，全部读完约需 65 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-10-05</guid>
+      <pubDate>Mon, 05 Oct 2026 01:12:09 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 25 条，覆盖 宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业、深度长文与思考等 6 个领域，全部读完约需 51 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>美银Hartnett：2000年3月“科网泡沫”峰值前6个月，只有科技和通信板块在涨，和当下“如出一辙”</title>
-      <link>https://wallstreetcn.com/articles/3782974</link>
-      <guid isPermaLink="false">362ee18db8cc</guid>
-      <pubDate>Sun, 04 Oct 2026 01:56:12 GMT</pubDate>
+      <title>英伟达重金力捧！“美版DeepSeek”即将发布开源模型</title>
+      <link>https://wallstreetcn.com/articles/3782993</link>
+      <guid isPermaLink="false">6209d58e53de</guid>
+      <pubDate>Mon, 05 Oct 2026 01:09:43 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美银证券首席投资策略师Michael Hartnett发出警示：当前市场结构与2000年科网泡沫破裂前夕高度吻合，同时他建议投资者开始逢低买入债券。 在最新一期《Flow Show》报告中，Hartnett指出，在2000年3月科网泡沫峰值前的六个月里，科技板块涨幅超过40%，而必需消费品板块下跌30%，除科技和电信以外的所有板块均告下跌。他表示，这一格局与…
+      <description>获得英伟达8亿美元投资的AI初创公司Reflection，正准备发布其首款开放权重模型。 据Axios 10月4日报道，Reflection的首款模型预计发布初期能力仍将落后于美国最顶尖的前沿模型，但有望与中国领先的开放权重模型直接竞争。 据报道，消息人士表示，该模型具备足够强大的智能能力，可帮助企业以低成本构建专有AI系统——在某些情况下，将能力稍弱的开放…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
+    </item>
+    <item>
+      <title>华尔街见闻早餐FM-Radio | 2026年10月5日</title>
+      <link>https://wallstreetcn.com/articles/3782961</link>
+      <guid isPermaLink="false">dda8d594281a</guid>
+      <pubDate>Sun, 04 Oct 2026 23:00:11 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>华见早安之声 要闻精选 G7决定释放1亿桶紧急油储，立即行动、持续四个月，前20天先大规模投放柴油。特朗普称不会实施柴油出口禁令。 中东战火恐升级：周五报道称沙特考虑大举反击胡塞武装，获美情报支持；也门胡塞武装称周六袭击并击中油企沙特阿美目标；也门政府周日宣布启动大规模军事行动，以收复胡塞武装近期控制地区。 特朗普称与伊战事将“很快结束”，对伊下一步行动“进…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>南美洲“最重要选举”今日开启：巴西大选决定“左右路线”，卢拉团队指责美国干预，华尔街押小博索纳罗</title>
-      <link>https://wallstreetcn.com/articles/3782970</link>
-      <guid isPermaLink="false">628d0339852d</guid>
-      <pubDate>Sun, 04 Oct 2026 01:30:18 GMT</pubDate>
+      <title>纳入6280亿美元表外承诺后，Meta股票“贵了”35%？</title>
+      <link>https://wallstreetcn.com/articles/3782985</link>
+      <guid isPermaLink="false">aafb9ac7ae2f</guid>
+      <pubDate>Sun, 04 Oct 2026 10:18:33 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>巴西1.6亿选民周日走进投票站，在这场被外界视为南美洲当前最重要选举中，现任总统卢拉与右翼挑战者弗拉维奥·博索纳罗（Flávio Bolsonaro）之间的对决，将直接决定这个拉美最大经济体的政治路线走向。 最新民调显示两人势均力敌。Datafolha周六公布的调查显示，在有效票口径下，卢拉以45%对42%微弱领先；Quaest的数据则更为接近，两人分别为4…
+      <description>Meta约6280亿美元的表外负债长期隐匿于财报脚注，当这一数字被纳入企业价值计算后，整个超大规模科技股的估值框架正面临重构。 投行Needham分析师Laura Martin于10月2日发布研报指出，若将Meta的表外承诺计入企业价值（EV），其估值倍数将上调35%，股票对股东而言远比传统指标所呈现的更为昂贵。 Martin随后在CNBC公开表态：&quot;Met…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Brazil&apos;s Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote - Reuters</title>
-      <link>https://news.google.com/rss/articles/CBMivgFBVV95cUxOaWZkR3hKMFloMFpIS0JxeEdZcFhOOEFDdHRLMm01VDZWb3Z0VTM0MjdtbEt2WkdkdnRHZWV6S1lCOHdubmNra3cyY292RTdCNUZXNG9ya2MwYk1NZWY0MmtvYkJBbGc0SEN2YjdZYUR2ZEt0dGQ5TGRSSTRkRHp2WDdYQjhaQ05mNTNQQTBTcGV5RzdKWVI1Z1BZeVU3ZEJuYjNWd2F0MF9DeVdlM2x2ZFlkdlUzdkxfWlVhX2Nn?oc=5</link>
-      <guid isPermaLink="false">d226d1bcc02b</guid>
-      <pubDate>Sat, 03 Oct 2026 23:10:20 GMT</pubDate>
+      <title>AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiuwFBVV95cUxObkc3YlZHTHhpcnlWODR2SG9hUnMtRGQwakl3c3F5c1hTS2pMZFVDR3VpZDFJdTJhc3NBWjRhSE16UzBNb2FoWkJXNDRqQ3paek13NEUzb0Mwb29fR1YwNGlCTFhxd295RVVyU0txejZwQS0zUzg0QXhCZWt4bi1kQkh0VFAyVWRlekZQbzFlTkVBRWNKYTJSTWI3SkJIZkRoc3hiUnoxTlV3UVZ0ZUdld2RzTGllSE1DX2lF?oc=5</link>
+      <guid isPermaLink="false">7accf9ffe256</guid>
+      <pubDate>Sun, 04 Oct 2026 23:59:12 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Brazil&apos;s Lula, Flavio Bolsonaro wrap up campaigns ahead of first-round vote Reuters
+      <description>AkzoNobel to sell Southeast Asia paints business to Nippon Paint for $1.35 billion Reuters
 
 来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>9月AI债发行突然“踩刹车”，大摩判断：四季度或卷土重来</title>
-      <link>https://wallstreetcn.com/articles/3782964</link>
-      <guid isPermaLink="false">550acb90ef21</guid>
-      <pubDate>Sat, 03 Oct 2026 07:59:27 GMT</pubDate>
+      <title>Oil climbs after Yemeni Houthis attack Saudi Aramco sites - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMirgFBVV95cUxOZm4yN3lGTlZFWFRCMmNTSFJSUWE4MnJqSGc5aGVKMXBWR3lrcXYtSEpTRWpncXNuUHc5QVVKeDVRa0NuTWpuXzBSRUxqXzcyUklYUlU2NUdLNTkwS2FndzlLdXBaQThKZThGT2d3cjRkN0FBVjFQcEJzR2NrbEpDa1RvSlJ3a3d2bUoxcnAwSF9jVnZXY0J4V0s4WjM5Y3hRVWlhY3dSQ0J0WkMxZ3c?oc=5</link>
+      <guid isPermaLink="false">902dfaabf7b9</guid>
+      <pubDate>Sun, 04 Oct 2026 23:51:21 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>9月全球AI相关债券发行仅约230亿美元，为今年次低月份。美国投资级市场AI发行直接&quot;挂零&quot;。 摩根士丹利将这一放缓定性为&quot;暂停而非退潮&quot;，预计四季度发行将回升，但不会重现上半年的爆发式增长。 截至9月底，今年全球AI相关债券发行总额已达4660亿美元，是去年全年2160亿美元的两倍以上。 大摩在最新报告中分析称，9月降温的原因并非基本面恶化或资本短缺——前…
+      <description>Oil climbs after Yemeni Houthis attack Saudi Aramco sites Reuters
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>GLP-1之后的下一张牌：礼来、诺和诺德为何同时押注胰淀素</title>
-      <link>https://wallstreetcn.com/articles/3782962</link>
-      <guid isPermaLink="false">1158ca1f672e</guid>
-      <pubDate>Sat, 03 Oct 2026 06:34:11 GMT</pubDate>
+      <title>OpenAI&apos;s Altman says AI benefits warrant accepting some risks - Reuters</title>
+      <link>https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOGhDUmJ2UzEwZ0hlenFISFFXdkZyVHd1TGNIZEhLTERLaDRWaXh4dlpVM1RfU0p4Vlh2cjVybWZtOWZkVVp0ZEVndGQ3T2pZd0tyelVvV3JnQ09FQlNOYWtVeUhCMjZud2NpYUVEZllhbHhIeVFvOXpEY0lLTklTNnNpNnhDTUdVS1dYSzl6S3VwbzgydXlKZVFRTkE4Y0dsYlJtQldVWkY?oc=5</link>
+      <guid isPermaLink="false">93007cfdf396</guid>
+      <pubDate>Sun, 04 Oct 2026 22:43:38 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>礼来本周公布的二期临床数据为GLP-1之后的肥胖药物路线图添上了关键一笔：其实验性胰淀素药物eloralintide与替尔泊肽联合用药，最高剂量组48周平均减重23.3%，远超替尔泊肽单药高剂量组的14.8%。 下一代肥胖药物的目标不是取代GLP-1，而是叠加新的减重机制。 礼来和诺和诺德正围绕胰淀素——一种与胰岛素一同在胰腺中释放、帮助调节饥饿感和饱腹感的…
+      <description>OpenAI&apos;s Altman says AI benefits warrant accepting some risks Reuters
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：Reuters（经 Google News） · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>交付超预期难改盈利压力！摩根大通：特斯拉盈利或从2028年开始加速</title>
-      <link>https://wallstreetcn.com/articles/3782960</link>
-      <guid isPermaLink="false">10fcce8996d9</guid>
-      <pubDate>Sat, 03 Oct 2026 05:45:59 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>特斯拉三季度交付48.65万辆、超出市场共识约5%，但摩根大通在数据公布后维持中性评级和415美元目标价，摩根大通认为，特斯拉交付亮眼难掩近期盈利压力，EPS拐点要等到2028年，届时或开启50%以上的年复合增长。 投资者在此之前面对的是一段利润率压缩期。摩根大通对特斯拉2026年和2027年的调整后EPS预测分别为1.43美元和1.45美元，大幅低于彭博共…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>We&apos;re going to need default hard budget caps on pretty much everything</title>
-      <link>https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/</link>
-      <guid isPermaLink="false">363aac35bbbd</guid>
-      <pubDate>Sat, 03 Oct 2026 23:34:02 GMT</pubDate>
+      <title>Marc Elias’ Democracy Docket sees Trump 2.0 success</title>
+      <link>https://www.semafor.com/article/10/04/2026/marc-elias-democracy-docket-sees-trump-20-success</link>
+      <guid isPermaLink="false">797300b8d4b9</guid>
+      <pubDate>Mon, 05 Oct 2026 00:48:30 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Here&apos;s a product feature which the world is going to need a whole lot more of over the coming months and years: default hard budget caps . I&apos;m talking about the feature of pay-by-u…
+      <description>The News One of the Democratic Party’s most prolific lawyers also is becoming one of its most prolific posters. Marc Elias has argued dozens of cases around mail-in balloting and e…
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>The Agent Said It Was Done. The Database Disagreed.</title>
-      <link>https://huggingface.co/blog/microsoft/thinkingbox</link>
-      <guid isPermaLink="false">3e653e3e3da3</guid>
-      <pubDate>Sat, 03 Oct 2026 22:56:48 GMT</pubDate>
+      <title>CEO’s podcast sparks tensions atop The Atlantic</title>
+      <link>https://www.semafor.com/article/10/04/2026/ceos-podcast-sparks-tensions-atop-the-atlantic</link>
+      <guid isPermaLink="false">581cbfa3f811</guid>
+      <pubDate>Mon, 05 Oct 2026 00:48:16 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Microsoft ThinkingBox grades AI agents on the records they leave behind, not the sentences they generate, and then asks whether they can do it twenty times in a row. It is now avai…
+      <description>The Scoop Atlantic CEO Nicholas Thompson was talking about the media business on Vox’s podcast last month when host Peter Kafka asked him: How was the magazine’s editor-in-chief, J…
 
-来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Milt Windler, NASA flight director who helped save Apollo 13, dies at 94</title>
-      <link>https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/</link>
-      <guid isPermaLink="false">d8b69442b135</guid>
-      <pubDate>Sat, 03 Oct 2026 19:45:17 GMT</pubDate>
+      <title>AI nonprofit will spend $10 million on journalism</title>
+      <link>https://www.semafor.com/article/10/04/2026/ai-nonprofit-will-spend-10-million-on-journalism</link>
+      <guid isPermaLink="false">df90a288c27e</guid>
+      <pubDate>Mon, 05 Oct 2026 00:48:03 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Milt Windler, one of the four leaders of Mission Control who in 1970 directed the round-the-clock efforts to bring the Apollo 13 astronauts back to Earth safely, has died at the ag…
+      <description>The Scoop A Silicon Valley nonprofit close to the AI safety movement is pledging $10 million by the end of 2027 to fund mainstream and independent coverage of artificial intelligen…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>September sponsors-only newsletter</title>
-      <link>https://simonwillison.net/2026/Oct/3/newsletter/</link>
-      <guid isPermaLink="false">9f0547f57d2d</guid>
-      <pubDate>Sat, 03 Oct 2026 22:00:31 GMT</pubDate>
+      <title>马斯克将旗下人工智能业务更名为 SpaceXSI；Altman 称 AI 发展应容忍一定风险；小米 Vision GT 将入驻《GT7》游戏｜极客早知道</title>
+      <link>http://www.geekpark.net/news/372082</link>
+      <guid isPermaLink="false">bd0da7f75088</guid>
+      <pubDate>Mon, 05 Oct 2026 00:36:34 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>I just sent the September edition of my sponsors-only monthly newsletter . If you are a sponsor (or start a sponsorship now) you can access it here . This month: More Fable class m…
-
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>苹果确认美版 iPhone 18 Pro Max 有问题；OpenAI 每天烧超 50 万美元查 AI 入侵事故；求职者吐槽 AI 面试「恐怖谷」上热搜｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372073</link>
-      <guid isPermaLink="false">eb5ec49c8607</guid>
-      <pubDate>Sun, 04 Oct 2026 00:33:38 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>苹果确认：美版 iPhone 18 Pro Max 有问题 北京时间 10 月 3 日，彭博社报道称，苹果公司表示，AT&amp;T 的问题已导致部分 iPhone 18 Pro Max 用户无法拨打电话、访问数据或在联网时收发短信。目前尚不清楚有多少人遇到此问题。受影响的用户发现，除非连接到 Wi-Fi 网络，否则他们的设备基本无法使用。 苹果公司已发布运营商设置…
+      <description>马斯克拟将 SpaceXAI 更名为 SpaceXSI 为「超级智能」概念背书 美国总统特朗普推动以「超级智能」（Super Intelligence，简称 SI）取代「人工智能」（AI）的举措正在迅速影响科技行业。特斯拉和 SpaceX 首席执行官埃隆·马斯克日前表示，旗下人工智能业务品牌 SpaceXAI 有意更名为 SpaceXSI，并公开宣称「Spa…
 
 来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Federal judge calls Flock &apos;indiscriminate mass surveillance&apos;</title>
-      <link>https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/</link>
-      <guid isPermaLink="false">04fbeb347ddf</guid>
-      <pubDate>Sat, 03 Oct 2026 22:07:13 GMT</pubDate>
+      <title>Turn off Apple Intelligence on macOS 27 and get its disk space back</title>
+      <link>https://github.com/omlahore/RemoveMacAI</link>
+      <guid isPermaLink="false">d4a71b34369c</guid>
+      <pubDate>Sun, 04 Oct 2026 19:42:25 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/ Comments URL: https://news.ycombinator.com/item?id=49948254 Points: 298 #…
+      <description>Article URL: https://github.com/omlahore/RemoveMacAI Comments URL: https://news.ycombinator.com/item?id=49957116 Points: 336 # Comments: 211
 
 来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>[AINews] not much happened today</title>
-      <link>https://www.latent.space/p/ainews-not-much-happened-today-cee</link>
-      <guid isPermaLink="false">2815e6fd635d</guid>
-      <pubDate>Sat, 03 Oct 2026 08:45:15 GMT</pubDate>
+      <title>Improper redaction reveals Google Data Center water and electricity usage</title>
+      <link>https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/</link>
+      <guid isPermaLink="false">187c37cddef0</guid>
+      <pubDate>Sun, 04 Oct 2026 19:37:05 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>If you’re even seeing this, you should probably just go enjoy your weekend. AI News for 10/1/2026-10/2/2026. We checked 12 subreddits, 544 Twitters and no further Discords. AINews’…
+      <description>Article URL: https://www.1011now.com/2026/09/30/more-questions-than-answers-about-lincolns-google-data-center-water-electricity-usage/ Comments URL: https://news.ycombinator.com/it…
 
-来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
       <title>The best early October Prime Day deals happening now</title>
       <link>https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october</link>
       <guid isPermaLink="false">4518e5be364f</guid>
-      <pubDate>Sat, 03 Oct 2026 16:22:40 GMT</pubDate>
+      <pubDate>Sun, 04 Oct 2026 17:18:00 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
       <description>It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up Oct…
 
 来源：The Verge · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>“生不养老索养”之四：被愤怒了3.1亿次的“父母”，查无此人</title>
-      <link>https://www.huxiu.com/article/4895310.html?f=rss</link>
-      <guid isPermaLink="false">365ab683e244</guid>
-      <pubDate>Sun, 04 Oct 2026 01:50:21 GMT</pubDate>
+      <title>Yemen launches Saudi-backed counterattack against Houthis</title>
+      <link>https://www.semafor.com/article/10/04/2026/yemen-launches-saudi-backed-counterattack-against-houthis</link>
+      <guid isPermaLink="false">1e4b2bbb9dd3</guid>
+      <pubDate>Sun, 04 Oct 2026 22:41:06 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Yemen’s Saudi-backed government forces launched a major military campaign Sunday to beat back Iran-aligned Houthi rebels, adding fresh risks to oil markets as Iran reiterated that …
+
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>U.S. B-1 bombers evacuated from UK base after attack threats from Iran</title>
+      <link>https://www.axios.com/2026/10/04/us-b-1-bombers-evacuated-from-uk-base-after-attack-threats-from-iran</link>
+      <guid isPermaLink="false">d5d802bf0d49</guid>
+      <pubDate>Sun, 04 Oct 2026 22:37:00 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 从正义路到经纬路 ，作者：法律科技人 2022年9月，一条热搜引爆全网： #姐姐拒绝给弟弟买房被父母告上法庭# 阅读量：3.1亿。讨论量：2.2万。 故事是这样的：29岁的张女士，2岁起被送到姑姑家，由姑姑养大。如今亲生父母找上门，要她出50万“赡养费”——实际是给弟弟买房。她拒绝后，被父母告上法庭。 网友炸了，给这个故事起了个名字：“…
+      <description>The U.S. military evacuated a dozen B-1 bombers from the RAF Fairford airbase in the UK over the weekend, the Pentagon said. Why it matters: A U.S. official said the base was under…
+
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>谁在制造让中产上瘾的纸片？</title>
+      <link>https://www.huxiu.com/article/4895201.html?f=rss</link>
+      <guid isPermaLink="false">fbeaf3df18e6</guid>
+      <pubDate>Mon, 05 Oct 2026 01:01:32 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>出品 | 虎嗅青年文化组 作者 | 渣渣郡 本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 “这个市场正在快速发展，但如果一些事情现在不做，它可能会滑向一个危险的境地。” 说出这句话的，是Fanatics Collectibles亚太区总裁王莹，她口中的市场，指的是中国高速发展的球星卡…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>存储芯片短缺，PC、手机厂商转向“少出货、卖更贵”</title>
-      <link>https://www.huxiu.com/article/4895308.html?f=rss</link>
-      <guid isPermaLink="false">832bed9584d4</guid>
-      <pubDate>Sun, 04 Oct 2026 01:10:41 GMT</pubDate>
+      <title>注射两次都没死，美国的死刑怎么了？</title>
+      <link>https://www.huxiu.com/article/4895402.html?f=rss</link>
+      <guid isPermaLink="false">267869f58e44</guid>
+      <pubDate>Mon, 05 Oct 2026 00:57:14 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 芯世相 ，作者：小久保重信 随着AI数据中心快速扩张，半导体存储器供应持续紧张，消费电子市场的结构正在发生明显变化。 截至9月上旬，欧美媒体报道以及多家市场研究机构发布的报告显示，电子产品厂商正被迫调整经营策略，从过去追求出货规模，逐渐转向“减少出货量、提高平均售价”。 过去几十年，电子产业长期遵循着一条基本规律：产品性能不断提升，同时…
+      <description>本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 9月30日，美国田纳西州对死囚Christa Gail Pike执行注射死刑，但在连续注射两针致死剂量的戊巴比妥后，Pike依然活着，直接在执行室里打起了呼噜。 为什么执行死刑能捅出那么大的篓子？ 这绝非Pike的生命力太强，而是美国执行死刑时长期困境的一个缩影。 美国的联邦政府与27个州有死…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>李飞飞不等了</title>
-      <link>https://www.tmtpost.com/8158797.html</link>
-      <guid isPermaLink="false">8cd35264facc</guid>
-      <pubDate>Sun, 04 Oct 2026 00:38:00 GMT</pubDate>
+      <title>从多品牌到单品牌，安克创新为何最终“归一”？</title>
+      <link>https://www.huxiu.com/article/4895401.html?f=rss</link>
+      <guid isPermaLink="false">b3b02b1815ca</guid>
+      <pubDate>Mon, 05 Oct 2026 00:36:38 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>（本文作者为 硅谷Tech news，钛媒体经授权发布） 大语言模型的红利期进入后半段，物理世界成了巨头们共同看中的下一个方向。资本入场比概念更早，仅今年一季度，全球物理AI领域的融资就超过64亿美元，资金明显向世界模型和基础模型集中。 让AI在&amp;ldquo;脑子里&amp;rdquo;预演物理世界、再到现实里执行，被视作通向 机器人 、自动驾驶和下一代计算的必经之…
+      <description>本文来自微信公众号： 洞见学堂 ，作者：孙德馨 导读 2026年9月，安克创新在IFA展前发布会上宣布将旗下Anker、Anker SOLIX、eufy、eufyMake、soundcore五大品牌统一归至“Anker”单一品牌之下。这意味着，过去十多年安克建立起来的多品牌架构，将发生根本性的变化。那么，安克创新为何要放弃推动自身从充电配件厂成长为营收超30…
 
-来源：钛媒体 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Edge AI Daily 早报（10月4日）</title>
-      <link>https://www.tmtpost.com/8158829.html</link>
-      <guid isPermaLink="false">b38b5f38229b</guid>
-      <pubDate>Sat, 03 Oct 2026 23:50:31 GMT</pubDate>
+      <title>邱兵/持续三十年的百岁老人研究完全报告</title>
+      <link>https://www.huxiu.com/article/4895400.html?f=rss</link>
+      <guid isPermaLink="false">b474f5a1ad9e</guid>
+      <pubDate>Mon, 05 Oct 2026 00:34:04 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>（本文作者为 Edge AI Daily，钛媒体经授权发布） 硅谷前沿： 一、40363篇压垮arXiv：AI论文暴涨6倍，人工审核崩了 1.arXiv于2026年9月单月收到40363篇投稿，创35年历史新高，较2024年同期翻倍，其中cs.AI类别两年暴涨超6倍；审核被拒率从长期约4%升至约10%至12%，积压工单近9000个&amp;mdash;&amp;mdash;…
+      <description>本文来自微信公众号： 邱兵 ，作者：邱兵 托马斯·珀尔斯去探望一位102岁的老太太，经常扑空。 她叫Celia，住在一个供老人独立生活的社区。珀尔斯当时在哈佛接受老年医学训练，他原以为Celia出门看医生去了。后来才知道，她在外面参加钢琴演出，弹的还是复杂的肖邦作品。 2022年，珀尔斯在波士顿大学的一次访谈中讲起这段往事。在他此前的医学认知中，年龄最大的患…
 
-来源：钛媒体 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>🔮 Quick weekend reads: the big AI questions</title>
-      <link>https://www.exponentialview.co/p/quick-weekend-reads-the-big-ai-questions</link>
-      <guid isPermaLink="false">2e70360f5984</guid>
-      <pubDate>Sat, 03 Oct 2026 12:54:07 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>AI is really forcing some big questions into the open. Here are some weekend reads on them. The biggest idea The Economist address the effective altruism (EA) belief system, which …
-
-来源：Exponential View · 商业模式与行业深度 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Reading List 2026-10-03</title>
-      <link>https://www.construction-physics.com/p/reading-list-2026-10-03</link>
-      <guid isPermaLink="false">e6bc1dbfcc32</guid>
-      <pubDate>Sat, 03 Oct 2026 13:14:44 GMT</pubDate>
+      <title>Does Costco Cause Cancer?</title>
+      <link>https://marginalrevolution.com/marginalrevolution/2026/10/does-costco-cause-cancer.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=does-costco-cause-cancer</link>
+      <guid isPermaLink="false">4ea88b1e677a</guid>
+      <pubDate>Sun, 04 Oct 2026 11:18:58 GMT</pubDate>
       <category>深度长文与思考</category>
-      <description>Annunciation with Saint Emidius, by Carlo Crivelli, via WikiArt . Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure and industria…
-
-来源：Construction Physics · 深度长文与思考 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>The second Trump presidency is a world-historic failure</title>
-      <link>https://www.noahpinion.blog/p/the-second-trump-presidency-is-a</link>
-      <guid isPermaLink="false">27a0c283a897</guid>
-      <pubDate>Sat, 03 Oct 2026 08:47:17 GMT</pubDate>
-      <category>深度长文与思考</category>
-      <description>Photo by The White House via Wikimedia Commons There’s a large market for “Trump is bad” posts. I wrote one of them back in May: It’s easy to tune these posts out, for at least two…
-
-来源：Noahpinion · 深度长文与思考 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Words to live by?</title>
-      <link>https://marginalrevolution.com/marginalrevolution/2026/10/words-to-live-by-2.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=words-to-live-by-2</link>
-      <guid isPermaLink="false">64468590c3a9</guid>
-      <pubDate>Sat, 03 Oct 2026 07:15:58 GMT</pubDate>
-      <category>深度长文与思考</category>
-      <description>In the past year American markets have digested the largest-ever initial public offering (SpaceX), equity raise by a public company (Google) or a foreign firm (SK Hynix), private-f…
+      <description>In December 2025, researchers led by Yazan Alwadi at Harvard’s T.H. Chan School of Public Health published a paper in Environmental Health that claimed to find that cancer incidenc…
 
 来源：Marginal Revolution · 深度长文与思考 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Ted Cruz blasts JD Vance as ‘insecure,’ says he’s focused on helping GOP win midterms</title>
-      <link>https://www.politico.com/news/2026/10/03/ted-cruz-blasts-jd-vance-as-insecure-says-hes-focused-on-helping-gop-win-midterms-01106033</link>
-      <guid isPermaLink="false">e76e57a95e77</guid>
-      <pubDate>Sat, 03 Oct 2026 20:15:41 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Sen. Ted Cruz fired back at JD Vance for suggesting he&apos;s already focused on a 2028 presidential bid, calling the vice president &quot;insecure&quot; while insisting he&apos;s focused on the 2026 …
+      <title>Sunday assorted links</title>
+      <link>https://marginalrevolution.com/marginalrevolution/2026/10/sunday-assorted-links-585.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=sunday-assorted-links-585</link>
+      <guid isPermaLink="false">6cfc12ae17d4</guid>
+      <pubDate>Sun, 04 Oct 2026 17:43:19 GMT</pubDate>
+      <category>深度长文与思考</category>
+      <description>1. New London play about Keynes . 2. Aphantasia, and looking at buildings . 3. AI and job growth in Africa . 4. On Nussbaum, opera, and liberalism . 5. Congress seeks to speed up e…
 
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
+来源：Marginal Revolution · 深度长文与思考 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Republicans don’t have a clear boogeyman for this year’s midterms</title>
-      <link>https://www.politico.com/news/2026/10/03/gop-midterm-boogeyman-biden-democratic-socialism-01105904</link>
-      <guid isPermaLink="false">5e685ee154d7</guid>
-      <pubDate>Sat, 03 Oct 2026 20:00:00 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Republicans have tried to find a new boogeyman this year as they rail against Democratic socialism and the “radical” left: Zohran Mamdani. Alexandria Ocasio-Cortez. Bernie Sanders.…
+      <title>Do the elderly prefer robotic care?</title>
+      <link>https://marginalrevolution.com/marginalrevolution/2026/10/do-the-elderly-prefer-robotic-care.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=do-the-elderly-prefer-robotic-care</link>
+      <guid isPermaLink="false">41d82e0db06a</guid>
+      <pubDate>Sun, 04 Oct 2026 05:17:41 GMT</pubDate>
+      <category>深度长文与思考</category>
+      <description>The Japanese elderly, to be clear: Population aging and shortages of long-term care workers have increased interest in care-giving robots and information and communication technolo…
 
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
+来源：Marginal Revolution · 深度长文与思考 · 约 1 分钟</description>
     </item>
     <item>
-      <title>New Archestra&apos;s OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate</title>
-      <link>https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
-      <guid isPermaLink="false">c9ca758c666b</guid>
-      <pubDate>Sat, 03 Oct 2026 23:41:00 GMT</pubDate>
+      <title>Agents have made CI the bottleneck. Faster pipelines are the wrong fix.</title>
+      <link>https://thenewstack.io/ci-bottleneck-agent-verification/</link>
+      <guid isPermaLink="false">58657c4166ef</guid>
+      <pubDate>Sun, 04 Oct 2026 15:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Archestra released OpenAPPA, an open-source security engine designed to stop data exfiltration caused by prompt injection or model hallucination. The team reports zero successful a…
-
-来源：InfoQ · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>AI is speeding up exploits. Vulnerability spreadsheets can’t keep up.</title>
-      <link>https://thenewstack.io/cve-vulnerability-risk-management/</link>
-      <guid isPermaLink="false">746d20784785</guid>
-      <pubDate>Sat, 03 Oct 2026 14:00:00 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Artificial intelligence has changed almost every aspect of software development and cybersecurity. But perhaps one of the most profound changes is happening in an area that has tra…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Anthropic’s answer to Dots and Muse is already inside Claude</title>
-      <link>https://thenewstack.io/claude-answer-to-dots-muse/</link>
-      <guid isPermaLink="false">872aa05b2b01</guid>
-      <pubDate>Sat, 03 Oct 2026 10:11:00 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, explaining what they mean for people and organizations putti…
+      <description>Three posts landed in September that I think engineering leaders should read together. Anthropic’s engineering team wrote that their continuous integration (CI) job volume grew 25x…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Google&apos;s Android Security State Libraries Enable Component-Level Security Verification</title>
+      <link>https://www.infoq.com/news/2026/10/android-security-state-libs/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <guid isPermaLink="false">d56ee1435ce5</guid>
+      <pubDate>Sun, 04 Oct 2026 17:00:00 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Google&apos;s AndroidX Security State libraries enables apps to verify security patch status at the individual component level, rather than relying on a single, device-wide security pat…
+
+来源：InfoQ · 开源与开发者生态 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
