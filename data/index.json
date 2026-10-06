@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-05T01:12:09.354Z",
+  "updatedAt": "2026-10-06T02:27:49.458Z",
   "days": [
+    {
+      "date": "2026-10-06",
+      "itemCount": 35,
+      "topPickTitles": [
+        "欧洲财政压力正成为美债抛售的新导火索",
+        "红海局势升温，胡塞武装发动大规模导弹无人机袭击，利雅得机场及阿美炼油厂遭到打击",
+        "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-10-05",
       "itemCount": 24,

@@ -1,0 +1,1085 @@
+{
+  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T02:27:49.424Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、学术前沿速递、地缘政治与政策监管等 11 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "1983097a5deb",
+        "reason": "Google Research，规则排序分数最高"
+      },
+      {
+        "itemId": "61f5470cd1e0",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "f26227d67c02",
+        "reason": "华尔街见闻，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "61f5470cd1e0",
+          "title": "欧洲财政压力正成为美债抛售的新导火索",
+          "titleZh": "欧洲财政压力正成为美债抛售的新导火索",
+          "url": "https://wallstreetcn.com/articles/3783047",
+          "summary": "法国债务危机与西班牙政治动荡叠加美国自身结构性赤字问题，正推动全球债券市场进入新一轮动荡周期。 美国10年期国债收益率周一盘中一度攀升至5.349%，创24年来新高，30年期收益率亦触及5.703%。与此同时，法国10年期国债收益率升至2002年以来最高水平，与德国国债的利差扩大至欧债危机以来最宽。欧元兑美元今年已累计下跌约5%，并连续四周走低。 分析人士指…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T02:06:06.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f26227d67c02",
+          "title": "红海局势升温，胡塞武装发动大规模导弹无人机袭击，利雅得机场及阿美炼油厂遭到打击",
+          "titleZh": "红海局势升温，胡塞武装发动大规模导弹无人机袭击，利雅得机场及阿美炼油厂遭到打击",
+          "url": "https://wallstreetcn.com/articles/3783045",
+          "summary": "也门胡塞武装与沙特支持的也门政府军之间的冲突骤然升级，红海能源通道安全面临自2022年停火以来最严峻的威胁。胡塞武装对沙特本土发动大规模多轮打击，沙特阿美炼油设施首当其冲，国际油价承压上行。 据央视新闻报道，也门胡塞武装军事发言人叶海亚·萨雷亚当地时间4日发表声明，宣布该组织向沙特阿美公司位于利雅得和胡赖斯地区的两处设施发动了导弹和无人机袭击。 据央视新闻进…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T01:28:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "80339c617c95",
+          "title": "台积电抢英特尔市场、磋商与马斯克Terafab合作，股价创历史新高",
+          "titleZh": "台积电抢英特尔市场、磋商与马斯克Terafab合作，股价创历史新高",
+          "url": "https://wallstreetcn.com/articles/3783037",
+          "summary": "台积电与马斯克旗下Terafab超级晶圆厂的潜在合作正成为半导体行业最受瞩目的交易。业内人士估计双方合作概率超过八成，市场已率先作出反应。 周一，台积电美股（TSM）盘中触及487.44美元的历史高点，收盘涨约2.8%，报485.80美元、也收创历史新高，市值史上首次触及约2.5万亿美元，今年内累计涨幅超过60%。 本次台积电股价走高的推手来自马斯克本人。他…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T00:16:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e240859e5d8",
+          "title": "创纪录AI芯片融资启动分销：420亿高级债靠博通信用背书，180亿次级债要等Anthropic IPO",
+          "titleZh": "创纪录AI芯片融资启动分销：420亿高级债靠博通信用背书，180亿次级债要等Anthropic IPO",
+          "url": "https://wallstreetcn.com/articles/3783041",
+          "summary": "一笔600亿美元的AI芯片融资据称进入银团分销环节，美国银行、花旗和摩根士丹利开始向其他银行转手部分债务。这是迄今规模最大的芯片融资交易，也标志着银行从\"承诺出资\"转向\"分销风险\"的关键一步。 美东时间10月5日周一，媒体援引知情人士消息称，约420亿美元由博通担保的高级担保贷款已率先启动银团分销，凭借博通A-级信用评级，未来可进入私募配售或投资级债券市场；…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T00:15:48.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d31102b6cf17",
+          "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
+          "titleZh": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
+          "url": "https://wallstreetcn.com/articles/3783043",
+          "summary": "30年期美债收益率逼近6%，可能触发国债期货\"最便宜可交割券\"（CTD）切换，迫使资产管理机构卖出期货，进一步加剧长端收益率上行。 周一，30年期美债收益率升至5.70%，为2002年以来最高。据彭博分析，若该收益率升至6%附近，长期国债期货的CTD可能由当前的2045年到期国债切换至2050年到期国债。 持仓数据显示，资产管理机构近几周已在削减长期和超长期…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T01:45:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e63d4db05545",
+          "title": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+          "titleZh": "Federal Reserve Board announces approval of application by Isabella Bank Corporation",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261005a.htm",
+          "summary": "October 05, 2026 Federal Reserve Board announces approval of application by Isabella Bank Corporation For release at 4:30 p.m. EDT The Federal Reserve Board on Monday announced its…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-10-05T20:30:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "1983097a5deb",
+          "title": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+          "titleZh": "Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle",
+          "url": "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle/",
+          "summary": "We're rapidly transitioning to a computing landscape defined by highly general, increasingly autonomous agents . Driven by large language models (LLMs) that can dynamically generat…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-05T21:08:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fced1cdc0d3c",
+          "title": "Quoting Felix Rieseberg",
+          "titleZh": "Quoting Felix Rieseberg",
+          "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg/",
+          "summary": "The \"old\" version of Cowork runs model inference in the cloud, executing tool calls in an Anthropic-provided VM we shipped to your computer. We added the VM for capability, safety,…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-05T23:56:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "342e3d651ae8",
+          "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "titleZh": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+          "url": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+          "summary": "The adoption of AI agents in millions of organizations is creating new opportunities for attackers to make them take malicious actions, such as exfiltrating database contents and s…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-05T22:26:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b3c5abfe9921",
+          "title": "Controlling the brain with light earns a physiology Nobel",
+          "titleZh": "Controlling the brain with light earns a physiology Nobel",
+          "url": "https://arstechnica.com/science/2026/10/controlling-the-brain-with-light-earns-a-physiology-nobel/",
+          "summary": "Over decades of research, scientists have built up a partial picture of what specialized cells within the brain and spinal cord do. By studying how the brain develops, they could i…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-05T17:59:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8405348c3fb8",
+          "title": "Connecting AI agents to enterprise knowledge",
+          "titleZh": "Connecting AI agents to enterprise knowledge",
+          "url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+          "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the …",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-05T15:47:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d65bd3d20c8c",
+          "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+          "titleZh": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+          "url": "https://arstechnica.com/tech-policy/2026/10/cable-lobby-to-sue-trump-fcc-over-repeal-of-national-tv-ownership-cap/",
+          "summary": "Cable lobby groups notified the Federal Communications Commission that they will sue the agency to block its controversial repeal of the National Television Ownership Rule, which l…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-05T20:47:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ab8a11eb1bb9",
+          "title": "Texas city demands $2M for public records on Flock usage",
+          "titleZh": "Texas city demands $2M for public records on Flock usage",
+          "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+          "summary": "As bipartisan backlash against Flock grows , some cities are asking anti-surveillance advocates and media outlets to pay eye-popping fees—including charging tens of thousands or ev…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-05T20:31:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4aa9f04aec7b",
+          "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+          "titleZh": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+          "url": "https://arstechnica.com/apple/2026/10/command-line-tool-quickly-removes-apple-intelligence-from-macos-27/",
+          "summary": "A new tool is allowing Mac users the ability again to easily turn off Apple Intelligence with one click and free up to 12GB of storage. Unlike with previous versions of macOS, macO…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-05T19:14:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "3a015b5dacdf",
+          "title": "门票之外，景区还在靠什么赚钱？",
+          "titleZh": "门票之外，景区还在靠什么赚钱？",
+          "url": "https://www.huxiu.com/article/4895500.html?f=rss",
+          "summary": "本文来自微信公众号： 镜相工作室 ，编辑：周近屿，作者：镜相作者 国庆假期，你走进一家景区，掏钱的时刻可能比想象中多。 先买一张门票进入景区，如果景点在山上，还要再买一张摆渡车票或者索道票。走累了，找一家餐厅吃饭，下午参加一个非遗手作体验，和NPC互动、打卡，晚上再看一场演出。如果景区够大，可能还会住上一晚，第二天继续逛。 对游客来说，这是一趟越来越丰富的旅…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T02:20:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ae2b7b5bb11",
+          "title": "春熙路变迁，中国餐饮进入耐心时代",
+          "titleZh": "春熙路变迁，中国餐饮进入耐心时代",
+          "url": "https://www.huxiu.com/article/4895499.html?f=rss",
+          "summary": "本文来自微信公众号： 餐企老板内参 ，作者：内参君 缩影：餐饮行业告别流量造星 成都春熙路，是国内餐饮转型最具代表性的样本。 它曾是小龙坎、大龙燚、谭鸭血等品牌的造星舞台。黄金时期，创业者重金打造旗舰店，靠营销造势制造排队热度，吸引加盟商，再借加盟杠杆铺向全国。 春熙路曾是无数餐饮人心中的“造星工厂”，也是中国餐饮黄金年代最集中的缩影。只是餐饮形势瞬息万变，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T02:13:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41e58e2f82f3",
+          "title": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
+          "titleZh": "聊聊A16Z这两份AI报告，以及一些反常识的真相。",
+          "url": "https://www.huxiu.com/article/4895498.html?f=rss",
+          "summary": "本文来自微信公众号： 数字生命卡兹克 ，作者：数字生命卡兹克 这个国庆，在家里没咋出门，早上盘了盘，5天烧了将近140亿的token，感觉爽飞了。 每天就是，一边打游戏一边让Agent干活，一边看电影一边让Agent干活，一边学习一边让Agent干活。 结果，《火焰纹章万紫千红》的进度没打多少，工作的东西倒是干了一大堆。。。 然后昨天看了两个来自A16Z的最…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T02:09:13.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8f2571a57e43",
+          "title": "火箭发动机的“技术鄙视链”",
+          "titleZh": "火箭发动机的“技术鄙视链”",
+          "url": "https://www.huxiu.com/article/4895496.html?f=rss",
+          "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 最近，中国商业火箭发动机圈里，一个词出现得越来越频繁：全流量补燃。 蓝箭的“蓝焱”、星梭的“猛犸一号”、天兵规划中的天火21，再加上火圣宇航、微光启航等项目，越来越多团队把下一代液体动力押向这条路线。它也是SpaceX猛禽发动机采用的循环方式。 这很容易制造一种直觉：都做到全流量补燃了，发动机当然更先进。 商业火…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T01:59:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "72fa624df32c",
+          "title": "为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？",
+          "titleZh": "为什么顶尖的AI研究员，开始纷纷叛逃自己所在的公司？",
+          "url": "https://www.huxiu.com/article/4895480.html?f=rss",
+          "summary": "本文来自微信公众号： 不懂经 ，作者：经叔，题图来自：视觉中国 “第一步，我不想参与。第二步，辞职。第三步，大概告诉大家。第四步，我完全不知道。” 最近一段时间，顶尖AI研究员离职的消息可谓层出不穷，到底是怎么回事？上面是其中一个人的想法。 两个月前，我写过一篇文章，讲AI行业里最懂行的人为什么纷纷离职。标题借了Anthropic联合创始人杰克·克拉克的一条…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T01:42:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4ac20c208e0c",
+          "title": "What the AI boom is doing for Americans",
+          "titleZh": "What the AI boom is doing for Americans",
+          "url": "https://www.noahpinion.blog/p/what-the-ai-boom-is-doing-for-americans",
+          "summary": "Paul Krugman is the greatest econ writer in the world, and also a legendary economist. But I sometimes feel that he has a blind spot when it comes to the value of new technologies.…",
+          "whyItMatters": "",
+          "sourceName": "Noahpinion",
+          "publishedAt": "2026-10-05T08:12:53.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c0dc00b96d23",
+          "title": "Open Thread 454",
+          "titleZh": "Open Thread 454",
+          "url": "https://www.astralcodexten.com/p/open-thread-454",
+          "summary": "This is the weekly visible open thread. Post about anything you want, ask random questions, whatever. ACX has an unofficial subreddit , Discord , and bulletin board , and in-person…",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-10-05T11:09:46.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c618ba401c1",
+          "title": "The Greg Clark Symposium",
+          "titleZh": "The Greg Clark Symposium",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-greg-clark-symposium.html?utm_source=rss&utm_medium=rss&utm_campaign=the-greg-clark-symposium",
+          "summary": "Earlier I wrote “Greg Clark may well be the most important social scientist of the 21st century.” Thus, the symposium in Econ Journal Watch on Clark’s new but perhaps not forthcomi…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-05T11:21:04.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "7cef021c7ac6",
+          "title": "ZEISS Group Appoints Axel Christian as President of ZEISS North America",
+          "titleZh": "ZEISS Group Appoints Axel Christian as President of ZEISS North America",
+          "url": "https://www.semiconductor-digest.com/zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=zeiss-group-appoints-axel-christian-as-president-of-zeiss-north-america",
+          "summary": "ZEISS appointed Axel Christian as President of ZEISS North America, effective October 1, 2026. The organization and newly created role formally unite the company’s activities acros…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-05T19:25:01.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "81ac39f50b76",
+          "title": "Infineon Completes Acquisition of C2i Semiconductors",
+          "titleZh": "Infineon Completes Acquisition of C2i Semiconductors",
+          "url": "https://www.semiconductor-digest.com/infineon-completes-acquisition-of-c2i-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-completes-acquisition-of-c2i-semiconductors",
+          "summary": "Infineon Technologies AG (FSE: IFX / OTCQX: IFNNY) today announced the completion of its acquisition of C2i Semiconductors, a Bengaluru-based technology company specializing in sof…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-05T19:22:44.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7696f8bed83d",
+          "title": "Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices",
+          "titleZh": "Magnachip Expands Gen6 Super-Junction MOSFET Line with 15 Devices",
+          "url": "https://www.semiconductor-digest.com/magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices/?utm_source=rss&utm_medium=rss&utm_campaign=magnachip-expands-gen6-super-junction-mosfet-line-with-15-devices",
+          "summary": "Magnachip Semiconductor Corporation today announced the expansion of its power semiconductor portfolio with 15 new sixth-generation (Gen6) E6 super-junction (SJ) MOSFETs for consum…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-05T19:18:51.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0a1a88dd6768",
+          "title": "JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis",
+          "titleZh": "JEOL Launches Low-Angle Ion-Milling SEM for Advanced-Chip Failure Analysis",
+          "url": "https://www.semiconductor-digest.com/jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis/?utm_source=rss&utm_medium=rss&utm_campaign=jeol-launches-low-angle-ion-milling-sem-for-advanced-chip-failure-analysis",
+          "summary": "JEOL Ltd. (President & CEO Izumi Oi) announces the development of its new low‑angle ion‑milling scanning electron microscope, HAXIS, and will commence sales on October 5, 2026. Bac…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-05T19:16:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "4f736522af16",
+          "title": "Beijing’s policy advisers map out how post-reunification Taiwan could be governed",
+          "titleZh": "Beijing’s policy advisers map out how post-reunification Taiwan could be governed",
+          "url": "https://www.scmp.com/news/china/politics/article/3369782/beijings-policy-advisers-map-out-how-post-reunification-taiwan-could-be-governed?utm_source=rss_feed",
+          "summary": "In 2019, President Xi Jinping became the first Chinese leader to publicly call for the exploration of detailed proposals for governing Taiwan after reunification. Seven years later…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-06T01:30:05.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7a6300dac795",
+          "title": "Hong Kong’s bridge of gold completes China’s yuan ambition",
+          "titleZh": "Hong Kong’s bridge of gold completes China’s yuan ambition",
+          "url": "https://www.scmp.com/opinion/hong-kong-opinion/article/3369468/hong-kongs-bridge-gold-completes-chinas-yuan-ambition?utm_source=rss_feed",
+          "summary": "Beijing’s push to accumulate gold serves a larger goal: yuan internationalisation. In this series, Part I traces China’s path to becoming a gold superpower, while this article expl…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-06T01:00:05.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "73fe2d06e3b8",
+          "title": "AI safety groups aren’t buying OpenAI’s spending retreat",
+          "titleZh": "AI safety groups aren’t buying OpenAI’s spending retreat",
+          "url": "https://www.politico.com/news/2026/10/05/ai-groups-altman-midterms-political-spending-01108138",
+          "summary": "AI safety groups aren't buying OpenAI CEO Sam Altman’s shifting stance on political spending in the midterms. They’re wary of his concession that campaign cash from industry-aligne…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-06T00:30:22.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "d2e2493cacdc",
+          "title": "FDA Seeks Public Input to Support Ibogaine Research",
+          "titleZh": "FDA Seeks Public Input to Support Ibogaine Research",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
+          "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials …",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-05T13:02:06.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41cbd2858b68",
+          "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t",
+          "titleZh": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn’t",
+          "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+          "summary": "New analysis refutes James Watson’s claim he was first to recognize significance of famed photograph 51",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-05T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8f413336b2ca",
+          "title": "One MCP server used 18,000 tokens before doing anything. Here’s the workaround.",
+          "titleZh": "One MCP server used 18,000 tokens before doing anything. Here’s the workaround.",
+          "url": "https://thenewstack.io/pi-agent-mcp-codemode/",
+          "summary": "Pi spent much of the past year leaving MCP out of its coding agent , even as the protocol became standard across developer tools. Its creator, Mario Zechner , had a concrete reason…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-05T21:55:12.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c2890a3951a6",
+          "title": "Developers are secretly hoping OpenAI fails to ship this month",
+          "titleZh": "Developers are secretly hoping OpenAI fails to ship this month",
+          "url": "https://thenewstack.io/openai-codex-shipping-sprint/",
+          "summary": "OpenAI’s 28-day Codex shipping sprint has its first result , which means subscribers hoping for a free usage reset will have to wait at least another day. Thibault Sottiaux, engine…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-05T21:49:57.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0d2e8e40fa2c",
+          "title": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+          "titleZh": "OpenAI brings text watermarking to its API — and unlike Anthropic, it’s off by default",
+          "url": "https://thenewstack.io/openai-api-text-watermarking/",
+          "summary": "OpenAI has announced that developers can now opt in to watermarking text generated through its API, as the company extends its existing content provenance efforts to one of the mor…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-05T19:29:15.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b93420dfd8a6",
+          "title": "Dynatrace’s $915M Arize deal bets AI agents are just another app to monitor",
+          "titleZh": "Dynatrace’s $915M Arize deal bets AI agents are just another app to monitor",
+          "url": "https://thenewstack.io/dynatrace-arize-ai-observability/",
+          "summary": "Dynatrace closed its $915 million acquisition of Arize on October 1 , joining Arize’s tracing and evaluation of AI agents to its own monitoring of the applications and infrastructu…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-05T19:06:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "1983097a5deb",
+    "61f5470cd1e0",
+    "f26227d67c02"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 35,
+    "itemsFiltered": 3,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 66,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
