@@ -1,0 +1,923 @@
+{
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T01:46:22.896Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 33 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度、深度长文与思考等 9 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "9a36de4ab7bf",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "33f30856bc73",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "cfa0b2aff3e4",
+        "reason": "华尔街见闻，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "cfa0b2aff3e4",
+          "title": "美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅",
+          "titleZh": "美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅",
+          "url": "https://wallstreetcn.com/articles/3783095",
+          "summary": "甲骨文旗下数据中心建设危机持续蔓延。继新墨西哥州Jupiter项目宣布不可抗力后，位于威斯康星州的1.3GW超大型数据中心\"Project Lighthouse\"再度告急——不是因为选址或资金，而是因为电接不上来。 根据数据中心研究机构Aterio发布的最新报告，Lighthouse项目的输电审批流程已被威斯康星州公共服务委员会（PSC）打回重来，法定审查时…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T01:44:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7faad48fbfa",
+          "title": "法国提出各类“削减赤字”方案，欧美国债抛售潮暂歇",
+          "titleZh": "法国提出各类“削减赤字”方案，欧美国债抛售潮暂歇",
+          "url": "https://wallstreetcn.com/articles/3783094",
+          "summary": "法国近期密集提出削减赤字方案，试图扭转不断恶化的财政状况，法国债市压力随之暂时缓解。法国10年期国债收益率周二下行约12个基点至4.75%附近，与德国同期国债的利差也有所收窄。 法国政府计划通过削减支出、控制养老金开支等措施，将明年赤字率控制在GDP的5%以内；勒庞领导的国民联盟则提出“影子预算”，计划削减逾1400亿欧元支出，将明年赤字率降至3.7%，并在…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T01:23:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "708272727b7c",
+          "title": "再借400亿美元，SpaceX要买英伟达芯片",
+          "titleZh": "再借400亿美元，SpaceX要买英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3783093",
+          "summary": "继6月完成250亿美元投资级债券发行后，SpaceX又计划筹集400亿美元，为大规模采购英伟达芯片提供资金，进一步押注AI基础设施建设。 据英国《金融时报》近日报道援引知情人士，SpaceX计划通过约100亿美元银行贷款和300亿美元投资级债券筹集资金，以支付这笔巨额芯片订单。Apollo预计将主导交易，并向广泛的机构投资者分销债务；债券巨头Pimco也在参…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T00:56:37.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f4b5effddbfd",
+          "title": "标普500创出新高，但几乎只有AI交易在涨",
+          "titleZh": "标普500创出新高，但几乎只有AI交易在涨",
+          "url": "https://wallstreetcn.com/articles/3783091",
+          "summary": "标普500指数周二触及新高，但这场反弹的驱动力极为集中：少数押注人工智能的科技巨头几乎独力撑起整个市场，而医疗、银行、消费等其他板块正在下跌。市场广度的持续收窄，正在引发投资者对这轮涨势能否持续的疑虑。 周二，标普500指数收盘创历史新高，为自8月13日以来首次刷新纪录。纳斯达克综合指数同步创下连续第二个交易日收盘新高。\"科技七雄\"（Magnificent …",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-07T00:53:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "520d02229a7a",
+          "title": "债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V",
+          "titleZh": "债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V",
+          "url": "https://wallstreetcn.com/articles/3783046",
+          "summary": "法国总统选举热门人选勒庞公布了一份\"影子预算\"，法国国债与德国国债的利差随之明显收窄，连续数周的全球长债抛售暂时停手。国际油价在同一时间从高位跳水，收益率与油价一起回落，为风险资产腾出空间。 标普500指数收盘上涨0.6%，创下8月以来首个历史高点，纳指同步创纪录，人工智能相关股票领涨。 法国主要总统候选人提出的\"影子预算\"释放出财政纪律的积极信号，推动法德…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T23:13:32.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "de0d39422626",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月7日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月7日",
+          "url": "https://wallstreetcn.com/articles/3783084",
+          "summary": "华见早安之声 要闻精选 中国商务部：希望法德不要鼓动欧盟动辄使用保护主义工具，避免以错误方式走错误道路并最终反噬自己。 胡塞武装连击沙特、瞄准机场、炼油厂，霍尔木兹油轮再遭袭，但沙特称重要输油管运力恢复超八成。 卡塔尔称美伊间接磋商仍在继续，特朗普又施压：可让伊朗“摧毁”洛杉矶或圣迭戈。 Francis Halzen独揽2026年诺贝尔物理学奖：主导南极“冰…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-06T23:00:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "9a36de4ab7bf",
+          "title": "OpenAI “rogue” agent activities found on Wikimedia projects",
+          "titleZh": "OpenAI “rogue” agent activities found on Wikimedia projects",
+          "url": "https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/",
+          "summary": "OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it's not a huge surprise that Wikipedia found evidence of …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-07T00:16:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "33f30856bc73",
+          "title": "llm-openai-decisions 0.1a0",
+          "titleZh": "llm-openai-decisions 0.1a0",
+          "url": "https://simonwillison.net/2026/Oct/6/llm-openai-decisions/",
+          "summary": "Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week's DevDay. Since I already have an llm-typesafe plugin f…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-06T23:04:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "68b27759a028",
+          "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "titleZh": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+          "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+          "summary": "Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday. The attackers …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-06T19:21:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba6d7568c7d3",
+          "title": "The Cyber Risk Discourse is Broken",
+          "titleZh": "The Cyber Risk Discourse is Broken",
+          "url": "https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken",
+          "summary": "I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will somehow actually …",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-10-06T14:22:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa5719a420bc",
+          "title": "EmbeddingGemma 2",
+          "titleZh": "EmbeddingGemma 2",
+          "url": "https://simonwillison.net/2026/Oct/6/hn-49983751/",
+          "summary": "My comment on EmbeddingGemma 2 &mdash; Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don't think it …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-06T20:37:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f3f74a939aa",
+          "title": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+          "titleZh": "Unlocking Earth AI’s planetary geospatial foundation models for global public health",
+          "url": "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/",
+          "summary": "Public health decisions rely heavily on timely, granular data. For health conditions, such as cardiovascular disease or postpartum depression, that data shows us where to focus res…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-06T15:05:11.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "71f88575c54b",
+          "title": "Quoting Victoria Kim",
+          "titleZh": "Quoting Victoria Kim",
+          "url": "https://simonwillison.net/2026/Oct/6/victoria-kim/",
+          "summary": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-06T23:58:56.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "15886cd7a17f",
+          "title": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+          "titleZh": "Drones sink ships near NATO countries in “unacceptable” attacks, EU says",
+          "url": "https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/",
+          "summary": "Drones sank two cargo ships and damaged a third in the exclusive economic zones of NATO member countries for the first time, killing at least two sailors. The attacks represent a n…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-06T21:31:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "0a7a802b59d6",
+          "title": "\"You suck\": Emmer unloads on Senate Republicans",
+          "titleZh": "\"You suck\": Emmer unloads on Senate Republicans",
+          "url": "https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act",
+          "summary": "House Majority Whip Tom Emmer (R-Minn.) is saying out loud what House Republicans have been grumbling about for much of the year: They're fed up with the Senate. Why it matters You…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-06T22:55:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "365c450996ec",
+          "title": "House GOP leaders admit redistricting fell short",
+          "titleZh": "House GOP leaders admit redistricting fell short",
+          "url": "https://www.axios.com/2026/10/06/house-republicans-redistricting-midterm-elections",
+          "summary": "House GOP leaders are now openly acknowledging that their mid-decade redistricting push didn't work out as well as they'd hoped. Why it matters: Republicans kicked off the redistri…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-06T22:55:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "00b3538ee728",
+          "title": "高通起诉Arm：要求5年不交授权费、强制授权V10指令集",
+          "titleZh": "高通起诉Arm：要求5年不交授权费、强制授权V10指令集",
+          "url": "https://www.huxiu.com/article/4895588.html?f=rss",
+          "summary": "本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯-浪客剑，原文标题：《高通起诉Arm：要求5年不交授权费、强制授权V10指令集！》 根据美国特拉华州地区法院披露的信息（案件编号1:24-cv-00490）显示，高通技术公司起诉Arm Holdings一案于当地时间本周一（10月5日）开始在特拉华州地区法院展开为期五天的陪审团审判。 高通指控…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-07T01:14:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e2cb87f315b2",
+          "title": "十一年前，第一次听说拿诺奖的光遗传学",
+          "titleZh": "十一年前，第一次听说拿诺奖的光遗传学",
+          "url": "https://www.huxiu.com/article/4895587.html?f=rss",
+          "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年诺贝尔医学与生理学奖颁给了光遗传学，也就是通过分子遗传学手段将特殊的光敏蛋白引入神经细胞，进而利用光来操控神经细胞。一个很形象的比喻是照亮大脑，让我们能看清思维、情绪、感情等各种大脑的功能到底是如何发生的。 这个领域的成型与兴起需要追溯到2005年，今年诺贝尔医学与生理学奖的三位得主…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-07T00:56:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "073749591b28",
+          "title": "携程被打回原形了？",
+          "titleZh": "携程被打回原形了？",
+          "url": "https://www.huxiu.com/article/4893107.html?f=rss",
+          "summary": "出品｜虎嗅黄青春频道 作者｜商业消费主笔 黄青春 题图｜视觉中国 携程正不动声色穿越风暴。 据虎嗅了解，中秋国庆双节拼假期间，携程长线游订单整体占比提升 3%，跨省游订单同比增长 45%；其中，包车游成为新爆点，北京订单同比涨 75%，四川阿坝等风光目的地订单翻倍。 与此同时，县域游、省际交界游火热，昭通（云贵川交界）、贺州（桂湘粤交界）、赣州（赣粤湘闽交界…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-06T23:07:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "51781cc65f4b",
+          "title": "An Open Letter To Steven Pinker On AI",
+          "titleZh": "An Open Letter To Steven Pinker On AI",
+          "url": "https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on",
+          "summary": "Dear Steven: Earlier this month, frustrated by some of your social media posts, I challenged you to a public debate on AI. I hadn’t realized that debate offers are to New Media wha…",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-10-06T21:23:06.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "74657c44d4a1",
+          "title": "Brazil election notes (from my email)",
+          "titleZh": "Brazil election notes (from my email)",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&utm_medium=rss&utm_campaign=brazil-election-notes-from-my-email",
+          "summary": "From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 …",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-06T22:38:14.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e84808e8b814",
+          "title": "Tuesday assorted links",
+          "titleZh": "Tuesday assorted links",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&utm_medium=rss&utm_campaign=tuesday-assorted-links-589",
+          "summary": "1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda . 3. Canada fell to 18th from 9th in global ranking of economic freedom . …",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-06T16:50:43.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "2fe183e52248",
+          "title": "The AI Boom Has a Gigawatt Accounting Problem",
+          "titleZh": "The AI Boom Has a Gigawatt Accounting Problem",
+          "url": "https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/",
+          "summary": "Broadcom can lend Anthropic up to $42 billion to help finance computing infrastructure. Nvidia says it intends to invest as much as $100 billion in OpenAI as Nvidia systems are dep…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-06T21:57:47.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c10cd30b8b92",
+          "title": "Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes",
+          "titleZh": "Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes",
+          "url": "https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/?utm_source=rss&utm_medium=rss&utm_campaign=qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes",
+          "summary": "Qnity Electronics, Inc. (“Qnity”) (NYSE: Q), a technology solutions leader across the semiconductor value chain, introduced Kalrez 7080 perfluoroelastomer parts, a high-performance…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-06T18:41:33.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e516ed18ab15",
+          "title": "GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line",
+          "titleZh": "GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line",
+          "url": "https://www.semiconductor-digest.com/globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line",
+          "summary": "Xanadu Quantum Technologies Limited, a photonic quantum computing company, today announced a strategic multi-year partnership with GlobalFoundries (GF), a semiconductor manufacture…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-06T18:33:46.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "680b7ff7137d",
+          "title": "Applied Materials, Intel Deepen R&D Collaboration on Transistor Scaling and Advanced Packaging",
+          "titleZh": "Applied Materials, Intel Deepen R&D Collaboration on Transistor Scaling and Advanced Packaging",
+          "url": "https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging",
+          "summary": "Applied Materials, Inc. today announced it is working with Intel Corporation to accelerate development of chipmaking innovations for next-generation transistors, interconnects and …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-06T18:29:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "0bdc46e0d07f",
+          "title": "Building Git infrastructure for agent-scale development",
+          "titleZh": "Building Git infrastructure for agent-scale development",
+          "url": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+          "summary": "Every day on GitHub, millions of developers build the products their customers rely on, contribute to open source, and pursue personal projects. GitHub&rsquo;s architecture has cha…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-06T20:57:56.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "62b7f2a11b44",
+          "title": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+          "titleZh": "The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.",
+          "url": "https://thenewstack.io/open-source-ai-kubernetes/",
+          "summary": "Back in 2018, a scrappy startup called OpenAI used Kubernetes to balance compute loads across its own data centers and AWS and Azure capacity. Years before the release of ChatGPT a…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-06T20:02:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f7138b9fcb15",
+          "title": "Your phone’s vector index might be bigger than the AI model running it",
+          "titleZh": "Your phone’s vector index might be bigger than the AI model running it",
+          "url": "https://thenewstack.io/google-embeddinggemma-multimodal-search/",
+          "summary": "Google released EmbeddingGemma 2 on Tuesday , putting text, code, image, video, and audio retrieval into a 740-million-parameter open model that used about 567MB of active RAM with…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-06T18:53:07.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0541e0f8fbd6",
+          "title": "Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.",
+          "titleZh": "Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.",
+          "url": "https://thenewstack.io/github-reviewbench-code-review/",
+          "summary": "If there&rsquo;s one thing the AI software engineering world doesn&rsquo;t lack, it&rsquo;s benchmarks. Want to know whether an agent can resolve real-world GitHub issues? There&rs…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-06T18:06:25.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "9a36de4ab7bf",
+    "33f30856bc73",
+    "cfa0b2aff3e4"
+  ],
+  "stats": {
+    "itemsConsidered": 33,
+    "itemsPublished": 30,
+    "itemsFiltered": 3,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 60,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
