@@ -6,313 +6,393 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 07 Oct 2026 01:46:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:14:05 GMT</lastBuildDate>
     <item>
-      <title>【2026-10-07 今日导读】</title>
+      <title>【2026-10-08 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-10-07</guid>
-      <pubDate>Wed, 07 Oct 2026 01:46:22 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 33 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度、深度长文与思考等 9 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-10-08</guid>
+      <pubDate>Thu, 08 Oct 2026 02:14:05 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度、深度长文与思考等 10 个领域，全部读完约需 74 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>美国反对浪潮加剧！甲骨文又一巨型数据中心或因“通不了电”搁浅</title>
-      <link>https://wallstreetcn.com/articles/3783095</link>
-      <guid isPermaLink="false">cfa0b2aff3e4</guid>
-      <pubDate>Wed, 07 Oct 2026 01:44:00 GMT</pubDate>
+      <title>“AI央行”英伟达的“千亿资本局”</title>
+      <link>https://wallstreetcn.com/articles/3783145</link>
+      <guid isPermaLink="false">a145db34e5bf</guid>
+      <pubDate>Thu, 08 Oct 2026 01:53:59 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>甲骨文旗下数据中心建设危机持续蔓延。继新墨西哥州Jupiter项目宣布不可抗力后，位于威斯康星州的1.3GW超大型数据中心&quot;Project Lighthouse&quot;再度告急——不是因为选址或资金，而是因为电接不上来。 根据数据中心研究机构Aterio发布的最新报告，Lighthouse项目的输电审批流程已被威斯康星州公共服务委员会（PSC）打回重来，法定审查时…
+      <description>英伟达正以前所未有的速度和规模重塑AI产业版图。这家芯片巨头在过去数月内完成逾1400亿美元的交易，并持有近1000亿美元的股权投资组合，其战略意图已远超单纯的芯片销售——黄仁勋正试图用资本力量构建一个由数千个AI模型组成的生态系统，以分散对少数头部客户的依赖风险。 10月7日，据科技媒体The Information报道，英伟达下一阶段的投资重心将集中于人…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>法国提出各类“削减赤字”方案，欧美国债抛售潮暂歇</title>
-      <link>https://wallstreetcn.com/articles/3783094</link>
-      <guid isPermaLink="false">a7faad48fbfa</guid>
-      <pubDate>Wed, 07 Oct 2026 01:23:22 GMT</pubDate>
+      <title>美联储会议纪要：全体19名决策者支持9月加息，“大多数”预计年内还加1次，但暗示10月不急</title>
+      <link>https://wallstreetcn.com/articles/3783127</link>
+      <guid isPermaLink="false">6e45133d88cd</guid>
+      <pubDate>Thu, 08 Oct 2026 01:52:21 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>法国近期密集提出削减赤字方案，试图扭转不断恶化的财政状况，法国债市压力随之暂时缓解。法国10年期国债收益率周二下行约12个基点至4.75%附近，与德国同期国债的利差也有所收窄。 法国政府计划通过削减支出、控制养老金开支等措施，将明年赤字率控制在GDP的5%以内；勒庞领导的国民联盟则提出“影子预算”，计划削减逾1400亿欧元支出，将明年赤字率降至3.7%，并在…
+      <description>美联储9月会议纪要释放偏鹰信号，多数官员支持年内再次加息，但市场已将加息预期从10月推迟至12月。高盛在纪要发布后指出，12月加息概率更大，但FOMC最终判断无需进一步紧缩的可能性同样相当大，这一表态为本轮紧缩周期的走向增添了更多不确定性。 根据周三公布的9月15日至16日联邦公开市场委员会（FOMC）会议纪要，19名美联储高级官员一致支持将联邦基金利率目标…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>再借400亿美元，SpaceX要买英伟达芯片</title>
-      <link>https://wallstreetcn.com/articles/3783093</link>
-      <guid isPermaLink="false">708272727b7c</guid>
-      <pubDate>Wed, 07 Oct 2026 00:56:37 GMT</pubDate>
+      <title>美国能源巨头20亿美元买“老旧油轮”，豪赌“将油运出霍尔木兹海峡”</title>
+      <link>https://wallstreetcn.com/articles/3783139</link>
+      <guid isPermaLink="false">d5b1634e187b</guid>
+      <pubDate>Thu, 08 Oct 2026 01:02:41 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>继6月完成250亿美元投资级债券发行后，SpaceX又计划筹集400亿美元，为大规模采购英伟达芯片提供资金，进一步押注AI基础设施建设。 据英国《金融时报》近日报道援引知情人士，SpaceX计划通过约100亿美元银行贷款和300亿美元投资级债券筹集资金，以支付这笔巨额芯片订单。Apollo预计将主导交易，并向广泛的机构投资者分销债务；债券巨头Pimco也在参…
+      <description>伊朗战争重塑全球油运格局，一家美国石油交易商正以一场罕见的重注押注于此。 据英国《金融时报》周三报道，总部位于达拉斯的PIF Energy首席执行官Ben Morrow表示，该公司正斥资20亿美元收购一支由多达15艘老旧超级油轮组成的船队，目标是将伊拉克和沙特阿美的原油经霍尔木兹海峡运往印度、印度尼西亚及欧洲等地的炼油商。 这一举动发生在全球柴油短缺持续加剧…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>苏姿丰欲锁韩国供应链，AMD寻求与三星和海力士“3-5年甚至更长期间合作”</title>
+      <link>https://wallstreetcn.com/articles/3783142</link>
+      <guid isPermaLink="false">2f33b10905e7</guid>
+      <pubDate>Thu, 08 Oct 2026 01:00:12 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>AMD CEO苏姿丰于10月7日访问韩国，当天密集会见三星电子和SK海力士高层，并在媒体吹风会上罕见地将合作框架明确量化——“供应链规划需要3至5年甚至更长时间，而非1至3年的短期安排。”这是苏姿丰7个月内第二次访问韩国。 此次访问还带来一项重要披露：AMD首次公开确认SK海力士将为其AI加速器和服务器平台供应HBM4。此前市场普遍认为三星是AMD HBM4…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>标普500创出新高，但几乎只有AI交易在涨</title>
-      <link>https://wallstreetcn.com/articles/3783091</link>
-      <guid isPermaLink="false">f4b5effddbfd</guid>
-      <pubDate>Wed, 07 Oct 2026 00:53:17 GMT</pubDate>
+      <title>美债收益率飙升的影响：美股PE明显收缩，Mag 7压倒小盘股</title>
+      <link>https://wallstreetcn.com/articles/3783140</link>
+      <guid isPermaLink="false">ff199d708529</guid>
+      <pubDate>Thu, 08 Oct 2026 00:51:58 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>标普500指数周二触及新高，但这场反弹的驱动力极为集中：少数押注人工智能的科技巨头几乎独力撑起整个市场，而医疗、银行、消费等其他板块正在下跌。市场广度的持续收窄，正在引发投资者对这轮涨势能否持续的疑虑。 周二，标普500指数收盘创历史新高，为自8月13日以来首次刷新纪录。纳斯达克综合指数同步创下连续第二个交易日收盘新高。&quot;科技七雄&quot;（Magnificent …
+      <description>隔夜，美债10年期收益率本周触及24年新高，盘中一度突破5.36%，最终收于5.276%。这一背景下，美股市场出现了一幅分裂的图景：标普500指数仍在历史高位附近徘徊，但其内部估值压缩、板块分化与市场集中度的极端化正在同步演进。 标普500指数目前的远期市盈率约为19.3倍，而年初这一数字是22.2倍。估值压缩幅度不小，但指数本身并未大跌——原因在于盈利预期…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>债市抛售暂缓，科技股力挺标普、纳指齐创新高，核电股集体飙升，黄金涨逾1%，原油走V</title>
-      <link>https://wallstreetcn.com/articles/3783046</link>
-      <guid isPermaLink="false">520d02229a7a</guid>
-      <pubDate>Tue, 06 Oct 2026 23:13:32 GMT</pubDate>
+      <title>韩股“唯一的买家”提前离场了？</title>
+      <link>https://wallstreetcn.com/articles/3783138</link>
+      <guid isPermaLink="false">33f82c282f29</guid>
+      <pubDate>Thu, 08 Oct 2026 00:29:44 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>法国总统选举热门人选勒庞公布了一份&quot;影子预算&quot;，法国国债与德国国债的利差随之明显收窄，连续数周的全球长债抛售暂时停手。国际油价在同一时间从高位跳水，收益率与油价一起回落，为风险资产腾出空间。 标普500指数收盘上涨0.6%，创下8月以来首个历史高点，纳指同步创纪录，人工智能相关股票领涨。 法国主要总统候选人提出的&quot;影子预算&quot;释放出财政纪律的积极信号，推动法德…
+      <description>韩国股市正面临一场关键的流动性考验。支撑KOSPI指数在散户与外资持续抛售压力下勉强维稳的最后一道防线——三星电子与SK海力士合计约400亿美元的史上最大规模股票回购计划——已提前数周宣告终结，市场正在直面高盛此前警告的&quot;流动性真空&quot;。 三星电子的回购计划已于本周结束，SK海力士的收尾也仅剩数个交易日。在此之前的两个月里，这两家公司几乎是韩国股市唯一的净买家…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>华尔街见闻早餐FM-Radio | 2026年10月7日</title>
-      <link>https://wallstreetcn.com/articles/3783084</link>
-      <guid isPermaLink="false">de0d39422626</guid>
-      <pubDate>Tue, 06 Oct 2026 23:00:23 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>华见早安之声 要闻精选 中国商务部：希望法德不要鼓动欧盟动辄使用保护主义工具，避免以错误方式走错误道路并最终反噬自己。 胡塞武装连击沙特、瞄准机场、炼油厂，霍尔木兹油轮再遭袭，但沙特称重要输油管运力恢复超八成。 卡塔尔称美伊间接磋商仍在继续，特朗普又施压：可让伊朗“摧毁”洛杉矶或圣迭戈。 Francis Halzen独揽2026年诺贝尔物理学奖：主导南极“冰…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>OpenAI “rogue” agent activities found on Wikimedia projects</title>
-      <link>https://simonwillison.net/2026/Oct/7/openai-rogue-agents-wikimedia/</link>
-      <guid isPermaLink="false">9a36de4ab7bf</guid>
-      <pubDate>Wed, 07 Oct 2026 00:16:45 GMT</pubDate>
+      <title>Does better work always mean better workers?</title>
+      <link>https://research.google/blog/does-better-work-always-mean-better-workers/</link>
+      <guid isPermaLink="false">bba796e7445a</guid>
+      <pubDate>Wed, 07 Oct 2026 20:19:57 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>OpenAI “rogue” agent activities found on Wikimedia projects Given how tempting a target wikis are for rogue agent swarms, it&apos;s not a huge surprise that Wikipedia found evidence of …
-
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>llm-openai-decisions 0.1a0</title>
-      <link>https://simonwillison.net/2026/Oct/6/llm-openai-decisions/</link>
-      <guid isPermaLink="false">33f30856bc73</guid>
-      <pubDate>Tue, 06 Oct 2026 23:04:13 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Release: llm-openai-decisions 0.1a0 OpenAI released their new Jev-style Decisions API , as previously announced at last week&apos;s DevDay. Since I already have an llm-typesafe plugin f…
-
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Hackers obtain counterfeit TLS certificates for Google and other large services</title>
-      <link>https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/</link>
-      <guid isPermaLink="false">68b27759a028</guid>
-      <pubDate>Tue, 06 Oct 2026 19:21:14 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Attackers hijacked three top-level domains and used their control to mint counterfeit TLS certificates for Google and other large organizations, Google said Tuesday. The attackers …
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>The Cyber Risk Discourse is Broken</title>
-      <link>https://www.interconnects.ai/p/the-cyber-risk-discourse-is-broken</link>
-      <guid isPermaLink="false">ba6d7568c7d3</guid>
-      <pubDate>Tue, 06 Oct 2026 14:22:41 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>I’ve had one too many discussions on the cyber risks of open models — where someone assumes that either banning open models happens in a silo (and bad actors will somehow actually …
-
-来源：Interconnects · 前沿科技与 AI 产业 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>EmbeddingGemma 2</title>
-      <link>https://simonwillison.net/2026/Oct/6/hn-49983751/</link>
-      <guid isPermaLink="false">aa5719a420bc</guid>
-      <pubDate>Tue, 06 Oct 2026 20:37:53 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>My comment on EmbeddingGemma 2 &amp;mdash; Hacker News. I really appreciate that EmbeddingGemma 2 is under the Apache 2.0 license. For embedding models in particular, I don&apos;t think it …
-
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Unlocking Earth AI’s planetary geospatial foundation models for global public health</title>
-      <link>https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health/</link>
-      <guid isPermaLink="false">3f3f74a939aa</guid>
-      <pubDate>Tue, 06 Oct 2026 15:05:11 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Public health decisions rely heavily on timely, granular data. For health conditions, such as cardiovascular disease or postpartum depression, that data shows us where to focus res…
+      <description>Judgment is what sets senior professionals apart from their junior peers. Building judgment requires thousands of hours learning on the job, usually through tedious but formative e…
 
 来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Quoting Victoria Kim</title>
-      <link>https://simonwillison.net/2026/Oct/6/victoria-kim/</link>
-      <guid isPermaLink="false">71f88575c54b</guid>
-      <pubDate>Tue, 06 Oct 2026 23:58:56 GMT</pubDate>
+      <title>Microsoft event debuts new AI-friendly hardware and Windows changes</title>
+      <link>https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/</link>
+      <guid isPermaLink="false">83f5a7aa4cd9</guid>
+      <pubDate>Thu, 08 Oct 2026 00:00:24 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in …
-
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Drones sink ships near NATO countries in “unacceptable” attacks, EU says</title>
-      <link>https://arstechnica.com/gadgets/2026/10/drone-strikes-likely-russian-sink-ships-in-nato-countries-economic-zones/</link>
-      <guid isPermaLink="false">15886cd7a17f</guid>
-      <pubDate>Tue, 06 Oct 2026 21:31:10 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Drones sank two cargo ships and damaged a third in the exclusive economic zones of NATO member countries for the first time, killing at least two sailors. The attacks represent a n…
+      <description>In its first live event in two years, Microsoft today announced its newest Surface laptop, outlined a host of changes coming to Windows 11, and shared a vision of how local-AI and …
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>&quot;You suck&quot;: Emmer unloads on Senate Republicans</title>
-      <link>https://www.axios.com/2026/10/06/tom-emmer-senate-republicans-frustration-save-act</link>
-      <guid isPermaLink="false">0a7a802b59d6</guid>
-      <pubDate>Tue, 06 Oct 2026 22:55:09 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>House Majority Whip Tom Emmer (R-Minn.) is saying out loud what House Republicans have been grumbling about for much of the year: They&apos;re fed up with the Senate. Why it matters You…
+      <title>Claude Haiku 5.5</title>
+      <link>https://simonwillison.net/2026/Oct/7/claude-haiku-5-5/</link>
+      <guid isPermaLink="false">f0672cd90612</guid>
+      <pubDate>Wed, 07 Oct 2026 20:56:21 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>As previously promised , here&apos;s Anthropic&apos;s new fast, low cost model: Introducing Claude Haiku 5.5 . The previous Haiku, 4.5, was very much showing its age. It came out almost a ye…
 
-来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>House GOP leaders admit redistricting fell short</title>
-      <link>https://www.axios.com/2026/10/06/house-republicans-redistricting-midterm-elections</link>
-      <guid isPermaLink="false">365c450996ec</guid>
-      <pubDate>Tue, 06 Oct 2026 22:55:01 GMT</pubDate>
+      <title>Quoting Ben Affleck</title>
+      <link>https://simonwillison.net/2026/Oct/7/ben-affleck/</link>
+      <guid isPermaLink="false">215d225118c9</guid>
+      <pubDate>Wed, 07 Oct 2026 23:14:58 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>I&apos;ve always been kind of into computers since I was young. And then when film started to move from analog film to digital, I became more interested in that aspect of it. And the vi…
+
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?</title>
+      <link>https://www.latent.space/p/stacklok</link>
+      <guid isPermaLink="false">cd4e96467d53</guid>
+      <pubDate>Wed, 07 Oct 2026 14:10:45 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>At a high level, coding agents have a basic architecture: an LLM calls tools in a loop, while carrying forward the required context. Since that’s easiest to implement locally , man…
+
+来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>“Software is over”: Bold AI developer takes aim at Adobe with open source clones</title>
+      <link>https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/</link>
+      <guid isPermaLink="false">3b8f157a8052</guid>
+      <pubDate>Wed, 07 Oct 2026 21:56:42 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>For a while, those hoping to avoid the difficulty and expense of dealing with Adobe&apos;s Creative Suite have been able to use several free and/or open-source alternatives that replica…
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app</title>
+      <link>https://bigwords.page/</link>
+      <guid isPermaLink="false">30f463795edd</guid>
+      <pubDate>Wed, 07 Oct 2026 15:44:21 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Article URL: https://bigwords.page/ Comments URL: https://news.ycombinator.com/item?id=49994443 Points: 364 # Comments: 112
+
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Multimodal open d1 decision models for the edge</title>
+      <link>https://huggingface.co/blog/LiquidAI/open-d1</link>
+      <guid isPermaLink="false">ff61e91108f4</guid>
+      <pubDate>Wed, 07 Oct 2026 16:54:33 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Why Is My AOL Account Locked? Step-by-Step Unlock and Recovery Guide If you are seeing a message that your ** 1-820-200-7370 AOL account is locked**, 1-820-200-7370 cannot sign in …
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>DNC sues to stop Trump&apos;s taxpayer-funded ad blitz</title>
+      <link>https://www.axios.com/2026/10/07/dnc-trump-lawsuit-taxpayer-funded-ads</link>
+      <guid isPermaLink="false">eb9ddf862e05</guid>
+      <pubDate>Wed, 07 Oct 2026 23:24:00 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>House GOP leaders are now openly acknowledging that their mid-decade redistricting push didn&apos;t work out as well as they&apos;d hoped. Why it matters: Republicans kicked off the redistri…
+      <description>The Democratic National Committee sued the Trump administration on Wednesday over its campaign-style ads . Why it matters: The DNC alleges the ads, which have drawn considerable ba…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>高通起诉Arm：要求5年不交授权费、强制授权V10指令集</title>
-      <link>https://www.huxiu.com/article/4895588.html?f=rss</link>
-      <guid isPermaLink="false">00b3538ee728</guid>
-      <pubDate>Wed, 07 Oct 2026 01:14:18 GMT</pubDate>
+      <title>国庆每天3亿人出游，旅行社却撑不住了</title>
+      <link>https://www.huxiu.com/article/4895705.html?f=rss</link>
+      <guid isPermaLink="false">d83d876aca42</guid>
+      <pubDate>Thu, 08 Oct 2026 00:26:53 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 芯智讯 ，编辑：芯智讯-浪客剑，作者：芯智讯-浪客剑，原文标题：《高通起诉Arm：要求5年不交授权费、强制授权V10指令集！》 根据美国特拉华州地区法院披露的信息（案件编号1:24-cv-00490）显示，高通技术公司起诉Arm Holdings一案于当地时间本周一（10月5日）开始在特拉华州地区法院展开为期五天的陪审团审判。 高通指控…
+      <description>本文来自微信公众号： 表外表里 ，编辑：曹宾玲、杨静，作者：陈梓洁，题图来自：视觉中国 在李佳琦直播间，大牌美妆顶多打六七折，旅行团直接对半砍。 “化妆品才是李佳琦的基本盘，现在旅游产品折扣比化妆品更狠。”资深旅游从业者孙瑞发现，青甘大环线7日游，已从5000元常规价降到最低1980元，旅行社几乎是赔本赚吆喝。 但千万别用“惨”来解读这一幕，孙瑞话锋一转，“…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>十一年前，第一次听说拿诺奖的光遗传学</title>
-      <link>https://www.huxiu.com/article/4895587.html?f=rss</link>
-      <guid isPermaLink="false">e2cb87f315b2</guid>
-      <pubDate>Wed, 07 Oct 2026 00:56:06 GMT</pubDate>
+      <title>黄金正在脱离美联储：5400美元目标价背后，是全球货币体系的一场重构</title>
+      <link>https://www.huxiu.com/article/4895747.html?f=rss</link>
+      <guid isPermaLink="false">6cb554b649d1</guid>
+      <pubDate>Thu, 08 Oct 2026 02:08:38 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 2026年诺贝尔医学与生理学奖颁给了光遗传学，也就是通过分子遗传学手段将特殊的光敏蛋白引入神经细胞，进而利用光来操控神经细胞。一个很形象的比喻是照亮大脑，让我们能看清思维、情绪、感情等各种大脑的功能到底是如何发生的。 这个领域的成型与兴起需要追溯到2005年，今年诺贝尔医学与生理学奖的三位得主…
+      <description>本文来自微信公众号： AI时代我的人生下半场 ，作者：席春迎博士 美联储加息，黄金应该下跌——这是过去几十年金融市场最熟悉的逻辑之一。 原因并不复杂。黄金本身不产生利息，当美元利率上升、美国国债收益率走高，持有黄金的机会成本就会增加；与此同时，加息往往推高美元汇率，以美元计价的黄金自然承压。因此，在传统分析框架中，判断黄金走势，首先看美联储，继而看实际利率与…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>携程被打回原形了？</title>
-      <link>https://www.huxiu.com/article/4893107.html?f=rss</link>
-      <guid isPermaLink="false">073749591b28</guid>
-      <pubDate>Tue, 06 Oct 2026 23:07:07 GMT</pubDate>
+      <title>一生要强的中国人，连度假都要“考个证”？</title>
+      <link>https://www.huxiu.com/article/4895741.html?f=rss</link>
+      <guid isPermaLink="false">0f0ec87e405a</guid>
+      <pubDate>Thu, 08 Oct 2026 02:08:34 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>出品｜虎嗅黄青春频道 作者｜商业消费主笔 黄青春 题图｜视觉中国 携程正不动声色穿越风暴。 据虎嗅了解，中秋国庆双节拼假期间，携程长线游订单整体占比提升 3%，跨省游订单同比增长 45%；其中，包车游成为新爆点，北京订单同比涨 75%，四川阿坝等风光目的地订单翻倍。 与此同时，县域游、省际交界游火热，昭通（云贵川交界）、贺州（桂湘粤交界）、赣州（赣粤湘闽交界…
+      <description>本文来自微信公众号：凤凰WEEKLY，作者：凯斯，题图来自：视觉中国 众所周知，目前上班族假日旅游的精神状态，主要分两种。 一种是“既然放假了，那我就啥也不想做了”，就算出门，也是换个地方宅，互联网人称Staycation。 Staycation的精髓就在于能不溜达就不溜达，最爽的莫过于找个海岛沙滩或山间小墅一躺，在极致的大脑放空中等待复工的“噩耗”。 而另…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>An Open Letter To Steven Pinker On AI</title>
-      <link>https://www.astralcodexten.com/p/an-open-letter-to-steven-pinker-on</link>
-      <guid isPermaLink="false">51781cc65f4b</guid>
-      <pubDate>Tue, 06 Oct 2026 21:23:06 GMT</pubDate>
+      <title>20位诺奖科学家创办的Biotech：有的年入百亿，有的倒在死亡谷</title>
+      <link>https://www.huxiu.com/article/4895744.html?f=rss</link>
+      <guid isPermaLink="false">f1d6b18954db</guid>
+      <pubDate>Thu, 08 Oct 2026 01:59:36 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：雨山 10月7日，2026年诺贝尔化学奖揭晓，Henri B.Kagan与Kenso Soai因在不对称有机合成中发现非线性效应与自催化而获奖。 两人的研究共同回答了一个困扰化学界百余年的问题：化学反应为何会偏爱某一种镜像分子？ 其中，Kagan发现了调控反应对映选择性的新方法，可显…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>Top Forecasters On The Plague</title>
+      <link>https://www.astralcodexten.com/p/top-forecasters-on-the-plague</link>
+      <guid isPermaLink="false">f41b483580fc</guid>
+      <pubDate>Wed, 07 Oct 2026 21:13:16 GMT</pubDate>
       <category>深度长文与思考</category>
-      <description>Dear Steven: Earlier this month, frustrated by some of your social media posts, I challenged you to a public debate on AI. I hadn’t realized that debate offers are to New Media wha…
+      <description>A technician at a Siberian lab has died of yersinia infection aka plague . The details are fuzzy, but the lab seems to have been working with pneumonic plague, an especially contag…
 
 来源：Astral Codex Ten · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Brazil election notes (from my email)</title>
-      <link>https://marginalrevolution.com/marginalrevolution/2026/10/brazil-election-notes-from-my-email.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=brazil-election-notes-from-my-email</link>
-      <guid isPermaLink="false">74657c44d4a1</guid>
-      <pubDate>Tue, 06 Oct 2026 22:38:14 GMT</pubDate>
+      <title>Hidden Open Thread 454.5</title>
+      <link>https://www.astralcodexten.com/p/hidden-open-thread-4545</link>
+      <guid isPermaLink="false">820e51f88a3f</guid>
+      <pubDate>Wed, 07 Oct 2026 21:07:33 GMT</pubDate>
       <category>深度长文与思考</category>
-      <description>From Diego Costa: “Hi Tyler, If you’re still interested in the fallout from Brazil’s elections, here are some observations that add texture to the usual narratives: Nine of the 10 …
+      <description>Astral Codex Ten ... Scott Alexander Oct 07, 2026 ∙ Paid This post is for paid subscribers Already a paid subscriber? Sign in © 2026 Scott Alexander · Privacy ∙ Terms ∙ Collection …
 
-来源：Marginal Revolution · 深度长文与思考 · 约 2 分钟</description>
+来源：Astral Codex Ten · 深度长文与思考 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Tuesday assorted links</title>
-      <link>https://marginalrevolution.com/marginalrevolution/2026/10/tuesday-assorted-links-589.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=tuesday-assorted-links-589</link>
-      <guid isPermaLink="false">e84808e8b814</guid>
-      <pubDate>Tue, 06 Oct 2026 16:50:43 GMT</pubDate>
+      <title>Against Laissez-Faire Democracy</title>
+      <link>https://marginalrevolution.com/marginalrevolution/2026/10/against-laissez-faire-democracy.html?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=against-laissez-faire-democracy</link>
+      <guid isPermaLink="false">73a9278d0ec3</guid>
+      <pubDate>Wed, 07 Oct 2026 11:18:34 GMT</pubDate>
       <category>深度长文与思考</category>
-      <description>1. What is the real rate of Chinese economic growth? 2. An Abundance caucus rolls out a bipartisan agenda . 3. Canada fell to 18th from 9th in global ranking of economic freedom . …
+      <description>In a new paper, Brennan and Freiman argue persuasively that: the arguments against laissez-faire capitalism apply in a rather straight way against laissez-faire democracy. This sho…
 
 来源：Marginal Revolution · 深度长文与思考 · 约 1 分钟</description>
     </item>
     <item>
-      <title>The AI Boom Has a Gigawatt Accounting Problem</title>
-      <link>https://www.eetimes.com/the-ai-boom-has-a-gigawatt-accounting-problem/</link>
-      <guid isPermaLink="false">2fe183e52248</guid>
-      <pubDate>Tue, 06 Oct 2026 21:57:47 GMT</pubDate>
+      <title>Wolfspeed Secures Conditional $1.5B U.S. Commitment for Domestic SiC Production</title>
+      <link>https://www.semiconductor-digest.com/wolfspeed-secures-conditional-1-5b-u-s-commitment-for-domestic-sic-production/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=wolfspeed-secures-conditional-1-5b-u-s-commitment-for-domestic-sic-production</link>
+      <guid isPermaLink="false">a6a0d01e754d</guid>
+      <pubDate>Wed, 07 Oct 2026 21:12:59 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Broadcom can lend Anthropic up to $42 billion to help finance computing infrastructure. Nvidia says it intends to invest as much as $100 billion in OpenAI as Nvidia systems are dep…
-
-来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Qnity Develops 330°C Sealing Material for High-Temperature Chipmaking Processes</title>
-      <link>https://www.semiconductor-digest.com/qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=qnity-develops-330c-sealing-material-for-high-temperature-chipmaking-processes</link>
-      <guid isPermaLink="false">c10cd30b8b92</guid>
-      <pubDate>Tue, 06 Oct 2026 18:41:33 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>Qnity Electronics, Inc. (“Qnity”) (NYSE: Q), a technology solutions leader across the semiconductor value chain, introduced Kalrez 7080 perfluoroelastomer parts, a high-performance…
+      <description>Wolfspeed, Inc. (NYSE: WOLF ) today announced it has received a conditional loan commitment letter from the U.S. Department of War (“DoW”), through its Office of Strategic Capital …
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>GlobalFoundries to Industrialize Xanadu Quantum-Photonic Components on 300mm Line</title>
-      <link>https://www.semiconductor-digest.com/globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=globalfoundries-to-industrialize-xanadu-quantum-photonic-components-on-300mm-line</link>
-      <guid isPermaLink="false">e516ed18ab15</guid>
-      <pubDate>Tue, 06 Oct 2026 18:33:46 GMT</pubDate>
+      <title>Aehr Expands AI Chip Burn-In Capacity with $6M Hyperscaler Order</title>
+      <link>https://www.semiconductor-digest.com/aehr-expands-ai-chip-burn-in-capacity-with-6m-hyperscaler-order/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aehr-expands-ai-chip-burn-in-capacity-with-6m-hyperscaler-order</link>
+      <guid isPermaLink="false">c7e464c636ff</guid>
+      <pubDate>Wed, 07 Oct 2026 21:04:54 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Xanadu Quantum Technologies Limited, a photonic quantum computing company, today announced a strategic multi-year partnership with GlobalFoundries (GF), a semiconductor manufacture…
+      <description>Aehr Test Systems, a provider of test and burn-in solutions for semiconductor devices used in artificial intelligence (AI), silicon photonics, data center, automotive, and industri…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Applied Materials, Intel Deepen R&amp;D Collaboration on Transistor Scaling and Advanced Packaging</title>
-      <link>https://www.semiconductor-digest.com/applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applied-materials-intel-deepen-rd-collaboration-on-transistor-scaling-and-advanced-packaging</link>
-      <guid isPermaLink="false">680b7ff7137d</guid>
-      <pubDate>Tue, 06 Oct 2026 18:29:25 GMT</pubDate>
+      <title>MintNeuro Raises $5M to Scale Purpose-Built Chip Platform for Neural Devices and Brain-Computer Interfaces</title>
+      <link>https://www.semiconductor-digest.com/mintneuro-raises-5m-to-scale-purpose-built-chip-platform-for-neural-devices-and-brain-computer-interfaces/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=mintneuro-raises-5m-to-scale-purpose-built-chip-platform-for-neural-devices-and-brain-computer-interfaces</link>
+      <guid isPermaLink="false">6c8fb70e8566</guid>
+      <pubDate>Wed, 07 Oct 2026 19:20:50 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Applied Materials, Inc. today announced it is working with Intel Corporation to accelerate development of chipmaking innovations for next-generation transistors, interconnects and …
+      <description>MintNeuro, a semiconductor company building specialised chips for neural devices from implants to wearables, today announces a $5 million investment round to drive its commercial s…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Building Git infrastructure for agent-scale development</title>
-      <link>https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/</link>
-      <guid isPermaLink="false">0bdc46e0d07f</guid>
-      <pubDate>Tue, 06 Oct 2026 20:57:56 GMT</pubDate>
+      <title>These are the best Prime Day deals I&apos;ve found on tools I use to maintain my PC</title>
+      <link>https://www.tomshardware.com/desktops/pc-building/these-are-the-best-prime-day-deals-ive-found-on-tools-i-use-to-maintain-my-pc-from-screwdrivers-to-air-blowers-these-tools-will-keep-your-pc-in-tip-top-shape</link>
+      <guid isPermaLink="false">ce4ed63b1244</guid>
+      <pubDate>Thu, 08 Oct 2026 01:39:00 GMT</pubDate>
+      <category>半导体与硬件供应链</category>
+      <description>Building a PC is a great experience. We sit there with a spreadsheet and multiple browser tabs, pouring over the best CPUs, the best GPUs , PC cases , motherboards , RAM deals, and…
+
+来源：Tom&apos;s Hardware · 半导体与硬件供应链 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Beyond the summit: how US-China relations could still unravel</title>
+      <link>https://www.scmp.com/opinion/china-opinion/article/3369893/beyond-summit-how-us-china-relations-could-still-unravel?utm_source=rss_feed</link>
+      <guid isPermaLink="false">6a882064984e</guid>
+      <pubDate>Thu, 08 Oct 2026 01:00:10 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>This year’s Chinese National Day reception in Washington felt noticeably jollier than those I have attended in recent years. The mood was more relaxed and Chinese Ambassador Xie Fe…
+
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>End ‘wholesale restrictions’ on Chinese EVs in US, experts say</title>
+      <link>https://www.scmp.com/news/us/diplomacy/article/3370109/end-wholesale-restrictions-chinese-evs-us-experts-say?utm_source=rss_feed</link>
+      <guid isPermaLink="false">b0d29d0f2a10</guid>
+      <pubDate>Thu, 08 Oct 2026 00:59:20 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>The United States should engage with Chinese carmakers and battery manufacturers “strategically”, using targeted safeguards instead of the current “wholesale restrictions”, which c…
+
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>‘China already has spies’ at US AI labs, former Anthropic researcher warns</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3370108/china-already-has-spies-us-ai-labs-claims-ex-anthropic-researcher?utm_source=rss_feed</link>
+      <guid isPermaLink="false">143d81c17187</guid>
+      <pubDate>Wed, 07 Oct 2026 23:39:15 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>Former Anthropic and OpenAI researcher Jacob Coxon said he was 90 per cent certain that China already had spies inside both US artificial intelligence (AI) companies, without provi…
+
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Iowa’s Ashley Hinson slams the savings habits of millennials</title>
+      <link>https://www.politico.com/live-updates/2026/10/07/congress/hinson-faults-millennials-on-saving-01111399</link>
+      <guid isPermaLink="false">f12aac08350d</guid>
+      <pubDate>Thu, 08 Oct 2026 02:08:43 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>Iowa Rep. Ashley Hinson took a swipe at the savings habits of millennials as she fielded a question Wednesday about Social Security during a Senate campaign debate. Hinson, the Rep…
+
+来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>World’s once-largest penguin colony is in perilous decline</title>
+      <link>https://www.science.org/content/article/world-s-once-largest-penguin-colony-perilous-decline</link>
+      <guid isPermaLink="false">daa466f4af74</guid>
+      <pubDate>Wed, 07 Oct 2026 12:25:00 GMT</pubDate>
+      <category>生物医药与健康科技</category>
+      <description>Climate change appears to have made food scarce for chinstrap penguins, which had numbered more than 1 million on a remote South Atlantic island
+
+来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Was this odd animal the world’s first milk suckler?</title>
+      <link>https://www.science.org/content/article/was-odd-animal-world-s-first-milk-suckler</link>
+      <guid isPermaLink="false">7acb8e1b1fa8</guid>
+      <pubDate>Wed, 07 Oct 2026 11:10:00 GMT</pubDate>
+      <category>生物医药与健康科技</category>
+      <description>Ancient swimming creature provides clues to when nursing evolved
+
+来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Secret protection must scale with software</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/</link>
+      <guid isPermaLink="false">9b9ad1da5e8d</guid>
+      <pubDate>Wed, 07 Oct 2026 17:45:34 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Every day on GitHub, millions of developers build the products their customers rely on, contribute to open source, and pursue personal projects. GitHub&amp;rsquo;s architecture has cha…
+      <description>Today, one in three pull requests on GitHub involves an AI agent . A year ago, that number was fewer than one in 10. If that pace holds, within the next two years, most of the code…
 
-来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
+来源：GitHub Blog · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>The CNCF is graduating projects faster than ever. AI agents are helping with the due diligence.</title>
-      <link>https://thenewstack.io/open-source-ai-kubernetes/</link>
-      <guid isPermaLink="false">62b7f2a11b44</guid>
-      <pubDate>Tue, 06 Oct 2026 20:02:17 GMT</pubDate>
+      <title>OpenSSH 10.6 deliberately breaks two features in the name of security</title>
+      <link>https://thenewstack.io/openssh-breaks-compression-usernames/</link>
+      <guid isPermaLink="false">25b1c1e8a96c</guid>
+      <pubDate>Wed, 07 Oct 2026 21:27:33 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Back in 2018, a scrappy startup called OpenAI used Kubernetes to balance compute loads across its own data centers and AWS and Azure capacity. Years before the release of ChatGPT a…
+      <description>OpenSSH 10.6, released Tuesday, makes compression less effective and rejects some usernames that previously worked, and the maintainers knew both changes would break things when th…
 
 来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Your phone’s vector index might be bigger than the AI model running it</title>
-      <link>https://thenewstack.io/google-embeddinggemma-multimodal-search/</link>
-      <guid isPermaLink="false">f7138b9fcb15</guid>
-      <pubDate>Tue, 06 Oct 2026 18:53:07 GMT</pubDate>
+      <title>Claude’s cyber safeguards are getting more flexible — but not for everyone.</title>
+      <link>https://thenewstack.io/anthropic-cyber-access-tiers/</link>
+      <guid isPermaLink="false">457480c934b6</guid>
+      <pubDate>Wed, 07 Oct 2026 21:25:06 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Google released EmbeddingGemma 2 on Tuesday , putting text, code, image, video, and audio retrieval into a 740-million-parameter open model that used about 567MB of active RAM with…
+      <description>This week, Anthropic announced an expansion of its Cyber Verification Program (CVP), breaking access into three use case&amp;ndash;based tiers and folding Project Glasswing into the le…
+
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Decision models are suddenly everywhere. OpenAI’s is now public.</title>
+      <link>https://thenewstack.io/openai-decision-models-deployment/</link>
+      <guid isPermaLink="false">bf7353d11424</guid>
+      <pubDate>Wed, 07 Oct 2026 21:11:26 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>This week, OpenAI opened its Decisions API to public beta and added image inputs to make fast decisions from visual content. First announced last week as a likely response to TypeS…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Copilot tops GitHub’s own AI code review benchmark. An independent one tells a different story.</title>
-      <link>https://thenewstack.io/github-reviewbench-code-review/</link>
-      <guid isPermaLink="false">0541e0f8fbd6</guid>
-      <pubDate>Tue, 06 Oct 2026 18:06:25 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>If there&amp;rsquo;s one thing the AI software engineering world doesn&amp;rsquo;t lack, it&amp;rsquo;s benchmarks. Want to know whether an agent can resolve real-world GitHub issues? There&amp;rs…
+      <title>How agentic commerce helps brands like Willy Chavarria optimize for BFCM</title>
+      <link>https://www.modernretail.co/sponsored/how-agentic-commerce-helps-brands-like-willy-chavarria-optimize-for-bfcm/?utm_campaign=modernretaildis&amp;utm_medium=rss&amp;utm_source=general-rss</link>
+      <guid isPermaLink="false">4fa7a6d063d9</guid>
+      <pubDate>Wed, 07 Oct 2026 19:51:17 GMT</pubDate>
+      <category>消费、出海与品牌</category>
+      <description>Black Friday and Cyber Monday preparation begins for e-commerce brands and retailers well before those peak shopping days arrive. Besides planning marketing and promotion strategie…
 
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+来源：Modern Retail · 消费、出海与品牌 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Conflict in the Red Sea is forcing cloud giants to find a new route for the internet</title>
+      <link>https://restofworld.org/2026/google-meta-red-sea-subsea-cables-houthi-yemen/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=feeds</link>
+      <guid isPermaLink="false">7dec216f75d5</guid>
+      <pubDate>Wed, 07 Oct 2026 10:00:41 GMT</pubDate>
+      <category>消费、出海与品牌</category>
+      <description>U.S. cloud giants are facing steep prices to secure backup internet routes around the Red Sea as fighting rages over the Red Sea strait that carries most data cables between...
+
+来源：Rest of World · 消费、出海与品牌 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
