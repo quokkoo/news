@@ -1,0 +1,1121 @@
+{
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T02:31:06.592Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 37 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度、深度长文与思考等 9 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "ea66bc8b9562",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "7ca616f5c997",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "e474541e77ab",
+        "reason": "华尔街见闻，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "7ca616f5c997",
+          "title": "创业板跌2%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹",
+          "titleZh": "创业板跌2%失守3000点，算力硬件、生物医药集体下挫，江淮汽车跌停，恒科指涨超1%，科网股反弹",
+          "url": "https://wallstreetcn.com/articles/3783237",
+          "summary": "10月9日，A股早盘低开，三大股指盘初集体下跌，深成指、创业板均跌超1%，创业板更是跌破3000点，为2025年11月以来新低，贵金属、油气、电池产业链等活跃，科创50继续跌超2%，算力硬件、芯片半导体等科技股集体下挫，覆铜板、电路板等概念股陷入调整，生物医药板块大跌，CRO、创新药等集体承压。江淮汽车早盘跌停，此前尊界通报刹车踏板支架断裂，称将进一步优化设…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T02:07:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e474541e77ab",
+          "title": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”",
+          "titleZh": "SpaceX、博通、甲骨文密集天量发债！美国债市“挤爆了”，“集中度越来越高，最终都受AI周期影响”",
+          "url": "https://wallstreetcn.com/articles/3783234",
+          "summary": "AI军备竞赛正在将美国债市推向临界点。SpaceX、博通、甲骨文在不到一周内合计寻求逾1500亿美元融资，叠加此前已在路演的博通-Anthropic600亿美元债务，AI生态系统的借贷狂潮已令公开债券市场趋于饱和，迫使越来越多的交易转入私募信贷和表外特殊目的载体（SPV）。 这场融资浪潮正在重塑整个信用市场的风险定价。据彭博数据，今年超级大额科技债（单笔25…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T00:58:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ca375e30768",
+          "title": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫",
+          "titleZh": "巨资拿下低频频段，SpaceX进军手机运营商，美国电信股全线重挫",
+          "url": "https://wallstreetcn.com/articles/3783231",
+          "summary": "SpaceX宣布收购低频无线频谱，正式宣告进军美国移动运营商市场，此举令现有电信巨头股价承压，行业竞争格局面临深刻重塑。 SpaceX周四宣布，已与投资公司Grain Management LLC达成协议，收购一批覆盖全美的800MHz低频段频谱许可证，并计划将其与旗下Starlink卫星网络整合，打造独立的移动运营商业务。SpaceX在官网声明中表示，这一…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T00:43:18.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3dd0fbc074ca",
+          "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+          "titleZh": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
+          "url": "https://wallstreetcn.com/articles/3783232",
+          "summary": "法债抛售愈演愈烈，10年期法国国债收益率一度逼近5%，为2002年以来最高，借贷成本已高于希腊和意大利。与此同时，美债收益率攀升至5.28%的数十年高位，即便通胀数据走软也未能阻断抛售。 两场风暴，背后或许都有日本的影子。彭博专栏作家Gearoid Reidy在10月9日的文章中分析称： 两年前，当日本踏上政策正常化之路时，人们问的是日本是否准备好迎接“有利…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T00:39:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c3c1e6bbd6ae",
+          "title": "特朗普“画不动”原油K线了",
+          "titleZh": "特朗普“画不动”原油K线了",
+          "url": "https://wallstreetcn.com/articles/3783230",
+          "summary": "原油市场对特朗普言论的敏感度正在系统性衰减。曾经一句威胁伊朗的推文就能让油价单日暴涨7%，如今同类表态却几乎激不起任何波澜。据彭博对价格走势的分析，随着美伊冲突持续拖延，特朗普的言论对全球原油市场的影响力已显著减弱。 今年4月1日，特朗普在电视讲话中扬言将对伊朗发动打击，令其“回到石器时代”，油价随即在亚洲早盘飙升，最终收涨逾7%，突破每桶109美元。然而到…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T00:24:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "be14ea6419b3",
+          "title": "没有App、14个人、免费用：Instinct如何撑起百亿美元估值",
+          "titleZh": "没有App、14个人、免费用：Instinct如何撑起百亿美元估值",
+          "url": "https://wallstreetcn.com/articles/3783198",
+          "summary": "作者 | 林克、郑好 2021年春天，在硅谷流行的语音社交平台Clubhouse邀请码在eBay上卖到上百美元。5年后，同一件事发生在名为Instinct的个人Agent身上。 作为AI助理，Instinct只通过短信和电话替用户订酒店、改签航班、比价下单，它的邀请码同样在eBay上被炒到上百美元，每位用户只有5个邀请名额。 硅谷对这种稀缺感的反应一如既往，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T00:14:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "ea66bc8b9562",
+          "title": "[AINews] not much happened today",
+          "titleZh": "[AINews] not much happened today",
+          "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+          "summary": "More AI safety intrigue in the alignment below. AIE NYC leadership tickets will sell out tomorrow, while for SF folks, AIE CODE applications are still open for the top agentic engi…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-08T23:29:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ddee29784c97",
+          "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "titleZh": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+          "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
+          "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to …",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-09T00:08:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6c6667a538b5",
+          "title": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+          "titleZh": "Synthesis Superintelligence: from Semiconductors to Superconductors — Periodic Labs’ Liam Fedus and Ekin Dogus Cubuk",
+          "url": "https://www.latent.space/p/periodic",
+          "summary": "It’s hard to believe that Periodic was only launched last September : @periodiclabs . Our mission is to accelerate science.\\n\\nOur founding team co-created ChatGPT, DeepMind’s GNoM…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-08T16:27:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "11a570459204",
+          "title": "ttok 0.4",
+          "titleZh": "ttok 0.4",
+          "url": "https://simonwillison.net/2026/Oct/8/ttok/",
+          "summary": "Release: ttok 0.4 ttok is my CLI tool for counting tokens, using OpenAI's open source tiktoken library. It hasn't been in updated in a couple of years, but I finally fixed a Click …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-08T23:34:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a144bdc1253d",
+          "title": "Feds get ready to rewrite car headlight rules",
+          "titleZh": "Feds get ready to rewrite car headlight rules",
+          "url": "https://arstechnica.com/cars/2026/10/feds-get-ready-to-rewrite-car-headlight-rules/",
+          "summary": "One of the regulations that make vehicles in the US different from those in Europe or Japan is our headlight rules. They’re laid out in the Federal Motor Vehicle Safety Standards (…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-08T20:26:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "409f45d91f4b",
+          "title": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "titleZh": "RIP Margaret Hamilton, whose code saved the Apollo 11 Moon landing",
+          "url": "https://arstechnica.com/science/2026/10/r-i-p-margaret-hamilton-whose-code-saved-the-apollo-11-moon-landing/",
+          "summary": "Margaret Hamilton, who coined the term \"software engineering\" and led the development of onboard flight software for NASA's Apollo program in the 1960s, died last week at the age o…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-08T20:15:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9410af0aa0d0",
+          "title": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+          "titleZh": "RFK Jr. unveils sweeping federal initiative to find evidence of vaccine injuries",
+          "url": "https://arstechnica.com/health/2026/10/rfk-jr-unveils-sweeping-federal-initiative-to-find-evidence-of-vaccine-injuries/",
+          "summary": "Under anti-vaccine Health Secretary Robert F. Kennedy Jr., the federal health department is undertaking an agency-wide effort to focus on injuries claimed to be related to vaccines…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-08T19:26:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "da3366bf3886",
+          "title": "An experimental tour-de-force: Entanglement between glass bead and light",
+          "titleZh": "An experimental tour-de-force: Entanglement between glass bead and light",
+          "url": "https://arstechnica.com/science/2026/10/suspended-glass-bead-entangled-with-light-maybe-a-quantum-memory/",
+          "summary": "Writing about quantum entanglement is always a challenge. There are so many clichés to avoid: It’s mysterious, ghostly, spooky, and weird. Entanglement is none of those things, and…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-08T18:45:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "73ac4cabd2f8",
+          "title": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "titleZh": "超级厄尔尼诺来了，我们的日常所需真会因它涨价吗？",
+          "url": "https://www.huxiu.com/article/4896008.html?f=rss",
+          "summary": "本文来自微信公众号： 硅谷101 ，作者：硅谷101 这个夏天，来自全球各地的多个气象机构都拉响了同一个警报，一场史无前例的超级厄尔尼诺正在上演，并且极有可能持续到明年2月。 来自摩根大通的经济学家预计，全球的食品通胀将在2027年的上半年上升到5%，明显高于今年同期的2.8%。这其中有来自霍尔木兹海峡封锁和黑海冲突的因素，也部分归因于我们正深处的这场50年…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T00:10:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8161533.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "850a6bf74077",
+          "title": "Jaan Tallinn would like us to survive",
+          "titleZh": "Jaan Tallinn would like us to survive",
+          "url": "https://www.generalist.com/p/jaan-tallinn-would-like-us-to-survive",
+          "summary": "“We’re pulling a trigger on Russian roulette with a planet. And every shot that doesn’t kill us will make us stronger, potentially, and wealthier and better off. But when do you st…",
+          "whyItMatters": "",
+          "sourceName": "The Generalist",
+          "publishedAt": "2026-10-08T12:02:53.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "161c09274c68",
+          "title": "百亿入股彪马，能否接住安踏的增长期待？",
+          "titleZh": "百亿入股彪马，能否接住安踏的增长期待？",
+          "url": "https://www.huxiu.com/article/4896059.html?f=rss",
+          "summary": "本文来自微信公众号： 识礁Farsight ，作者：识礁团队 2026年10月7日，安踏发布公告称，已斥资15.055亿欧元（约合人民币123亿元）现金，向法国皮诺家族旗下投资公司Artémis SAS收购彪马29.06%股权，成为该德国老牌运动品牌第一大股东。 过去几年，通过有机整合FILA、可隆、始祖鸟等品牌，安踏已蜕变为中国头部体育用品集团。此番收购彪…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T02:16:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d79a3e20d27d",
+          "title": "Google 让Gemini 调用Claude，AI 巨头真正要争的可能是另一件事",
+          "titleZh": "Google 让Gemini 调用Claude，AI 巨头真正要争的可能是另一件事",
+          "url": "https://www.huxiu.com/article/4896058.html?f=rss",
+          "summary": "本文来自微信公众号： DARE to B2B ，作者：种 IT 的田，原文标题：《Google 让 Gemini 调用 Claude，AI 巨头真正要争的可能是另一件事》 2026年10月8日，Google在Gemini at Work上公布，新的Gemini agent会按工作内容在自家Gemini和Anthropic的Claude之间调度，以后还会接入其…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T02:09:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0755b22ceddb",
+          "title": "5亿美元到账，肖弘的Manus从“没卖成”到“自己闯”",
+          "titleZh": "5亿美元到账，肖弘的Manus从“没卖成”到“自己闯”",
+          "url": "https://www.huxiu.com/article/4896056.html?f=rss",
+          "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 华中科技大学毕业的肖弘，创立了Manus，一战成名。在他去年“风头正盛”时，坊间大众议过他的财富性格，说他擅长创一家公司，然后迅速卖一家公司，嗅觉机敏，成就原始积累。 如果没有那场叫停，肖弘大概现在也能跟着扎克伯格吃肉喝汤。但如今，Manus已确定是一家中国公司，肖弘也做不了Meta副总了，留给他的任务只有两…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T02:06:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "b7b488f330f5",
+          "title": "Ballots Everywhere: Times & Places",
+          "titleZh": "Ballots Everywhere: Times & Places",
+          "url": "https://www.astralcodexten.com/p/ballots-everywhere-times-and-places-673",
+          "summary": "In past election years, I’ve shared how I plan to vote in local elections. A few years ago I scaled it up and aimed for voter guides from some of the larger US cities and states. T…",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-10-08T22:00:52.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "99bdea466ad8",
+          "title": "The Rise and Fall of the Plasma Screen",
+          "titleZh": "The Rise and Fall of the Plasma Screen",
+          "url": "https://www.construction-physics.com/p/the-rise-and-fall-of-the-plasma-screen",
+          "summary": "PLATO V terminal, via Wikipedia . In 1960, a team at the University of Illinois released the first version of their PLATO “computerized instruction system,” a network of what would…",
+          "whyItMatters": "",
+          "sourceName": "Construction Physics",
+          "publishedAt": "2026-10-08T12:02:36.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a4f0fcc770f0",
+          "title": "Predictions for economics, given AI",
+          "titleZh": "Predictions for economics, given AI",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/predictions-for-economics-given-ai.html?utm_source=rss&utm_medium=rss&utm_campaign=predictions-for-economics-given-ai",
+          "summary": "From Ingar Haaland : With math essentially being delegated to OpenAI, here’s what I predict for economics and the social sciences more generally: The top tier of research will just…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-08T17:34:18.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "573f22b0a7e1",
+          "title": "Applied Materials and UCLA to Collaborate on Chip R&D at EPIC Center",
+          "titleZh": "Applied Materials and UCLA to Collaborate on Chip R&D at EPIC Center",
+          "url": "https://www.semiconductor-digest.com/applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center/?utm_source=rss&utm_medium=rss&utm_campaign=applied-materials-and-ucla-to-collaborate-on-chip-rd-at-epic-center",
+          "summary": "Applied Materials, Inc. today announced that the UCLA Samueli School of Engineering will join the company’s EPIC Center in Silicon Valley as a research partner. Together with Appli…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-08T21:28:36.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e75b3fecc00a",
+          "title": "Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications",
+          "titleZh": "Microchip Introduces Parallel-Sensing Touch Controllers for Industrial Applications",
+          "url": "https://www.semiconductor-digest.com/microchip-introduces-parallel-sensing-touch-controllers-for-industrial-applications/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-introduces-parallel-sensing-touch-controllers-for-industrial-applications",
+          "summary": "As appliance and equipment manufacturers look for ways to reduce system costs, many are replacing displays with Human Machine Interfaces (HMIs) using high-end decoration and illumi…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-08T21:26:11.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c5cf5f75525f",
+          "title": "Astera Labs Unveils PCIe 7 Connectivity Chips for Next-Generation AI Systems",
+          "titleZh": "Astera Labs Unveils PCIe 7 Connectivity Chips for Next-Generation AI Systems",
+          "url": "https://www.semiconductor-digest.com/astera-labs-unveils-pcie-7-connectivity-chips-for-next-generation-ai-systems/?utm_source=rss&utm_medium=rss&utm_campaign=astera-labs-unveils-pcie-7-connectivity-chips-for-next-generation-ai-systems",
+          "summary": "Astera Labs, Inc. today announced the industry’s broadest PCIe 7 signal conditioning portfolio spanning smart retimers, redrivers, cable modules, optical drivers, and optical TIAs.…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-08T21:14:30.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aed9ccfefc9d",
+          "title": "GlobalFoundries, TSMC Strike $2B Deal for U.S. AI Chip Packaging Components",
+          "titleZh": "GlobalFoundries, TSMC Strike $2B Deal for U.S. AI Chip Packaging Components",
+          "url": "https://www.semiconductor-digest.com/globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components/?utm_source=rss&utm_medium=rss&utm_campaign=globalfoundries-tsmc-strike-2b-deal-for-u-s-ai-chip-packaging-components",
+          "summary": "GlobalFoundries (Nasdaq: GFS) (GF) today announced a manufacturing agreement with TSMC to establish a U.S.-based supply of silicon interposers for TSMC’s CoWoS advanced packaging e…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-08T21:10:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "9da41cf47202",
+          "title": "Rare Chinese calligraphy scroll resurfaces after 81 years, sells for US$22.6 million",
+          "titleZh": "Rare Chinese calligraphy scroll resurfaces after 81 years, sells for US$22.6 million",
+          "url": "https://www.scmp.com/news/china/article/3370197/rare-chinese-calligraphy-scroll-resurfaces-after-81-years-sells-us226-million?utm_source=rss_feed",
+          "summary": "A rare work of Chinese calligraphy long presumed destroyed in the chaos of 1945 only to resurface 81 years later, fetched HK$177.45 million (US$22.6 million) in Hong Kong on Wednes…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-09T02:00:13.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e8e845c07e46",
+          "title": "How quickly is China learning from the Ukraine war’s latest drone tactics?",
+          "titleZh": "How quickly is China learning from the Ukraine war’s latest drone tactics?",
+          "url": "https://www.scmp.com/news/china/military/article/3370212/how-quickly-china-learning-ukraine-wars-latest-drone-tactics?utm_source=rss_feed",
+          "summary": "China is running the most systematic effort of any outside power to learn from the drone war in Ukraine, with military and defence-industry analysts typically writing up new battle…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-09T01:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "58b96876723e",
+          "title": "Flavio Bolsonaro says he would work with China and US as Brazil’s president",
+          "titleZh": "Flavio Bolsonaro says he would work with China and US as Brazil’s president",
+          "url": "https://www.scmp.com/news/world/americas/article/3370246/flavio-bolsonaro-says-he-would-work-china-and-us-brazils-president?utm_source=rss_feed",
+          "summary": "Flavio Bolsonaro said he would work with the US and China if he becomes Brazil’s president, after a surprise election performance left him poised to join a wave of conservative lea…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-08T23:37:31.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba8be71cd750",
+          "title": "Synopsys looks to work with Chinese AI labs to speed up chip design - Nikkei Asia",
+          "titleZh": "Synopsys looks to work with Chinese AI labs to speed up chip design - Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMlRhMzNhUERSSUFaeEhNQV9BajFMUnlmMGg1QmFfMVE0dGNkdlBYQUZaNDBFbEc2ZkhpNFI3THJqaDhiMDNZbmRoV0J0cnZpei1QRFFSQ3ZUYmVRZDB5Q3BCVEhGQnE3U0MwalJybXZadDJKN3p2c1k4bHJYb0JzbXNYZlRVUXAtUmFQUDJWX0Z0UDB3Q3d0NmJRTzJFbFV0Z2pWXzRUWE9LNkZhSXFzU3RhdFdBeVY0eE9fXw?oc=5",
+          "summary": "Synopsys looks to work with Chinese AI labs to speed up chip design Nikkei Asia",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-10-08T18:13:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "日经亚洲",
+              "url": "https://asia.nikkei.com/business/tech/semiconductors/synopsys-looks-to-work-with-chinese-ai-labs-to-speed-up-chip-design"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "76e78f2f0b3a",
+          "title": "NIH revives network to study emerging diseases—but its new restrictions baffle scientists",
+          "titleZh": "NIH revives network to study emerging diseases—but its new restrictions baffle scientists",
+          "url": "https://www.science.org/content/article/nih-revives-network-study-emerging-diseases-its-new-restrictions-baffle-scientists",
+          "summary": "Ban on hunting for new viruses in wildlife is at odds with program’s mission, researchers say",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-08T12:45:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4c68cd1c95a1",
+          "title": "NIH ends 2026 with a boost for early-career researchers, but new awards are down overall",
+          "titleZh": "NIH ends 2026 with a boost for early-career researchers, but new awards are down overall",
+          "url": "https://www.science.org/content/article/nih-ends-2026-boost-early-career-researchers-new-awards-are-down-overall",
+          "summary": "The agency spent its full budget, but left many applicants out of luck",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-08T11:55:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "a895a68cbc58",
+          "title": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
+          "titleZh": "Harness bought Augment’s coding agents. The best feature hasn’t shipped yet.",
+          "url": "https://thenewstack.io/harness-augment-cosmos-acquisition/",
+          "summary": "Harness announced Thursday that it acquired Augment Code&rsquo;s Cosmos software factory, Auggie CLI and Code Context Engine, along with the team behind them, for an undisclosed am…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-08T21:38:41.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a39735a3c1d3",
+          "title": "Claude can now build your dashboards",
+          "titleZh": "Claude can now build your dashboards",
+          "url": "https://thenewstack.io/claude-dashboards-data-motion/",
+          "summary": "A month after OpenAI gave ChatGPT Work a data agent that builds dashboards, Anthropic on Thursday shipped its own version. Claude Dashboards , now in beta, lets users build live da…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-08T19:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a4166e5a7db7",
+          "title": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
+          "titleZh": "GitHub Copilot is going local — but Microsoft won’t say what gets sent to the cloud",
+          "url": "https://thenewstack.io/https-thenewstack-io-copilot-local-inference-routing/",
+          "summary": "GitHub Copilot will soon decide whether coding tasks run locally or get sent to cloud models , with automatic routing expected by the end of October. Microsoft outlined the plan We…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-08T17:49:31.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a4c3487bd50",
+          "title": "How one bug bounty researcher chooses the features they investigate",
+          "titleZh": "How one bug bounty researcher chooses the features they investigate",
+          "url": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+          "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to spotlight one of the top-performing security researchers participating in the GitHub Security…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-08T17:02:52.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "ea66bc8b9562",
+    "7ca616f5c997",
+    "e474541e77ab"
+  ],
+  "stats": {
+    "itemsConsidered": 37,
+    "itemsPublished": 36,
+    "itemsFiltered": 1,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 69,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
