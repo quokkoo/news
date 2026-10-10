@@ -1,0 +1,1236 @@
+{
+  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T01:53:47.276Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 73 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "600f7c64686d",
+        "reason": "Latent Space，规则排序分数最高"
+      },
+      {
+        "itemId": "aeea0ba84d6e",
+        "reason": "Interconnects，规则排序分数最高"
+      },
+      {
+        "itemId": "ff1657d1eac0",
+        "reason": "Astral Codex Ten，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "39b1469c6432",
+          "title": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
+          "titleZh": "万亿估值背后的“数字口径游戏”：OpenAI与Anthropic的营收竟然无法直接比较",
+          "url": "https://wallstreetcn.com/articles/3783309",
+          "summary": "当AI行业两大巨头的核心财务指标无法进行苹果对苹果的比较，投资者正面临一场信息迷雾。 OpenAI预计年化营收将在年底达到或超过700亿美元，Anthropic则于今年7月宣布年化营收已触及650亿美元。然而据彭博10月10日报道，这两个数字根本无法直接比较——两家公司对同一指标采用了截然不同的口径。 Anthropic将通过亚马逊等云合作伙伴产生的销售总额…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T01:30:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "34f87d4ee03a",
+          "title": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？",
+          "titleZh": "英伟达悄然重新定义自由现金流，千亿回购计划暗藏水分？",
+          "url": "https://wallstreetcn.com/articles/3783308",
+          "summary": "英伟达一个措辞上的细微变化，正在重塑投资者对这家芯片巨头财务健康状况的理解。 今年9月28日，英伟达宣布将股票回购授权规模扩大1500亿美元至2350亿美元，并在公告中悄然嵌入一句关键表述——\"我们将以净超出战略用途的自由现金流（excess free cash flow net of strategic uses）形式回馈股东\"。据《华尔街日报》报道，这句…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T01:10:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eebc53d42d71",
+          "title": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
+          "titleZh": "AI回报疑虑暂退，标普纳指反弹，Lumentum领涨光通信股，电信股重挫，油价“过山车”",
+          "url": "https://wallstreetcn.com/articles/3783254",
+          "summary": "围绕人工智能支出的恐慌在24小时内完成反转。OpenAI营收口径之争出现新说法，前一天被这条消息砸下去的芯片与云服务商当天拿到逢低买盘。 与此同时，特朗普宣布俄罗斯将向全球市场释放柴油供应，盘中冲高的油价随之回落，长端美债收益率继续在24年高位附近徘徊。 道琼斯工业平均指数涨0.83%收于51654.95点，标普500指数涨0.59%收于7811.54点，纳…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T23:05:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "367f6b2af01a",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月10日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月10日",
+          "url": "https://wallstreetcn.com/articles/3783293",
+          "summary": "华见早安之声 要闻精选 中欧贸易投资磋商在京举行并公布成果共识：就混动汽车贸易达成谅解，进一步强化出口管制对话，愿为稀土永磁体出口审批提供便利。 中国商务部评美召集部分经济体发布应对所谓“结构性产能和生产过剩”问题联合声明：反对个别国家以所谓“产能过剩”为名，行贸易保护主义之实。 中共中央、国务院发文提出发展新质生产力举措，支持科技企业上市融资、优化并购重组…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T23:01:32.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7777be2d94b2",
+          "title": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
+          "titleZh": "美国农业部意外上调玉米产量预估，玉米期货盘中暴跌6%创三年最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3783302",
+          "summary": "美国农业部意外上调玉米产量预估，令市场措手不及，玉米期货随即录得近三年来最大单日跌幅，相关农业板块股票亦全线承压。 10月9日，美国农业部将本年度玉米产量预估上调至约160亿蒲式耳，较上月增加1%。 这一结果与彭博调查分析师预测的157.3亿蒲式耳相比大幅偏高，与大多数分析师此前预期的下调形成鲜明反差，令多头猝不及防。 玉米期货盘中一度下跌6%，触及470.…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-09T23:02:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0176246810f5",
+          "title": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+          "titleZh": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of American families",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20261009a.htm",
+          "summary": "Federal Reserve Board releases results of the 2025 Survey of Consumer Finances, which provides the public and policymakers with detailed insights into the economic condition of Ame…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-10-09T14:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "600f7c64686d",
+          "title": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+          "titleZh": "Why AlphaFold Didn't Solve Protein Folding — Pushmeet Kohli, Google DeepMind & Sal Candido, Biohub",
+          "url": "https://www.latent.space/p/biohub-deepmind",
+          "summary": "From the Bitter Lesson of AI scaling to the unsolved mysteries of protein folding , Google DeepMind’s Pushmeet Kohli and Biohub’s Sal Candido are rethinking what it takes to build …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-10T00:31:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aeea0ba84d6e",
+          "title": "I expect rapid progress but not towards general superintelligence",
+          "titleZh": "I expect rapid progress but not towards general superintelligence",
+          "url": "https://www.interconnects.ai/p/i-expect-rapid-progress-but-not-towards",
+          "summary": "I’ve often been surprised when I hear from top researchers in industry that they think AI will be better than them at their job in a few years, and I didn’t really know why I doubt…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-10-09T21:33:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ea39bf787b95",
+          "title": "Deno is joining Cloudflare",
+          "titleZh": "Deno is joining Cloudflare",
+          "url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare/",
+          "summary": "Deno is joining Cloudflare The Deno team released the first version of celld back in August - their open source implementation of the Durable Objects pattern from Cloudflare Worker…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-09T22:48:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0c171dd7aeba",
+          "title": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "titleZh": "A Cray-1 supercomputer replica from 30 \"obsolete\" Mac Minis",
+          "url": "https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/",
+          "summary": "The Museo de Historia de la Computación in Spain has unveiled a 1:1 scale visual replica of the famous Cray-1 supercomputer from 1976. Instead of sourcing expensive, cutting-edge t…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-09T21:51:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a343e3a4f335",
+          "title": "AI disqualification yields new Nikon Small World in Motion winner",
+          "titleZh": "AI disqualification yields new Nikon Small World in Motion winner",
+          "url": "https://arstechnica.com/science/2026/10/winning-nikon-small-world-in-motion-video-disqualified-for-ai-use/",
+          "summary": "Credit: Nguyen Nam Nhat. Last month we covered the winner of Nikon's Small World in Motion video: Ning Xu of Tsinghua University in China, whose video captured tiny cilia beating i…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-09T18:44:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fab0ac226409",
+          "title": "Neanderthal wooden tools from Spain found preserved in stone",
+          "titleZh": "Neanderthal wooden tools from Spain found preserved in stone",
+          "url": "https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/",
+          "summary": "The Stone Age owes its name to tools that survived to our time. The material early humans worked with most, though, was probably wood because it is so much easier to process. Unfor…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-09T22:34:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9cf515c949ea",
+          "title": "What's been driving Hawaii's lava fountains?",
+          "titleZh": "What's been driving Hawaii's lava fountains?",
+          "url": "https://arstechnica.com/science/2026/10/whats-been-driving-hawaiis-lava-fountains/",
+          "summary": "In most cases, hotspot-driven volcanism is relatively sedate, with lava flowing down mountainsides slowly enough that people can walk out of its way. But in a number of locations—M…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-09T21:05:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6a9d9f12aa4b",
+          "title": "AI coding agents generate more code, but not more software",
+          "titleZh": "AI coding agents generate more code, but not more software",
+          "url": "https://arstechnica.com/ai/2026/10/ai-coding-agents-generate-more-code-but-not-more-software/",
+          "summary": "Anyone who has even tangentially associated with computer programming knows that modern AI coding assistants and agents can be incredibly efficient at generating huge amounts of fu…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-09T19:43:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "17cf08dd87fc",
+          "title": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+          "titleZh": "U.S. official: Trump cut deal with Putin after Zelensky ignored his requests",
+          "url": "https://www.axios.com/2026/10/10/trump-zelensky-putin-diesel-deal-war",
+          "summary": "President Trump decided to make a diesel fuel deal with Russia after Ukrainian President Volodymyr Zelensky ignored half a dozen U.S. requests to stop attacking Russian oil refiner…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-10T00:35:12.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "04ac659c67b6",
+          "title": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+          "titleZh": "硅谷大模型不装了：Claude卷价格，GPT学豆包",
+          "url": "https://www.huxiu.com/article/4896317.html?f=rss",
+          "summary": "本文来自微信公众号： AIX财经 ，作者：AIX财经团队，编辑：魏佳 10美分的Claude、0元的GPT，美国AI也搞起“百亿补贴”。 AIX财经（AIXcaijing）原创 过去两年，说起大模型的“价格屠夫”，没人会想到Claude。 DeepSeek把百万tokens的价格打到几毛钱，逼着国内厂商一轮轮跟降，让“大模型用不起”成了旧闻，便宜也几乎成了国…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-10T00:38:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8163462.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c513f2703283",
+          "title": "调休这笔账，为什么怎么算都觉得亏？",
+          "titleZh": "调休这笔账，为什么怎么算都觉得亏？",
+          "url": "https://www.huxiu.com/article/4896308.html?f=rss",
+          "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 今天是10月10日，星期六。闹钟响起的时候，不少打工人的第一反应大概是：手机是不是搞错了？明明已经熬到周末，怎么还要爬起来上班？打开日历一看，没错，今天补班。国庆7天长假才刚结束，旅行照片还在朋友圈里，买回来的特产可能都没吃完，周末却已经先被拿走了一天。 按照今年的放假安排，国庆节10月1日至7日放假…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T23:35:46.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8163466.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59dda0e26724",
+          "title": "00后“戒断”AI短剧：一个月卸载了5次",
+          "titleZh": "00后“戒断”AI短剧：一个月卸载了5次",
+          "url": "https://www.huxiu.com/article/4896306.html?f=rss",
+          "summary": "本文来自微信公众号： 表外表里 ，编辑：陈梓洁、曹宾玲，作者：陈丽桦，题图来自：视觉中国 一个小时，可以背几十个英语单词，也能刷完一整季AI短剧。 正在备战考研的木兰崩溃了，明明拿起手机想打开的是学习软件，结果“误触”了红果。等她回过神来，一个下午已经过去了。 她又一次卸载了APP。这已经是本月第3次，而她知道还会有第4次、第5次、第N次…… AI短剧太上头…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-09T23:30:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8163363.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7efa9220ff95",
+          "title": "这个国庆，入境游增速第一，为什么是重庆？",
+          "titleZh": "这个国庆，入境游增速第一，为什么是重庆？",
+          "url": "https://www.huxiu.com/article/4896326.html?f=rss",
+          "summary": "本文来自微信公众号： TOP创新区研究院 ，作者：趋势研究组 这个国庆，携程的双节入境预订数据里，入境热门城市TOP10，增速第一的是重庆。 其实早在半年前，就有一个颇有影响力的网红美国经济学家Noah Smith写了一篇长文，其实他一直对中国并不友好，但唯独把重庆单独拎出来猛夸了一通。最后他说，自己很想去重庆待一阵。 底下很多人表示有同感。 重庆火，已经火…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-10T01:21:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "ff1657d1eac0",
+          "title": "Your Book Review: We Present Television",
+          "titleZh": "Your Book Review: We Present Television",
+          "url": "https://www.astralcodexten.com/p/your-book-review-we-present-television",
+          "summary": "[ This is one of the finalists in the 2026 book review contest, written by an ACX reader who will remain anonymous until after voting is done. I’ll be posting about one of these a …",
+          "whyItMatters": "",
+          "sourceName": "Astral Codex Ten",
+          "publishedAt": "2026-10-10T01:05:13.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7404402ecf66",
+          "title": "Weekly Dose of Optimism #214",
+          "titleZh": "Weekly Dose of Optimism #214",
+          "url": "https://www.notboring.co/p/weekly-dose-of-optimism-214",
+          "summary": "Cover image generated by Runway . Hi friends , Happy Friday and welcome back to our 214th Weekly Dose of Optimism! I took Dev to watch LeBron James’ first preseason game as a Sixe…",
+          "whyItMatters": "",
+          "sourceName": "Not Boring",
+          "publishedAt": "2026-10-09T12:48:52.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "db5c43d2f976",
+          "title": "The origin of risk",
+          "titleZh": "The origin of risk",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/the-origin-of-risk.html?utm_source=rss&utm_medium=rss&utm_campaign=the-origin-of-risk",
+          "summary": "From the QJE , by Alexandr Kopytov , Mathieu Taschereau-Dumouchel , and Zebang Xu : We propose a tractable model in which risk, at both the micro and macro levels, is endogenous an…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-09T18:20:57.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "f12efcaa92bd",
+          "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+          "titleZh": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI",
+          "url": "https://www.eetimes.com/manfred-horstmann-globalfoundries-bets-on-fdx-fusion-for-physical-ai/",
+          "summary": "GlobalFoundries today (Oct. 9) unveiled FDX Fusion in Dresden, a new generation of its fully depleted silicon-on-insulator (FD-SOI) technology aimed at physical AI. The bet is that…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-09T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e59dda992921",
+          "title": "Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium",
+          "titleZh": "Wristwatch-Type Wearable Sensor Enables Real-Time Monitoring of Sodium and Potassium",
+          "url": "https://www.semiconductor-digest.com/wristwatch-type-wearable-sensor-enables-real-time-monitoring-of-sodium-and-potassium/?utm_source=rss&utm_medium=rss&utm_campaign=wristwatch-type-wearable-sensor-enables-real-time-monitoring-of-sodium-and-potassium",
+          "summary": "Sweat can serve as a real-time source of information about the body’s current state. For example, wearable sensors designed to measure sodium and potassium in sweat could provide b…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-09T22:06:09.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ada7aa0025aa",
+          "title": "Microchip Technology Acquires VORAGO Technologies",
+          "titleZh": "Microchip Technology Acquires VORAGO Technologies",
+          "url": "https://www.semiconductor-digest.com/microchip-technology-acquires-vorago-technologies/?utm_source=rss&utm_medium=rss&utm_campaign=microchip-technology-acquires-vorago-technologies",
+          "summary": "Microchip Technology Incorporated, a broadline supplier of semiconductors committed to making innovative design easier through total system solutions, today announced that it has a…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-09T20:55:56.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e4aa62619cb4",
+          "title": "GF Unveils Roadmap to Deliver the World’s Most Advanced FD-SOI Platform for Physical AI",
+          "titleZh": "GF Unveils Roadmap to Deliver the World’s Most Advanced FD-SOI Platform for Physical AI",
+          "url": "https://www.semiconductor-digest.com/gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai/?utm_source=rss&utm_medium=rss&utm_campaign=gf-unveils-roadmap-to-deliver-the-worlds-most-advanced-fd-soi-platform-for-physical-ai",
+          "summary": "GlobalFoundries today unveiled plans for its new FDX Fusion FD-SOI platform, purpose-built for the evolving requirements of Physical AI. Designed to be the world’s most advanced FD…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-09T20:31:37.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "b650314c2a41",
+          "title": "Modi and Xi can’t bridge the India-China divide by themselves",
+          "titleZh": "Modi and Xi can’t bridge the India-China divide by themselves",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3370033/modi-and-xi-cant-bridge-india-china-divide-themselves?utm_source=rss_feed",
+          "summary": "Last month, President Xi Jinping travelled to New Delhi to attend the Brics summit – his first visit in seven years. On the summit’s sidelines, Xi and Indian Prime Minister Narendr…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-10T01:30:04.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7f5aaffc6201",
+          "title": "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
+          "titleZh": "New Taipei-Hong Kong subsea route opened to cut risk and meet AI demand",
+          "url": "https://www.scmp.com/news/china/science/article/3370149/new-taipei-hong-kong-subsea-route-opened-cut-risk-and-meet-ai-demand?utm_source=rss_feed",
+          "summary": "One of the world’s biggest network service providers has opened a new subsea route between Taipei and Hong Kong to strengthen the system against repeated underwater cable disruptio…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-10T01:00:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "11618365057e",
+          "title": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+          "titleZh": "Kurt Campbell on US’ China focus, the Indo-Pacific Quad, risks of AI",
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3370379/kurt-campbell-us-china-focus-indo-pacific-quad-risks-ai?utm_source=rss_feed",
+          "summary": "Kurt Campbell is a veteran US diplomat and strategist who has played a leading role in shaping Washington’s approach to China and the Indo-Pacific for more than a decade. He served…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-10T00:01:05.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "0cb346a86602",
+          "title": "Clean-energy super PAC names its target list for general elections",
+          "titleZh": "Clean-energy super PAC names its target list for general elections",
+          "url": "https://www.canarymedia.com/articles/politics/clean-energy-super-pac-target",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Midterm elections are less than a month away. For the Invest in Tomorro…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-09T17:33:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5210d7ba088a",
+          "title": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
+          "titleZh": "Factcheck: UK Conservatives double the ‘cost of net-zero’ after spreadsheet blunder",
+          "url": "https://www.carbonbrief.org/factcheck-uk-conservatives-double-the-cost-of-net-zero-after-spreadsheet-blunder",
+          "summary": "A booklet published by the UK’s opposition Conservative party includes a “cost of net-zero” that appears to have been doubled by a spreadsheet error. The “common sense” policy docu…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-09T06:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "38a36be5a48e",
+          "title": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+          "titleZh": "Problems in 22 scientific fields had solutions hiding in plain sight. An AI has found them",
+          "url": "https://www.science.org/content/article/problems-22-scientific-fields-had-solutions-hiding-plain-sight-ai-has-found-them",
+          "summary": "Teams led by physicist used “BootLoops” software to produce 36 papers in weeks on everything from linguistics to health policy",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-09T11:35:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e87e676b1521",
+          "title": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
+          "titleZh": "STAT+: Hospitals sue – again – to halt Trump administration’s 340B rebate pilot",
+          "url": "https://www.statnews.com/2026/10/09/hospitals-sue-to-halt-340b-rebate-pilot-trump/?utm_campaign=rss",
+          "summary": "The American Hospital Association is once again suing the Trump administration over its plan to test revamping a federal drug discount program into one that provides after-the-fact…",
+          "whyItMatters": "",
+          "sourceName": "STAT News",
+          "publishedAt": "2026-10-09T20:27:27.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": true,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "d98960e76d3c",
+          "title": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+          "titleZh": "Kubernetes on cgroup v1 is dead. Here’s what comes next.",
+          "url": "https://thenewstack.io/kubernetes-node-swap-ai/",
+          "summary": "Welcome back to another edition of Road to KubeCon , where we’re tracking the latest movements in the cloud-native ecosystem as we prepare for KubeCon + CloudNativeCon North Americ…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-09T20:15:46.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8d571ba3c8cb",
+          "title": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+          "titleZh": "Cloudflare acquires Node.js creator’s startup that copied its serverless playbook",
+          "url": "https://thenewstack.io/cloudflare-acquires-deno-ryan-dahl/",
+          "summary": "Cloudflare is buying the startup co-founded by Node.js creator Ryan Dahl , a longtime competitor that recently built its own open-source version of Cloudflare’s serverless computin…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-09T18:52:36.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "93ed57a5b059",
+          "title": "Hack the World: Why hackathons are still the best place to learn to build",
+          "titleZh": "Hack the World: Why hackathons are still the best place to learn to build",
+          "url": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+          "summary": "Someone bursts through the door and announces, &ldquo;There&rsquo;s pizza!&rdquo; Nearby, a team has duct tape and cardboard holding its prototype together. Another is debugging a …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-09T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "64ee7f7fe597",
+          "title": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+          "titleZh": "Amazon ECS now auto-repairs failing GPUs and instances. Here’s why it matters for SREs.",
+          "url": "https://thenewstack.io/amazon-ecs-auto-repair/",
+          "summary": "Running applications in production means maintaining an “always-on” posture through disruptions. Infrastructure fails; dependencies slow down, and networks partition, not as rare e…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-09T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "c323139e2592",
+          "title": "How Amazon Fall Prime Day went for sellers",
+          "titleZh": "How Amazon Fall Prime Day went for sellers",
+          "url": "https://www.modernretail.co/marketing/how-amazon-fall-prime-day-went-for-sellers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "Once again, Amazon’s fall Prime Big Deals Days event kicked off the holiday shopping season early. The fall sale, held from October 6 to 7, helped drive major online sales growth a…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-10-09T19:30:33.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e9098e2f9b76",
+          "title": "As U.S. blocks DJI, Insta360 races to win American creators",
+          "titleZh": "As U.S. blocks DJI, Insta360 races to win American creators",
+          "url": "https://restofworld.org/2026/insta360-us-dji-sanctions-drones-cameras/?utm_source=rss&utm_medium=rss&utm_campaign=feeds",
+          "summary": "On a Saturday morning in September, dozens of people lined up in New York City’s Times Square to check out pocket-sized cameras made by Chinese camera maker Insta360. YouTubers fle…",
+          "whyItMatters": "",
+          "sourceName": "Rest of World",
+          "publishedAt": "2026-10-09T10:00:00.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "600f7c64686d",
+    "aeea0ba84d6e",
+    "ff1657d1eac0"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 39,
+    "itemsFiltered": 0,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 73,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
