@@ -1,0 +1,777 @@
+{
+  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T01:12:22.584Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 25 条，覆盖 前沿科技与 AI 产业、宏观经济与资本市场、深度长文与思考、商业模式与行业深度等 5 个领域，全部读完约需 63 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "db751bd32400",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "0be4420e9a40",
+        "reason": "华尔街见闻，规则排序分数最高"
+      },
+      {
+        "itemId": "7e19b6e44f5c",
+        "reason": "Latent Space，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "0be4420e9a40",
+          "title": "沙特利雅得机场遇袭造成12人死亡309人受伤，特朗普称美国有可能加入对胡塞武装的打击",
+          "titleZh": "沙特利雅得机场遇袭造成12人死亡309人受伤，特朗普称美国有可能加入对胡塞武装的打击",
+          "url": "https://wallstreetcn.com/articles/3783345",
+          "summary": "利雅得机场连续遭袭，伤亡持续扩大，特朗普公开表态美国或介入，局势骤然升温。 据环球时报消息，沙特阿拉伯民航总局11日发布声明指出，利雅得哈立德国王国际机场10日遇袭造成12人死亡、309人受伤。死伤者包括多国公民，目前尚无中国公民伤亡报告。机场已暂停运营，以完成损失评估并检查设施安全。 就在同日，美国总统特朗普在谈及此次袭击事件时表示，美国“可能”加入沙特针…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-11T01:01:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9f6f43c55a19",
+          "title": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件",
+          "titleZh": "四部委征求意见稿：禁止隐藏式车门把手，关键功能保留实体操纵件",
+          "url": "https://wallstreetcn.com/articles/3783341",
+          "summary": "10月10日，中国工业和信息化部、公安部、生态环境部、市场监管总局联合发布征求意见稿，拟对汽车产品创新设计和研发测试验证实施全面强化管理。 征求意见稿明确提出，禁止配备全隐藏式车门把手；灯光、雨刮、除霜除雾等关键驾驶安全功能在采用虚拟操纵件的同时，必须保留实体操纵件；折叠显示屏、柔性显示屏被明确禁止；行车时不得使用\"零重力\"座椅、旋转座椅或座椅放倒成床等功能…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T12:13:11.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c96f927b52c",
+          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+          "titleZh": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+          "url": "https://wallstreetcn.com/articles/3783332",
+          "summary": "美股表面平静之下，一场滚动式熊市正在悄然蔓延。 野村证券跨资产策略师Charlie McElligott在10月8日的报告中警告，标普500指数近两个月几乎原地踏步，但85%的成分股已陷入技术性调整，指数的\"平静\"不过是极度集中的市场结构所制造的幻觉。 McElligott指出，仅十只股票就贡献了标普500自3月30日以来23%涨幅的70%，其中英伟达一家独…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T10:23:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b47a43df40b",
+          "title": "Justice Department probes TV networks over Trump pool coverage - Reuters",
+          "titleZh": "Justice Department probes TV networks over Trump pool coverage - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTTFvTk9IcGl4dTJsZ2ZfTkdNSUNURFcxclFramhLaTUzOEw0cU05NTZPOHFWZ2N0RkdSZ1dUT3FLRTFNS0RFSXdLQWJCYzdtcUFxQTVtWDVGTmdLWXZlWXBFSHl2X3hIM1JrRDAxWllPa04zZkhUX2J6Ujd3QzFEVWdXaUlHRDBidC1zNXFEYjdNbEZ4SldnMU9rbmZxdVVHUHUtcDlIQnEycHlmOV9oOV80RFh1WlJMV3diVWdEVGc1TjNJV3c3RmtoeUR4VUVWT2c?oc=5",
+          "summary": "Justice Department probes TV networks over Trump pool coverage Reuters",
+          "whyItMatters": "",
+          "sourceName": "Reuters（经 Google News）",
+          "publishedAt": "2026-10-10T23:10:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "834bf80523e3",
+          "title": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+          "titleZh": "“芯片大佬”Pat Gelsinger：从存储、光互联、电气到网络架构，当下是硬件创新的黄金时代",
+          "url": "https://wallstreetcn.com/articles/3783326",
+          "summary": "在AI重塑全球算力版图的当下，前英特尔CEO Pat Gelsinger一针见血地指出：AI让芯片设计变得简单，但制造、内存与能源的物理瓶颈正引发一场史无前例的硬件复兴。 10月9日，硅谷创投机构a16z 播出一期深度访谈节目。在对谈中，Playground Global普通合伙人、前英特尔CEO Pat Gelsinger与a16z的Raghu Raghu…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T08:35:34.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "303c93ba7a4c",
+          "title": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
+          "titleZh": "前三季基金业绩揭榜: 半导体吃肉、原油喝汤、医药复兴",
+          "url": "https://wallstreetcn.com/articles/3783324",
+          "summary": "2026年前三季度，A股市场在半导体国产替代与AI算力浪潮的双重驱动下走出结构性行情，由此，公募基金业绩榜单（前三季）也随之呈现鲜明的\"科技+资源\"双主线格局。 根据官方公布的净值和收益水平，今年前三季度的主动权益基金中，易方达旗下的杨宗昌、汇安基金陈思余、诺安基金左少逸、财通基金金梓才等发挥较为出色，领涨全市场； 被动指数端，半导体材料设备主题ETF霸榜；…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-10T08:27:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "db751bd32400",
+          "title": "Dwarf Fortress uses version control now",
+          "titleZh": "Dwarf Fortress uses version control now",
+          "url": "https://simonwillison.net/2026/Oct/11/dwarf-fortress/",
+          "summary": "I remember hearing a while ago that Dwarf Fortress didn't use version control. That fact has been lodged in my head, because given its inherent complexity I have trouble imagining …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-11T00:52:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e19b6e44f5c",
+          "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+          "titleZh": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+          "url": "https://www.latent.space/p/standard-bots",
+          "summary": "When you think of robotics and AI, you probably first think of full humanoid robots like Figure’s AI-powered machines and 1X’s NEO home robots . Those may well be the future, but a…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-10T14:04:11.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0568298738fc",
+          "title": "Python 3.15.0 added to actions/python-versions",
+          "titleZh": "Python 3.15.0 added to actions/python-versions",
+          "url": "https://simonwillison.net/2026/Oct/10/python-actions/",
+          "summary": "Python 3.15.0 added to actions/python-versions Bit of a niche link, but I've been waiting for this for a couple of days - I even told ChatGPT to check for it: Clone https://github.…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-10T23:58:04.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d6f4214fa2c0",
+          "title": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+          "titleZh": "[Subscriber Exclusive] NYC Subscriber Meetups!",
+          "url": "https://www.latent.space/p/nyc2026",
+          "summary": "If you’re seeing this you’re part of our very very light subscription/paid tier, and we genuinely appreciate you: your donations have funded our production process indefinitely and…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-10T22:07:17.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba7a25f20285",
+          "title": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+          "titleZh": "马斯克豪言 SpaceX 估值将超1000万亿美元，遭拉表打脸；传腾讯字节加速个人智能体研发；四部门拟禁止汽车采用全隐藏式门把手",
+          "url": "http://www.geekpark.net/news/372216",
+          "summary": "马斯克豪言 SpaceX 估值超 1000 万亿美元，惨遭拉表打脸 近日，马斯克在社交平台大胆预测，SpaceX 未来估值有望突破 1000 万亿美元，体量将远超当前全球经济总量。目前 SpaceX 估值仅约 2.2 万亿美元，而 2025 年全球 GDP 总量约 118 万亿美元，此番极具颠覆性的超高估值言论引发全网热议与质疑。 面对这一惊人预测，有网友晒…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-10-11T00:53:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f199d1968f29",
+          "title": "A city-building game in which the city would prefer you didn't",
+          "titleZh": "A city-building game in which the city would prefer you didn't",
+          "url": "https://housing.over.pizza/",
+          "summary": "Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 161 # Comments: 60",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-10-10T20:31:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "28b0f7b6d0d3",
+          "title": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+          "titleZh": "早报｜曝苹果iPhone Duo加单30%/四部门拟禁全隐藏式车门把手/长鑫首款服务器产品或年底推出",
+          "url": "https://www.ifanr.com/1683829?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "库克现身广州，探班 iPhone 18 Pro 咏春短片拍摄现场 曝苹果 iPhone Duo 加单 30%，Pro 系列总订单量不变 苹果第二期中国清洁能源基金扩容至 2.12 亿美元 四部门拟禁全隐藏式车门把手，要求车企如实宣传使用边界 字节据报加速个人 AI 智能体，拟将 Spell 与豆包结合 Meta 据报暂缓向 Anthropic 提供 AI 算…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-10-11T00:53:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c2e9a49bd9a9",
+          "title": "Attacks on Riyadh threaten Saudi confidence",
+          "titleZh": "Attacks on Riyadh threaten Saudi confidence",
+          "url": "https://www.semafor.com/article/10/11/2026/attacks-on-riyadh-threaten-saudi-confidence",
+          "summary": "The News Several people were wounded in another likely Houthi attack on Riyadh’s King Khalid International Airport on Saturday, the third strike this week on the gateway to Saudi A…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-10-10T21:42:46.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "eead9a05e825",
+          "title": "流媒体音乐巨头Spotify如何崛起？",
+          "titleZh": "流媒体音乐巨头Spotify如何崛起？",
+          "url": "https://www.huxiu.com/article/4896564.html?f=rss",
+          "summary": "本文来自微信公众号： XYY的读书笔记 ，作者：肖俨衍，原文标题：《【中文书首出版】流媒体音乐巨头Spotify如何崛起？》 本书中文版出版了，本文大约1万字，阅读需要15-20分钟 前言：说到消费互联网企业，我们能自然想到的是美国的Facebook，Google，Amazon。以及中国的腾讯，阿里巴巴，字节跳动等。起源于欧洲的知名企业凤毛麟角。本篇，我们来…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-11T00:45:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6351f8d4abe2",
+          "title": "Agent时代，费控为什么干不掉TMC？",
+          "titleZh": "Agent时代，费控为什么干不掉TMC？",
+          "url": "https://www.huxiu.com/article/4896563.html?f=rss",
+          "summary": "本文来自微信公众号： 环球旅讯 ，作者：金勇杰，原文标题：《Agent时代，费控为什么干不掉TMC？| 旅讯八点正》 上一篇内容发出后，有同行问我：“既然TMC的价值已经被重新定义为‘隐性过程成本’，那费控在这方面是不是更有优势？毕竟费控日常做的核心工作就是流程优化。 我过去一直认为，TMC的护城河是产品、协议价与服务网络，如今回头来看，这些都称不上真正的护…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-11T00:05:07.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "17100712d0d0",
+          "title": "重振造船业，美国把希望寄托给了韩国",
+          "titleZh": "重振造船业，美国把希望寄托给了韩国",
+          "url": "https://www.huxiu.com/article/4896562.html?f=rss",
+          "summary": "本文来自微信公众号： 江宁知府 ，作者：印闲生 在众多工业领域里，造船业堪称反映美国制造成本高昂的“集大成者”。 造船业有相当一部分的成本来自钢材，而美国的钢铁价格明显高于国际市场——特朗普钢铁关税进一步强化了价差。 造船业的上游供应链很长，即使砸钱新建一座现代化船厂，也解决不了周边供应商网络的问题。 造船业是劳动密集型行业，因美元币值被高估，任何牵扯用工成…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-11T00:02:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6e9704c3609c",
+          "title": "护工不是人：机器人给我们养老还有多远？",
+          "titleZh": "护工不是人：机器人给我们养老还有多远？",
+          "url": "https://www.tmtpost.com/8163930.html",
+          "summary": "（本文作者为 脑极体，钛媒体经授权发布） 文 | 脑极体 这篇文章的起因，是前不久我访问了一家机器人公司，对方提到，创业的起点是父亲住院时的一次照护经历。 他发现，即使是最亲近的人，也很难在照护一个病人时做到面面俱到，于是开始琢磨，有没有一种机器，可以让我们老去的时候，更有尊严？ 这个念头很朴素，也跟大众对机器人的期待不谋而合。 过去两年，人形机器人在展会和…",
+          "whyItMatters": "",
+          "sourceName": "钛媒体",
+          "publishedAt": "2026-10-11T01:04:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dc3321561c5b",
+          "title": "390亿美元，全球具身智能顶流Figure的三重泡沫",
+          "titleZh": "390亿美元，全球具身智能顶流Figure的三重泡沫",
+          "url": "https://www.tmtpost.com/8163913.html",
+          "summary": "（本文作者为 数智奔流，钛媒体经授权发布） 文 | 数智奔流，作者 | 周易，编辑 | 沈校 这家加州总部占地30万平方英尺的全球机器人明星，10月份被福布斯一篇《Figure&rsquo;s Brett Adcock Sold Investors A Humanoid Future. Now He Has To Build It》，揭开了这家企业的估值泡沫…",
+          "whyItMatters": "",
+          "sourceName": "钛媒体",
+          "publishedAt": "2026-10-11T00:59:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.5,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "2732e0e96157",
+          "title": "Reading List 10/10/26",
+          "titleZh": "Reading List 10/10/26",
+          "url": "https://www.construction-physics.com/p/reading-list-101026",
+          "summary": "The Miraculous Draft of Fishes, by Konrad Witz, via Wikipedia . Welcome to the reading list, a weekly roundup of news and links related to buildings, infrastructure, and industrial…",
+          "whyItMatters": "",
+          "sourceName": "Construction Physics",
+          "publishedAt": "2026-10-10T14:55:48.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "346460093142",
+          "title": "California in-migration and out-migration",
+          "titleZh": "California in-migration and out-migration",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/california-in-migration-and-out-migration.html?utm_source=rss&utm_medium=rss&utm_campaign=california-in-migration-and-out-migration",
+          "summary": "Long-run U.S. population movements have been driven more by natural amenities than by jobs, and California, rich in both uniform and complementary climates, should be a persistent …",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-10T04:26:55.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b04215d764c2",
+          "title": "Saturday assorted links",
+          "titleZh": "Saturday assorted links",
+          "url": "https://marginalrevolution.com/marginalrevolution/2026/10/saturday-assorted-links-582.html?utm_source=rss&utm_medium=rss&utm_campaign=saturday-assorted-links-582",
+          "summary": "1. Chris Blattman’s practical AI for academics . 2. Platypus Economics on red diesel . 3. Those new service sector jobs, Indian cricket edition . 4. Will AI make us more technocrat…",
+          "whyItMatters": "",
+          "sourceName": "Marginal Revolution",
+          "publishedAt": "2026-10-10T16:34:52.000Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "49b603a608d6",
+          "title": "How to turn AI production feedback into better agents",
+          "titleZh": "How to turn AI production feedback into better agents",
+          "url": "https://thenewstack.io/ai-agent-evaluation-loop/",
+          "summary": "Your agent is live. The service is healthy. But are its answers getting better? By connecting production traces, curated data, and evaluations, your team can find failures, choose …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-10T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f9c9d790c8cc",
+          "title": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+          "titleZh": "Microsoft skipped OpenAI’s decision model and built its own on Alibaba’s Qwen",
+          "url": "https://thenewstack.io/microsoft-decision-model-foundry/",
+          "summary": "Microsoft on Friday launched Microsoft-Decision-1 in Foundry, three days after OpenAI opened its Decisions API to every developer in public beta. Microsoft post-trained the decisio…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-10T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "812360169fb1",
+          "title": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+          "titleZh": "Elon Musk’s Grok Bot will pick Claude over Grok when it’s better. One-model loyalty is dead.",
+          "url": "https://thenewstack.io/musk-claude-model-triage/",
+          "summary": "I’m Matt Burns, Chief Content Officer at Insight Media Group. Each week, I round up the most important AI developments, explaining what they mean for people and organizations putti…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-10T10:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.6,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "db751bd32400",
+    "0be4420e9a40",
+    "7e19b6e44f5c"
+  ],
+  "stats": {
+    "itemsConsidered": 25,
+    "itemsPublished": 25,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 63,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
