@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:08:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:21:38 GMT</lastBuildDate>
     <item>
-      <title>【2026-10-13 今日导读】</title>
+      <title>【2026-10-14 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-10-13</guid>
-      <pubDate>Tue, 13 Oct 2026 03:08:48 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 37 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 79 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-10-14</guid>
+      <pubDate>Wed, 14 Oct 2026 01:21:38 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 67 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>受美股存储大跌影响，韩股跌超7%，连续第二日重挫，SK海力士跌近8%</title>
-      <link>https://wallstreetcn.com/articles/3783492</link>
-      <guid isPermaLink="false">5438d6feb6f9</guid>
-      <pubDate>Tue, 13 Oct 2026 02:49:52 GMT</pubDate>
+      <title>Philip R. Lane: The AI opportunity for Europe</title>
+      <link>https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261013~9db9bf4fd6.en.html</link>
+      <guid isPermaLink="false">b1916d52a2b3</guid>
+      <pubDate>Tue, 13 Oct 2026 18:30:00 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>亚太股市周二大幅下挫，AI交易热情消退与存储芯片竞争压力双重夹击，韩国和日本科技股首当其冲，MSCI亚太指数创逾两个月新低。 中国内存芯片厂商长鑫科技在新型内存架构方面取得进展；与此同时，美国国债收益率维持高位，令市场对AI资本支出前景愈发担忧。 由于市场情绪疲软，周二韩国综合指数开盘下挫，随后跌幅扩大至7%，一度触发交易所Sidecar熔断机制，暂停程序化…
+      <description>Dinner remarks by Philip R. Lane, Member of the Executive Board of the ECB, at The International AI Summit Dublin, 13 October 2026 AI is a general purpose technology that can impro…
+
+来源：欧洲央行公告 · 宏观经济与资本市场 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>六成股票已跌入熊市，科技七巨头独撑标普！BTIG：美股距倒下也许只差“轻轻一推”</title>
+      <link>https://wallstreetcn.com/articles/3783578</link>
+      <guid isPermaLink="false">2b6c4dadb384</guid>
+      <pubDate>Wed, 14 Oct 2026 00:55:27 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>标普500指数距历史高点仅一步之遥，但这一平静表象之下，市场内部已严重分化。当前支撑指数的，几乎只剩下&quot;科技七巨头&quot;这一个支柱——而这恰恰也是市场最大的风险所在。 技术分析机构BTIG的Jonathan Krinsky在最新报告《最后的守门人》（Last Man Standing）中警告，科技七巨头是标普500中唯一尚未出现明显疲态的板块，也是当前市场持仓最…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>高盛：巴西大选首轮结果触发&quot;史上最繁忙一周&quot;，外资押注博索纳罗胜选</title>
+      <link>https://wallstreetcn.com/articles/3783575</link>
+      <guid isPermaLink="false">b9ce65d22a80</guid>
+      <pubDate>Wed, 14 Oct 2026 00:33:47 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>外资潮水般涌入巴西市场，高盛交易台将上周描述为&quot;巴西史上最繁忙的一周&quot;。这一切的导火索，是右翼参议员小博纳索罗在巴西大选首轮投票中意外领先卢拉，打破主流民调预期。 华尔街见闻提及，巴西基准股指Bovespa本月迄今累计上涨12.2%，并于上周五收于历史高点，创下2020年4月9日以来最大单周涨幅，同期标普500指数涨幅仅约2%。 追踪巴西股市的iShares…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>“重置大神”Tibo：AI“以人为本”，“一年内”将人类从“手机屏幕”解放</title>
-      <link>https://wallstreetcn.com/articles/3783498</link>
-      <guid isPermaLink="false">f20548a14494</guid>
-      <pubDate>Tue, 13 Oct 2026 02:47:02 GMT</pubDate>
+      <title>财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿</title>
+      <link>https://wallstreetcn.com/articles/3783492</link>
+      <guid isPermaLink="false">5438d6feb6f9</guid>
+      <pubDate>Tue, 13 Oct 2026 23:21:47 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>在10月初刚落幕的OpenAI 开发者大会（DevDay）上，全行业的目光都聚焦在那些能 24 小时常驻后台替人干活的智能体（Dots）上。市场普遍以为，一个功能更强大的超级助理，意味着人类将被更密集的交互、更复杂的界面和更频繁的弹窗进一步裹挟。 但在全球程序员口中被称为“重置大神”的 OpenAI 产品与平台负责人蒂博·索蒂奥（Thibault “Tibo…
+      <description>美股周二在多重压力下收盘分化，科技股持续落后于大盘，AI板块信贷成本上升的隐忧正从债券市场蔓延至权益市场。与此同时，中东局势升温推动油价反弹，叠加美联储官员立场分歧，令市场在明日CPI数据公布前夜保持高度警惕。 纽约联储主席John Williams表示，他仍认为今年再加息一次是合适的，但目前没有理由相信2027年之前需要进一步收紧政策。受美联储三把手讲话推…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>财报前夕，美银上调台积电目标价：2nm产能爬坡推高销售预期和利润率</title>
-      <link>https://wallstreetcn.com/articles/3783490</link>
-      <guid isPermaLink="false">c5a6793dcdc4</guid>
-      <pubDate>Tue, 13 Oct 2026 02:38:46 GMT</pubDate>
+      <title>谷歌Gemini 4 Argon全球上线，推广价截至11月底，Pro用户可在搜索AI模式体验</title>
+      <link>https://wallstreetcn.com/articles/3783572</link>
+      <guid isPermaLink="false">1f735108eeb7</guid>
+      <pubDate>Tue, 13 Oct 2026 23:03:30 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>台积电周四将公布三季度财报，美银美林预期台积电三季度营收超预期，2nm制程强劲爬坡成为核心驱动力，并在财报发布前夕上调目标价，维持买入评级。 据追风交易台，在美银美林10月12日发布的研究报告中，分析师Haas Liu将台积电美股（TSM）目标价从590美元上调至620美元（台股目标价从新台币3100元上调至3260元），并将2026至2028年每股盈利预测…
+      <description>谷歌将旗舰AI模型Gemini 4 Argon推向全球用户。在此前近三周仅向网络安全防御合作伙伴开放后，这款模型周二正式扩大开放范围，面向普通用户、开发者和企业提供服务。谷歌希望借助其在编程、复杂推理和网络安全领域的能力，进一步巩固在前沿AI竞争中的位置。 美东时间10月13日周二，谷歌宣布，Gemini 4 Argon已在全球范围内上线。Google AI…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>首发｜升级个人AI助理，千问将推出Personal Agent「千问Go！」</title>
-      <link>https://wallstreetcn.com/articles/3783466</link>
-      <guid isPermaLink="false">b12946a25b9f</guid>
-      <pubDate>Tue, 13 Oct 2026 02:00:00 GMT</pubDate>
+      <title>华尔街见闻早餐FM-Radio | 2026年10月14日</title>
+      <link>https://wallstreetcn.com/articles/3783569</link>
+      <guid isPermaLink="false">68540398c223</guid>
+      <pubDate>Tue, 13 Oct 2026 23:00:17 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>硬AI独家获悉，千问Personal Agent「千问Go！」即将发布。 在用户分享的体验视频中，它进入机票预订平台查找延误航班，与客服交涉后争取到70元现金赔付；也在淘宝中翻找满足价保条件的订单，为用户追回52元差价。 Muse的走红，让市场开始重新计算个人Agent的商业价值。Coding Agent之后，购物、出行和日常事务面向更广泛的用户。模型具备完…
+      <description>华见早安之声 要闻精选 重庆市委原副书记、市政府原市长黄奇帆涉嫌严重违纪违法，目前正接受中央纪委国家监委纪律审查和监察调查。 美联储三把手威廉姆斯称，今年可能再加息一次，但2027年没有必要继续加息。美联储理事沃勒：收益率上升帮助美联储抑制需求。 报道称日本央行官员倾向本月不再加息，避免罕见的连续加息，12月行动仍在考虑。 霍尔木兹海峡两周24艘船遭袭，胡塞…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>印度重启“货币保卫战”：央行接管石油巨头购汇，投机炒汇的空间被砍掉95%</title>
-      <link>https://wallstreetcn.com/articles/3783483</link>
-      <guid isPermaLink="false">02a5bb32f2ef</guid>
-      <pubDate>Tue, 13 Oct 2026 01:15:44 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>印度储备银行在周末推出一揽子卢比保卫措施，将国有石油公司每日高达2.5亿至4亿美元的购汇需求直接转移至央行资产负债表，同时重启4月危机期间启用的衍生品管制手段。 印度储备银行自2026年10月12日起开设专项窗口，直接通过指定银行向印度石油（IOC）、印度斯坦石油（HPCL）和巴拉特石油（BPCL）三家国有炼油商提供外汇，完全绕开即期市场。 据高盛新兴市场策…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>美股现疫情以来未见之情景！高盛：机构“恐慌性涌向价值股”，科技股资金流“急剧逆转”</title>
-      <link>https://wallstreetcn.com/articles/3783486</link>
-      <guid isPermaLink="false">de750fd769d8</guid>
-      <pubDate>Tue, 13 Oct 2026 00:31:55 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>美股表面平静之下，暗流汹涌。标普500指数虽距历史高点不足1%，但市场内部的分化程度已触及互联网泡沫破裂以来最差水平，机构投资者正以新冠疫情冲击以来从未有过的速度，争相涌入&quot;安全资产&quot;。 据高盛资金流向策略师Lee Coppersmith最新报告，高盛质量因子（GS Quality Factor）过去8周累计涨幅超过16%，这一量级的走势自2020年新冠疫情…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>How Anthropic’s Dynamic Workflows Coordinate Claude Agents</title>
-      <link>https://www.latent.space/p/claude-dynamic-workflows</link>
-      <guid isPermaLink="false">fa95141a1de9</guid>
-      <pubDate>Mon, 12 Oct 2026 18:18:17 GMT</pubDate>
+      <title>Redesigning source control at Anthropic</title>
+      <link>https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic/</link>
+      <guid isPermaLink="false">4a08fc1aeda4</guid>
+      <pubDate>Tue, 13 Oct 2026 23:00:06 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>CJ Avilla and Harrison Stall, Members of Technical Staff at Anthropic, at AI Engineer NYC today. The AI Engineer New York 2026 conference kicked off this morning with a series of w…
-
-来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Hello Python 3.15, goodbye 3.10, and now I can use 3.11</title>
-      <link>https://simonwillison.net/2026/Oct/12/python-3-15/</link>
-      <guid isPermaLink="false">dd74aacb97a1</guid>
-      <pubDate>Mon, 12 Oct 2026 18:15:38 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Python 3.15 is here ! Here&apos;s the essential What&apos;s new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source …
+      <description>Redesigning source control at Anthropic Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in ra…
 
 来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>39-year-old unvaccinated woman becomes 6th measles death in Pennsylvania</title>
-      <link>https://arstechnica.com/health/2026/10/39-year-old-unvaccinated-woman-becomes-6th-measles-death-in-pennsylvania/</link>
-      <guid isPermaLink="false">af1a2bb79d36</guid>
-      <pubDate>Mon, 12 Oct 2026 21:54:35 GMT</pubDate>
+      <title>Dyna-2: General Purpose Physical Agents with Hour-Long Autonomy — Jason Ma, Dyna Robotics</title>
+      <link>https://www.latent.space/p/dyna</link>
+      <guid isPermaLink="false">810e6dc8d959</guid>
+      <pubDate>Tue, 13 Oct 2026 22:25:55 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>A 39-year-old unvaccinated woman in Franklin County, Pennsylvania, has become the sixth person to die of the highly infectious virus amid a state outbreak that has stricken over a …
+      <description>Watch along AIE NYC and join us at AIE CODE in SF next month! This episode includes a live demo of the Taku robot that is best enjoyed on YouTube . Last month, Dyna made waves by a…
+
+来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>llm-gemini 0.35</title>
+      <link>https://simonwillison.net/2026/Oct/13/llm-gemini/</link>
+      <guid isPermaLink="false">29ff2f61c952</guid>
+      <pubDate>Tue, 13 Oct 2026 22:28:54 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Release: llm-gemini 0.35 I added support to llm-gemini for the new Gemini 4 Argon model, made available today via the Gemini API and for customers of their $100/month subscription …
+
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says</title>
+      <link>https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/</link>
+      <guid isPermaLink="false">3b6f6a9f9306</guid>
+      <pubDate>Tue, 13 Oct 2026 22:48:12 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Martin Shkreli—the ex-pharmaceutical executive infamous for illegally hiking the price of a lifesaving anti-parasitic drug by more than 4,000 percent and getting a seven-year priso…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Epic Games reportedly pivoting to &quot;AI first&quot; game development model</title>
-      <link>https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/</link>
-      <guid isPermaLink="false">436f9b4440dc</guid>
-      <pubDate>Mon, 12 Oct 2026 20:59:50 GMT</pubDate>
+      <title>Run fast, private agents on-device with LFM2.5-24B-A2B</title>
+      <link>https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b</link>
+      <guid isPermaLink="false">4308ee4ff7bf</guid>
+      <pubDate>Tue, 13 Oct 2026 17:05:48 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Epic Games is shifting to an &quot;AI first&quot; development strategy for its collaboration with the Walt Disney Company, letting AI models write all the code and guide all the artwork for …
+      <description>LFM2.5-24B-A2B is a 24B-parameter reasoning model with just 2B active parameters, built for fast, private agents on-device. It thinks before it answers, calls tools, and works thro…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>ESA targets Anbernic emulation handhelds as &quot;superfake&quot; piracy enablers</title>
+      <link>https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/</link>
+      <guid isPermaLink="false">913811d1578c</guid>
+      <pubDate>Tue, 13 Oct 2026 21:55:49 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>For years, Chinese hardware manufacturers have carved out a market niche with an array of handheld Android gaming devices focused on retro emulation and/or more modern game-streami…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>WHO report on Russian lab worker death highlights &quot;key uncertainty&quot;</title>
-      <link>https://arstechnica.com/health/2026/10/who-report-on-russian-lab-worker-death-highlights-key-uncertainty/</link>
-      <guid isPermaLink="false">ff3ce3f08d1e</guid>
-      <pubDate>Mon, 12 Oct 2026 18:46:43 GMT</pubDate>
+      <title>The Paris Auto Show is full of interesting cars Americans can’t have</title>
+      <link>https://arstechnica.com/cars/2026/10/europe-shows-a-better-alternative-to-big-suvs-at-the-paris-auto-show/</link>
+      <guid isPermaLink="false">e5ad221e980e</guid>
+      <pubDate>Tue, 13 Oct 2026 17:33:20 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Over the weekend, the World Health Organization released a disease outbreak report on the events surrounding the death of a Russian infectious disease researcher earlier this month…
+      <description>Perhaps the days when auto shows debuted new models aren’t entirely over. The big trade shows for cars were a gateway drug for many, expos where you could see the newest models of …
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Anthropic&apos;s Claude AI submitted false murder tip to Philadelphia police</title>
-      <link>https://arstechnica.com/tech-policy/2026/10/anthropics-claude-ai-submitted-false-murder-tip-to-philadelphia-police/</link>
-      <guid isPermaLink="false">21a801d4a0ac</guid>
-      <pubDate>Mon, 12 Oct 2026 18:21:36 GMT</pubDate>
+      <title>Google wants to host your personal vibe-coded apps in the Play Store</title>
+      <link>https://arstechnica.com/google/2026/10/google-wants-to-host-your-personal-vibe-coded-apps-in-the-play-store/</link>
+      <guid isPermaLink="false">025c548db1fc</guid>
+      <pubDate>Tue, 13 Oct 2026 17:00:39 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>An Anthropic AI model submitted a false tip about an unsolved murder to Philadelphia police, the company and police department confirmed on Friday. A Claude model sent the false ti…
+      <description>Google has already added a few AI features to the Play Store, but a lot more are coming . The previously released Ask Play feature is expanding to offer more AI-powered discovery o…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>After a 10-year redemption arc, No Man&apos;s Sky is coming to the iPhone and iPad</title>
-      <link>https://arstechnica.com/gaming/2026/10/after-a-10-year-redemption-arc-no-mans-sky-is-coming-to-the-iphone-and-ipad/</link>
-      <guid isPermaLink="false">9be692d374f1</guid>
-      <pubDate>Mon, 12 Oct 2026 20:26:14 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Just over 10 years after its initial release, space exploration and survival crafting game No Man&apos;s Sky is making its way to the iPhone and iPad, Apple and developer Hello Games an…
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>曝梁文锋密集见机器人创业者；影石出货量累计突破1000万台；Meta发布Muse Wonder模型｜极客早知道</title>
-      <link>http://www.geekpark.net/news/372264</link>
-      <guid isPermaLink="false">d5040ed6ef9d</guid>
-      <pubDate>Tue, 13 Oct 2026 00:27:49 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>曝梁文锋密集接触具身智能创业者，DeepSeek 拟入局具身智能 据报道，DeepSeek 创始人梁文锋近期密集关注具身智能领域，并与多位该领域创业者交流，探讨机器人、大模型与现实世界交互等方向。 据知情人士透露，梁文锋正在考虑 DeepSeek 进入具身智能领域的可能性，可能会亲自组建团队下场研发，也可能通过投资相关企业切入。 此前，梁文锋已投资宇树科技，…
-
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>“大模型时代的谷歌 可能永远不会出现”</title>
-      <link>https://www.huxiu.com/article/4896964.html?f=rss</link>
-      <guid isPermaLink="false">675346ec2de9</guid>
-      <pubDate>Mon, 12 Oct 2026 23:57:03 GMT</pubDate>
+      <title>Mike Johnson&apos;s Latino voter problem keeps getting worse</title>
+      <link>https://www.axios.com/2026/10/13/trump-mike-johnson-latino-voters-house</link>
+      <guid isPermaLink="false">768af3805984</guid>
+      <pubDate>Tue, 13 Oct 2026 23:26:09 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 锦缎 ，作者：牧之，原文标题：《“大模型时代的谷歌 可能永远不会出现”》 今年9月最后一周，投资了OpenAI和Anthropic的彼得·蒂尔，在柏林领取Axel Springer Award，并与马蒂亚斯·德普夫纳做了一场对谈。 他用自己《从零到一》的互联网时代垄断理论，审视今天的模型公司，做出了一个相当逆向的判断： 模型时代的谷歌，…
+      <description>House Speaker Mike Johnson (R-La.) needs Latino voters to stick with Republicans as they did in 2024. But new polling shows they&apos;re drifting back toward Democrats at levels not see…
+
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Democrats fear &quot;more October surprises&quot; after &quot;bullshit&quot; raid on Ilhan Omar&apos;s home</title>
+      <link>https://www.axios.com/2026/10/13/ilhan-omar-raid-democrats-reaction-midterms-2026</link>
+      <guid isPermaLink="false">ef285331f63c</guid>
+      <pubDate>Tue, 13 Oct 2026 23:25:36 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>Congressional Democrats&apos; private text chains lit up with fear and anger on Monday after Department of Homeland Security agents searched Rep. Ilhan Omar&apos;s (D-Minn.) home in Washingt…
+
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>当AI已经开始造AI</title>
+      <link>https://www.huxiu.com/article/4897320.html?f=rss</link>
+      <guid isPermaLink="false">8d85fd52d35e</guid>
+      <pubDate>Wed, 14 Oct 2026 01:14:41 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 摩登中产 ，作者：摩登中产 引线已燃。 一 或许多年以后，我们才明白那条淹没在国庆长假的新闻，是真正的世界节点。 9月28日，22位AI大佬联手发了篇论文。 22人中，包含三位图灵奖得主，微软和OpenAI首席科学家，以及Claude母公司A社的联合创始人。 论文主题是RSI，AI自我进化，而一切的伏笔，指向大半个世纪前。 1940年，…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>王兴兴低估了AI，梁文锋开始重估机器人</title>
-      <link>https://www.huxiu.com/article/4896961.html?f=rss</link>
-      <guid isPermaLink="false">9f88e6b765d7</guid>
-      <pubDate>Mon, 12 Oct 2026 23:13:28 GMT</pubDate>
+      <title>茶百道涉嫌IPO操纵，“可疑集团”浮出水面</title>
+      <link>https://www.huxiu.com/article/4897319.html?f=rss</link>
+      <guid isPermaLink="false">8be3d7d9871f</guid>
+      <pubDate>Wed, 14 Oct 2026 01:10:45 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 具身商业前哨 ，作者：何安 最懂机器人有多难的人，重新估计了AI进步的速度；最相信通用模型的人，提前开始为AI寻找身体。 不到两个月，王兴兴把具身智能的时间表往前拨了一次。 8月20日，他在世界机器人大会上判断，具身智能的“ChatGPT时刻”，快则两三年，慢则五到十年。但到了10月12日的工博会上，最乐观的时间变成了一两年。王兴兴甚至…
+      <description>本文来自微信公众号： 财联社 ，作者：沈娇娇 香港证监会称，已对两个集团采取行动，因它们涉嫌参与欺诈计划，意图就首次公开招股的股份需求营造虚假或非真实的表象。证监会亦已指示香港联合交易所，自昨天上午9时，暂停茶百道（02555.HK）的股份买卖。茶百道公司向财联社记者表示，暂时无法回应此事。 香港证监会还表示，上述欺诈计划旨在为首次公开招股的股份需求营造虚假…
 
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 3 分钟</description>
     </item>
     <item>
-      <title>聊聊最近很火的几个邪修理论</title>
-      <link>https://www.huxiu.com/article/4896970.html?f=rss</link>
-      <guid isPermaLink="false">56eab3210f12</guid>
-      <pubDate>Tue, 13 Oct 2026 03:00:18 GMT</pubDate>
+      <title>10亿，四川+上海双GP基金来了</title>
+      <link>https://www.huxiu.com/article/4897318.html?f=rss</link>
+      <guid isPermaLink="false">f25397e2d1c0</guid>
+      <pubDate>Wed, 14 Oct 2026 01:08:26 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：视觉中国 我想替最近被群嘲的几个“邪修”理论，说几句好话。 薄肌思维、黄毛思维，还有什么小水理论、大水理论。你可能刷到过，也可能从没刷到过，那看到这几个名字，肯定会很懵，不知道在说什么。 评论区里，嘲讽的人也居多数。 但如果你把这几个理论拆开来看，会发现，它们几乎没有一条是错…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>奥迪 “买一赠一” 翻车，买真车送车模，百年豪华品牌为何沦落至此？</title>
-      <link>https://www.huxiu.com/article/4897026.html?f=rss</link>
-      <guid isPermaLink="false">909fdd8cafe5</guid>
-      <pubDate>Tue, 13 Oct 2026 02:57:52 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 识格 ，作者：识格，原文标题：《奥迪 “买一赠一” 翻车，买真车送车模，百年豪华品牌为何沦落至此？》 10月11号晚上，中网女单决赛，郑钦文2比0拿下安德列娃。中网办了20届，头一回有中国球员举起女单奖杯。 当晚，上汽奥迪的官方公众号发了条祝贺，挂着一句&quot;AUDI全系买一赠一&quot;。 大家一看，好家伙，奥迪这是拼了？再定睛一看，赠品是车模，…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>唐宁的牌桌上，坐过哪些学者</title>
-      <link>https://www.huxiu.com/article/4897021.html?f=rss</link>
-      <guid isPermaLink="false">e5674c593a2d</guid>
-      <pubDate>Tue, 13 Oct 2026 02:46:36 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 陆玖商业评论 ，作者：昊昊 宜信事件的受害者无数，当初他们因为什么成为了宜信的投资人？这些知名大学的学者，有没有起到推波助澜的作用？如今这些人难道一点责任都没有吗？ 2026年10月11日深夜，一封定向推送的致歉信在宜信投资者的手机屏幕上亮起。瑞承App、宜人优选App，只有类固收产品投资者才能看到的界面，措辞克制但内容冰冷：集团可能资…
+      <description>本文来自微信公众号： 科创板日报 ，作者：余诗琪，原文标题：《10亿！四川+上海双GP基金来了》 两地国资出钱，两地投资机构进入GP名单。这使沪川基金与此前较为常见的跨地区国资出资设立基金有了明显区别。 一只规模10亿元的创投基金，将上海市属国资与四川省、市两级国资联系在一起。 《科创板日报》记者注意到，沪川（四川）东西部协同创新创业投资基金合伙企业（有限合…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Tue, 13 Oct 2026 03:08:39 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 01:21:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Tue, 13 Oct 2026 03:08:39 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 01:21:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,131 +228,131 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Tue, 13 Oct 2026 03:08:39 GMT</pubDate>
+      <pubDate>Wed, 14 Oct 2026 01:21:23 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Applied Materials Unveils $5B EPIC Center in Silicon Valley</title>
-      <link>https://www.semiconductor-digest.com/applied-materials-unveils-5b-epic-center-in-silicon-valley/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applied-materials-unveils-5b-epic-center-in-silicon-valley</link>
-      <guid isPermaLink="false">16568cae2f78</guid>
-      <pubDate>Mon, 12 Oct 2026 21:34:19 GMT</pubDate>
+      <title>Amperesand Aims to Smooth AI Data Center Power Spikes</title>
+      <link>https://www.eetimes.com/amperesand-aims-to-smooth-ai-data-center-power-spikes/</link>
+      <guid isPermaLink="false">5a2129958a4f</guid>
+      <pubDate>Tue, 13 Oct 2026 22:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Applied Materials, Inc. today unveiled its Equipment and Process Innovation and Commercialization (EPIC) Center, a $5 billion capital investment* to build the world’s largest facil…
+      <description>Singapore-based solid-state transformer (SST) startup Amperesand aims to help AI data centers smooth the spikes in their electrical demand that can stress power grids. “When a glit…
+
+来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Semiconductor Sustainability Needs a Whole-Fab View, Not a Point-of-Use Fix</title>
+      <link>https://www.semiconductor-digest.com/semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semiconductor-sustainability-needs-a-whole-fab-view-not-a-point-of-use-fix</link>
+      <guid isPermaLink="false">5baf4759c30f</guid>
+      <pubDate>Tue, 13 Oct 2026 22:46:38 GMT</pubDate>
+      <category>半导体与硬件供应链</category>
+      <description>Semiconductor sustainability discussions tend to start and stop with high-global-warming-potential (GWP) fluorinated gases coming off process tools. Ahead of his presentation at SE…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>White Knight Introduces Compact Inline Heaters for Semiconductor Processing</title>
-      <link>https://www.semiconductor-digest.com/white-knight-introduces-compact-inline-heaters-for-semiconductor-processing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=white-knight-introduces-compact-inline-heaters-for-semiconductor-processing</link>
-      <guid isPermaLink="false">405a25e69199</guid>
-      <pubDate>Mon, 12 Oct 2026 20:56:29 GMT</pubDate>
+      <title>Kulicke &amp; Soffa Earns 2026 SEMI Award for North America at SEMICON West</title>
+      <link>https://www.semiconductor-digest.com/kulicke-soffa-earns-2026-semi-award-for-north-america-at-semicon-west/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=kulicke-soffa-earns-2026-semi-award-for-north-america-at-semicon-west</link>
+      <guid isPermaLink="false">acfeb7d84435</guid>
+      <pubDate>Tue, 13 Oct 2026 22:32:54 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>White Knight Fluid Handling, a provider of high-purity fluid handling equipment and a Graco company, today announced the launch of its ThermaPoint Compact Inline Heaters . Engineer…
+      <description>SEMI , the industry association advancing the global semiconductor and electronics design and manufacturing supply chain, today announced Kulicke &amp; Soffa as the recipient of the 20…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Semiconductor Leaders to Address AI, Manufacturing and Industry Growth at SEMICON West</title>
-      <link>https://www.semiconductor-digest.com/semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=semiconductor-leaders-to-address-ai-manufacturing-and-industry-growth-at-semicon-west</link>
-      <guid isPermaLink="false">7669b58bf89b</guid>
-      <pubDate>Mon, 12 Oct 2026 20:40:11 GMT</pubDate>
+      <title>ETEL Launches METIS HP High-Precision Motion Platform</title>
+      <link>https://www.semiconductor-digest.com/etel-launches-metis-hp-high-precision-motion-platform/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=etel-launches-metis-hp-high-precision-motion-platform</link>
+      <guid isPermaLink="false">aa457f0221d2</guid>
+      <pubDate>Tue, 13 Oct 2026 22:07:59 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>The CEO Summit at SEMICON West is a premier leadership forum focused on the technologies, investments, and strategic priorities shaping the future of the semiconductor industry. Al…
+      <description>ETEL , the supplier of high-performance motion control components and complete motion platforms, is proud to introduce the METIS HP, a new full air bearing planar platform designed…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>ERS Introduces Automated 310mm Panel-Level Packaging System</title>
-      <link>https://www.semiconductor-digest.com/ers-introduces-automated-310mm-panel-level-packaging-system/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ers-introduces-automated-310mm-panel-level-packaging-system</link>
-      <guid isPermaLink="false">817774592475</guid>
-      <pubDate>Mon, 12 Oct 2026 20:36:02 GMT</pubDate>
-      <category>半导体与硬件供应链</category>
-      <description>ERS electronic today announced its fully automated panel-level packaging (PLP) system for 310×310mm substrates. The machine integrates temporary carrier bonding, debonding, and det…
+      <title>2 Taiwanese executives arrested over mainland components in military drones</title>
+      <link>https://www.scmp.com/news/china/military/article/3370764/2-taiwanese-executives-arrested-over-mainland-components-military-drones?utm_source=rss_feed</link>
+      <guid isPermaLink="false">1e8dcf39a931</guid>
+      <pubDate>Wed, 14 Oct 2026 01:00:05 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>Two Taiwanese executives have been arrested for allegedly using mainland Chinese-made components in drones supplied to the island’s military. It is the second time in two months th…
 
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>“A major overhaul”: OpenCode 2.0 puts its terminal, desktop, and web apps on one shared service</title>
-      <link>https://thenewstack.io/opencode-2-shared-service/</link>
-      <guid isPermaLink="false">38c786bd2f06</guid>
-      <pubDate>Mon, 12 Oct 2026 21:11:33 GMT</pubDate>
+      <title>Ossoff says he has ‘zero interest in running for president’</title>
+      <link>https://www.politico.com/news/2026/10/13/jon-ossoff-zero-interest-2028-georgia-01117546</link>
+      <guid isPermaLink="false">283289bcabd3</guid>
+      <pubDate>Wed, 14 Oct 2026 01:12:37 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>Democratic Sen. Jon Ossoff said Tuesday he will not run for president in 2028 and committed to serving a full six-year Senate term if reelected. “I have zero interest in running fo…
+
+来源：Politico · 地缘政治与政策监管 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Trump goes after an offshore wind farm that’s already up and running</title>
+      <link>https://www.canarymedia.com/articles/offshore-wind/trump-reevaluate-permit-revolution-wind-orsted</link>
+      <guid isPermaLink="false">d1499f04c3c5</guid>
+      <pubDate>Tue, 13 Oct 2026 20:00:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>After halting construction on offshore wind farms and canceling leases for future projects, the Trump administration just took another step to erode America’s troubled offshore win…
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Battery system failures fell 98% in 7 years, but older systems need special care: report</title>
+      <link>https://www.utilitydive.com/news/battery-system-failures-fell-98-in-7-years-but-older-systems-need-special/832882/</link>
+      <guid isPermaLink="false">0dfc4ac83ff9</guid>
+      <pubDate>Tue, 13 Oct 2026 17:35:15 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>The Electric Power Research Institute analysis found a dramatic drop in energy storage system failures from 2018 to 2025 amid a host of technology and project improvements. “Early-…
+
+来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>GitHub’s model for secret detection: Finding more secrets with less noise</title>
+      <link>https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/</link>
+      <guid isPermaLink="false">7bd0ef864dfb</guid>
+      <pubDate>Tue, 13 Oct 2026 17:56:33 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>OpenCode 2.0 is getting a formal unpacking today, some three months after its public beta launch . The sizable architectural upgrade introduces a shared background service connecti…
+      <description>OUR PIPELINE VS. THE PREVIOUS LLM PIPELINE Smarter secret scanning, at a fraction of the cost 11.5% higher acceptance Owner-weighted alert precision 86% lower median scan execution…
+
+来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Anthropic’s red team ran AI on 15 cheap TV boxes. Then the math got unsettling.</title>
+      <link>https://thenewstack.io/self-replicating-ai-worms/</link>
+      <guid isPermaLink="false">f6c0b758948d</guid>
+      <pubDate>Tue, 13 Oct 2026 16:40:24 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>For roughly $825, Anthropic&amp;rsquo;s Frontier Red Team built a cluster of 15 off-brand Android TV boxes that runs an AI model at 0.39 tokens per second, painfully slow for a chatbot…
 
 来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
     <item>
-      <title>GPUs on Kubernetes are bring-your-own-everything, starting with the bill</title>
-      <link>https://thenewstack.io/gpus-on-kubernetes/</link>
-      <guid isPermaLink="false">91c9e6b4b474</guid>
-      <pubDate>Mon, 12 Oct 2026 20:48:01 GMT</pubDate>
+      <title>Gemini 4 Argon debuts with a unified 1M input/output token limit</title>
+      <link>https://thenewstack.io/gemini-4-argon-live/</link>
+      <guid isPermaLink="false">974fe0353dfa</guid>
+      <pubDate>Tue, 13 Oct 2026 16:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>If you run a Kubernetes platform, you’ve probably got at least one Grafana dashboard for resource visibility on your workloads. It shows what a container asked for versus what it u…
+      <description>On Tuesday, Google made Gemini 4 Argon , the company’s new flagship model, available to developers on the paid tier of the Gemini API through Google AI Studio, as well as in severa…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Google paid $90,000 for this bug, then waited two months to fix it</title>
-      <link>https://thenewstack.io/google-devsite-rce-bounty/</link>
-      <guid isPermaLink="false">903ab077c34e</guid>
-      <pubDate>Mon, 12 Oct 2026 20:47:17 GMT</pubDate>
+      <title>The agent did the work. The audit log couldn’t say who asked.</title>
+      <link>https://thenewstack.io/ai-agent-credentials-identity-provider/</link>
+      <guid isPermaLink="false">1e84f5297a44</guid>
+      <pubDate>Tue, 13 Oct 2026 15:00:48 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Google took two months to patch an unauthenticated RCE vulnerability in its developer documentation infrastructure. The problem was a reused OAuth client secret, which DevSite stor…
+      <description>More than 20 percent of the MCP-related access policies that Shawn Petty&amp;rsquo;s team reviewed across customer and prospect environments were broken or missing, according to a rece…
 
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Coding agents made building easy. Platform teams that build from scratch are 3.5x more likely to lack a strategy.</title>
-      <link>https://thenewstack.io/coding-agents-platform-teams/</link>
-      <guid isPermaLink="false">fb889f0fde33</guid>
-      <pubDate>Mon, 12 Oct 2026 19:28:27 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Build-or-buy is usually framed as an engineering trade-off, where developer time is weighed against integration and migration overhead, and control against the maintenance burden o…
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Kairos: Toward a Byte-Level Foundation Model for Every Modality</title>
-      <link>https://arxiv.org/abs/2610.12495</link>
-      <guid isPermaLink="false">87741cc0ca7f</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2610.12495v1 Announce Type: cross Abstract: Small language models trained on a single local machine leave little room for architectural trial and error. Kairos combines bidir…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Recurrent Harness for Agentic Continual Learning</title>
-      <link>https://arxiv.org/abs/2610.12668</link>
-      <guid isPermaLink="false">a8e22d44b3e7</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2610.12668v1 Announce Type: cross Abstract: Language model agents increasingly operate over long interaction streams, requiring online adaptation to distribution shifts throu…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Meta-Reflective Evolution Effectively Improves Production AI Systems</title>
-      <link>https://arxiv.org/abs/2610.12794</link>
-      <guid isPermaLink="false">1300cf967d95</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2610.12794v1 Announce Type: cross Abstract: Large Language Model (LLM)-guided evolutionary optimization has successfully improved prompts, programs, and even entire AI system…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>REDaCT: Collapse-Free Unlearning in Large Reasoning Models</title>
-      <link>https://arxiv.org/abs/2610.12769</link>
-      <guid isPermaLink="false">a1024a48a0e5</guid>
-      <pubDate>Mon, 12 Oct 2026 04:00:00 GMT</pubDate>
-      <category>学术前沿速递</category>
-      <description>arXiv:2610.12769v1 Announce Type: cross Abstract: Unlearning in large reasoning models (LRMs) requires removing forget-set information from both the reasoning trace and the final a…
-
-来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
