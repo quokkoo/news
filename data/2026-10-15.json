@@ -1,0 +1,1111 @@
+{
+  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T00:47:55.216Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 8 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "2a217acae566",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月15日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月15日",
+          "url": "https://wallstreetcn.com/articles/3783653",
+          "summary": "华见早安之声 要闻精选 中国9月新增社融3.55万亿元、新增人民币贷款1.08万亿，较8月大幅回升且双双超预期，但居民融资需求仍偏弱。 中国9月以美元计价出口同比增36.3%，远超预期的25.7%，集成电路出口额增136%，月度进出口规模首次突破5万亿元。 中国9月CPI同比涨0.9%、涨幅小幅回升，PPI同比涨5.0%创近四年新高，汽油价格涨16.6%是主…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-14T23:05:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "21258a579a2f",
+          "title": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话",
+          "titleZh": "美CPI全面升温响“通胀螺旋”警报，10月加息概率一度五成，“新美联储通讯社”：盯紧沃什本周讲话",
+          "url": "https://wallstreetcn.com/articles/3783651",
+          "summary": "美国9月CPI全面超预期，涨价压力从能源向核心商品和服务扩散，令市场短线加码押注美联储10月加息。通胀能否持续降温、是否需要更快收紧货币政策，成为投资者接下来关注的焦点。 美东时间14日周三公布的数据显示，美国9月CPI环比上涨0.6%，同比涨3.7%，均高于经济学家预期；剔除食品和能源的核心CPI环比涨0.3%，同比涨2.6%、也超出预期。报告公布后，市场…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-14T22:52:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "22194f2e5039",
+          "title": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+          "titleZh": "美CPI重燃加息押注，纳指跌近2%，芯片指数六连跌，CoreWeave暴跌15%，美元创18个月新高",
+          "url": "https://wallstreetcn.com/articles/3783586",
+          "summary": "通胀顽固、AI信贷裂缝扩大、油价上涨三重压力同时袭来，美股周三遭遇重挫，科技与半导体股领跌，美元升至18个月高位，市场对美联储加息预期急剧重新定价。 美国9月CPI超预期上涨，令市场对美联储将在更长时间内维持高利率的押注骤然升温。标普500指数下跌1.1%，以科技股为重的纳斯达克100指数下挫2%，创三个月来最大单日跌幅。 小盘股指数罗素2000进入技术性调…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-14T22:29:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "286932ed4eb5",
+          "title": "逆市上涨！苹果跻身5万亿美元俱乐部",
+          "titleZh": "逆市上涨！苹果跻身5万亿美元俱乐部",
+          "url": "https://wallstreetcn.com/articles/3783658",
+          "summary": "在AI军备竞赛中刻意保持克制的苹果，反而率先站上了5万亿美元的山顶。 苹果周三收盘市值正式突破5万亿美元，成为全球第二家跨越这一门槛的上市公司，仅次于芯片巨头英伟达。据道琼斯市场数据，苹果当日收盘市值报5.005万亿美元，股价创历史新高 值得注意的是，这一突破发生在美股整体承压的背景下——当日标普500指数下跌1.1%，纳斯达克100指数下挫2%，芯片指数六…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-15T00:37:35.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "74966c99624d",
+          "title": "美国提议解冻部分俄罗斯资产，以重启俄乌和谈",
+          "titleZh": "美国提议解冻部分俄罗斯资产，以重启俄乌和谈",
+          "url": "https://wallstreetcn.com/articles/3783659",
+          "summary": "俄乌冲突和谈进程近期出现新动向，各方围绕停火条件与资产安排的博弈持续升温。在此背景下，美国方面提出了一项涉及俄罗斯被冻结主权资产的新方案，试图为陷入僵局的和平谈判注入新动力。 据媒体周四报道，美国已向欧洲国家提议，解冻部分因俄乌冲突而被冻结的俄罗斯主权资产，并将其转入一个由华盛顿监管的特殊目的金融载体，以期重启和平谈判。 其中，俄美双方正就柴油出口达成合同。…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-15T00:10:28.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "540b2b973e86",
+          "title": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
+          "titleZh": "英伟达的CoreWeave困局：被迫救援还是坐视不管？",
+          "url": "https://wallstreetcn.com/articles/3783657",
+          "summary": "英伟达与CoreWeave之间的财务纠葛，正在演变为一场复杂的博弈论困局。 华尔街见闻提及，周三在通胀数据意外走热、美债收益率上行的双重压力下，数据中心运营商CoreWeave股价重挫逾15%，创下历史第三大单日跌幅，距历史低点仅一步之遥。 知名财经分析师Quoth the Raven（QTR）在ZeroHedge专栏文章中分析称，随着CoreWeave股价…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-14T23:58:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "8b7daeefe965",
+          "title": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+          "titleZh": "Research@ 2026: 10 ways we're amplifying human ingenuity",
+          "url": "https://research.google/blog/research-2026-10-ways-were-amplifying-human-ingenuity/",
+          "summary": "We are living through a golden age of research and scientific discovery. For the scientists and researchers at Google Research, the opportunity extends beyond pioneering breakthrou…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-14T16:14:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6b366c0bea34",
+          "title": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+          "titleZh": "Putting Earth AI to work: Geospatial agents for our planet's biggest challenges",
+          "url": "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/",
+          "summary": "When we introduced Google Earth AI , we shared a suite of geospatial foundation models — spanning remote sensing, weather, flood hydrology, and population dynamics — alongside an i…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-14T16:14:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fe72ef2ea886",
+          "title": "Analyzing technical documents with Deep Review",
+          "titleZh": "Analyzing technical documents with Deep Review",
+          "url": "https://research.google/blog/analyzing-technical-documents-with-deep-review/",
+          "summary": "Generative AI has accelerated many technical fields. It is now common for AI to play some role in writing scientific papers and technical documents, running code, designing experim…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-14T16:14:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "47ac6958c898",
+          "title": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+          "titleZh": "Crossing the Threshold: How OpenAI and Anthropic Approach Autonomy and Safety in Financial Agents",
+          "url": "https://www.latent.space/p/crossing-the-threshold",
+          "summary": "OpenAI’s Joseph Kim talks about the threshold phenomenon at AIE NY today. One of the key themes at the AI Engineer New York conference this week was how to balance agent autonomy w…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-14T21:40:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b6ac9f941723",
+          "title": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+          "titleZh": "Lab-in-the-Loop at Compute Speed — Ian Quigley, Leash Bio",
+          "url": "https://www.latent.space/p/lab-in-the-loop-at-compute-speed",
+          "summary": "A few years ago I stumbled upon Leash Bio’s Substack , and was hooked. Be it their Kaggle competition that showed that no, we really haven’t solved protein-ligand binding , or thei…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-14T20:35:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb93513ad087",
+          "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "titleZh": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+          "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+          "summary": "🤗 Models | 📄 Paper | 📓 Tutorial notebooks | 🌎 Demo We introduce HiRO-ACEv2 , the newest update to our High Resolution Output Ai2 Climate Emulator (HiRO-ACE) system. HiROv2 can …",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-14T16:12:42.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c45b8640c7d3",
+          "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "titleZh": "Fridge hack costing millions and sparking fires stemmed from poor security",
+          "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+          "summary": "Earlier this week, a mass hack of refrigeration systems at an estimated 700 supermarkets throughout France caused them to suddenly malfunction, causing spoilage of untold tons of p…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-14T21:35:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3b6674134880",
+          "title": "Software development and rules stability: Prototype racing in 2030",
+          "titleZh": "Software development and rules stability: Prototype racing in 2030",
+          "url": "https://arstechnica.com/cars/2026/10/software-development-and-rules-stability-prototype-racing-in-2030/",
+          "summary": "IMSA provided accommodation so Ars could attend the Petit Le Mans. Ars does not accept paid editorial content. The rising tide that has been the Drive to Survive effect has lifted …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-14T19:44:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "7598be8a0ad6",
+          "title": "Unexpected House battles pop up deep in Trump country",
+          "titleZh": "Unexpected House battles pop up deep in Trump country",
+          "url": "https://www.axios.com/2026/10/14/house-candidates-trump-districts-democrats",
+          "summary": "Republicans who haven't faced serious reelection fights in years are suddenly campaigning like they're running in swing districts. Why it matters: Democrats are eyeing House distri…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-14T23:31:15.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb5fddb6592c",
+          "title": "Republicans brace for three-way leader fight if they lose",
+          "titleZh": "Republicans brace for three-way leader fight if they lose",
+          "url": "https://www.axios.com/2026/10/14/house-gop-brewing-three-way-leadership-fight",
+          "summary": "Speaker Mike Johnson's sudden frank talk about his political future is upending the quiet maneuvering ahead of a post-election GOP leadership contest. Why it matters: The race coul…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-14T23:30:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7100f8b3997a",
+          "title": "一只被注入墨汁的蟾蜍，逼死了“第二个达尔文”，让他背负百年骂名",
+          "titleZh": "一只被注入墨汁的蟾蜍，逼死了“第二个达尔文”，让他背负百年骂名",
+          "url": "https://www.huxiu.com/article/4897617.html?f=rss",
+          "summary": "本文来自微信公众号： 返朴 ，作者：木木 20世纪初，奥地利动物学家保罗·卡默勒报告，他改变两栖动物的饲养环境后，一些动物出现了新的特征，还把它们传给了后代。这种后天获得的性状可以遗传的主张，在当时并不受主流生物学家待见，而他的结果也一直饱受怀疑。1926年8月，美国动物学家诺布尔在《自然》上发表检验报告：卡默勒仅存的一件实验产婆蟾标本，前肢上的黑色印记来自…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-15T00:38:33.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "86b4622c7821",
+          "title": "深度｜0.88美元攻陷一家银行：AI黑客正在改写安全规则",
+          "titleZh": "深度｜0.88美元攻陷一家银行：AI黑客正在改写安全规则",
+          "url": "https://www.huxiu.com/article/4897612.html?f=rss",
+          "summary": "本文来自微信公众号： 斯凯碎碎侃 ，作者：斯凯，原文标题：《深度｜0.88美元攻陷一家银行：AI黑客正在改写安全规则》 2026年9月28日到10月1日，短短四天，韩国七家金融机构被同一波攻击打穿。 新韩银行泄露25,729名客户信息。KB国民银行119名。韩亚银行89名。BNK釜山银行11名。耶加兰储蓄银行约4万名。加上现代资本等机构，累计超过68,000…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-15T00:30:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e6444c09e9c",
+          "title": "FDE就要烂大街了",
+          "titleZh": "FDE就要烂大街了",
+          "url": "https://www.huxiu.com/article/4897615.html?f=rss",
+          "summary": "本文来自微信公众号： ToB老人家 ，作者：王戴明 三个多月前我就预言：FDE就要烂大街了。大家现在看看，是不是身边的FDE正在像潮水一般涌出来？ 类似的事情，之前已经发生过很多次。 当SaaS是资本宠儿的时候，所有软件公司都摇身一变，成了SaaS公司。 收费模式还是一次性买断？不要紧。让客户把本来一次付清的钱，分5年付清，然后就可以包装成“按年收费”。这么…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-15T00:29:53.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-15T00:47:46.538Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-15T00:47:46.538Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-15T00:47:46.538Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "e0d51d543326",
+          "title": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+          "titleZh": "Benchmark Electronics’ Thailand Operations Focus on High-Mix Manufacturing",
+          "url": "https://www.eetimes.com/benchmark-electronics-thailand-operations-focus-on-high-mix-manufacturing/",
+          "summary": "As electronics manufacturing services (EMS) providers across Southeast Asia race to capture supply chain diversification opportunities, Benchmark Electronics’ Thailand operations f…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-14T19:34:54.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "52b4f9dcd88f",
+          "title": "SEMI Builds a Global Home for Advanced Packaging",
+          "titleZh": "SEMI Builds a Global Home for Advanced Packaging",
+          "url": "https://www.semiconductor-digest.com/semi-builds-a-global-home-for-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=semi-builds-a-global-home-for-advanced-packaging",
+          "summary": "Advanced packaging has a bigger place at SEMICON West than ever, with three days of packaging content on this year’s program, and SEMI is building a global home for the topic throu…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-14T21:49:30.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "17c758f8cc74",
+          "title": "SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000",
+          "titleZh": "SEMI Scales Up Workforce Programs as U.S. Talent Gap Nears 200,000",
+          "url": "https://www.semiconductor-digest.com/semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000/?utm_source=rss&utm_medium=rss&utm_campaign=semi-scales-up-workforce-programs-as-u-s-talent-gap-nears-200000",
+          "summary": "When SEMI asks member companies what could hold back their growth, the number one answer is talent, Joe Stockunas, president of SEMI Americas, said at Monday’s SEMICON West press c…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-14T21:28:13.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c23e4032cb18",
+          "title": "ChipAgents, NVIDIA Launch Benchmark for Autonomous Chip Design",
+          "titleZh": "ChipAgents, NVIDIA Launch Benchmark for Autonomous Chip Design",
+          "url": "https://www.semiconductor-digest.com/chipagents-nvidia-launch-benchmark-for-autonomous-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=chipagents-nvidia-launch-benchmark-for-autonomous-chip-design",
+          "summary": "ChipAgents, the agentic AI platform for semiconductor engineering, today introduced Build-A-Chip-Bench, a benchmark built in collaboration with NVIDIA designed to test whether AI a…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-14T20:42:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "abe59fbfbf40",
+          "title": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+          "titleZh": "‘China shock 3.0’ to be driven by AI, biotech and robot exports, economist says",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3370925/china-shock-30-be-driven-ai-biotech-and-robot-exports-economist-says?utm_source=rss_feed",
+          "summary": "The world is on the cusp of a “China shock 3.0” driven by exports of artificial intelligence (AI), biotechnology and robots, which could hit harder than the current wave, a leading…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-14T22:00:47.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2cdc2dfb8b37",
+          "title": "Susan Thornton on US-China ties, post-midterms and averting a new balloon crisis",
+          "titleZh": "Susan Thornton on US-China ties, post-midterms and averting a new balloon crisis",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3370823/susan-thornton-us-china-ties-post-midterms-and-averting-new-balloon-crisis?utm_source=rss_feed",
+          "summary": "Susan Thornton is a former American diplomat who for decades worked on US policy in Eurasia in the State Department before becoming acting assistant secretary of state for East Asi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-14T22:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91d44a4b94d9",
+          "title": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
+          "titleZh": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
+          "url": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
+          "summary": "WASILLA, Alaska — Three weeks out from Election Day, President Donald Trump took a helicopter to a plane to another helicopter to a motorcade to an ice hockey rink in Alaska's Mata…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-14T18:18:37.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "6296f5bebb97",
+          "title": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+          "titleZh": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
+          "summary": "FDA News Release Expanded approval of Anktiva marks a new FDA approach to using evidence across closely related forms of bladder cancer For Immediate Release: October 14, 2026 The …",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-14T15:14:51.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.8,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b9e0a30b5429",
+          "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+          "titleZh": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
+          "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine …",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-14T15:50:52.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7fd1bc8269ea",
+          "title": "Coral can heal rapidly from bleaching—if it touches a clone",
+          "titleZh": "Coral can heal rapidly from bleaching—if it touches a clone",
+          "url": "https://www.science.org/content/article/coral-can-heal-rapidly-bleaching-if-it-touches-clone",
+          "summary": "Algal transfusion allows damaged coral to repopulate in as little as 4 weeks",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-14T12:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "cce7619ee74e",
+          "title": "GitHub availability report: September 2026",
+          "titleZh": "GitHub availability report: September 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+          "summary": "Our last update covered content through August. We did not publish another in September while other public content addressed the August 17 outage. This edition covers progress over…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-14T20:01:35.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8c2965a27b5b",
+          "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+          "titleZh": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+          "url": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+          "summary": "Maintainers look at star history to answer a practical question: did a launch, release, or event change a project&rsquo;s trajectory? To reconstruct that curve from the GitHub API,…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-14T19:11:33.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5f89b6f13801",
+          "title": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+          "titleZh": "Linus Torvalds let Claude Code fix the Linux page cache. Then reviewers found a race.",
+          "url": "https://thenewstack.io/torvalds-claude-code-kernel/",
+          "summary": "Linux creator and longtime lead maintainer Linus Torvalds turned to Anthropic’s Claude Code to tackle a kernel performance problem that developers have struggled with for more than…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-14T22:59:18.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "165811892359",
+          "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+          "titleZh": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+          "url": "https://petal.live/",
+          "summary": "Hi HN! I’m Jason Thomas, one of the founders of CoScreen. As some of you may know, Datadog sunset the CoScreen service on July 31st. Four of us from the original CoScreen team have…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Show HN",
+          "publishedAt": "2026-10-14T18:23:14.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 36,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 69,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
