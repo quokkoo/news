@@ -1,0 +1,1205 @@
+{
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T00:40:46.144Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "06b5d1f9a40e",
+          "title": "不只是Coreweave，数据中心债券正遭到“集体抛售”",
+          "titleZh": "不只是Coreweave，数据中心债券正遭到“集体抛售”",
+          "url": "https://wallstreetcn.com/articles/3783740",
+          "summary": "数据中心债券市场正在经历一场全面抛售，Gartner预测80%的新云计算公司将在2030年前停止独立运营，Allianz首席投资官则警告数据中心债券正迎来\"物竞天择\"时刻。 据英国《金融时报》周四报道，从承租给Meta、微软、英伟达的大型数据中心专项融资债券，到CoreWeave等新兴云计算公司发行的债务，价格纷纷跌入承压区间，折射出投资者对AI基础设施投资…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T00:17:16.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "adc852862b2a",
+          "title": "苹果与Meta合作，要在Mac上运行Muse",
+          "titleZh": "苹果与Meta合作，要在Mac上运行Muse",
+          "url": "https://wallstreetcn.com/articles/3783743",
+          "summary": "苹果与Meta宣布携手，将Meta旗下最强开源AI模型带上苹果高端桌面电脑，标志着硅谷两大宿敌在人工智能浪潮下打破历史积怨、重新站到同一阵线。这一合作不仅是苹果AI芯片实力的一次公开背书，也对OpenAI和Anthropic构成潜在挑战。 据CNBC报道，两家公司周四（10月15日）宣布，开发者将能够在苹果Mac Studio电脑上本地运行Meta最新开源模…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T00:15:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7d26d19fde7f",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月16日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月16日",
+          "url": "https://wallstreetcn.com/articles/3783739",
+          "summary": "华见早安之声 要闻精选 美国9月PPI同比涨6.3%创逾四年最高，环比涨1.3%为2022年3月来最大，能源PPI单月飙升10.8%。 美国9月零售销售环比增0.8%超预期，但剔除汽车与汽油后仅增0.2%，油价正在挤出其他消费。 Anthropic三季度营收168亿美元但月度增速骤降至个位数，投资者将IPO估值预期从约2万亿下调至1.5万亿美元。 CoreW…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-15T23:04:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fa8f0924e8e0",
+          "title": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "titleZh": "黄仁勋力挺CoreWeave，纳指惊险收涨，道指反弹超1%，芯片指数七连跌，欧美债市涨",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "summary": "英伟达首席执行官黄仁勋公开为CoreWeave背书，科技股随之收复盘初的深跌，标普500指数结束了连续三天的下跌。资金从AI硬件轮动至防御板块，道指涨逾1%。 当天公布的美国PPI数据与消费数据依旧偏热，但避险情绪主推美债走强，美油冲上一个月高位。 美股三大指数集体收涨，道指涨1.08%，纳指涨0.08%，标普500涨0.33%，费城半导体指数跌0.88%、…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-15T22:34:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "192434e007c1",
+          "title": "AI暴跌下的避风港！大型医药股股价逼近历史新高",
+          "titleZh": "AI暴跌下的避风港！大型医药股股价逼近历史新高",
+          "url": "https://wallstreetcn.com/articles/3783744",
+          "summary": "科技股遭遇抛售之际，资金正加速流向大型医药板块。AbbVie、礼来（Eli Lilly）等生物制药巨头本周股价逼近历史高位，折射出投资者在AI概念股动荡中转向防御性资产的明确信号。 周四，State Street医疗保健精选行业SPDR ETF触及177.19美元的历史新高，过去五个交易日累计上涨5.6%。与此同时，投资者还涌入消费必需品和美国国债，导火索正…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T00:26:49.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "189cb36d79f6",
+          "title": "IEA加速释放1亿桶原油储备，并承诺优先释放“2000万桶柴油”",
+          "titleZh": "IEA加速释放1亿桶原油储备，并承诺优先释放“2000万桶柴油”",
+          "url": "https://wallstreetcn.com/articles/3783742",
+          "summary": "国际能源署（IEA）成员国同意完成3月石油储备释放计划中尚未落地的1亿桶配额，并承诺\"尽快\"释放其中2000万桶柴油。然而，这批储备本质上是对既有承诺的加速兑现，而非新一轮干预行动。 据彭博报道，IEA理事会于当地时间10月15日周四召开会议，会后发表声明称，成员国将加快分配剩余储量，包括\"尽快\"释放2000万桶柴油。IEA同时指出，由于部分成员国释放量超出…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-16T00:16:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "632ec9ebf320",
+          "title": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "titleZh": "Accelerating the search for antimicrobial peptides with Google Antigravity",
+          "url": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+          "summary": "October 15, 2026 Science Pengfei Tian, Maxwell L. Bileschi, Zoi Tsangalidou, Sukhdeep Singh and Lucy J. Colwell New antibiotics are urgently needed to help with rising levels of an…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-10-15T16:08:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b1332adcff50",
+          "title": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+          "titleZh": "KDE turns 30 with Plasma 6.8, remote upgrades, and an X11 farewell",
+          "url": "https://arstechnica.com/gadgets/2026/10/kde-turns-30-with-plasma-6-8-remote-upgrades-and-an-x11-farewell/",
+          "summary": "Marking the 30th anniversary of software developer KDE on October 14, the company released Plasma 6.8, debuted a movie, and retired Plasma's native X11 session support. The announc…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-15T22:21:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "462c964a95c2",
+          "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "titleZh": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+          "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
+          "summary": "Introduced last spring, the Granite Switch project enables a modular approach to model development. Now Granite Switch 4.1 models, armed with a Decision adapter and the fastest ASR…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-15T20:34:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "30a4a75edb3b",
+          "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+          "titleZh": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
+          "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+          "summary": "Today Modal switches from our infra unicorn category to infra decacorn . We last caught up with Modal CTO Akshat in July: On the last day of AIE NYC , Akshat had a lot to share abo…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-15T10:08:08.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6c08e9dd664",
+          "title": "Plex now helps sell movie theater tickets",
+          "titleZh": "Plex now helps sell movie theater tickets",
+          "url": "https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/",
+          "summary": "Plex, which made a name for itself by letting users share movies they own, is now helping sell movie theater tickets. The company is looking to monetize its content-discovery capab…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-15T21:22:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "79ec5c77dfe7",
+          "title": "Targeted ads delivered 0-click exploits to install mercenary malware",
+          "titleZh": "Targeted ads delivered 0-click exploits to install mercenary malware",
+          "url": "https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/",
+          "summary": "Researchers say that mercenary hackers laced ads with zero-click exploits that installed sophisticated malware on the devices of targeted individuals when they did nothing other th…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-15T20:32:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "97da9646f12c",
+          "title": "Above the 911? Porsche previews a new mid-engined supercar.",
+          "titleZh": "Above the 911? Porsche previews a new mid-engined supercar.",
+          "url": "https://arstechnica.com/cars/2026/10/porsche-previews-its-future-with-mission-s-supercar-concept/",
+          "summary": "Porsche showed us a preview of a new model this afternoon as it unveiled the Mission S concept in New York. It’s a mid-engined sports car that will slot into the Porsche range abov…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-15T20:30:02.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b15db2a92ad1",
+          "title": "What did the Liberty Bell sound like? Science is on the case.",
+          "titleZh": "What did the Liberty Bell sound like? Science is on the case.",
+          "url": "https://arstechnica.com/science/2026/10/what-did-the-liberty-bell-sound-like-science-is-on-the-case/",
+          "summary": "The Liberty Bell , with its famous crack, hasn't been rung in 180 years, but that hasn't stopped scientists from pondering what the bell might have sounded like when tolling. In ho…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-15T19:10:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "844ba2c0fd2b",
+          "title": "Trump names scapegoats as Republicans sweat in Texas",
+          "titleZh": "Trump names scapegoats as Republicans sweat in Texas",
+          "url": "https://www.axios.com/2026/10/16/trump-texas-paxton-cornyn-rove-talarico",
+          "summary": "President Trump is preemptively blaming Sen. John Cornyn and Karl Rove for \"doing everything possible to make it hard for Ken Paxton\" to win the Texas Senate race. Why it matters: …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-16T00:20:56.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6e1d2257803c",
+          "title": "GOP senator: Cancel Thanksgiving recess if we lose",
+          "titleZh": "GOP senator: Cancel Thanksgiving recess if we lose",
+          "url": "https://www.axios.com/2026/10/15/moreno-midterms-senate-republicans",
+          "summary": "Sen. Bernie Moreno wants his fellow Republicans to cancel their holiday plans and jam through \"everything that we could possibly get\" if they lose the majorities in November's midt…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-15T23:54:08.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cef0393b980f",
+          "title": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
+          "titleZh": "Rubio urges Lebanon to resist Hezbollah pressure over seized explosives",
+          "url": "https://www.axios.com/2026/10/15/lebanon-hezbollah-explosives-israel-rubio",
+          "summary": "Secretary of State Marco Rubio pressed Lebanon President Joseph Aoun not to return to Hezbollah a truck full of explosives it attempted to smuggle into Beirut several days ago, acc…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-15T21:49:38.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "01d815ea191f",
+          "title": "🚨 Anthropic: The agony and the ecstasy",
+          "titleZh": "🚨 Anthropic: The agony and the ecstasy",
+          "url": "https://www.exponentialview.co/p/anthropic-the-agony-and-the-ecstasy",
+          "summary": "Hi, I sent this to members of our AI Investment Brief a couple of hours ago. How we understand the numbers leaking from top AI labs matters too much to keep only for our finance re…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-10-15T16:29:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8e412596314e",
+          "title": "\"Oh, shut up\": Maine Senate debate gets testy",
+          "titleZh": "\"Oh, shut up\": Maine Senate debate gets testy",
+          "url": "https://www.axios.com/2026/10/16/susan-collins-troy-jackson-maine-senate-debate",
+          "summary": "Maine Republican Sen. Susan Collins and her Democratic challenger Troy Jackson were sparring in a testy debate Thursday night when a protester loudly interrupted them. \"So this is …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-16T00:31:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-16T00:40:36.871Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-16T00:40:36.871Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-16T00:40:36.871Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "1d5eaf1f8579",
+          "title": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+          "titleZh": "Japan Offers GlobalFoundries $21B for U.S. Fab Expansion",
+          "url": "https://www.eetimes.com/japan-offers-globalfoundries-21b-for-u-s-fab-expansion/",
+          "summary": "Japan has offered up to $21 billion to GlobalFoundries to expand its existing U.S. semiconductor complex in an unprecedented public-private partnership between the two nations and …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-15T19:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5a658388da72",
+          "title": "Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West",
+          "titleZh": "Nordson SonoFlex Wins 2026 Best of West Award at SEMICON West",
+          "url": "https://www.semiconductor-digest.com/nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west/?utm_source=rss&utm_medium=rss&utm_campaign=nordson-sonoflex-wins-2026-best-of-west-award-at-semicon-west",
+          "summary": "SEMI and Semiconductor Digest today announced that the SonoFlex Acoustic System from Nordson Test & Inspection (Booth 5844) has won the Best of West award to be presented at SEMICO…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-15T18:31:44.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c9852c6fc260",
+          "title": "Great Lakes Semiconductor Launches Modular Fab and Packaging Project",
+          "titleZh": "Great Lakes Semiconductor Launches Modular Fab and Packaging Project",
+          "url": "https://www.semiconductor-digest.com/great-lakes-semiconductor-launches-modular-fab-and-packaging-project/?utm_source=rss&utm_medium=rss&utm_campaign=great-lakes-semiconductor-launches-modular-fab-and-packaging-project",
+          "summary": "Great Lakes Semiconductor (GLS) today announced the first project on its Great American ChipForge platform, launched under the company’s Innovation Funnel initiative. The project d…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-15T18:14:02.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6412bf235a21",
+          "title": "NY Loves Nanotech Rebrands as Semiconductor Alliance NY",
+          "titleZh": "NY Loves Nanotech Rebrands as Semiconductor Alliance NY",
+          "url": "https://www.semiconductor-digest.com/ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny/?utm_source=rss&utm_medium=rss&utm_campaign=ny-loves-nanotech-rebrands-as-semiconductor-alliance-ny",
+          "summary": "SAN FRANCISCO — New York’s long-running semiconductor marketing consortium has a new name. At its annual dessert reception during SEMICON West on Oct. 14, New York Loves Nanotech u…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-15T15:48:01.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "52e412bb9620",
+          "title": "Why Japanese PM Takaichi is still keen to roll out the welcome mat for Trump",
+          "titleZh": "Why Japanese PM Takaichi is still keen to roll out the welcome mat for Trump",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371045/why-japanese-pm-takaichi-still-keen-roll-out-welcome-mat-trump?utm_source=rss_feed",
+          "summary": "Japan’s hopes for a visit by Donald Trump during his trip to Asia next month may be hanging in the balance as relations between China and the United States steadily improve. The US…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-16T00:00:26.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "03f41aa460c2",
+          "title": "Visa’s China approval a ‘direct outcome’ of Xi-Trump summit, Beijing says",
+          "titleZh": "Visa’s China approval a ‘direct outcome’ of Xi-Trump summit, Beijing says",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371067/visas-china-approval-direct-outcome-trump-xi-summit-beijing-says?utm_source=rss_feed",
+          "summary": "China said on Thursday that the recent government approval allowing American bank card payment giant Visa to operate in the country was the “direct outcome” of Chinese President Xi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-15T21:53:21.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3d734077590e",
+          "title": "Trump press secretary Katie Zacharia never passed bar exam, wrongly claims China has none",
+          "titleZh": "Trump press secretary Katie Zacharia never passed bar exam, wrongly claims China has none",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3371066/white-house-press-secretary-never-passed-bar-exam-wrongly-claims-china-has-none?utm_source=rss_feed",
+          "summary": "White House press secretary Katie Zacharia has acknowledged that she never passed a bar exam, days after telling reporters she had passed one “when I moved to China”. In an intervi…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-15T21:52:59.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b6059d8a6d1",
+          "title": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+          "titleZh": "Trump lashes out at Republicans as Ken Paxton struggles in Texas",
+          "url": "https://www.politico.com/news/2026/10/15/trump-lashes-out-at-republicans-as-ken-paxtron-struggles-in-texas-01122111",
+          "summary": "President Donald Trump is blaming fellow Republicans as his endorsed candidate, Ken Paxton, appears to be in a fierce struggle for a Senate seat in Texas with Democratic challenger…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-15T22:14:42.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "74ac8d5a2091",
+          "title": "COP17: Tracking progress towards the UN’s 2030 nature targets",
+          "titleZh": "COP17: Tracking progress towards the UN’s 2030 nature targets",
+          "url": "https://interactive.carbonbrief.org/nature-targets-2030-progress/",
+          "summary": "Print article Share Countries will meet in Armenia this month to carry out the first global review of progress towards meeting key nature targets by 2030. These targets – and the w…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-15T16:07:42.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1daeb702862a",
+          "title": "COP17: Developed countries ‘fall far short’ of UN targets for nature finance",
+          "titleZh": "COP17: Developed countries ‘fall far short’ of UN targets for nature finance",
+          "url": "https://www.carbonbrief.org/cop17-developed-countries-fall-far-short-of-un-targets-for-nature-finance",
+          "summary": "Print article Share The amount of finance for nature delivered to date “falls far short” of what is needed to meet the UN’s global goals, according to a report released ahead of th…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-15T15:40:15.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fd7675f5355b",
+          "title": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+          "titleZh": "Tech giants want clean energy in N.C. Is Duke finally ready to help?",
+          "url": "https://www.canarymedia.com/articles/data-centers/tech-giants-want-clean-energy-in-n-c-is-duke-finally-ready-to-help",
+          "summary": "In North Carolina, tech giants and other large corporations that want their own 24/7 carbon-free electricity have a problem. Across most of the state, only Duke Energy, the state’s…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-15T20:25:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "6077b3d37c0d",
+          "title": "The next developer interface is ambient intelligence",
+          "titleZh": "The next developer interface is ambient intelligence",
+          "url": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+          "summary": "For most of my career, building software started with the same setup: keyboard, mouse, editor, terminal, browser, and an impressive number of tabs I was definitely going to look at…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-15T19:39:27.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3c685c5c2c0",
+          "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+          "titleZh": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+          "url": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+          "summary": "Working with outside collaborators can add more work for a repository owner. You need to confirm who still needs access, change permissions as projects evolve, and archive reposito…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-15T18:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9b2a56348326",
+          "title": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
+          "titleZh": "Hackers hijacked 1,900 GitHub accounts. Then they went after 30,000 repos.",
+          "url": "https://thenewstack.io/hackers-hijacked-1900-github-accounts-then-they-went-after-30000-repos/",
+          "summary": "Hackers accessed roughly 1,900 GitHub accounts, then used them to slip credential-stealing workflows into more than 30,000 repositories. The malicious GitHub Actions jobs targeted …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-15T21:13:01.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5694c9e88f65",
+          "title": "Vercel adds always-on workers to run more of your backend",
+          "titleZh": "Vercel adds always-on workers to run more of your backend",
+          "url": "https://thenewstack.io/vercel-faces-its-daemons/",
+          "summary": "Vercel is giving developers more options for running their backends on its platform. At its Ship conference in San Francisco on Thursday, the company introduced Daemons, a new serv…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-15T18:45:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "96ccde977b79",
+          "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+          "titleZh": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+          "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-10-15T22:15:56.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a81232e435c",
+          "title": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+          "titleZh": "Farcaster acquired by Balaji’s Network School, with new ‘social smart contract’ for users",
+          "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-10-15T21:41:14.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 39,
+    "itemsFiltered": 1,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 63,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
