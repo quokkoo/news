@@ -1,0 +1,944 @@
+{
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T00:14:15.762Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 30 条，覆盖 深度长文与思考、商业模式与行业深度、前沿科技与 AI 产业、宏观经济与资本市场等 7 个领域，全部读完约需 64 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "01130832771d",
+          "title": "Christine Lagarde: IMFC Statement",
+          "titleZh": "Christine Lagarde: IMFC Statement",
+          "url": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261017~7015ea3099.en.html",
+          "summary": "Statement by Christine Lagarde, President of the ECB, at the fifty-fourth meeting of the International Monetary and Financial Committee IMF Annual Meetings, 17 October 2026 Introdu…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-17T05:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "327f1f71fd33",
+          "title": "最新警报！对冲基金大举撤退 什么信号？",
+          "titleZh": "最新警报！对冲基金大举撤退 什么信号？",
+          "url": "http://finance.eastmoney.com/news/1345,202610183899096732.html",
+          "summary": "持续近两年的AI多头交易，正在遭遇一场猛烈逆转。 高盛Prime经纪业务数据显示，10月8日至14日，对冲基金连续五个交易日净卖出全球AI股票，自2025年初以来的累计净买入在短短一周内被悉数抹去。与此同时，截至最新，全球市值最高的20只AI和半导体股票合计蒸发超过1万亿美元市值。 这场抛售已从AI板块蔓延至全球市场。韩国股市跌入熊市区间，首尔市场触发熔断机…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-17T23:39:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "09177b96a2f7",
+          "title": "从“能用”到“好用”：国常会部署“人工智能+”行动从技术热走向产业实",
+          "titleZh": "从“能用”到“好用”：国常会部署“人工智能+”行动从技术热走向产业实",
+          "url": "http://finance.eastmoney.com/news/1355,202610183899096252.html",
+          "summary": "在北京亦庄，一台艾灸机器人正沿着老人的背部缓缓移动，外骨骼机器人帮偏瘫老人练习走路，按摩机器人为老人舒缓身体，下棋机器人陪老人下象棋……这些曾经只出现在展台上的技术，正在成为基层服务场景里的日常。 10月16日，国务院常务会议召开，会议听取“人工智能+”行动进展情况汇报。会议强调，“人工智能是影响未来发展的关键变量”，要“注重以落地应用牵引技术创新”，“让人…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-17T23:24:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "adf2cf8a57b4",
+          "title": "环球下周看点：黄仁勋GTC演讲 “癌症疫苗”详细数据出炉 Meta、特斯拉发布财报",
+          "titleZh": "环球下周看点：黄仁勋GTC演讲 “癌症疫苗”详细数据出炉 Meta、特斯拉发布财报",
+          "url": "http://finance.eastmoney.com/news/1354,202610183899095119.html",
+          "summary": "刚刚过去的一周，环球市场上演了一场鲜明的风格分化：此前风光无限的科技股接连遭遇抛售，围绕AI投资回报与债务融资的疑虑迅速升温；与此同时，资金涌向能源、消费等传统行业，部分红利股逆市走强。 作为代表标的，美股半导体ETF（SOXX）在短短一个月里完成“涨19%后跌17%”的巨震，较6月高点回撤超过25%。与此同时，日常消费品精选行业指数ETF（XLP）10月头…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-17T22:30:43.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6a1efc8d6842",
+          "title": "与4亿人有关！银发经济市场规模预计到2035年突破30万亿元",
+          "titleZh": "与4亿人有关！银发经济市场规模预计到2035年突破30万亿元",
+          "url": "http://biz.eastmoney.com/news/1670,202610183899094886.html",
+          "summary": "岁岁重阳，今又重阳。我们习惯在节日送上一句问候，可曾静下心想想，爸爸妈妈当下最需要的是什么？如今长辈们的生活需求早已悄然变化，他们的消费选择、对养老服务的期待，勾勒出晚年生活的新图景。 2026年3月发布的“十五五”规划纲要，进一步将“大力发展银发经济”上升为国家重大战略任务。财经频道《美好生活大调查》的独家数据显示，银发族，正在成为中国消费市场里增速较快的…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-17T22:15:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "645e3a2496a3",
+          "title": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+          "titleZh": "IMF警告日本可能需要更快加息，全球债市再添压力？",
+          "url": "https://wallstreetcn.com/articles/3783840",
+          "summary": "国际货币基金组织罕见地为日本货币政策正常化背书，并警告若通胀超预期，日本央行可能需要加快加息步伐。这一表态，在全球债市已然动荡之际，令市场对日本资金撤离海外资产的担忧进一步升温。 IMF亚太部门主任Krishna Srinivasan在本周于曼谷召开的IMF年会期间接受路透社采访时表示，日本央行\"正在做正确的事\"，并强调若通胀上升快于预期，\"必须更快收紧，因…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-17T09:44:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "efa478db3921",
+          "title": "Meta shakes up the frontiers, open and closed",
+          "titleZh": "Meta shakes up the frontiers, open and closed",
+          "url": "https://www.interconnects.ai/p/meta-shakes-up-the-frontiers-open",
+          "summary": "This has been a week where the balance of American open-weight models took a step change back toward the frontier. Meta took the lead of this charge with Muse Spark Open , which is…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-10-17T14:06:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fa49cc4c687e",
+          "title": "Pele – Mermaid diagrams as themeable SVG",
+          "titleZh": "Pele – Mermaid diagrams as themeable SVG",
+          "url": "https://pele.run/",
+          "summary": "How it works Write Mermaid syntax, Pele renders it to SVG. Try editing the example below. Mermaid flowchart TD A [ Mermaid text ] --> B { Flowchart? } B -- Yes --> C [ Pele ] B -- …",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-10-17T15:55:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eed666e70d7b",
+          "title": "[AINews] High Taste Testers Ep. 1",
+          "titleZh": "[AINews] High Taste Testers Ep. 1",
+          "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
+          "summary": "We are piloting a new show on Latent Space: High Taste Testers, a variant of our food show where we pull you in to a typical lunch conversation in San Francisco. All your favorite …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-17T07:47:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "12cb3a8b17ef",
+          "title": "Science says your boss should talk less in meetings",
+          "titleZh": "Science says your boss should talk less in meetings",
+          "url": "https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/",
+          "summary": "Close to 1 billion meetings take place each day around the world. CEOs spend nearly three-quarters of their workdays in meetings. Planning for and spearheading meetings eats up the…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-17T11:15:11.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a06c8f1394b6",
+          "title": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+          "titleZh": "SpaceX’s ambitious, expensive gamble to replace AT&T, T-Mobile, and Verizon",
+          "url": "https://www.theverge.com/podcast/1012416/spacex-starlink-elon-musk-cell-carrier-wireless-mobile-att-verizon-t-mobile",
+          "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wir…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-10-17T14:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14cf68046dc5",
+          "title": "TikTok bans Musk documentary account",
+          "titleZh": "TikTok bans Musk documentary account",
+          "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+          "summary": "Tesla and SpaceX CEO Elon Musk gestures as he speaks during the inaugural parade inside Capitol One Arena, in Washington, DC, on January 20, 2025. (Photo by ANGELA WEISS / AFP) (Ph…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-10-17T19:32:23.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b26c1d5c762a",
+          "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+          "titleZh": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+          "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+          "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 ho…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-10-17T17:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "072c95f7e5c6",
+          "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+          "titleZh": "Elon Musk settles lawsuits over $1 million voter giveaway",
+          "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+          "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legal…",
+          "whyItMatters": "",
+          "sourceName": "The Verge",
+          "publishedAt": "2026-10-17T16:39:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 5
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "5540f7cca59e",
+          "title": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+          "titleZh": "Zelensky says Musk-owned satellite system still restricted in Ukraine",
+          "url": "https://www.axios.com/2026/10/17/zelensky-starlink-elon-musk-trump",
+          "summary": "Ukrainian President Volodymyr Zelensky said Ukraine's use of the Elon Musk -owned SpaceX satellite system remains partially restricted, despite earlier signs this week that it had …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-17T23:26:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "49610f8ce0cd",
+          "title": "Anthropic，也要付10%高息",
+          "titleZh": "Anthropic，也要付10%高息",
+          "url": "https://www.huxiu.com/article/4898347.html?f=rss",
+          "summary": "本文来自微信公众号： 财联社 ，作者：史正丞 随着AI云服务商CoreWeave股债遭遇重挫，AI投资热潮背后的债务风险正在引发市场更仔细的审视。 据周末的最新报道，近期披露第三季度收入达到168亿美元、并称已连续两个季度实现调整后盈利的头部AI实验室Anthropic，正在推进一项规模达600亿美元的芯片融资计划。其中，私募股权巨头黑石集团认购的次级债票息…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-17T23:38:25.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "268142f59e4e",
+          "title": "百事为什么没能留住肯德基",
+          "titleZh": "百事为什么没能留住肯德基",
+          "url": "https://www.huxiu.com/article/4898346.html?f=rss",
+          "summary": "本文来自微信公众号： 涌流商业 ，作者：李伟 2026年10月8日，百事公司第三季度业绩会上，CEO龙嘉德（Ramon Laguarta）承认，他们在美国软饮市场的竞争表现不理想。 分析师问管理层，公司反复强调改善北美饮料业务的紧迫性，所谓紧迫究竟意味着什么？ 龙嘉德解释，公司将严格审视每一项成本，剔除与增长无关的开支，把资金投入能够带来增长的品牌。同时，百…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-17T23:21:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "513f0f1dc153",
+          "title": "当代校园恐怖：父母社交账号成了霸凌武器库",
+          "titleZh": "当代校园恐怖：父母社交账号成了霸凌武器库",
+          "url": "https://www.huxiu.com/article/4897749.html?f=rss",
+          "summary": "出品 | 虎嗅青年文化组 本文首发于虎嗅年轻内容公众号“那個NG”（ID：huxiu4youth）。在这里，我们呈现当下年轻人的面貌、故事和态度。 今天的AI短剧就像是美杜莎。 当你在看它的时候，它也在看着你，你俩眼一对，一切停滞，你就搁那呆着吧。 这种魔力，来自于对现实人心的精准洞察。比如，最近流行的剧情：工地门口拿死猪肉做盖饭的黑心商家赚得盆满钵满，认真…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-17T23:00:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2bbee948ff85",
+          "title": "Trump's Russia waiver draws instant bipartisan backlash",
+          "titleZh": "Trump's Russia waiver draws instant bipartisan backlash",
+          "url": "https://www.axios.com/2026/10/17/trump-russia-waiver-putin-republicans-democrats",
+          "summary": "Top Republicans and Democrats alike lined up Saturday to condemn President Trump 's decision to waive recent sanctions on Russia , calling it \"irresponsible\" and \"a deal with the d…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-17T19:18:15.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-18T00:13:59.326Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-18T00:13:59.326Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-18T00:13:59.326Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "0b9668367c81",
+          "title": "Saras Micro Devices Embeds Capacitors to Power AI Accelerators",
+          "titleZh": "Saras Micro Devices Embeds Capacitors to Power AI Accelerators",
+          "url": "https://www.semiconductor-digest.com/saras-micro-devices-embeds-capacitors-to-power-ai-accelerators/?utm_source=rss&utm_medium=rss&utm_campaign=saras-micro-devices-embeds-capacitors-to-power-ai-accelerators",
+          "summary": "AI accelerators are drawing enormous currents (about 2,000 A today, with roadmaps to 5,000 A), and every bit of efficiency counts. “If they can be more efficient in how many comput…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-17T14:35:34.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "15d4ee3f6753",
+          "title": "Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own",
+          "titleZh": "Grab an RTX 5090 for a discounted $5,300 as part of an MSI Infinite ZS prebuilt gaming PC — price includes other components worth about $2,300 on their own",
+          "url": "https://www.tomshardware.com/pc-components/gpus/grab-an-rtx-5090-for-discounted-usd5-300-as-part-of-an-msi-infinite-zs-prebuilt-gaming-pc-usd7-599-price-includes-other-components-worth-about-usd2-300-on-their-own",
+          "summary": "This one will be short and sweet. So remember how there are apparently no more RTX 5090s available most anywhere, even though Nvidia's Senior Vice President just said that the comp…",
+          "whyItMatters": "",
+          "sourceName": "Tom's Hardware",
+          "publishedAt": "2026-10-17T20:30:58.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "ba3c5d0d9f2a",
+          "title": "Beyond EVs and perception, how China is gaining ground in Central Asia",
+          "titleZh": "Beyond EVs and perception, how China is gaining ground in Central Asia",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371232/beyond-evs-and-perception-how-china-gaining-ground-central-asia?utm_source=rss_feed",
+          "summary": "In Kazakhstan’s futuristic capital Astana, car dealer Auyez Kabdygali is planning a big change to his business as he switches from importing European cars to Chinese electric vehic…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-17T22:00:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e5d54289b2bf",
+          "title": "US and China must ensure AI dialogue is more than just hot air - Nikkei Asia",
+          "titleZh": "US and China must ensure AI dialogue is more than just hot air - Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPSS1qdlQwWk5vOS1fM0gtQ3VIc3J4VVZ6dTBoUjNJQUhQNWxYTnRETW9oeXYyb1QwdWgtSHRZUWctVzdUR0ZBV2Y5VkVhVVg2NXo0U2k5N3F2a0hxZ1Vta0tha0l4MFNUcmpvMUstRVZLbW02dXRNcUxHVTR4Wl9hZlZBN0xTaUZJM0FYd2JJaEdBV2UxXzgwR2pR?oc=5",
+          "summary": "US and China must ensure AI dialogue is more than just hot air Nikkei Asia",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-10-17T20:05:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "日经亚洲",
+              "url": "https://asia.nikkei.com/opinion/us-and-china-must-ensure-ai-dialogue-is-more-than-just-hot-air"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "a683b6a3fab1",
+          "title": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+          "titleZh": "Here are the engineering lessons we learned when live-streaming sports to 32 million people",
+          "url": "https://thenewstack.io/live-streaming-engineering-lessons/",
+          "summary": "Live sports involve myriad unknowns, but one thing is certain: the live video feed must play flawlessly, and simultaneously, for all the fans tuning in. If some hear their neighbor…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-17T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "82602d22524e",
+          "title": "AI has lowered the barrier to building. Here’s what that means for engineers.",
+          "titleZh": "AI has lowered the barrier to building. Here’s what that means for engineers.",
+          "url": "https://thenewstack.io/ai-lowering-building-barrier/",
+          "summary": "For most of software’s history, building meant writing code. Not just understanding it, but producing it. The entry point was steep by design: fluency in at least one language, wor…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-17T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14ca7ae5fa75",
+          "title": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
+          "titleZh": "His scanner wouldn’t work on Linux — so he let Claude study the Windows driver",
+          "url": "https://thenewstack.io/claude-code-linux-driver/",
+          "summary": "Christian Schaller, a Red Hat engineering director and longtime GNOME and Fedora contributor, had a box of old family negatives to digitize and a scanner that wouldn&rsquo;t talk t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-17T14:30:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a2a27316f0b9",
+          "title": "AI agents vs. Kubernetes: where each belongs in the control loop",
+          "titleZh": "AI agents vs. Kubernetes: where each belongs in the control loop",
+          "url": "https://thenewstack.io/ai-agents-kubernetes-control/",
+          "summary": "Kubernetes has always relied on agents , just not the kind dominating today’s AI conversations. A controller watches the current state, compares it with a declared desired state, a…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-17T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 30,
+    "itemsPublished": 30,
+    "itemsFiltered": 0,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 64,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
