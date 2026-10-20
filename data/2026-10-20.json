@@ -1,0 +1,1239 @@
+{
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T01:12:38.365Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 67 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "dfcfd4871216",
+          "title": "奈飞“撞墙”，高管“清空”",
+          "titleZh": "奈飞“撞墙”，高管“清空”",
+          "url": "https://wallstreetcn.com/articles/3783969",
+          "summary": "奈飞（Netflix）正走到一个关键节点。 10月20日美股盘后，流媒体巨头奈飞将披露第三季度财报。公司股价近一年已下跌逾40%，用户参与度持续承压。 上周，裁撤约1000名员工，随即将内容总监Bela Bajaria和电影负责人Dan Lin相继扫地出门，以Disney和Fox资深高管Peter Rice接替Bajaria。两位核心创意高管的出局，令所有压…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T00:32:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7718f327ac4d",
+          "title": "美国军工股大跌，市场开始定价民主党“中选横扫两院”",
+          "titleZh": "美国军工股大跌，市场开始定价民主党“中选横扫两院”",
+          "url": "https://wallstreetcn.com/articles/3783970",
+          "summary": "美国国防股正遭受双重压力：投资者押注民主党将在中期选举中横扫国会两院，特朗普政府拟议的5000亿美元军费扩张计划随之面临搁浅风险，军工板块今年以来持续跑输大盘。 行业基准指数iShares美国航空航天与国防ETF自7月初至10月中旬累计下跌16%，同期标普500指数上涨3.5%。预测市场平台Kalshi的数据显示，同一时期市场对民主党夺回国会两院的概率预期上…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T00:15:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1fa9b1006c5a",
+          "title": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
+          "titleZh": "科技巨头护盘，标普、纳指反弹，芯片指数终结八连跌，美油八连涨，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "summary": "科技股的强劲反弹为上周遭受重创的美股提供了喘息空间，但市场底部的信用裂缝正在持续扩大，并开始向权益市场渗透。 纳斯达克100指数周一上涨1.2%，半导体股反弹提振AI相关板块，科技巨头充当主要护盘力量。然而，这场反弹成色有限，CoreWeave在高盛升级评级后一度大涨逾7%，随即回落至上周五低点；标普500指数仅收涨0.4%，道琼斯指数几近持平。 与此同时，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-19T23:28:10.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "69fcce105195",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月20日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月20日",
+          "url": "https://wallstreetcn.com/articles/3783954",
+          "summary": "华见早安之声 要闻精选 中国三季度GDP同比增4.5%，前三季度增4.6%、经济运行总体平稳；9月社零同比增1.1%，较8月增速加快；1-9月城镇固定资产投资降7.2%；1-9月房地产开发投资降20.6%；9月一线城市二手房价环比涨幅扩大、新房环比续涨，二三线城市环比降幅收窄。 金融街论坛高层发声：潘功胜：央行拟设非银机构大额赎回流动性支持工具，用市场化利率…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-19T23:10:16.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "95acbcdd816f",
+          "title": "法国骚乱冲击金融市场，10年期国债收益率单日飙升14个基点，银行与零售股大跌",
+          "titleZh": "法国骚乱冲击金融市场，10年期国债收益率单日飙升14个基点，银行与零售股大跌",
+          "url": "https://wallstreetcn.com/articles/3783953",
+          "summary": "法国市场周一遭遇全面抛售。大规模抗议浪潮叠加财政整顿前景黯淡，投资者对法国国债风险溢价的担忧急剧升温，债券、股票与欧元同步下挫。 截至发稿，法国10年期国债收益率单日飙升14个基点至4.93%，创近一个月最大单日涨幅，与德国同期国债的利差扩大至147个基点，为两周高位。 周一CAC 40指数收跌1.1%，领跌欧洲主要市场，法国两大银行法巴银行与兴业银行分别下…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-19T22:48:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c17b05bafae4",
+          "title": "抄底资金来了！半导体和韩国ETF获强劲资金流入，内存板块持续“失血”",
+          "titleZh": "抄底资金来了！半导体和韩国ETF获强劲资金流入，内存板块持续“失血”",
+          "url": "https://wallstreetcn.com/articles/3783976",
+          "summary": "全球ETF投资者正以创纪录的规模和极高的杠杆率“抄底”半导体和韩国市场，而内存板块却遭到持续无情抛售。 据追风交易台消息，摩根大通10月19日发布的最新资金流向报告显示，全球股票ETF单周（10月16日当周）狂揽463亿美元，其中3倍做多半导体ETF（SOXL）创下72亿美元的历史最高资金流入，韩国ETF迎来今年7月以来最强资金流入。然而，资金在科技板块内部…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T00:51:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "efe90b51ce93",
+          "title": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "titleZh": "Pennsylvania issues alert on congenital measles—something US hasn't seen for decades",
+          "url": "https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/",
+          "summary": "Pennsylvania's health department issued a health alert Monday as cases of measles in pregnancy and, in turn, cases of congenital measles have continued to increase. Before the curr…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-19T22:44:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3a60bcf8d1e5",
+          "title": "Making the internet better for AI agents might make it worse for everyone else",
+          "titleZh": "Making the internet better for AI agents might make it worse for everyone else",
+          "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . Until recently, you could divide internet…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-19T18:22:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "937ad023eea4",
+          "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+          "titleZh": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+          "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+          "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-wo…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-19T17:45:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "176889d90c3c",
+          "title": "My obituary for programming",
+          "titleZh": "My obituary for programming",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/",
+          "summary": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming tur…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-19T23:58:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a638acb7f87d",
+          "title": "Batteries help reduce emissions, but how do we reduce their emissions?",
+          "titleZh": "Batteries help reduce emissions, but how do we reduce their emissions?",
+          "url": "https://arstechnica.com/science/2026/10/batteries-have-a-small-carbon-footprint-we-can-make-it-smaller/",
+          "summary": "The first order of business for the energy transition is electrifying applications like vehicles and heating and making sure that the electricity that powers them is made using ren…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-19T20:03:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "da643ee7698d",
+          "title": "PSA: Patch your Plex media server before someone hacks it",
+          "titleZh": "PSA: Patch your Plex media server before someone hacks it",
+          "url": "https://arstechnica.com/security/2026/10/recently-fixed-plex-media-vulnerabilities-are-being-exploited-to-install-malware/",
+          "summary": "Recently fixed vulnerabilities in the Plex Media Server are under active exploitation in attacks that, when successful, install malware, including cryptominers and residential prox…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-19T19:39:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c0a6e9ddb6dc",
+          "title": "ReactOS reaches major milestone with NTFS install support",
+          "titleZh": "ReactOS reaches major milestone with NTFS install support",
+          "url": "https://arstechnica.com/information-technology/2026/10/reactos-reaches-major-milestone-with-ntfs-install-support/",
+          "summary": "Open source Windows alternative ReactOS has reached a major milestone: The operating system can now be installed directly onto an NT Files System drive partition. As reported by Ph…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-19T18:30:56.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fdc6294d89cc",
+          "title": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "titleZh": "Russian spacecraft maneuvers in \"extreme proximity\" to satellite used by Ukraine",
+          "url": "https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/",
+          "summary": "A Russian military satellite maneuvered in \"extreme proximity\" of a commercial Earth-imaging satellite in recent days in the first known example an unsanctioned rendezvous in low-E…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-19T20:54:17.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "e31ccfacac37",
+          "title": "The affordability question Republicans can't escape",
+          "titleZh": "The affordability question Republicans can't escape",
+          "url": "https://www.axios.com/2026/10/19/gas-prices-republicans-affordability-question",
+          "summary": "One issue is breaking through even among the most loyal Republican supporters: gas prices . Why it matters: Republicans promised to slash gas prices. But the Iran war sent them soa…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-19T23:03:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9c5887f4d0b5",
+          "title": "Inside the GOP's fight to avoid a House wipeout",
+          "titleZh": "Inside the GOP's fight to avoid a House wipeout",
+          "url": "https://www.axios.com/2026/10/19/steve-scalise-house-republicans-midterm-election",
+          "summary": "House Majority Leader Steve Scalise won't talk about defeat, even as his outside GOP allies are pulling money anyway. Why it matters: Republicans face brutal political headwinds, b…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-19T23:03:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1f901d6b1a8b",
+          "title": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+          "titleZh": "Scoop: Pete Hegseth meets with Netanyahu in Israel ahead of elections",
+          "url": "https://www.axios.com/2026/10/19/pete-hegseth-israel-visit-netanyahu-meeting",
+          "summary": "Defense Secretary Pete Hegseth met with Israeli Prime Minister Benjamin Netanyahu in Israel on Monday, two sources with knowledge told Axios. Why it matters: The unannounced visit …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-19T23:48:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fe0e58809ddc",
+          "title": "📈 Monday data: Who won the trade war?",
+          "titleZh": "📈 Monday data: Who won the trade war?",
+          "url": "https://www.exponentialview.co/p/monday-data-who-won-the-trade-war",
+          "summary": "In the AI Investment Brief today: Early AI adopters report gains, plus CoreWeave's bond woes Trump’s first major tariffs were introduced in January 2018 – a (very) long eight years…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-10-19T13:31:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41c66282187f",
+          "title": "俞敏洪线下造梦东方甄选",
+          "titleZh": "俞敏洪线下造梦东方甄选",
+          "url": "https://www.huxiu.com/article/4898800.html?f=rss",
+          "summary": "本文来自微信公众号： 海克财经 ，作者：苏旻 只把数量堆上去是远远不够的。 又一年“双11”大促拉开帷幕，国内各大电商平台相继公布玩法。 10月15日，天猫在上海，京东在北京，同日召开2026年双11启动发布会，抖音商城“双11好物节”亦在当日启动。 2026年双11的关键词或可总结为“做减法”。京东取消定金预售，直接现货开卖，简化规则，主打官方直降；天猫此…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-20T01:04:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-20T01:12:29.878Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-20T01:12:29.878Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-20T01:12:29.878Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "39850e013e93",
+          "title": "Precision Timing Special Report",
+          "titleZh": "Precision Timing Special Report",
+          "url": "https://www.eetimes.com/precision-timing-special-report/",
+          "summary": "Every electronic system depends on accurate timing. Crystals and oscillators supply the reference signals that keep processors synchronized, communications stable, and data moving …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-19T20:30:16.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "13197f9acc56",
+          "title": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "titleZh": "Video Interview: Applied Materials CEO on the Economics Behind Its $5B EPIC Bet",
+          "url": "https://www.eetimes.com/video-interview-applied-materials-ceo-on-the-economics-behind-its-5b-epic-bet/",
+          "summary": "Last week, Applied Materials held a grand unveiling ceremony for its $5 billion EPIC Center, which aims to bring chipmakers, equipment suppliers, and researchers together to accele…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-19T20:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e6e49a51d873",
+          "title": "HANMI Semiconductor Opens HANMI USA",
+          "titleZh": "HANMI Semiconductor Opens HANMI USA",
+          "url": "https://www.semiconductor-digest.com/hanmi-semiconductor-opens-hanmi-usa/?utm_source=rss&utm_medium=rss&utm_campaign=hanmi-semiconductor-opens-hanmi-usa",
+          "summary": "HANMI Semiconductor today announced that it has opened U.S. subsidiary HANMI USA, a major step in expanding its presence in the U.S. semiconductor market. To celebrate the launch o…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-19T21:50:03.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e584d97cf27",
+          "title": "Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports",
+          "titleZh": "Electronic System Design Industry Posts $5.7 Billion in Revenue in Q2 2026, ESD Alliance Reports",
+          "url": "https://www.semiconductor-digest.com/electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports/?utm_source=rss&utm_medium=rss&utm_campaign=electronic-system-design-industry-posts-5-7-billion-in-revenue-in-q2-2026-esd-alliance-reports",
+          "summary": "Electronic System Design (ESD) industry revenue increased 12.2% to $5,710.8 million in the second quarter of 2026 from the $5,089.4 million registered in the second quarter of 2025…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-19T21:38:07.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "014f35ac3d56",
+          "title": "Cell publisher investigates editor accused of soliciting bribes from China",
+          "titleZh": "Cell publisher investigates editor accused of soliciting bribes from China",
+          "url": "https://www.scmp.com/news/china/science/article/3371384/cell-publisher-investigates-editor-accused-soliciting-bribes-china?utm_source=rss_feed",
+          "summary": "Cell Press, one of the world’s leading scientific publishers, has launched an investigation after prominent Chinese biologist Rao Yi accused the editor-in-chief of a top medical jo…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-20T01:00:11.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6cadd5b812b7",
+          "title": "The evolution of China’s active defence doctrine",
+          "titleZh": "The evolution of China’s active defence doctrine",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3371344/evolution-chinas-active-defence-doctrine?utm_source=rss_feed",
+          "summary": "The British Army’s miraculous escape from Nazi Germany’s encirclement at Dunkirk is considered by some to be the greatest military retreat in modern history and a prime example of …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-20T01:00:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7e390a41a5a",
+          "title": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
+          "titleZh": "US sanctions 5 Chinese entities over ex-Google engineer’s AI trade secrets theft",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371434/us-sanctions-5-chinese-entities-over-ex-google-engineers-ai-trade-secrets-theft?utm_source=rss_feed",
+          "summary": "The US State Department announced on Monday that it was imposing sweeping sanctions under the Protecting American Intellectual Property Act (PAIPA) on five Chinese entities suspect…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-19T22:36:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "b9922669e86f",
+          "title": "What Google’s virtual power plant in PJM says about the race for electricity",
+          "titleZh": "What Google’s virtual power plant in PJM says about the race for electricity",
+          "url": "https://www.utilitydive.com/news/what-googles-virtual-power-plant-in-pjm-says-about-the-race-for-electricit/833290/",
+          "summary": "Voltus CEO Dana Guernsey compared new “bring your own new capacity” contracts to the power purchase agreements that “revolutionized” utility-scale solar and wind development.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-10-19T16:16:28.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b119aad4ef5",
+          "title": "This geothermal startup produced a tiny bit of power from the seafloor",
+          "titleZh": "This geothermal startup produced a tiny bit of power from the seafloor",
+          "url": "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling",
+          "summary": "A tiny power plant notched a big win last month off the coast of Oregon: For nearly 30 seconds, it generated electricity using the heat of an underwater volcano. The startup Endura…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-19T16:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "246090d5371b",
+          "title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+          "titleZh": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+          "summary": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally ad…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-19T16:19:38.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fed934e3cf04",
+          "title": "Department of Justice to fund studies of gender dysphoria and violent behavior",
+          "titleZh": "Department of Justice to fund studies of gender dysphoria and violent behavior",
+          "url": "https://www.science.org/content/article/department-justice-fund-studies-gender-dysphoria-and-violent-behavior",
+          "summary": "Experts worry the proposed research could produce biased results",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-10-19T10:40:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "b1b8cbfc3183",
+          "title": "How to continue a GitHub Copilot app session in VS Code",
+          "titleZh": "How to continue a GitHub Copilot app session in VS Code",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+          "summary": "The agent has finished the bulk of your change. Now you want to inspect one implementation detail, adjust a few lines by hand, and run the project locally before you ship it. But t…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-19T18:47:22.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "03d58c63e280",
+          "title": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+          "titleZh": "MiniMax just halved its token prices. Your AI agent bill may not follow.",
+          "url": "https://thenewstack.io/minimax-flash-agent-costs/",
+          "summary": "MiniMax released M3.1 Flash on Monday, saying it cuts agent costs by 70 percent. Per-token prices fell by half, which accounts for part of that claim. The rest depends on how many …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-19T22:00:19.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "273f1becc5f3",
+          "title": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
+          "titleZh": "One sentence changed Claude Code’s overreach rate from 0% to 17.1%",
+          "url": "https://thenewstack.io/coding-agents-overstep-scope/",
+          "summary": "Anthropic is reportedly developing a model that can infer what users want from incomplete instructions. According to The Information , a person who tested the unreleased model desc…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-19T18:36:02.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d5558f9f6c77",
+          "title": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+          "titleZh": "DeepSeek made its name with cheap AI models. Now it’s undercutting search API rivals, too.",
+          "url": "https://thenewstack.io/deepseek-web-search-api/",
+          "summary": "Not content with challenging the major frontier AI labs with lower-cost models , Chinese AI company DeepSeek is setting its sights on the search API market. On Saturday, the compan…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-19T14:29:42.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "0d8fda01c0fd",
+          "title": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+          "titleZh": "Progressive Misalignment Can Emerge from Benign Recursive Self-Distillation",
+          "url": "https://arxiv.org/abs/2610.22467",
+          "summary": "arXiv:2610.22467v1 Announce Type: cross Abstract: Training models on their own outputs has attracted widespread attention as a possible route to advance AI capabilities. One promin…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-10-19T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2610.22467"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2610.22467"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a3c116ec66bb",
+          "title": "Can LLMs predict the outcomes of machine learning experiments?",
+          "titleZh": "Can LLMs predict the outcomes of machine learning experiments?",
+          "url": "https://arxiv.org/abs/2610.22599",
+          "summary": "arXiv:2610.22599v1 Announce Type: cross Abstract: Recent advances in AI make Recursive Self-Improvement (RSI) increasingly plausible. Large Language Models (LLMs) can already propo…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-10-19T04:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2610.22599"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2610.22599"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 39,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
