@@ -1,0 +1,1210 @@
+{
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T00:50:33.522Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "f0fc9bc2ddf2",
+          "title": "“对冲基金界乔丹”：AI“几乎肯定”目前处于泡沫之中，AI会取代白领但无法取代Citadel",
+          "titleZh": "“对冲基金界乔丹”：AI“几乎肯定”目前处于泡沫之中，AI会取代白领但无法取代Citadel",
+          "url": "https://wallstreetcn.com/articles/3784081",
+          "summary": "亿万富翁、Citadel创始人Ken Griffin直言，人工智能\"几乎肯定\"正处于泡沫之中，但他同时认为，这场泡沫与历史上每一次重大技术变革如出一辙——泡沫破裂后存活下来的公司，将成为未来数十年的市场领导者。 Griffin于周二在纽约举办的Citadel年度\"全球市场未来\"大会上接受彭博采访时发表观点，他指出，美国企业界在从AI模型中提取价值方面\"表现参…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T00:29:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d699f6339afe",
+          "title": "美乌联盟逼近破裂临界点，泽连斯基赴挪威会见美特使，芬兰总统称“取得真正进展”",
+          "titleZh": "美乌联盟逼近破裂临界点，泽连斯基赴挪威会见美特使，芬兰总统称“取得真正进展”",
+          "url": "https://wallstreetcn.com/articles/3784078",
+          "summary": "在美乌关系跌至新低的敏感节点，一场旨在推动俄乌和平进程的多方会谈在挪威首都奥斯陆举行，各方释放出谨慎乐观信号，但未宣布任何实质性突破。 据央视新闻报道，当地时间20日，美国总统特朗普的特使Steve Witkoff与乌克兰总统泽连斯基在奥斯陆举行会晤，挪威首相Jonas Gahr Støre、芬兰总统Alexander Stubb及来自英国、法国、德国、波兰…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T00:08:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "929c11e3b5ff",
+          "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
+          "titleZh": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
+          "url": "https://wallstreetcn.com/articles/3784071",
+          "summary": "SpaceX三季度业绩迎来大爆发，马斯克不仅抛出2027年保底13GW、甚至挑战20GW的AI算力狂暴扩张计划，更豪言公司年经常性收入将在明年底冲刺万亿美元大关。 华尔街见闻提及，美东时间20日周二美股盘后，SpaceX公布，截至9月的2026年第三季度，公司营收同比增长161%至145.8亿美元，较分析师预期的约128亿美元高10%以上。 营收暴增的背后，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T00:07:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "22eb200a2903",
+          "title": "Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿",
+          "titleZh": "Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿",
+          "url": "https://wallstreetcn.com/articles/3784062",
+          "summary": "Anthropic正以前所未有的速度烧钱扩张算力，同时加速推进其潜在的史上最大规模IPO。 10月20日，据《华尔街日报》援引Anthropic最新版S-1招股草案报道，这家AI初创公司2026年上半年净亏损超过807亿美元，其中720亿美元来自与可转换票据及其他融资工具估值变动相关的会计计提，较去年同期130亿美元的净亏损大幅扩大。 与此同时，该公司今年上…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T23:14:47.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a00dd4f68e0",
+          "title": "四季度或再迎AI发债潮：甲骨文、Meta、SpaceX CDS创历史新高",
+          "titleZh": "四季度或再迎AI发债潮：甲骨文、Meta、SpaceX CDS创历史新高",
+          "url": "https://wallstreetcn.com/articles/3784076",
+          "summary": "科技巨头密集财报季叠加巨额债券发行预期，正驱动信用违约互换（CDS）成本升至历史高位。 Meta和SpaceX本周相继公布财报，随着科技公司陆续披露财报并结束\"静默期\"，市场预期新一轮大规模债券发行即将启动。 周二，被市场广泛视为AI债务风险晴雨表的甲骨文CDS盘中一度升至343个基点，创历史新高。Meta的CDS指标也升至纪录高位，盘中上涨6.3个基点至1…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T23:14:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "75e0c1425fce",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月21日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月21日",
+          "url": "https://wallstreetcn.com/articles/3784074",
+          "summary": "华见早安之声 要闻精选 中国央行10月LPR报价连续第17个月维持不变，1年期3.0%、5年期以上3.5%，政策利率换锚至隔夜进入落地阶段。 国务院总理李强出席上海合作组织成员国政府首脑理事会第二十五次会议，会议通过联合公报。 国家发改委表示将及时出台实施增量政策，并已着手研究制定扩大内需战略实施方案。 商务部：希望美方切实落实两国元首重要共识，停止对中国企…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-20T23:04:53.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "8e444c94dd7f",
+          "title": "eMudhra Intermediate CA Compromise",
+          "titleZh": "eMudhra Intermediate CA Compromise",
+          "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/",
+          "summary": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-20T23:50:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.5,
+          "scores": {
+            "importance": 8,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 5
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://emudhra.we-have-a-problem.com/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b15234a8b4e3",
+          "title": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+          "titleZh": "Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US & China",
+          "url": "https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek",
+          "summary": "The geopolitics of open-weight AI are accelerating again this fall, as we would expect with the risks of all AI systems (open and closed) rising rapidly. We’ve seen many news items…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-10-20T17:04:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e6f56b5c8c26",
+          "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+          "titleZh": "The Programmable Data Center — Evan Conrad, SF Compute",
+          "url": "https://www.latent.space/p/sfcompute2",
+          "summary": "This was recorded on the sidelines of the new Compute Trading track at AIE NYC . Catch us next at AIE CODE , our last flagship for the top agentic engineers in the world. In the ea…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-20T19:31:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8f7cc981387e",
+          "title": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+          "titleZh": "It’s a bird, it’s a plane … it’s a robo-puffin?",
+          "url": "https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/",
+          "summary": "Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plu…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-20T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b064cf2cf02e",
+          "title": "Here’s the tea",
+          "titleZh": "Here’s the tea",
+          "url": "https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/",
+          "summary": "When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. De…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-20T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "127119b25274",
+          "title": "A reason to eat carbs",
+          "titleZh": "A reason to eat carbs",
+          "url": "https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/",
+          "summary": "A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketog…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-20T21:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d496e43d70d7",
+          "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "titleZh": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+          "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+          "summary": "Picture moving the Cadiere grasper, grasping the gallbladder, and lifting it, all within a generated surgical scene that responds in real time. Today, we take the next step and int…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-20T18:17:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "84571503a38d",
+          "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "titleZh": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+          "url": "https://huggingface.co/blog/allenai/fairstress",
+          "summary": "📄 Tech Report | 🤗 Data | 💻 Code Today we’re introducing FairStress , a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes in decisio…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-20T16:09:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "99979680f156",
+          "title": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+          "titleZh": "Exclusive: Ramaswamy doubles down on explosive ad featuring rival's mother, despite backlash",
+          "url": "https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio",
+          "summary": "Vivek Ramaswamy's campaign for Ohio governor is pouring $4 million into a bombshell ad in which his opponent's estranged mother attacks her daughter — doubling down on the message …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-21T00:01:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0edadff7948c",
+          "title": "House Democrats forced to make tough choices with limited midterm cash",
+          "titleZh": "House Democrats forced to make tough choices with limited midterm cash",
+          "url": "https://www.axios.com/2026/10/20/2026-election-democrats-spending-districts-cash",
+          "summary": "House Democrats' main super PAC is winding down its spending in several races where the party has struggled to make headway despite national trends working in their favor . Why it …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-20T23:29:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "811dd31d3493",
+          "title": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+          "titleZh": "Witkoff to present Putin with peace proposal after talks with Zelensky",
+          "url": "https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war",
+          "summary": "White House envoy Steve Witkoff will meet Russian President Vladimir Putin in St. Petersburg on Wednesday and present him with an updated proposal to end the war in Ukraine, a U.S.…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-20T23:04:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "14ac0e43f813",
+          "title": "Exclusive: House GOP clings to 2026 fundraising lead",
+          "titleZh": "Exclusive: House GOP clings to 2026 fundraising lead",
+          "url": "https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats",
+          "summary": "House Republicans are entering the final two weeks of the midterms with a rare but razor-thin fundraising advantage over House Democrats. Why it matters: Democrats outraised Republ…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-20T22:30:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1e5640a6bab8",
+          "title": "Pete Florence: When Robots Improvise",
+          "titleZh": "Pete Florence: When Robots Improvise",
+          "url": "https://www.generalist.com/p/pete-florence-when-robots-improvise",
+          "summary": "“Before fire existed, it’s hard to imagine all the implications of fire. I think the same thing will very much be true with the level of robotics that will be possible. It’s just h…",
+          "whyItMatters": "",
+          "sourceName": "The Generalist",
+          "publishedAt": "2026-10-20T12:04:23.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-21T00:50:25.690Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-21T00:50:25.690Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-21T00:50:25.690Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "79996968a366",
+          "title": "Innovasea Packs Long-Life Electronics into Fish Tags",
+          "titleZh": "Innovasea Packs Long-Life Electronics into Fish Tags",
+          "url": "https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/",
+          "summary": "Innovasea’s efforts to shrink its embedded system are not simply a packaging exercise. The Canadian company’s devices must be light enough for a fish to carry without materially ch…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-20T22:06:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "473cfddda7fc",
+          "title": "Socionext Expands Agentic AI to Advanced, Large-Scale SoC Physical Design",
+          "titleZh": "Socionext Expands Agentic AI to Advanced, Large-Scale SoC Physical Design",
+          "url": "https://www.semiconductor-digest.com/socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design/?utm_source=rss&utm_medium=rss&utm_campaign=socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design",
+          "summary": "Socionext Inc. is actively advancing its SoC design and development capabilities through agentic AI and expanding the application of AI-driven design to the physical design of larg…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-20T21:54:27.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c3d184293bb",
+          "title": "Axcelis to Begin Construction of New Manufacturing Facility in Pyeongtaek, Korea",
+          "titleZh": "Axcelis to Begin Construction of New Manufacturing Facility in Pyeongtaek, Korea",
+          "url": "https://www.semiconductor-digest.com/axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea/?utm_source=rss&utm_medium=rss&utm_campaign=axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea",
+          "summary": "Axcelis Technologies, Inc. (Nasdaq: ACLS), a supplier of enabling ion implantation solutions for the semiconductor industry, today announced that it will officially break ground on…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-20T21:49:31.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b1bc0c7706cc",
+          "title": "NTT Consortium Developing Mass-Production Tech for Optical Chiplets",
+          "titleZh": "NTT Consortium Developing Mass-Production Tech for Optical Chiplets",
+          "url": "https://www.semiconductor-digest.com/ntt-consortium-developing-mass-production-tech-for-optical-chiplets/?utm_source=rss&utm_medium=rss&utm_campaign=ntt-consortium-developing-mass-production-tech-for-optical-chiplets",
+          "summary": "NTT, Inc. (NTT), NTT Innovative Devices Corporation (NTT Innovative Devices), Japan Semiconductor Corporation (Japan Semiconductor), Furukawa Electric Co., Ltd. (Furukawa Electric)…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-20T21:38:53.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "daa7e65692ee",
+          "title": "US troops in South Korea must be ready for missions beyond peninsula, commander says",
+          "titleZh": "US troops in South Korea must be ready for missions beyond peninsula, commander says",
+          "url": "https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says",
+          "summary": "The commander of the US Eighth Army in South Korea said his troops must be ready for deployment outside the Korean peninsula if ordered, arguing that it would be “irresponsible” to…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-20T21:52:49.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "58e23ffcd12d",
+          "title": "Blakeman’s uptown fracking fiesta",
+          "titleZh": "Blakeman’s uptown fracking fiesta",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/20/blakemans-uptown-fracking-fiesta-01128168",
+          "summary": "BLAKEMAN’S (LACK OF) ENERGY PLAN: GOP gubernatorial candidate Bruce Blakeman continued to hammer Gov. Kathy Hochul on rising energy costs today, promising to slash utility bills in…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-20T20:36:43.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ca41f73c37e3",
+          "title": "Trump just made a last-minute gambit to save farm-state Republicans in the midterms",
+          "titleZh": "Trump just made a last-minute gambit to save farm-state Republicans in the midterms",
+          "url": "https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165",
+          "summary": "Republicans locked in tight races this November are desperately hoping the Trump administration’s last-minute gambit to send farmers $8 billion in taxpayer money will work. Preside…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-20T19:01:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3323b2447f95",
+          "title": "Poll: Voters see Republicans as the party of Big Tech tax breaks",
+          "titleZh": "Poll: Voters see Republicans as the party of Big Tech tax breaks",
+          "url": "https://www.politico.com/news/2026/10/20/poll-voters-see-republicans-as-the-party-of-big-tech-tax-breaks-01127726",
+          "summary": "Americans are fed up with data centers and Big Tech, and Republicans are poised to take more of the political blame in the Nov. 3 midterms. The POLITICO Poll found last week that A…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-20T15:51:19.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "db56ea7fecac",
+          "title": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+          "titleZh": "Q&A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’",
+          "url": "https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment",
+          "summary": "Print article Share Article Contents Expand menu Close What timeline options were delegates debating? How did the timeline discussions unfold? What were the main points of disagree…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-20T14:40:10.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ce598403d1d",
+          "title": "Georgia electric cooperative plans 50-MW home battery deployment",
+          "titleZh": "Georgia electric cooperative plans 50-MW home battery deployment",
+          "url": "https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/",
+          "summary": "Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-10-20T16:58:27.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "87bcb051d6b8",
+          "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+          "titleZh": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+          "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without ci…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-20T19:40:38.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "47a927ad9d61",
+          "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+          "titleZh": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
+          "summary": "Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal h…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-20T15:57:36.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "87c99446ab6d",
+          "title": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+          "titleZh": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
+          "summary": "The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside the…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-10-20T13:03:14.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8dfa0b4ddb03",
+          "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "titleZh": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+          "url": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+          "summary": "AI coding tools can generate code quickly, but speed alone does not solve the hardest software engineering problems. Developers still need to provide context, validate results, pro…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-20T16:05:03.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f65764b014b5",
+          "title": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+          "titleZh": "Respan spent two years building on LiteLLM. One upgrade made it start over.",
+          "url": "https://thenewstack.io/respan-rust-ai-gateway/",
+          "summary": "Respan released an open-source AI gateway written in Rust on Tuesday, after spending two years building more than 100,000 lines of wrapper code around LiteLLM. The new gateway repl…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-20T22:13:08.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5dbb015f4394",
+          "title": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+          "titleZh": "“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents",
+          "url": "https://thenewstack.io/cloudflare-rust-typescript-tsrs/",
+          "summary": "Cloudflare is going all-out to ensure that AI coding agents can check their work without exhausting available computing resources, leading a new effort to bring Microsoft’s TypeScr…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-20T21:36:25.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fa5ab74138c1",
+          "title": "Assess the entire inference stack — not just open model benchmarks",
+          "titleZh": "Assess the entire inference stack — not just open model benchmarks",
+          "url": "https://thenewstack.io/open-model-benchmarks-production/",
+          "summary": "Impressive benchmark results should make it easy for engineers to select the right open model for the outcome they are tasked with developing. However, that is not the case. Benchm…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-20T20:44:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 39,
+    "itemsFiltered": 0,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
