@@ -1,0 +1,1095 @@
+{
+  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T00:51:12.151Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 71 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "8b8be32f9f7f",
+        "reason": "Simon Willison 等 2 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "e9bd0455062b",
+          "title": "美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”",
+          "titleZh": "美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”",
+          "url": "https://wallstreetcn.com/articles/3784162",
+          "summary": "当内部风控触及上限，华尔街的答案不是踩刹车，而是移动球门柱。 据彭博最新报道，巴克莱银行今年早些时候在亚洲AI股票交易热潮中触及对冲基金客户融资上限后，通过内部拍卖机制，将宏观利率交易台的部分资本配额借调给大宗经纪业务，以维持对亚洲对冲基金客户的贷款扩张。与此同时，包括高盛在内的多家银行交易员开始向对冲基金客户施压，鼓励其持有更多空头头寸——这一操作在账面上…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T00:20:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8a2f82b7c505",
+          "title": "中金：如何对冲AI风险？",
+          "titleZh": "中金：如何对冲AI风险？",
+          "url": "https://wallstreetcn.com/articles/3784163",
+          "summary": "中金研究 我们仍看好AI资产回报前景，建议通过资产配置应对近期市场波动，为AI资产“购买保险”。在现金、债券和高股息股票等防御性资产外，美元贬值交易同样有助于对冲AI资产风险，增配黄金或为该交易的有效策略。 从AI交易交易到“AI美元”，美元成为全球股市分化的“分界线” 在国际货币秩序重构背景下，我们认为“去美元化”仍是大势所趋，美元面临长期贬值压力（《去美…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T00:17:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa0df36fbaba",
+          "title": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "titleZh": "特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄",
+          "url": "https://wallstreetcn.com/articles/3784155",
+          "summary": "特斯拉将年度资本开支目标从逾250亿美元下调至200亿美元，同时马斯克为投资者描绘了一幅跨越多个业务线的长期增长图景，涵盖汽车产能、储能业务及人形机器人进展。 华尔街见闻提及，美东时间21日周三，特斯拉公布，截至9月的2026年第三季度，营收280.5亿美元、同比基本零增长，略低于分析师预期的281.3亿美元；但调整后每股收益（EPS）0.48美元，较分析师…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-22T00:12:41.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d14d13eef26e",
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "titleZh": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784152",
+          "summary": "Meta第三季度营收创历史新高，同时宣布将发行无投票权新类别股票，避免扎克伯格因加州财富税离开公司总部所在辖区，同时为规模庞大的人工智能投资计划开辟融资渠道。 Meta周三公布，第三季度营收达646亿美元，同比增长26%，超出分析师预期的633亿美元。公司预计第四季度营收将达到730亿至760亿美元，区间中值高于市场预期。 利润表现则受到一次性法律和解费用的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T23:45:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "15ce6cea02a5",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月22日",
+          "url": "https://wallstreetcn.com/articles/3784141",
+          "summary": "市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1%，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%；盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率2002年来首次升破5.0%。离岸人民币再破6.68、连续…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T23:36:22.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c7c77c07daac",
+          "title": "欧洲最大软件公司SAP三季度营收首破100亿欧元，云积压订单增长28%再新高｜财报见闻",
+          "titleZh": "欧洲最大软件公司SAP三季度营收首破100亿欧元，云积压订单增长28%再新高｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784158",
+          "summary": "SAP第三季度业绩全面超出预期，云业务加速增长叠加AI工具渗透率提升，令这家欧洲最大软件公司展示出对企业应用市场冲击的韧性。 10月21日美股盘后，软件公司SAP发布2026年第三季度财报，公司总收入达到102.70亿欧元，同比增长13%，不变汇率下增长12%，首次单季突破100亿欧元；非IFRS营业利润达到30.30亿欧元，同比增长18%，同样首次突破30…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-21T23:33:35.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "8b8be32f9f7f",
+          "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "titleZh": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+          "url": "https://simonwillison.net/2026/Oct/21/php-security-release/",
+          "summary": "Today&#x27;s PHP Security Release, and How We&#x27;re Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-21T18:41:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3af7e59a2ba3",
+          "title": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "titleZh": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/",
+          "summary": "The World Health Organization (WHO) estimates that more than 250,000 preventable deaths occur worldwide each year due to pregnancy-related complications. While prenatal ultrasound …",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-21T16:23:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d4f12a3b82de",
+          "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "titleZh": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+          "summary": "TL;DR NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases. Given a predictive query, it gathers up to 10,000…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-21T18:26:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1562f1a079b7",
+          "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "titleZh": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+          "summary": "Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications. I…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-21T17:35:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "455aa3f3bd9d",
+          "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "titleZh": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+          "summary": "Many ML practitioners have some intuition about how to make models run fast, but fewer know how to analyze why a model is slow. In Part 1 of this series, you will learn how to syst…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-21T16:04:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "40959e0914ae",
+          "title": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+          "titleZh": "FCC chair warns media not to run the \"fake polls\" Trump keeps complaining about",
+          "url": "https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/",
+          "summary": "Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing \"fake polls,\" amplifying one of the many complaints that President Trump has regularl…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-21T22:17:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "55cd9eb55b55",
+          "title": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+          "titleZh": "Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought",
+          "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+          "summary": "In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to \"purchase cloud …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-21T22:06:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8fe96037d9f8",
+          "title": "Claude Mods: Flipping the Harness Inside Out",
+          "titleZh": "Claude Mods: Flipping the Harness Inside Out",
+          "url": "https://www.latent.space/p/claude-mods",
+          "summary": "For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Cl…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-21T13:04:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "22e070441782",
+          "title": "Democrats accuse Trump of using prosecution threats to pressure election officials",
+          "titleZh": "Democrats accuse Trump of using prosecution threats to pressure election officials",
+          "url": "https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats",
+          "summary": "Democratic groups sued the Trump administration Tuesday, accusing it of using unfounded voter fraud claims to muscle its way into how states run elections. Why it matters: The grou…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-21T23:16:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "00534706164d",
+          "title": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
+          "titleZh": "Scoop: Dems quietly guide super PACs to boost spoiler House candidates",
+          "url": "https://www.axios.com/2026/10/21/democrats-2026-election-spoiler-third-party-dccc",
+          "summary": "House Democrats' campaign arm is instructing allied super PACs to promote minor candidates in several key House races, Axios has learned. Why it matters: This allows Democrats to s…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-21T23:12:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "760672a57512",
+          "title": "White House to Politico: Retract stories or face \"consequences\"",
+          "titleZh": "White House to Politico: Retract stories or face \"consequences\"",
+          "url": "https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences",
+          "summary": "The White House counsel's office warned Politico in a Monday letter that it had 48 hours to retract or correct recent stories about alleged staff drama, or it would suffer unspecif…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-21T22:04:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "82dc8b37536d",
+          "title": "美国最大车企，做成小而美了",
+          "titleZh": "美国最大车企，做成小而美了",
+          "url": "https://www.huxiu.com/article/4899378.html?f=rss",
+          "summary": "本文来自微信公众号： 定焦One ，作者：金玙璠，编辑：魏佳，题图来自：视觉中国 中国车企正在成群结队驶向欧洲。这片热闹的战场上却看不到通用汽车，早在2017年，它就把欧宝卖给了法国PSA，退出了欧洲主流市场。 退出并没有动摇它的根基。今天，通用每年还能在全球卖出约600万辆车，排在丰田、大众和现代起亚后面；市值约680亿美元，在全球车企里仅次于特斯拉、丰田…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-21T23:54:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8176888.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7c85e64e7b71",
+          "title": "“蹭座”的人走了，星巴克的难题还在",
+          "titleZh": "“蹭座”的人走了，星巴克的难题还在",
+          "url": "https://www.huxiu.com/article/4899421.html?f=rss",
+          "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜视觉中国 花三十多块买杯咖啡，走进星巴克，却找不到一张空桌？ 这是最近几个月时常能在社交平台上看到的吐槽：有人抱着电脑进店，一杯星巴克都不点却“一坐大半天”，而真正掏钱的顾客，反倒端着咖啡找不到座位。让星巴克引以为傲的“第三空间”，也显示出了其开放的另一面。 而如今，星巴克终于决定给这份开放划定新的边界…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-22T00:39:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-22T00:51:03.162Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-22T00:51:03.162Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-22T00:51:03.162Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "cb9a06a2a03b",
+          "title": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "titleZh": "When GPS Isn’t Enough: Building a Second Layer of Positioning",
+          "url": "https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/",
+          "summary": "Global Navigation Satellite Systems (GNSS) have become invisible infrastructure. Smartphones, vehicles, logistics systems, emergency services, and critical infrastructure increasin…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-21T19:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d3cca47e0d25",
+          "title": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module",
+          "titleZh": "Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module",
+          "url": "https://www.semiconductor-digest.com/navitas-unveils-next-generation-ultra-high-voltage-sic-power-module/?utm_source=rss&utm_medium=rss&utm_campaign=navitas-unveils-next-generation-ultra-high-voltage-sic-power-module",
+          "summary": "Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IV…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-21T20:56:32.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e1b4a3df5c6d",
+          "title": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+          "titleZh": "NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout",
+          "url": "https://www.semiconductor-digest.com/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout/?utm_source=rss&utm_medium=rss&utm_campaign=nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout",
+          "summary": "NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI fa…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-21T20:54:26.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7bd29ffa6da9",
+          "title": "STMicroelectronics Adds MasterGaN7 Devices to Integrated High-Efficiency Power Family",
+          "titleZh": "STMicroelectronics Adds MasterGaN7 Devices to Integrated High-Efficiency Power Family",
+          "url": "https://www.semiconductor-digest.com/stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family/?utm_source=rss&utm_medium=rss&utm_campaign=stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family",
+          "summary": "STMicroelectronics has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode GaN transistors with 6A maximum cur…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-21T20:45:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "2521ab66e0bd",
+          "title": "‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant",
+          "titleZh": "‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371697/comrade-raul-beijing-defends-cubas-ex-leader-over-florida-murder-warrant",
+          "summary": "China on Wednesday condemned an arrest warrant issued in the US state of Florida for former Cuban president Raul Castro over the 1996 downing of two civilian planes, accusing the U…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-21T23:02:27.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2796926f44ca",
+          "title": "NYC high school faces backlash over ‘intifada’ post",
+          "titleZh": "NYC high school faces backlash over ‘intifada’ post",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/21/nyc-high-school-faces-backlash-over-intifada-post-01130770",
+          "summary": "INTIFADA FLARE UP: One of New York City’s most prestigious public high schools is facing backlash because a school-based socialist youth group co-signed a social media post declari…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-21T20:58:27.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "8c03a837c744",
+          "title": "Trump admin finds yet another way to attack offshore wind",
+          "titleZh": "Trump admin finds yet another way to attack offshore wind",
+          "url": "https://www.canarymedia.com/articles/offshore-wind/trump-admin-another-attack-offshore-wind",
+          "summary": "The Trump administration is widening its attacks on U.S. offshore wind development, this time by siding with anti-wind groups that are seeking to strip projects of existing federal…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-21T23:11:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e03e8caa181c",
+          "title": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
+          "titleZh": "Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills",
+          "url": "https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills",
+          "summary": "Print article Share A surge in wholesale costs driven by expensive gas is responsible for nearly 90% of the rise in UK household electricity bills since 2020, reveals new analysis.…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-21T11:37:55.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23acecba324f",
+          "title": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
+          "titleZh": "UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’",
+          "url": "https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot",
+          "summary": "Print article Share A temporary breach of the 1.5C global-warming limit is now “inevitable” following “decades of insufficient climate action”, says the UN Environment Programme (U…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-21T05:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "ccae9f6865fe",
+          "title": "The bridge to agent-scale Git infrastructure",
+          "titleZh": "The bridge to agent-scale Git infrastructure",
+          "url": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+          "summary": "Over the past year, while Git traffic grew exponentially, 99.99999% of the Git repositories on GitHub began living in two places at once: our own data centers and Azure. The rest a…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-10-21T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aeba841742df",
+          "title": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+          "titleZh": "AI found flaws in the code behind 70% of the web. The fix took two months.",
+          "url": "https://thenewstack.io/ai-php2shell-disclosure-framework/",
+          "summary": "PHP powers roughly 70% of the world&rsquo;s websites , according to Wiz Research , so a flaw in its core engine affects much more than any single application. On Wednesday, researc…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-21T22:17:07.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c3b823815b05",
+          "title": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+          "titleZh": "Amodei says Anthropic’s safety delay may have cost it an AI lead",
+          "url": "https://thenewstack.io/anthropic-mythos-safety-pace/",
+          "summary": "Anthropic first released Mythos-class models in February 2026 , but CEO Dario Amodei said it delayed broader access until June to build stronger cybersecurity safeguards. Amodei la…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-21T21:22:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "303924c980aa",
+          "title": "From feral to fiduciary: making AI agents serve your interests",
+          "titleZh": "From feral to fiduciary: making AI agents serve your interests",
+          "url": "https://thenewstack.io/ai-agent-trust-score/",
+          "summary": "Tech leaders face a dilemma as they prepare to put AI agents into production. They want the higher productivity and lower costs that AI agents can provide. But they fear unknown ri…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-21T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "8b8be32f9f7f",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 35,
+    "itemsFiltered": 3,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

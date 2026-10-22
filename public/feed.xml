@@ -6,209 +6,209 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 21 Oct 2026 00:50:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 00:51:12 GMT</lastBuildDate>
     <item>
-      <title>【2026-10-21 今日导读】</title>
+      <title>【2026-10-22 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-10-21</guid>
-      <pubDate>Wed, 21 Oct 2026 00:50:33 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-10-22</guid>
+      <pubDate>Thu, 22 Oct 2026 00:51:12 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 71 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>“对冲基金界乔丹”：AI“几乎肯定”目前处于泡沫之中，AI会取代白领但无法取代Citadel</title>
-      <link>https://wallstreetcn.com/articles/3784081</link>
-      <guid isPermaLink="false">f0fc9bc2ddf2</guid>
-      <pubDate>Wed, 21 Oct 2026 00:29:17 GMT</pubDate>
+      <title>美股杠杆加不动了？华尔街“已耗尽资产负债表”，只能劝对冲基金“加空仓”</title>
+      <link>https://wallstreetcn.com/articles/3784162</link>
+      <guid isPermaLink="false">e9bd0455062b</guid>
+      <pubDate>Thu, 22 Oct 2026 00:20:09 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>亿万富翁、Citadel创始人Ken Griffin直言，人工智能&quot;几乎肯定&quot;正处于泡沫之中，但他同时认为，这场泡沫与历史上每一次重大技术变革如出一辙——泡沫破裂后存活下来的公司，将成为未来数十年的市场领导者。 Griffin于周二在纽约举办的Citadel年度&quot;全球市场未来&quot;大会上接受彭博采访时发表观点，他指出，美国企业界在从AI模型中提取价值方面&quot;表现参…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
-    </item>
-    <item>
-      <title>美乌联盟逼近破裂临界点，泽连斯基赴挪威会见美特使，芬兰总统称“取得真正进展”</title>
-      <link>https://wallstreetcn.com/articles/3784078</link>
-      <guid isPermaLink="false">d699f6339afe</guid>
-      <pubDate>Wed, 21 Oct 2026 00:08:56 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>在美乌关系跌至新低的敏感节点，一场旨在推动俄乌和平进程的多方会谈在挪威首都奥斯陆举行，各方释放出谨慎乐观信号，但未宣布任何实质性突破。 据央视新闻报道，当地时间20日，美国总统特朗普的特使Steve Witkoff与乌克兰总统泽连斯基在奥斯陆举行会晤，挪威首相Jonas Gahr Støre、芬兰总统Alexander Stubb及来自英国、法国、德国、波兰…
+      <description>当内部风控触及上限，华尔街的答案不是踩刹车，而是移动球门柱。 据彭博最新报道，巴克莱银行今年早些时候在亚洲AI股票交易热潮中触及对冲基金客户融资上限后，通过内部拍卖机制，将宏观利率交易台的部分资本配额借调给大宗经纪业务，以维持对亚洲对冲基金客户的贷款扩张。与此同时，包括高盛在内的多家银行交易员开始向对冲基金客户施压，鼓励其持有更多空头头寸——这一操作在账面上…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉</title>
-      <link>https://wallstreetcn.com/articles/3784071</link>
-      <guid isPermaLink="false">929c11e3b5ff</guid>
-      <pubDate>Wed, 21 Oct 2026 00:07:12 GMT</pubDate>
+      <title>中金：如何对冲AI风险？</title>
+      <link>https://wallstreetcn.com/articles/3784163</link>
+      <guid isPermaLink="false">8a2f82b7c505</guid>
+      <pubDate>Thu, 22 Oct 2026 00:17:23 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>SpaceX三季度业绩迎来大爆发，马斯克不仅抛出2027年保底13GW、甚至挑战20GW的AI算力狂暴扩张计划，更豪言公司年经常性收入将在明年底冲刺万亿美元大关。 华尔街见闻提及，美东时间20日周二美股盘后，SpaceX公布，截至9月的2026年第三季度，公司营收同比增长161%至145.8亿美元，较分析师预期的约128亿美元高10%以上。 营收暴增的背后，…
+      <description>中金研究 我们仍看好AI资产回报前景，建议通过资产配置应对近期市场波动，为AI资产“购买保险”。在现金、债券和高股息股票等防御性资产外，美元贬值交易同样有助于对冲AI资产风险，增配黄金或为该交易的有效策略。 从AI交易交易到“AI美元”，美元成为全球股市分化的“分界线” 在国际货币秩序重构背景下，我们认为“去美元化”仍是大势所趋，美元面临长期贬值压力（《去美…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Anthropic招股书：上半年营收163亿、亏损807亿，二季度转盈，算力开支或达7500亿</title>
-      <link>https://wallstreetcn.com/articles/3784062</link>
-      <guid isPermaLink="false">22eb200a2903</guid>
-      <pubDate>Tue, 20 Oct 2026 23:14:47 GMT</pubDate>
+      <title>特斯拉电话会：2030年目标年产约500万辆车，Optimus机器人明年底商业化，2027年Megapack几乎售罄</title>
+      <link>https://wallstreetcn.com/articles/3784155</link>
+      <guid isPermaLink="false">aa0df36fbaba</guid>
+      <pubDate>Thu, 22 Oct 2026 00:12:41 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>Anthropic正以前所未有的速度烧钱扩张算力，同时加速推进其潜在的史上最大规模IPO。 10月20日，据《华尔街日报》援引Anthropic最新版S-1招股草案报道，这家AI初创公司2026年上半年净亏损超过807亿美元，其中720亿美元来自与可转换票据及其他融资工具估值变动相关的会计计提，较去年同期130亿美元的净亏损大幅扩大。 与此同时，该公司今年上…
+      <description>特斯拉将年度资本开支目标从逾250亿美元下调至200亿美元，同时马斯克为投资者描绘了一幅跨越多个业务线的长期增长图景，涵盖汽车产能、储能业务及人形机器人进展。 华尔街见闻提及，美东时间21日周三，特斯拉公布，截至9月的2026年第三季度，营收280.5亿美元、同比基本零增长，略低于分析师预期的281.3亿美元；但调整后每股收益（EPS）0.48美元，较分析师…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>四季度或再迎AI发债潮：甲骨文、Meta、SpaceX CDS创历史新高</title>
-      <link>https://wallstreetcn.com/articles/3784076</link>
-      <guid isPermaLink="false">1a00dd4f68e0</guid>
-      <pubDate>Tue, 20 Oct 2026 23:14:08 GMT</pubDate>
+      <title>Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻</title>
+      <link>https://wallstreetcn.com/articles/3784152</link>
+      <guid isPermaLink="false">d14d13eef26e</guid>
+      <pubDate>Wed, 21 Oct 2026 23:45:39 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>科技巨头密集财报季叠加巨额债券发行预期，正驱动信用违约互换（CDS）成本升至历史高位。 Meta和SpaceX本周相继公布财报，随着科技公司陆续披露财报并结束&quot;静默期&quot;，市场预期新一轮大规模债券发行即将启动。 周二，被市场广泛视为AI债务风险晴雨表的甲骨文CDS盘中一度升至343个基点，创历史新高。Meta的CDS指标也升至纪录高位，盘中上涨6.3个基点至1…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
-    </item>
-    <item>
-      <title>华尔街见闻早餐FM-Radio | 2026年10月21日</title>
-      <link>https://wallstreetcn.com/articles/3784074</link>
-      <guid isPermaLink="false">75e0c1425fce</guid>
-      <pubDate>Tue, 20 Oct 2026 23:04:53 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>华见早安之声 要闻精选 中国央行10月LPR报价连续第17个月维持不变，1年期3.0%、5年期以上3.5%，政策利率换锚至隔夜进入落地阶段。 国务院总理李强出席上海合作组织成员国政府首脑理事会第二十五次会议，会议通过联合公报。 国家发改委表示将及时出台实施增量政策，并已着手研究制定扩大内需战略实施方案。 商务部：希望美方切实落实两国元首重要共识，停止对中国企…
+      <description>Meta第三季度营收创历史新高，同时宣布将发行无投票权新类别股票，避免扎克伯格因加州财富税离开公司总部所在辖区，同时为规模庞大的人工智能投资计划开辟融资渠道。 Meta周三公布，第三季度营收达646亿美元，同比增长26%，超出分析师预期的633亿美元。公司预计第四季度营收将达到730亿至760亿美元，区间中值高于市场预期。 利润表现则受到一次性法律和解费用的…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>eMudhra Intermediate CA Compromise</title>
-      <link>https://simonwillison.net/2026/Oct/20/emudhra-certificates/</link>
-      <guid isPermaLink="false">8e444c94dd7f</guid>
-      <pubDate>Tue, 20 Oct 2026 23:50:25 GMT</pubDate>
+      <title>华尔街见闻早餐FM-Radio | 2026年10月22日</title>
+      <link>https://wallstreetcn.com/articles/3784141</link>
+      <guid isPermaLink="false">15ce6cea02a5</guid>
+      <pubDate>Wed, 21 Oct 2026 23:36:22 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>市场概述 强劲季报提振AI交易，纳指本周第二日收涨超1%，标普三连涨至一周新高，道指收创一个多月新高。绩优SpaceX收涨近8%；大幅上调财季营收指引的超微电脑收涨近9.6%；Q4指引逊色且下调全年广告收入指引的奈飞收跌超5%；盘后Meta一度涨7%；盘后特斯拉先涨超2%、后转跌。 10年期法债收益率2002年来首次升破5.0%。离岸人民币再破6.68、连续…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>欧洲最大软件公司SAP三季度营收首破100亿欧元，云积压订单增长28%再新高｜财报见闻</title>
+      <link>https://wallstreetcn.com/articles/3784158</link>
+      <guid isPermaLink="false">c7c77c07daac</guid>
+      <pubDate>Wed, 21 Oct 2026 23:33:35 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>SAP第三季度业绩全面超出预期，云业务加速增长叠加AI工具渗透率提升，令这家欧洲最大软件公司展示出对企业应用市场冲击的韧性。 10月21日美股盘后，软件公司SAP发布2026年第三季度财报，公司总收入达到102.70亿欧元，同比增长13%，不变汇率下增长12%，首次单季突破100亿欧元；非IFRS营业利润达到30.30亿欧元，同比增长18%，同样首次突破30…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>Today&apos;s PHP Security Release, and How We&apos;re Strengthening PHP Security</title>
+      <link>https://simonwillison.net/2026/Oct/21/php-security-release/</link>
+      <guid isPermaLink="false">8b8be32f9f7f</guid>
+      <pubDate>Wed, 21 Oct 2026 18:41:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by…
+      <description>Today&amp;#x27;s PHP Security Release, and How We&amp;#x27;re Strengthening PHP Security If you&apos;re running anything on PHP it&apos;s vital you upgrade - today&apos;s updates (across the entire PHP 8…
 
 来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Latest open artifacts (#25): DeepSeek V4.1 Flash 1017, American-made models, and new regulatory controls in the US &amp; China</title>
-      <link>https://www.interconnects.ai/p/latest-open-artifacts-25-deepseek</link>
-      <guid isPermaLink="false">b15234a8b4e3</guid>
-      <pubDate>Tue, 20 Oct 2026 17:04:21 GMT</pubDate>
+      <title>Empowering frontline maternal care with AI-assisted ultrasound</title>
+      <link>https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound/</link>
+      <guid isPermaLink="false">3af7e59a2ba3</guid>
+      <pubDate>Wed, 21 Oct 2026 16:23:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>The geopolitics of open-weight AI are accelerating again this fall, as we would expect with the risks of all AI systems (open and closed) rising rapidly. We’ve seen many news items…
+      <description>The World Health Organization (WHO) estimates that more than 250,000 preventable deaths occur worldwide each year due to pregnancy-related complications. While prenatal ultrasound …
 
-来源：Interconnects · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>The Programmable Data Center — Evan Conrad, SF Compute</title>
-      <link>https://www.latent.space/p/sfcompute2</link>
-      <guid isPermaLink="false">e6f56b5c8c26</guid>
-      <pubDate>Tue, 20 Oct 2026 19:31:57 GMT</pubDate>
+      <title>NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
+      <link>https://huggingface.co/blog/nvidia/kumo-relational</link>
+      <guid isPermaLink="false">d4f12a3b82de</guid>
+      <pubDate>Wed, 21 Oct 2026 18:26:30 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>This was recorded on the sidelines of the new Compute Trading track at AIE NYC . Catch us next at AIE CODE , our last flagship for the top agentic engineers in the world. In the ea…
+      <description>TL;DR NVIDIA Kumo Relational is a pre-trained relational foundation model that makes predictions directly on enterprise databases. Given a predictive query, it gathers up to 10,000…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
+      <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
+      <guid isPermaLink="false">1562f1a079b7</guid>
+      <pubDate>Wed, 21 Oct 2026 17:35:36 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Models specialized for a domain or a task by fine-tuning general open-source models, such as Qwen and Gemma, inherit a vocabulary built for many domains and general applications. I…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
+      <link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+      <guid isPermaLink="false">455aa3f3bd9d</guid>
+      <pubDate>Wed, 21 Oct 2026 16:04:43 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Many ML practitioners have some intuition about how to make models run fast, but fewer know how to analyze why a model is slow. In Part 1 of this series, you will learn how to syst…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>FCC chair warns media not to run the &quot;fake polls&quot; Trump keeps complaining about</title>
+      <link>https://arstechnica.com/tech-policy/2026/10/fcc-chair-warns-media-not-to-run-the-fake-polls-trump-keeps-complaining-about/</link>
+      <guid isPermaLink="false">40959e0914ae</guid>
+      <pubDate>Wed, 21 Oct 2026 22:17:50 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Federal Communications Commission Chairman Brendan Carr today warned broadcasters about airing &quot;fake polls,&quot; amplifying one of the many complaints that President Trump has regularl…
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Xbox wants you to pay 24 to 40 cents per hour to stream games you already bought</title>
+      <link>https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/</link>
+      <guid isPermaLink="false">55cd9eb55b55</guid>
+      <pubDate>Wed, 21 Oct 2026 22:06:07 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>In September, when Microsoft severely limited the game-streaming buffet available to Game Pass subscribers , the company said non-subscribers would soon be able to &quot;purchase cloud …
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Claude Mods: Flipping the Harness Inside Out</title>
+      <link>https://www.latent.space/p/claude-mods</link>
+      <guid isPermaLink="false">8fe96037d9f8</guid>
+      <pubDate>Wed, 21 Oct 2026 13:04:19 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>For the last few weeks I’ve used Claude Mods to mold Claude Code to my AI engineering workflow. Claude Code is great out of the box, but every engineering workflow is different. Cl…
 
 来源：Latent Space · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>It’s a bird, it’s a plane … it’s a robo-puffin?</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145205/its-a-bird-its-a-plane-its-a-robo-puffin/</link>
-      <guid isPermaLink="false">8f7cc981387e</guid>
-      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Given that water is 1,000 times denser than air, moving through those two mediums requires very different mechanics—or so one might assume. Yet birds like gulls and puffins can plu…
-
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Here’s the tea</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145274/heres-the-tea/</link>
-      <guid isPermaLink="false">b064cf2cf02e</guid>
-      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>When Tristan Brown, an associate professor of history at MIT, first examined a Chinese tea chest label displayed at Old South Meeting House, he had no reason to doubt its story. De…
-
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>A reason to eat carbs</title>
-      <link>https://www.technologyreview.com/2026/10/20/1145279/a-reason-to-eat-carbs/</link>
-      <guid isPermaLink="false">127119b25274</guid>
-      <pubDate>Tue, 20 Oct 2026 21:00:00 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>A high-fat, low-carbohydrate diet can help some people lose weight, and some research has shown that it may protect against colon cancer. But a new study suggests that such a ketog…
-
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos3-h-dreams</link>
-      <guid isPermaLink="false">d496e43d70d7</guid>
-      <pubDate>Tue, 20 Oct 2026 18:17:47 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Picture moving the Cadiere grasper, grasping the gallbladder, and lifting it, all within a generated surgical scene that responds in real time. Today, we take the next step and int…
-
-来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FairStress: A deeper evaluation of fairness in LLM decision-making</title>
-      <link>https://huggingface.co/blog/allenai/fairstress</link>
-      <guid isPermaLink="false">84571503a38d</guid>
-      <pubDate>Tue, 20 Oct 2026 16:09:19 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>📄 Tech Report | 🤗 Data | 💻 Code Today we’re introducing FairStress , a benchmark for measuring demographic fairness in LLMs beyond the choice a model ultimately makes in decisio…
-
-来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Exclusive: Ramaswamy doubles down on explosive ad featuring rival&apos;s mother, despite backlash</title>
-      <link>https://www.axios.com/2026/10/21/ramaswamy-ad-acton-mother-ohio</link>
-      <guid isPermaLink="false">99979680f156</guid>
-      <pubDate>Wed, 21 Oct 2026 00:01:37 GMT</pubDate>
+      <title>Democrats accuse Trump of using prosecution threats to pressure election officials</title>
+      <link>https://www.axios.com/2026/10/21/trump-election-interference-lawsuit-democrats</link>
+      <guid isPermaLink="false">22e070441782</guid>
+      <pubDate>Wed, 21 Oct 2026 23:16:16 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Vivek Ramaswamy&apos;s campaign for Ohio governor is pouring $4 million into a bombshell ad in which his opponent&apos;s estranged mother attacks her daughter — doubling down on the message …
+      <description>Democratic groups sued the Trump administration Tuesday, accusing it of using unfounded voter fraud claims to muscle its way into how states run elections. Why it matters: The grou…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>House Democrats forced to make tough choices with limited midterm cash</title>
-      <link>https://www.axios.com/2026/10/20/2026-election-democrats-spending-districts-cash</link>
-      <guid isPermaLink="false">0edadff7948c</guid>
-      <pubDate>Tue, 20 Oct 2026 23:29:57 GMT</pubDate>
+      <title>Scoop: Dems quietly guide super PACs to boost spoiler House candidates</title>
+      <link>https://www.axios.com/2026/10/21/democrats-2026-election-spoiler-third-party-dccc</link>
+      <guid isPermaLink="false">00534706164d</guid>
+      <pubDate>Wed, 21 Oct 2026 23:12:00 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>House Democrats&apos; main super PAC is winding down its spending in several races where the party has struggled to make headway despite national trends working in their favor . Why it …
+      <description>House Democrats&apos; campaign arm is instructing allied super PACs to promote minor candidates in several key House races, Axios has learned. Why it matters: This allows Democrats to s…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Witkoff to present Putin with peace proposal after talks with Zelensky</title>
-      <link>https://www.axios.com/2026/10/20/putin-witkoff-russia-ukraine-war</link>
-      <guid isPermaLink="false">811dd31d3493</guid>
-      <pubDate>Tue, 20 Oct 2026 23:04:09 GMT</pubDate>
+      <title>White House to Politico: Retract stories or face &quot;consequences&quot;</title>
+      <link>https://www.axios.com/2026/10/21/white-house-politico-retract-stories-or-face-consequences</link>
+      <guid isPermaLink="false">760672a57512</guid>
+      <pubDate>Wed, 21 Oct 2026 22:04:48 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>White House envoy Steve Witkoff will meet Russian President Vladimir Putin in St. Petersburg on Wednesday and present him with an updated proposal to end the war in Ukraine, a U.S.…
-
-来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Exclusive: House GOP clings to 2026 fundraising lead</title>
-      <link>https://www.axios.com/2026/10/20/house-republicans-fundraising-house-democrats</link>
-      <guid isPermaLink="false">14ac0e43f813</guid>
-      <pubDate>Tue, 20 Oct 2026 22:30:06 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>House Republicans are entering the final two weeks of the midterms with a rare but razor-thin fundraising advantage over House Democrats. Why it matters: Democrats outraised Republ…
+      <description>The White House counsel&apos;s office warned Politico in a Monday letter that it had 48 hours to retract or correct recent stories about alleged staff drama, or it would suffer unspecif…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Pete Florence: When Robots Improvise</title>
-      <link>https://www.generalist.com/p/pete-florence-when-robots-improvise</link>
-      <guid isPermaLink="false">1e5640a6bab8</guid>
-      <pubDate>Tue, 20 Oct 2026 12:04:23 GMT</pubDate>
+      <title>美国最大车企，做成小而美了</title>
+      <link>https://www.huxiu.com/article/4899378.html?f=rss</link>
+      <guid isPermaLink="false">82dc8b37536d</guid>
+      <pubDate>Wed, 21 Oct 2026 23:54:24 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>“Before fire existed, it’s hard to imagine all the implications of fire. I think the same thing will very much be true with the level of robotics that will be possible. It’s just h…
+      <description>本文来自微信公众号： 定焦One ，作者：金玙璠，编辑：魏佳，题图来自：视觉中国 中国车企正在成群结队驶向欧洲。这片热闹的战场上却看不到通用汽车，早在2017年，它就把欧宝卖给了法国PSA，退出了欧洲主流市场。 退出并没有动摇它的根基。今天，通用每年还能在全球卖出约600万辆车，排在丰田、大众和现代起亚后面；市值约680亿美元，在全球车企里仅次于特斯拉、丰田…
 
-来源：The Generalist · 商业模式与行业深度 · 约 2 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>“蹭座”的人走了，星巴克的难题还在</title>
+      <link>https://www.huxiu.com/article/4899421.html?f=rss</link>
+      <guid isPermaLink="false">7c85e64e7b71</guid>
+      <pubDate>Thu, 22 Oct 2026 00:39:28 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜视觉中国 花三十多块买杯咖啡，走进星巴克，却找不到一张空桌？ 这是最近几个月时常能在社交平台上看到的吐槽：有人抱着电脑进店，一杯星巴克都不点却“一坐大半天”，而真正掏钱的顾客，反倒端着咖啡找不到座位。让星巴克引以为傲的“第三空间”，也显示出了其开放的另一面。 而如今，星巴克终于决定给这份开放划定新的边界…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Wed, 21 Oct 2026 00:50:25 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:51:03 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Wed, 21 Oct 2026 00:50:25 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:51:03 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,179 +228,139 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Wed, 21 Oct 2026 00:50:25 GMT</pubDate>
+      <pubDate>Thu, 22 Oct 2026 00:51:03 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Innovasea Packs Long-Life Electronics into Fish Tags</title>
-      <link>https://www.eetimes.com/innovasea-packs-long-life-electronics-into-fish-tags/</link>
-      <guid isPermaLink="false">79996968a366</guid>
-      <pubDate>Tue, 20 Oct 2026 22:06:10 GMT</pubDate>
+      <title>When GPS Isn’t Enough: Building a Second Layer of Positioning</title>
+      <link>https://www.eetimes.com/when-gps-isnt-enough-building-a-second-layer-of-positioning/</link>
+      <guid isPermaLink="false">cb9a06a2a03b</guid>
+      <pubDate>Wed, 21 Oct 2026 19:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Innovasea’s efforts to shrink its embedded system are not simply a packaging exercise. The Canadian company’s devices must be light enough for a fish to carry without materially ch…
+      <description>Global Navigation Satellite Systems (GNSS) have become invisible infrastructure. Smartphones, vehicles, logistics systems, emergency services, and critical infrastructure increasin…
 
 来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Socionext Expands Agentic AI to Advanced, Large-Scale SoC Physical Design</title>
-      <link>https://www.semiconductor-digest.com/socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=socionext-expands-agentic-ai-to-advanced-large-scale-soc-physical-design</link>
-      <guid isPermaLink="false">473cfddda7fc</guid>
-      <pubDate>Tue, 20 Oct 2026 21:54:27 GMT</pubDate>
+      <title>Navitas Unveils Next-Generation Ultra-High-Voltage SiC Power Module</title>
+      <link>https://www.semiconductor-digest.com/navitas-unveils-next-generation-ultra-high-voltage-sic-power-module/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=navitas-unveils-next-generation-ultra-high-voltage-sic-power-module</link>
+      <guid isPermaLink="false">d3cca47e0d25</guid>
+      <pubDate>Wed, 21 Oct 2026 20:56:32 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Socionext Inc. is actively advancing its SoC design and development capabilities through agentic AI and expanding the application of AI-driven design to the physical design of larg…
+      <description>Navitas Semiconductor (Nasdaq: NVTS), a leader in next-generation power semiconductors and power delivery solutions, pioneering GaN, high-voltage and ultra-high-voltage SiC, and IV…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Axcelis to Begin Construction of New Manufacturing Facility in Pyeongtaek, Korea</title>
-      <link>https://www.semiconductor-digest.com/axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=axcelis-to-begin-construction-of-new-manufacturing-facility-in-pyeongtaek-korea</link>
-      <guid isPermaLink="false">2c3d184293bb</guid>
-      <pubDate>Tue, 20 Oct 2026 21:49:31 GMT</pubDate>
+      <title>NVIDIA and Supply Chain Partners Expand Capacity to Accelerate AI Infrastructure Buildout</title>
+      <link>https://www.semiconductor-digest.com/nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=nvidia-and-supply-chain-partners-expand-capacity-to-accelerate-ai-infrastructure-buildout</link>
+      <guid isPermaLink="false">e1b4a3df5c6d</guid>
+      <pubDate>Wed, 21 Oct 2026 20:54:26 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Axcelis Technologies, Inc. (Nasdaq: ACLS), a supplier of enabling ion implantation solutions for the semiconductor industry, today announced that it will officially break ground on…
+      <description>NVIDIA today announced plans with a group of supply chain partners to expand global manufacturing capacity to meet growing demand for its accelerated computing and full-stack AI fa…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>NTT Consortium Developing Mass-Production Tech for Optical Chiplets</title>
-      <link>https://www.semiconductor-digest.com/ntt-consortium-developing-mass-production-tech-for-optical-chiplets/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=ntt-consortium-developing-mass-production-tech-for-optical-chiplets</link>
-      <guid isPermaLink="false">b1bc0c7706cc</guid>
-      <pubDate>Tue, 20 Oct 2026 21:38:53 GMT</pubDate>
+      <title>STMicroelectronics Adds MasterGaN7 Devices to Integrated High-Efficiency Power Family</title>
+      <link>https://www.semiconductor-digest.com/stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=stmicroelectronics-adds-mastergan7-devices-to-integrated-high-efficiency-power-family</link>
+      <guid isPermaLink="false">7bd29ffa6da9</guid>
+      <pubDate>Wed, 21 Oct 2026 20:45:24 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>NTT, Inc. (NTT), NTT Innovative Devices Corporation (NTT Innovative Devices), Japan Semiconductor Corporation (Japan Semiconductor), Furukawa Electric Co., Ltd. (Furukawa Electric)…
+      <description>STMicroelectronics has extended its MasterGaN integrated transistor/driver family with new MasterGaN7 devices that contain 650V enhancement-mode GaN transistors with 6A maximum cur…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>US troops in South Korea must be ready for missions beyond peninsula, commander says</title>
-      <link>https://www.scmp.com/news/us/article/3371562/us-troops-south-korea-must-be-ready-missions-beyond-peninsula-commander-says</link>
-      <guid isPermaLink="false">daa7e65692ee</guid>
-      <pubDate>Tue, 20 Oct 2026 21:52:49 GMT</pubDate>
+      <title>‘Comrade Raul’: Beijing defends Cuba’s ex-leader over Florida murder warrant</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3371697/comrade-raul-beijing-defends-cubas-ex-leader-over-florida-murder-warrant</link>
+      <guid isPermaLink="false">2521ab66e0bd</guid>
+      <pubDate>Wed, 21 Oct 2026 23:02:27 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>The commander of the US Eighth Army in South Korea said his troops must be ready for deployment outside the Korean peninsula if ordered, arguing that it would be “irresponsible” to…
+      <description>China on Wednesday condemned an arrest warrant issued in the US state of Florida for former Cuban president Raul Castro over the 1996 downing of two civilian planes, accusing the U…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Blakeman’s uptown fracking fiesta</title>
-      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/20/blakemans-uptown-fracking-fiesta-01128168</link>
-      <guid isPermaLink="false">58e23ffcd12d</guid>
-      <pubDate>Tue, 20 Oct 2026 20:36:43 GMT</pubDate>
+      <title>NYC high school faces backlash over ‘intifada’ post</title>
+      <link>https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/21/nyc-high-school-faces-backlash-over-intifada-post-01130770</link>
+      <guid isPermaLink="false">2796926f44ca</guid>
+      <pubDate>Wed, 21 Oct 2026 20:58:27 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>BLAKEMAN’S (LACK OF) ENERGY PLAN: GOP gubernatorial candidate Bruce Blakeman continued to hammer Gov. Kathy Hochul on rising energy costs today, promising to slash utility bills in…
+      <description>INTIFADA FLARE UP: One of New York City’s most prestigious public high schools is facing backlash because a school-based socialist youth group co-signed a social media post declari…
 
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
+来源：Politico · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Trump just made a last-minute gambit to save farm-state Republicans in the midterms</title>
-      <link>https://www.politico.com/news/2026/10/20/trump-farmers-payments-gop-midterms-01128165</link>
-      <guid isPermaLink="false">ca41f73c37e3</guid>
-      <pubDate>Tue, 20 Oct 2026 19:01:00 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Republicans locked in tight races this November are desperately hoping the Trump administration’s last-minute gambit to send farmers $8 billion in taxpayer money will work. Preside…
-
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Poll: Voters see Republicans as the party of Big Tech tax breaks</title>
-      <link>https://www.politico.com/news/2026/10/20/poll-voters-see-republicans-as-the-party-of-big-tech-tax-breaks-01127726</link>
-      <guid isPermaLink="false">3323b2447f95</guid>
-      <pubDate>Tue, 20 Oct 2026 15:51:19 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Americans are fed up with data centers and Big Tech, and Republicans are poised to take more of the political blame in the Nov. 3 midterms. The POLITICO Poll found last week that A…
-
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Q&amp;A: Why a pivotal IPCC meeting in Ethiopia ended in ‘profound disappointment’</title>
-      <link>https://www.carbonbrief.org/qa-why-a-pivotal-ipcc-meeting-in-ethiopia-ended-in-profound-disappointment</link>
-      <guid isPermaLink="false">db56ea7fecac</guid>
-      <pubDate>Tue, 20 Oct 2026 14:40:10 GMT</pubDate>
+      <title>Trump admin finds yet another way to attack offshore wind</title>
+      <link>https://www.canarymedia.com/articles/offshore-wind/trump-admin-another-attack-offshore-wind</link>
+      <guid isPermaLink="false">8c03a837c744</guid>
+      <pubDate>Wed, 21 Oct 2026 23:11:00 GMT</pubDate>
       <category>能源与气候科技</category>
-      <description>Print article Share Article Contents Expand menu Close What timeline options were delegates debating? How did the timeline discussions unfold? What were the main points of disagree…
+      <description>The Trump administration is widening its attacks on U.S. offshore wind development, this time by siding with anti-wind groups that are seeking to strip projects of existing federal…
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Revealed: Expensive gas behind ‘nearly 90%’ of rise in UK electricity bills</title>
+      <link>https://www.carbonbrief.org/revealed-expensive-gas-behind-nearly-90-of-rise-in-uk-electricity-bills</link>
+      <guid isPermaLink="false">e03e8caa181c</guid>
+      <pubDate>Wed, 21 Oct 2026 11:37:55 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>Print article Share A surge in wholesale costs driven by expensive gas is responsible for nearly 90% of the rise in UK household electricity bills since 2020, reveals new analysis.…
+
+来源：Carbon Brief · 能源与气候科技 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>UNEP: Opportunity has ‘been lost’ to meet 1.5C warming limit without ‘overshoot’</title>
+      <link>https://www.carbonbrief.org/unep-opportunity-has-been-lost-to-meet-1-5c-warming-limit-without-overshoot</link>
+      <guid isPermaLink="false">23acecba324f</guid>
+      <pubDate>Wed, 21 Oct 2026 05:00:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>Print article Share A temporary breach of the 1.5C global-warming limit is now “inevitable” following “decades of insufficient climate action”, says the UN Environment Programme (U…
 
 来源：Carbon Brief · 能源与气候科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Georgia electric cooperative plans 50-MW home battery deployment</title>
-      <link>https://www.utilitydive.com/news/georgia-electric-cooperative-plans-50-mw-home-battery-deployment/833492/</link>
-      <guid isPermaLink="false">9ce598403d1d</guid>
-      <pubDate>Tue, 20 Oct 2026 16:58:27 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Central Georgia Electric Membership Corporation plans to use the batteries to reduce system peaks and energy costs as hyperscale data centers seek to connect to its grid.
-
-来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment</link>
-      <guid isPermaLink="false">87bcb051d6b8</guid>
-      <pubDate>Tue, 20 Oct 2026 19:40:38 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without ci…
-
-来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women</link>
-      <guid isPermaLink="false">47a927ad9d61</guid>
-      <pubDate>Tue, 20 Oct 2026 15:57:36 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal h…
-
-来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Issues Final Guidance on Prescription Drug Apps and Software</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software</link>
-      <guid isPermaLink="false">87c99446ab6d</guid>
-      <pubDate>Tue, 20 Oct 2026 13:03:14 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside the…
-
-来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>How 3 Java Champions are using GitHub Copilot for increased productivity</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/</link>
-      <guid isPermaLink="false">8dfa0b4ddb03</guid>
-      <pubDate>Tue, 20 Oct 2026 16:05:03 GMT</pubDate>
+      <title>The bridge to agent-scale Git infrastructure</title>
+      <link>https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/</link>
+      <guid isPermaLink="false">ccae9f6865fe</guid>
+      <pubDate>Wed, 21 Oct 2026 16:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>AI coding tools can generate code quickly, but speed alone does not solve the hardest software engineering problems. Developers still need to provide context, validate results, pro…
+      <description>Over the past year, while Git traffic grew exponentially, 99.99999% of the Git repositories on GitHub began living in two places at once: our own data centers and Azure. The rest a…
 
-来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
+来源：GitHub Blog · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Respan spent two years building on LiteLLM. One upgrade made it start over.</title>
-      <link>https://thenewstack.io/respan-rust-ai-gateway/</link>
-      <guid isPermaLink="false">f65764b014b5</guid>
-      <pubDate>Tue, 20 Oct 2026 22:13:08 GMT</pubDate>
+      <title>AI found flaws in the code behind 70% of the web. The fix took two months.</title>
+      <link>https://thenewstack.io/ai-php2shell-disclosure-framework/</link>
+      <guid isPermaLink="false">aeba841742df</guid>
+      <pubDate>Wed, 21 Oct 2026 22:17:07 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Respan released an open-source AI gateway written in Rust on Tuesday, after spending two years building more than 100,000 lines of wrapper code around LiteLLM. The new gateway repl…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>“We are not forking TypeScript”: Cloudflare spearheads Rust port written by agents, for agents</title>
-      <link>https://thenewstack.io/cloudflare-rust-typescript-tsrs/</link>
-      <guid isPermaLink="false">5dbb015f4394</guid>
-      <pubDate>Tue, 20 Oct 2026 21:36:25 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Cloudflare is going all-out to ensure that AI coding agents can check their work without exhausting available computing resources, leading a new effort to bring Microsoft’s TypeScr…
+      <description>PHP powers roughly 70% of the world&amp;rsquo;s websites , according to Wiz Research , so a flaw in its core engine affects much more than any single application. On Wednesday, researc…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Assess the entire inference stack — not just open model benchmarks</title>
-      <link>https://thenewstack.io/open-model-benchmarks-production/</link>
-      <guid isPermaLink="false">fa5ab74138c1</guid>
-      <pubDate>Tue, 20 Oct 2026 20:44:17 GMT</pubDate>
+      <title>Amodei says Anthropic’s safety delay may have cost it an AI lead</title>
+      <link>https://thenewstack.io/anthropic-mythos-safety-pace/</link>
+      <guid isPermaLink="false">c3b823815b05</guid>
+      <pubDate>Wed, 21 Oct 2026 21:22:53 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Impressive benchmark results should make it easy for engineers to select the right open model for the outcome they are tasked with developing. However, that is not the case. Benchm…
+      <description>Anthropic first released Mythos-class models in February 2026 , but CEO Dario Amodei said it delayed broader access until June to build stronger cybersecurity safeguards. Amodei la…
+
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>From feral to fiduciary: making AI agents serve your interests</title>
+      <link>https://thenewstack.io/ai-agent-trust-score/</link>
+      <guid isPermaLink="false">303924c980aa</guid>
+      <pubDate>Wed, 21 Oct 2026 14:00:00 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Tech leaders face a dilemma as they prepare to put AI agents into production. They want the higher productivity and lower costs that AI agents can provide. But they fear unknown ri…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
