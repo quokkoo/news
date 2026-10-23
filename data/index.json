@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-22T00:51:12.219Z",
+  "updatedAt": "2026-10-23T00:53:19.175Z",
   "days": [
+    {
+      "date": "2026-10-23",
+      "itemCount": 40,
+      "topPickTitles": [
+        "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
+        "Superlinear Returns",
+        "How to Do Great Work"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-10-22",
       "itemCount": 35,
