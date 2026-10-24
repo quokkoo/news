@@ -1,0 +1,1059 @@
+{
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T01:00:10.072Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 34 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 8 个领域，全部读完约需 65 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "4e466773aa3e",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月24日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月24日",
+          "url": "https://wallstreetcn.com/articles/3784372",
+          "summary": "华见早安之声 市场概述 油价飙升引发通胀忧虑，美股美债双双承压。周五，美国三大股指下跌，道指跌1.23%。苹果盘中创出历史新高，市值一度超英伟达，但收盘跌0.14%。微软涨0.66%。防御板块遭抛售，能源股和半导体股上涨。美光科技涨2.46%，迈威尔科技涨2.26%。黄金在流动性需求下失守4000美元，现货黄金收于3996.96美元，跌0.67%，一周跌4%…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T23:11:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cd3d23685f4d",
+          "title": "未下调评级！穆迪没有“火上浇油”，法国“躲过一劫”",
+          "titleZh": "未下调评级！穆迪没有“火上浇油”，法国“躲过一劫”",
+          "url": "https://wallstreetcn.com/articles/3784369",
+          "summary": "法国在一场高度关注的信用评级审查中暂时躲过降级。 10月23日周五，穆迪宣布维持法国Aa3评级不变，为这个深陷债务压力、政治僵局与社会动荡的欧元区第二大经济体提供了短暂喘息空间。 穆迪在声明中指出，法国多元化的经济结构与强健的公共机构支撑了现有评级，但同时将展望维持于负面，理由是政治不稳定性将持续制约财政整顿努力。 穆迪表示，Aa3评级的维持建立在法国最终通…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T23:10:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d8c972fcd7b2",
+          "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "titleZh": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
+          "url": "https://wallstreetcn.com/articles/3784279",
+          "summary": "油价大幅走强重燃通胀担忧，令投资者在美联储议息决定前夕加速撤离风险资产，美股与美债同步走低。 布伦特原油收盘逼近每桶117美元，中东局势恶化引发供应中断担忧。标普500指数下跌0.5%，道琼斯工业平均指数跌幅达1.2%，10年期美国国债收益率上行5个基点至5.00%，前一交易日的债市涨幅基本回吐。 美银策略师Michael Hartnett警告，投资者的避险…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T22:30:21.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7f68268d66e0",
+          "title": "Instacart寻求出售，股价涨超9%！DoorDash在潜在买家之列，Uber退出",
+          "titleZh": "Instacart寻求出售，股价涨超9%！DoorDash在潜在买家之列，Uber退出",
+          "url": "https://wallstreetcn.com/articles/3784370",
+          "summary": "杂货配送公司Instacart正在评估出售选项，包括与Uber及DoorDash进行的初步接触，消息一出Instacart单日大涨逾9%。 据彭博援引知情人士透露，Instacart近期曾主动接触Uber洽谈出售事宜，但Uber已退出谈判，双方目前不再进行讨论。 据The Information报道，Instacart正在评估潜在的出售计划，已与包括Uber…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T22:44:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1eb74891c5b1",
+          "title": "SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪",
+          "titleZh": "SK海力士放弃Solidigm美国IPO计划，分析师称NAND未来供应减少，利好美光和闪迪",
+          "url": "https://wallstreetcn.com/articles/3784367",
+          "summary": "SK海力士放弃旗下Solidigm赴美IPO，消除了NAND闪存市场一个潜在的供应扩张来源，美光科技与闪迪有望受益，但实际股价弹性仍受当前市场环境制约。 据LYNX Equity Strategies分析师团队10月23日发布的研究报告，若Solidigm顺利完成IPO，募集资金将用于在美国扩建NAND产能，可能在三年或更长时间后推升全球供应量，进而压制行业…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-23T22:44:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e5a0cd495034",
+          "title": "ECB Consumer Expectations Survey results – September 2026",
+          "titleZh": "ECB Consumer Expectations Survey results – September 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+          "summary": "PRESS RELEASE 23 October 2026 Compared with August 2026: median consumer perceptions of inflation over the past 12 months and expectations for inflation over the next 12 months inc…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-23T08:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "37d4758f63d9",
+          "title": "Bringing foundational models to the front lines of TB screening",
+          "titleZh": "Bringing foundational models to the front lines of TB screening",
+          "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/",
+          "summary": "Getting access to timely healthcare often comes down to an accident of geography: where you live, what resources your local clinic possesses, and whether a specialist is within rea…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-23T18:51:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fca7a9071a8e",
+          "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "titleZh": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+          "url": "https://huggingface.co/blog/allenai/litpivot",
+          "summary": "📄 Paper Encountering a new paper can change a research idea's trajectory. The researcher may discover that someone has already addressed their proposed contribution, or find an un…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-23T16:15:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7c1115d1ab7d",
+          "title": "Introducing Kimi K3.1 Pro",
+          "titleZh": "Introducing Kimi K3.1 Pro",
+          "url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro/",
+          "summary": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-23T19:40:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "189203b71d6a",
+          "title": "Spotify ramps up policy enforcement on family plans",
+          "titleZh": "Spotify ramps up policy enforcement on family plans",
+          "url": "https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/",
+          "summary": "As reported by Music Business Worldwide , Spotify appears to be stepping up enforcement of existing policies regarding Family and Duo subscription plans by requiring users to scan …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-23T19:20:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a8ee2f7d77d6",
+          "title": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "titleZh": "NASA updates lander plans for Moon landings, finally solves long-festering Orion issue",
+          "url": "https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/",
+          "summary": "During a lengthy news conference on Friday, NASA provided a detailed overview of how it plans to return astronauts to the lunar surface as soon as 2028 as part of its Artemis Progr…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-23T22:48:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b3cca8cd5825",
+          "title": "AI Is Getting Good at Math. Here’s Why.",
+          "titleZh": "AI Is Getting Good at Math. Here’s Why.",
+          "url": "https://latent.space/p/ai-is-getting-good-at-math/",
+          "summary": "In May, an internal model at OpenAI found a counterexample to Erdős's unit distance conjecture . Open since 1946. Many experts had tried to prove it. OpenAI found a counterexample …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-23T15:19:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bbef6135a2c0",
+          "title": "[AINews] Black October",
+          "titleZh": "[AINews] Black October",
+          "url": "https://latent.space/p/ainews-black-october/",
+          "summary": "If you are reading this, you’re receiving this from our new provider, Beehiiv! We are making progress on our redesign — if you have a friend that didn’t receive AINews, please find…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-23T10:09:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "56cc7b88bf62",
+          "title": "Updated Google privacy policy says your Gmail might be used for advertising",
+          "titleZh": "Updated Google privacy policy says your Gmail might be used for advertising",
+          "url": "https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/",
+          "summary": "Using Google's products and services has always been fundamentally precarious—doing so gives the world's largest advertising company a lot of juicy personal data. Google has long s…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-23T20:19:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "7fd9e5eea0bc",
+          "title": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+          "titleZh": "Scoop: U.S. intel memo warns of \"advanced\" Iranian plots to kill officials abroad",
+          "url": "https://www.axios.com/2026/10/24/iran-war-us-embassies-evacuations-threat",
+          "summary": "U.S. intelligence finds Iran has \"substantially increased\" its efforts to target American diplomats and officials in the Middle East and beyond, with lethal plots reaching \"advance…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-24T00:16:19.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3ae2e49e8cb5",
+          "title": "The internet’s Wuhan moment",
+          "titleZh": "The internet’s Wuhan moment",
+          "url": "https://www.exponentialview.co/p/the-internets-wuhan-moment",
+          "summary": "It is January 2020 all over again. Something is spreading fast. Most people haven’t noticed, and the people who have are worried. Software, the internet, and cyberspace in general …",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-10-23T17:56:58.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e3d1f480a76c",
+          "title": "学历这场庞氏游戏，走到了最后一棒",
+          "titleZh": "学历这场庞氏游戏，走到了最后一棒",
+          "url": "https://www.huxiu.com/article/4900074.html?f=rss",
+          "summary": "本文来自微信公众号： 格致君 ，作者：格致君的后花园 最近看到一张截图，是上海中学今年的一则拟聘人员公示。其中清北博士赫然在列，让很多网友大呼学历贬值。 不过单看这件事，其实不足为奇。上海中学本来就是上海的顶尖名校，位列“四校”之首，竞赛成绩全国领先。 只是在经济上行期，清北博士或许会选择更“进击”一些的职业道路，比如外企、大厂这类收入上限更高的机会。而在稳…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-24T00:03:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb49104bfb6c",
+          "title": "上海公立大三甲医院也缺患者了",
+          "titleZh": "上海公立大三甲医院也缺患者了",
+          "url": "https://www.huxiu.com/article/4900072.html?f=rss",
+          "summary": "本文来自微信公众号： 林掌柜 ，作者：林掌柜 大家好，我是林掌柜。 公立大三甲医院，似乎从来不缺患者，更何况是在医疗高地的上海。 然而，自新冠疫情发生以来，上海公立大三甲医院甚至头部医院也开始缺患者了。 这与绝大多数人的传统认知和现实体验都不契合。上海大多数公立三甲医院一直不都是人满为患吗？ 相关部门每年统计的门诊量、住院量乃至营业收入也多数都是增长的，怎么…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-23T23:43:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "04efc83de2a4",
+          "title": "巨头们的新战役：抬高AI制药，抢占AI4S",
+          "titleZh": "巨头们的新战役：抬高AI制药，抢占AI4S",
+          "url": "https://www.huxiu.com/article/4900070.html?f=rss",
+          "summary": "本文来自微信公众号： 潮涌AI ，作者：潮涌AI编辑部 10月20日，OpenAI在官网上挂出一则简短的收购公告，对象是一家叫Orchestra Bio的公司。 这家公司成立四年，公开融资约2000万美元，专做帮药企协调药物开发流程的AI agent，不设计分子，也不做临床，交易金额没有披露。 把这笔交易和今年的其他投资动作放在一起，不难看出巨头集体下场AI…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-23T23:15:58.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-24T00:59:51.397Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-24T00:59:51.397Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-24T00:59:51.397Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "b94e17efe98f",
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "titleZh": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+          "summary": "Following our initial coverage of the Delaware federal jury verdict in the Qualcomm and Arm dispute, Arm contacted EE Times to clarify the IP vendor’s position. In a phone intervie…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-24T00:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59f047dd4a2d",
+          "title": "Two Dollars and a Test Suite",
+          "titleZh": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+          "summary": "The Arm-Qualcomm verdict made headlines for its $2 award. The finding that matters more is about who controls the compliance tests a custom chip must pass before it can ship. The v…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-23T08:03:27.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d426ba40d97e",
+          "title": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+          "titleZh": "US-China strategic competition to keep escalating as world watches on, Rudd says",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3371990/us-china-strategic-competition-keep-escalating-world-watches-rudd-says",
+          "summary": "Kevin Rudd, president of the Asia Society and a former Australian prime minister, described US-China strategic competition as full-on and multidimensional at a Harvard Kennedy Scho…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-23T22:29:03.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c43cc3da492a",
+          "title": "US, allies and China vie for influence through Pacific security deals",
+          "titleZh": "US, allies and China vie for influence through Pacific security deals",
+          "url": "https://www.scmp.com/news/us/article/3371989/us-allies-and-china-vie-influence-through-pacific-security-deals",
+          "summary": "Strategic competition between China and the US and its allies is intensifying across the Pacific islands, with both sides pursuing a growing range of security agreements to expand …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-23T22:27:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc02729a6391",
+          "title": "Spiking ambulance response times spur calls for real-time tracking",
+          "titleZh": "Spiking ambulance response times spur calls for real-time tracking",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/23/spiking-ambulance-response-times-spur-calls-for-real-time-tracking-01134181",
+          "summary": "911 EMERGENCY: An ambulance in New York City now takes an average of 13 minutes to reach someone in life-threatening distress. That response time has risen five years straight and …",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-23T21:03:34.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0ffac46fd188",
+          "title": "House battleground map tightens as GOP scrambles to shore up red seats",
+          "titleZh": "House battleground map tightens as GOP scrambles to shore up red seats",
+          "url": "https://www.politico.com/news/2026/10/23/democrats-house-map-election-expectations-01134127",
+          "summary": "Senior Democrats are tempering their expectations about how big of a House majority they might win, as both parties see a tightening battlefield. The latest rounds of internal poll…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-23T20:20:28.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "16fe41eeefc3",
+          "title": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+          "titleZh": "Chart: A record two-thirds of car sales in China are now electric vehicles",
+          "url": "https://www.carbonbrief.org/chart-a-record-two-thirds-of-car-sales-in-china-are-now-electric-vehicles",
+          "summary": "Print article Share Article Contents Expand menu Close NEV record Impact of Hormuz NEV demand down Exports surge For the first time, new-energy vehicles (NEVs) made up 67% of new c…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-23T15:55:26.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8af9c149ac7a",
+          "title": "The permitting deal collides with Trump’s war on offshore wind",
+          "titleZh": "The permitting deal collides with Trump’s war on offshore wind",
+          "url": "https://www.canarymedia.com/articles/politics/permitting-bill-offshore-wind",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. It’s been years in the making, but the U.S. Senate finally has a bipart…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-23T16:37:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "5e286c173e8f",
+          "title": "Vercel moved to kill static credentials. Then developers spotted its own deployment token.",
+          "titleZh": "Vercel moved to kill static credentials. Then developers spotted its own deployment token.",
+          "url": "https://thenewstack.io/vercel-oidc-static-credentials/",
+          "summary": "Vercel wants to eliminate long-lived API keys from its ecosystem, and it is giving Marketplace vendors until January 2027 to comply or risk being delisted, a push that lands as a r…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-23T20:04:16.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b7808b0f0a16",
+          "title": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+          "titleZh": "AI jobs are waiting while GPUs sit idle. Kubernetes has a new plan.",
+          "url": "https://thenewstack.io/kubernetes-agentic-ai-inference/",
+          "summary": "Welcome to another edition of Road to KubeCon ! We’re tracking movements in the Kubernetes and cloud-native ecosystem as we count down to KubeCon + CloudNativeCon North America 202…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-23T19:08:53.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0c9de5217a4",
+          "title": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+          "titleZh": "PHP2Shell was only the beginning: AI is accelerating the patch race",
+          "url": "https://thenewstack.io/php2shell-ai-patch-race/",
+          "summary": "Government websites and public services across Europe went offline this week as organizations responded to two newly disclosed PHP vulnerabilities. Germany took several federal web…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-23T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8991c557d02",
+          "title": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+          "titleZh": "A few engineers asked IT for Linux. Then it spread to 200 machines.",
+          "url": "https://thenewstack.io/linux-developer-device-management/",
+          "summary": "Linux is already part of the AI developer&rsquo;s desktop toolkit. Nvidia&rsquo;s DGX Spark , which became available to order on October 15, 2025, runs the Ubuntu-based DGX OS . Op…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-23T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 34,
+    "itemsPublished": 34,
+    "itemsFiltered": 0,
+    "sourcesOk": 83,
+    "sourcesFailed": 12,
+    "totalReadMinutes": 65,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
