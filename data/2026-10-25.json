@@ -1,0 +1,837 @@
+{
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T00:30:14.392Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 27 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、地缘政治与政策监管等 6 个领域，全部读完约需 60 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "0c0f44ba1f0d",
+        "reason": "Hacker News Best 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "1958316bf43e",
+          "title": "Piero Cipollone: Interview with Milano Finanza",
+          "titleZh": "Piero Cipollone: Interview with Milano Finanza",
+          "url": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+          "summary": "Interview with Piero Cipollone, Member of the Executive Board of the ECB, conducted by Roberto Sommella on 21 October 2026 24 October 2026 Mr Cipollone, you have just attended a me…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-10-24T06:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eb0b69a76be7",
+          "title": "机器人IPO门槛提高 具身智能一级市场预期变了",
+          "titleZh": "机器人IPO门槛提高 具身智能一级市场预期变了",
+          "url": "http://finance.eastmoney.com/news/1360,202610253907143946.html",
+          "summary": "监管发出提高机器人企业IPO门槛意见以来，相关项目的资本动态仍在密集传出。 这周，有市场消息称，松延动力已保密提交香港IPO申请，拟募资数亿美元，最快可能于2027年上市。但松延动力对此消息尚未做出回应。 而在此前一周，智元被报道启动约10亿元至15亿元的新一轮融资，最新估值约500亿元。报道还援引投资人判断称，新融资将影响其年内完成IPO的安排，智元方面亦…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-25T00:16:04.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a8dbc62ac96b",
+          "title": "电动重卡步入“电电竞争”下半场？市场瞄准空白的干线领域",
+          "titleZh": "电动重卡步入“电电竞争”下半场？市场瞄准空白的干线领域",
+          "url": "http://finance.eastmoney.com/news/1354,202610253907143122.html",
+          "summary": "曾经被视为电动化“最后堡垒”的重卡，如今正变成电池制造商和整车厂争相押注的激烈战场。 交强险数据显示，2022年，国内电动重卡渗透率仅为5.2%；2025年全年终端销售23.1万辆，同比增长182%，渗透率抬升至约28.9%。进入2026年，增速并未回落，尤其在“金九”传统销售旺季及设备更新补贴政策的带动下，9月份重卡终端新能源渗透率突破50%，创下历年单月…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-24T23:55:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c99425137bf",
+          "title": "利好袭来 入选英伟达生态 物理AI龙头暴涨！南向资金大举加仓",
+          "titleZh": "利好袭来 入选英伟达生态 物理AI龙头暴涨！南向资金大举加仓",
+          "url": "http://hk.eastmoney.com/news/1533,202610253907142818.html",
+          "summary": "本周8股获得南向资金持股量环比增长超10%。 腾讯控股获净买入超12亿港元 本周（10月20日至23日），港股市场主要股指集体回调，恒生指数累计跌4.52%，恒生科技指数跌5.76%，恒生中国企业指数跌4.58%。据证券时报·数据宝统计，本周南向资金合计净卖出170.46亿港元。 从本周上榜的成交活跃股来看，共有19只个股上榜，腾讯控股本周港股通合计买卖总额…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-24T23:45:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "577b3118ea71",
+          "title": "80%决策“被否”！这家万亿投资巨头何以穿越百年牛熊？",
+          "titleZh": "80%决策“被否”！这家万亿投资巨头何以穿越百年牛熊？",
+          "url": "http://finance.eastmoney.com/news/1374,202610253907142222.html",
+          "summary": "资本集团是投资界真正的“丛林巨兽”，它管理着3.3万亿美元的全球资产；它在5年、10年、20年，乃至50年期的回报上持续领先；它并非突然冒出来的新秀而是一位经过多轮牛熊考验的“百岁老人”。 资本集团的核心子公司成立于1931年，根据2025年的统计，资本集团有近500位合伙人，9000多位员工管理着3.3万亿美元的全球资产。它用了近一个世纪的实践，告诉了投资…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-24T23:31:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ef7fcf20c5a",
+          "title": "“六年暴涨近百倍”！国产“钢铁巨兽”迎来爆发期",
+          "titleZh": "“六年暴涨近百倍”！国产“钢铁巨兽”迎来爆发期",
+          "url": "http://finance.eastmoney.com/news/1354,202610253907138826.html",
+          "summary": "不用司机，大雾雨雪、零下40℃极寒环境照样开工。如今，无人驾驶矿卡这台矿山里的“钢铁巨兽”，正在迎来需求爆发期，国内出货量六年增长近百倍。产品走出国门落地东南亚、非洲、拉美，国产智慧矿山方案正在改写全球矿业格局。 什么是无人驾驶矿卡？ 无人驾驶矿卡是适配矿山场景的自动驾驶卡车，可实现自动避障、路径规划，提升矿山运输效率。 无人驾驶跑通矿山 矿卡海内外订单持续…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-10-24T22:15:55.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "0c0f44ba1f0d",
+          "title": "Show HN: Steal My Bitcoin",
+          "titleZh": "Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com/",
+          "summary": "Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.y…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T20:30:31.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://stealmybitcoin.com/"
+            },
+            {
+              "sourceName": "Hacker News Show HN",
+              "url": "https://stealmybitcoin.com/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "92ee351cc879",
+          "title": "No signs of AI payoff outside the tech sector",
+          "titleZh": "No signs of AI payoff outside the tech sector",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+          "summary": "Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T19:47:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "99403be511e4",
+          "title": "The Goose Programming Language",
+          "titleZh": "The Goose Programming Language",
+          "url": "https://aardappel.github.io/goose/",
+          "summary": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 206 # Comments: 151",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T19:06:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://aardappel.github.io/goose/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "52a79a597938",
+          "title": "Roku developer repositories moved from GitHub to GitLab",
+          "titleZh": "Roku developer repositories moved from GitHub to GitLab",
+          "url": "https://blog.roku.com/developer/gitlab-move",
+          "summary": "Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 246 # Comments: 164",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T16:06:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://blog.roku.com/developer/gitlab-move"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b5a4d3e157c7",
+          "title": "FreeDNS",
+          "titleZh": "FreeDNS",
+          "url": "https://freedns.afraid.org/",
+          "summary": "Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 242 # Comments: 61",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T15:20:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://freedns.afraid.org/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "84f07d7db643",
+          "title": "I don't understand quantum physics (2018)",
+          "titleZh": "I don't understand quantum physics (2018)",
+          "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+          "summary": "Article URL: https://www.southampton.ac.uk/~doug/quantum_physics/index.html Comments URL: https://news.ycombinator.com/item?id=50219666 Points: 271 # Comments: 204",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-10-24T09:53:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9b1e172af309",
+          "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "titleZh": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+          "url": "https://latent.space/p/ainews-kimi-31/",
+          "summary": "2 months ago we covered Z.ai CEO Prof Jie Tang’s prediction that we’d get a Fable-class open weights model by year end . 2 weeks ago Meta achieved a Fable-class model in closed sou…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-24T07:18:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5ffa23e33768",
+          "title": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "titleZh": "A 1,000-mile cloud on Mars may reveal physics never seen in nature",
+          "url": "https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/",
+          "summary": "Every morning during the Martian spring and summer, a thin and extremely long cloud emerges, only to disappear again. The wispy formation appears near the volcano Arsia Mons and gr…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-24T11:50:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.25,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "97d504870fd1",
+          "title": "海外网红，被国产工厂集体“收编”？",
+          "titleZh": "海外网红，被国产工厂集体“收编”？",
+          "url": "https://www.huxiu.com/article/4900214.html?f=rss",
+          "summary": "本文来自微信公众号： 深观商业 ，作者：沈澜 近日，卡戴珊一行人来上海在全球社交平台上引起关注。 同时，“界面新闻”报道，一批海外网红到达我国广州和深圳，目的是为了找工厂，做属于自己的品牌。据悉，海外网红合作中国工厂输出品牌的模式已经跑通，有工厂合作了20位网红，明年还要继续增加。 美国网红Ryan Tang便是其中一例。他在YouTube、TikTok等平…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-25T00:04:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba3071d90d16",
+          "title": "一张6元小卡，凭什么硬控00后？",
+          "titleZh": "一张6元小卡，凭什么硬控00后？",
+          "url": "https://www.huxiu.com/article/4900169.html?f=rss",
+          "summary": "出品｜虎嗅商业消费组 作者｜刘纾含 编辑｜苗正卿 题图｜Hitcard 这两年，国产剧的剧照开始做成卡牌“按包卖”了。以今秋最火古装剧《兰香如故》为例，剧集热播期间，腾讯视频联合 Hitcard 推出了官方影视收藏卡，一盒 10 包，一包 3 张，平均一张卡售价 6.6 元。 扑克牌大小的影视收藏卡，却引得不少年轻人“竞折腰”。一张《兰香如故》男主演刘学义的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-24T23:00:01.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d33bd873663a",
+          "title": "Washington's message to AI execs: please shut up",
+          "titleZh": "Washington's message to AI execs: please shut up",
+          "url": "https://www.axios.com/2026/10/24/ai-ceos-washington-political-liability",
+          "summary": "Washington has always viewed Silicon Valley as culturally strange. But the current crop of AI leaders is becoming a monumental political liability, lawmakers and White House advise…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-24T16:32:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1a96fa6a8483",
+          "title": "KIMI之殇",
+          "titleZh": "KIMI之殇",
+          "url": "https://www.huxiu.com/article/4900212.html?f=rss",
+          "summary": "本文来自微信公众号： 01Founder ，编辑：Max，作者：一直在路上的Max 10月24日凌晨，月之暗面发布了新一代模型Kimi K3.1 Pro。 这是一个拥有3万亿级参数、支持100万Token上下文的大模型。 在官方公布的Terminal-Bench 4.0测试中，它取得了65.7%的成绩，已经非常接近Claude Opus 5.5这样的全球顶尖…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-24T21:04:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e324b3e56623",
+          "title": "品牌没有自嘲的资格",
+          "titleZh": "品牌没有自嘲的资格",
+          "url": "https://www.huxiu.com/article/4900210.html?f=rss",
+          "summary": "本文来自微信公众号： AD财经 ，作者：石友松 自嘲是弱者的武器 “老登”这个词流行起来的土壤，是年轻人面对上级、长辈、甲方时那种说不出口的憋屈。 开会时不能顶撞，饭桌上得敬酒，工作群里得回“收到”。然后在私聊窗口里，打出两个字：老登。 政治学家詹姆斯·斯科特在马来西亚农村做过长期田野调查，写成一本书，叫《弱者的武器》。 他发现，没有权力的人很少正面反抗。他…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-24T17:37:19.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-25T00:29:56.402Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-25T00:29:56.402Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-25T00:29:56.402Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "ed60ae111611",
+          "title": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
+          "titleZh": "AWS says its AI security agent fixes 89% of bugs — but there’s a catch",
+          "url": "https://thenewstack.io/aws-says-its-ai-security-agent-fixes-89-of-bugs-but-theres-a-catch/",
+          "summary": "AWS made Continuum for code vulnerabilities generally available on Thursday. The service finds and validates bugs in your repositories, checks them against your AWS environment, an…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-24T14:30:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7eff2326725f",
+          "title": "Building an agentic software factory? Start with the sensor.",
+          "titleZh": "Building an agentic software factory? Start with the sensor.",
+          "url": "https://thenewstack.io/agentic-software-factory-sensor/",
+          "summary": "A gap has long existed between the shipping velocity of the best engineering teams and the rest of the bell curve. For most of the industry’s history, it was a multiple measured in…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-24T14:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "098cbca1dee3",
+          "title": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+          "titleZh": "Why Kubernetes autoscalers keep fighting each other (and why the solution must be autonomous)",
+          "url": "https://thenewstack.io/why-kubernetes-autoscalers-fight/",
+          "summary": "Ask an SRE a deceptively simple question: What is the right size for checkout-api , and how many replicas should it run right now? Their Helm values specify replicas: 3, cpu: 1000m…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-24T13:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "593ae9596903",
+          "title": "Before you expand your GPU pool, measure the outcome",
+          "titleZh": "Before you expand your GPU pool, measure the outcome",
+          "url": "https://thenewstack.io/optimize-kubernetes-gpu-pools/",
+          "summary": "For teams running AI workloads on Kubernetes, a fully allocated GPU pool and a growing batch-job queue might make expanding the pool seem like the obvious next step. But a growing …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-24T12:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "0c0f44ba1f0d",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 27,
+    "itemsPublished": 26,
+    "itemsFiltered": 1,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 59,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
