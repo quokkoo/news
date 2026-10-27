@@ -1,0 +1,1017 @@
+{
+  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T01:36:14.751Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 35 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "c59970a3bde6",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "d93cfd0b008a",
+          "title": "Anthropic招股书里最值得看的14个细节",
+          "titleZh": "Anthropic招股书里最值得看的14个细节",
+          "url": "https://wallstreetcn.com/articles/3784522",
+          "summary": "10月26日，Anthropic正式向美国证券交易委员会公开提交IPO申请，拟在纳斯达克挂牌，股票代码ANT，目标估值1.5万亿美元至2万亿美元，有望超越SpaceX创下的历史纪录。IPO时间窗口据媒体爆料定于11月16日当周。 当天，美股半导体板块应声上涨——纳指盘中涨超1%，博通、AMD、英伟达各自拉涨近3%。Anthropic还未挂牌，最先涨的是它的供…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T01:07:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "33dfd3143343",
+          "title": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
+          "titleZh": "Anthropic IPO招股书八大看点：增速逆天，但风险也是明摆着的",
+          "url": "https://wallstreetcn.com/articles/3784524",
+          "summary": "前沿AI模型公司Anthropic正式迈出上市关键一步，这将是AI领域迄今规模最大的IPO。 华尔街见闻提及，Anthropic周一向美国证券交易委员会递交S-1招股说明书，318页的文件披露了其商业模式、风险因素及财务状况，消息提振周一AI相关芯片股走势。 招股书在第194页预留了10月年度经常性收入（ARR）的空白占位符，待修订版S-1中补充披露。 资深…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T00:52:36.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6778d4da429",
+          "title": "今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝",
+          "titleZh": "今日大选！内塔尼亚胡面临政治大考，曾策划“选前攻击伊朗”被特朗普和军方拒绝",
+          "url": "https://wallstreetcn.com/articles/3784516",
+          "summary": "以色列定于周二举行议会大选，选情高度胶着，现任总理内塔尼亚胡的政治前途悬而未决。 10月27日，据央视新闻，以色列今日将举行新一届议会选举，选情胶着，内塔尼亚胡拉特朗普“背书”。 与此同时据CNN报道，内塔尼亚胡近期曾游说特朗普支持对伊朗发动联合打击，特朗普最终未予批准，要求以方等待美方就绪后再行行动。 据《纽约时报》及以色列第12频道报道，以军总参谋长扎米…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T00:33:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bb1346d7341d",
+          "title": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”",
+          "titleZh": "AI募资狂潮“最大赢家”：高盛依旧是“华尔街之王”",
+          "url": "https://wallstreetcn.com/articles/3784518",
+          "summary": "在AI融资热潮席卷华尔街之际，高盛正以压倒性姿态确立其市场主导地位。 周一，三笔总规模至少达2100亿美元的AI巨型融资交易同时落地，高盛的名字出现在每一笔交易之中。这一天，高盛联合主导了Meta Platforms高达950亿美元的股票发行，担任SpaceX 400亿美元芯片融资交易的唯一结构安排行，并出任Anthropic首次公开募股（IPO）的左一账簿…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T00:24:49.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "31418b893562",
+          "title": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”",
+          "titleZh": "Anthropic能拿下“股市最大IPO”，却未必能有“债市投资级”",
+          "url": "https://wallstreetcn.com/articles/3784520",
+          "summary": "Anthropic在备受瞩目的IPO招股文件中，对外界最关心的投资级信用评级问题几乎只字未提，却同时警告可能比预期更早寻求新一轮融资。这一组合信号，正在让债券市场的潜在买家陷入观望。 招股文件显示，截至今年6月30日，Anthropic已有62亿美元的流动债务，全部以可转换本票形式欠于亚马逊。与此同时，公司还披露了一笔由摩根士丹利牵头、规模高达150亿美元的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T00:17:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2d05bfaf4ef1",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月27日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月27日",
+          "url": "https://wallstreetcn.com/articles/3784513",
+          "summary": "华见早安之声 要闻精选 Anthropic正式提交IPO申请，拟以代码ANT在纳斯达克挂牌，上半年营收163亿美元、净亏损807亿美元，公司称未来可能无法实现盈利，警示人类“生存危机”。Anthropic再曝AI自主行动：Claude未经指令获取佐治亚州选票数据。 震惊市场！巴西总统卢拉在二轮选举中意外逆袭，创纪录赢得第四任期。巴西股市创近三十年最惨日跌，雷…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-26T23:03:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "c59970a3bde6",
+          "title": "GPT-6.1 Terra",
+          "titleZh": "GPT-6.1 Terra",
+          "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra/",
+          "summary": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoni…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-26T23:53:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "11be8f0d964b",
+          "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "titleZh": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+          "url": "https://openai.com/index/greptile-code-review-codex-astra",
+          "summary": "Greptile ⁠ (opens in a new window) builds AI agents that review and test code changes with full context of the codebase. “We are in the business of reducing bugs and making the wor…",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-10-26T22:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bdf3c5345209",
+          "title": "Will the real Anthropic please stand up",
+          "titleZh": "Will the real Anthropic please stand up",
+          "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . After weeks of frenzied speculation, Anth…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-10-26T17:45:43.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50b6e52ca221",
+          "title": "Microsoft offers to buy out a quarter of its workforce",
+          "titleZh": "Microsoft offers to buy out a quarter of its workforce",
+          "url": "https://arstechnica.com/gadgets/2026/10/microsoft-offers-voluntary-buyouts-to-60000-employees/",
+          "summary": "On Monday, Microsoft said it will offer voluntary buyouts to eligible employees in select parts of the company. CNBC reports that the buyouts will be offered to roughly 60,000 empl…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-26T22:36:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b5602be25b0a",
+          "title": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "titleZh": "Meet the real-life Scottish surgeon who inspired Sherlock Holmes",
+          "url": "https://arstechnica.com/science/2026/10/meet-the-real-life-scottish-surgeon-who-inspired-sherlock-holmes/",
+          "summary": "Sir Arthur Conan Doyle created one of the most beloved fictional detectives of all time in Sherlock Holmes, spawning countless novels, films, TV series, and so forth featuring the …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-26T20:15:07.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bc8106f22ad0",
+          "title": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "titleZh": "Worms mate in man's eyes, get plucked out right before larvae burst out",
+          "url": "https://arstechnica.com/health/2026/10/whats-worse-than-having-eye-worms-having-eye-worms-with-babies/",
+          "summary": "After two months of discomfort, a man in South Korea went to an eye clinic where doctors pulled 11 living, wriggling worms from his eyes. They apparently made the most of their tim…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-26T20:27:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41781aae8dff",
+          "title": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+          "titleZh": "Apple reveals updated iPad mini with a bigger OLED screen for $700",
+          "url": "https://arstechnica.com/apple/2026/10/apple-reveals-updated-ipad-mini-with-a-bigger-oled-screen-for-700/",
+          "summary": "The iPhone Duo may be a bit of a risk right now , but there's a new mid-size Apple touchscreen device that might do the job. Starting at $699, the 8th-gen iPad mini price has gone …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-26T19:04:40.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "435632e64f9a",
+          "title": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+          "titleZh": "Highway thieves are spoofing GPS to steal millions in data center-bound cargo",
+          "url": "https://arstechnica.com/tech-policy/2026/10/highway-thieves-are-spoofing-gps-to-steal-millions-in-data-center-bound-cargo/",
+          "summary": "Highway thieves are using sophisticated digital tactics that investigators worry make it easy to rob trucks carrying millions in expensive data center equipment. NBC News spoke to …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-26T17:26:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "7a095f2a147d",
+          "title": "James Comey charged again by the DOJ",
+          "titleZh": "James Comey charged again by the DOJ",
+          "url": "https://www.axios.com/2026/10/26/james-comey-national-defense-information-charges",
+          "summary": "Former FBI director James Comey is facing new federal charges, according to a charging document made public on Monday. Why it matters: The charges mark the third time the Trump adm…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-26T23:05:31.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f1cd152f03e3",
+          "title": "Inside Anthropic's massive — and wild — IPO prospectus",
+          "titleZh": "Inside Anthropic's massive — and wild — IPO prospectus",
+          "url": "https://www.axios.com/2026/10/26/anthropic-ipo-biggest-surprises",
+          "summary": "There has never been a company like Anthropic. It owes almost $650 billion for computing, generates eye-popping revenue per employee and wants every investor to know that its produ…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-26T22:58:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0a5ba3c95df7",
+          "title": "📈 Monday data: For science the bottleneck isn’t intelligence",
+          "titleZh": "📈 Monday data: For science the bottleneck isn’t intelligence",
+          "url": "https://www.exponentialview.co/p/monday-data-for-science-the-bottleneck",
+          "summary": "In the AI Investment Brief today: CapEx updates and lease commitment breakdowns Anthropic co-founder Jack Clark recently said in a speech at the IMF that the singularity has begun …",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-10-26T15:25:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "92dd5906ad7d",
+          "title": "手握10亿订单却停摆：具身智能的有毒订单陷阱",
+          "titleZh": "手握10亿订单却停摆：具身智能的有毒订单陷阱",
+          "url": "https://www.huxiu.com/article/4900679.html?f=rss",
+          "summary": "本文来自微信公众号： 青萍见 ，作者：shushuhn 在当下的硬科技创投圈，没有什么比手握大额订单更能让投资人兴奋的了。 但最近，南京无境未来动力科技有限公司被曝陷入停摆危机。这家公司成立于2026年2月11日，曾对外宣称手握近10亿元订单（其中5亿元为央企框架协议，另外5亿元仅为地方市场意向储备，没有形成具备约束力的正式合同）。据媒体报道和员工披露，公司…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-27T01:29:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4d950fca0ce4",
+          "title": "巴西大选翻车后，预测市场还靠谱吗？",
+          "titleZh": "巴西大选翻车后，预测市场还靠谱吗？",
+          "url": "https://www.huxiu.com/article/4900675.html?f=rss",
+          "summary": "本文来自微信公众号： 一个生物狗的科普小园 ，作者：Y博的科普园 以Kalshi为代表的预测市场在近年来的西方选举里风头正盛，经常有传统的民调都不靠谱，预测市场才准确的声音出现。 但是10月25日巴西大选的第二轮选举里，预测市场却翻车翻大了。即便是当天晚上，Kalshi上依然显示现任总统卢拉只有21%的概率击败挑战者弗拉维奥·博索纳罗（目前正在监狱服刑的前总…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-27T01:15:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-27T01:36:05.744Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-27T01:36:05.744Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-27T01:36:05.744Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "fb32c011e850",
+          "title": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
+          "titleZh": "Using a Single Image to Optimize Urban Solar-Panel Orientation",
+          "url": "https://www.eetimes.com/using-a-single-image-to-optimize-urban-solar-panel-orientation/",
+          "summary": "Effective power management begins at the power source. For solar panels, it sounds simple enough: Just point the panels to enable them to capture the maximum possible number of imp…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-26T22:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2c838adca9b4",
+          "title": "Silicon Carbide and Gallium Nitride Play Growing Role in Electronics Design, Manufacturing and Supply-Chain Strategy",
+          "titleZh": "Silicon Carbide and Gallium Nitride Play Growing Role in Electronics Design, Manufacturing and Supply-Chain Strategy",
+          "url": "https://www.semiconductor-digest.com/silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy/?utm_source=rss&utm_medium=rss&utm_campaign=silicon-carbide-and-gallium-nitride-play-growing-role-in-electronics-design-manufacturing-and-supply-chain-strategy",
+          "summary": "Silicon carbide (SiC) and gallium nitride (GaN) power devices are expanding their role in electronics, with implications extending beyond component selection to product design, man…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-26T18:33:39.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "120b1983e80b",
+          "title": "Cadence Unveils Domain-Specialized Maestro AI Models for Chip Design",
+          "titleZh": "Cadence Unveils Domain-Specialized Maestro AI Models for Chip Design",
+          "url": "https://www.semiconductor-digest.com/cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design/?utm_source=rss&utm_medium=rss&utm_campaign=cadence-unveils-domain-specialized-maestro-ai-models-for-chip-design",
+          "summary": "Cadence (Nasdaq: CDNS) today announced the Maestro AI Model Portfolio, which powers Cadence AI Super Agents across semiconductor and system design workflows. By integrating these m…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-26T18:30:33.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "28de083eb36d",
+          "title": "From Fluid Handling to Dose Control: How Valve Technology Evolved from Process Component to Dose-Control Enabler",
+          "titleZh": "From Fluid Handling to Dose Control: How Valve Technology Evolved from Process Component to Dose-Control Enabler",
+          "url": "https://www.semiconductor-digest.com/from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler/?utm_source=rss&utm_medium=rss&utm_campaign=from-fluid-handling-to-dose-control-how-valve-technology-evolved-from-process-component-to-dose-control-enabler",
+          "summary": "By JEFF DEWITT , Lead Applications Engineer, Swagelok Company As device architectures shrink and move into 3D, the process windows for atomic layer processes have narrowed to the p…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-26T13:38:43.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "1e7534a29bb1",
+          "title": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
+          "titleZh": "Taiwan looks to autonomous swarms to counter Beijing’s grey-zone pressure",
+          "url": "https://www.scmp.com/news/china/military/article/3372189/taiwan-looks-autonomous-swarms-counter-beijings-grey-zone-pressure",
+          "summary": "Taiwan is developing an AI-powered system to coordinate drone fleets for maritime surveillance and countering “grey-zone” activities, with researchers completing a simulation invol…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-27T01:00:10.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "68ee9d626e68",
+          "title": "What message is China sending with latest footage of ‘no-notice’ DF rocket drill?",
+          "titleZh": "What message is China sending with latest footage of ‘no-notice’ DF rocket drill?",
+          "url": "https://www.scmp.com/news/china/military/article/3372206/what-message-china-sending-latest-footage-no-notice-df-rocket-drill",
+          "summary": "China has released footage of its troops carrying out a “no-notice” rocket launch as part of an ongoing effort by state media to showcase the People’s Liberation Army’s rapid-respo…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-27T00:00:19.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1046ee41cabf",
+          "title": "Blakeman’s bank statements don’t match his disclosure reports",
+          "titleZh": "Blakeman’s bank statements don’t match his disclosure reports",
+          "url": "https://www.politico.com/newsletters/new-york-playbook-pm/2026/10/26/blakemans-bank-statements-dont-match-his-disclosure-reports-01135549",
+          "summary": "🚨🚨MUST READ🚨🚨: Mayor Zohran Mamdani and a group of fellow basketball enthusiasts have been secretly using the NYPD Police Academy’s gymnasium in Queens to play pickup ball, acc…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-26T21:38:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "4140881733b6",
+          "title": "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+          "titleZh": "OpenAI halved its agent’s price. Its own safety report flagged a catch.",
+          "url": "https://thenewstack.io/openai-terra-bypassed-restrictions/",
+          "summary": "OpenAI launched GPT-6.1 Terra on Monday , cutting API prices in half and delivering major gains in coding and computer-use benchmarks. But the company&rsquo;s own safety tests reve…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-26T22:14:01.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "caea73f92277",
+          "title": "AI is changing Kubernetes; is your platform ready for 2027?",
+          "titleZh": "AI is changing Kubernetes; is your platform ready for 2027?",
+          "url": "https://thenewstack.io/kubernetes-agentic-ai-platforms/",
+          "summary": "AI workloads, including those using agentic AI , will only add to and change the questions Kubernetes teams have to answer. It’s no longer merely enough to ask if the pods are runn…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-26T19:51:04.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8deb040cba2f",
+          "title": "Most of Anthropic’s Q3 revenue came from models that barely existed six months ago",
+          "titleZh": "Most of Anthropic’s Q3 revenue came from models that barely existed six months ago",
+          "url": "https://thenewstack.io/anthropic-s1-models-revenue/",
+          "summary": "Anthropic’s long-awaited S-1 , filed Monday ahead of its planned Nasdaq debut under the ticker ANT, shows how quickly customers are spending on its newest models. According to the …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-26T18:29:26.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "652a7c2d1706",
+          "title": "Ex-GitHub CEO launches a GitHub rival that reinvents the pull request",
+          "titleZh": "Ex-GitHub CEO launches a GitHub rival that reinvents the pull request",
+          "url": "https://thenewstack.io/entire-trails-agentic-code-review/",
+          "summary": "Entire, the startup founded by former GitHub CEO Thomas Dohmke , on Monday launched its GitHub alternative that replaces the traditional pull request model with a new agentic code …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-26T17:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "c59970a3bde6",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 35,
+    "itemsPublished": 33,
+    "itemsFiltered": 2,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
