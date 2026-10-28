@@ -1,0 +1,1111 @@
+{
+  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T01:37:40.556Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 8 个领域，全部读完约需 67 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "5ccb61f93be8",
+          "title": "630亿美元，史上最大规模AI基建融资！博通CEO\"亲自下场\"，华尔街紧盯明年Q1\"巨债发行\"",
+          "titleZh": "630亿美元，史上最大规模AI基建融资！博通CEO\"亲自下场\"，华尔街紧盯明年Q1\"巨债发行\"",
+          "url": "https://wallstreetcn.com/articles/3784625",
+          "summary": "一笔创纪录的AI基建融资，在最后关头险些告吹。 据华尔街日报10月27日报道，博通（Broadcom）CEO 陈福阳（Hock Tan）亲自出马，在最后一个周末与多家银行高管紧急谈判，最终敲定了一笔总规模高达630亿美元的AI芯片融资交易——这是迄今为止全球规模最大的人工智能基础设施债务融资。 该交易代号\"北极星\"（Project North Star），旨…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T00:38:21.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c7b9e9eab3aa",
+          "title": "以色列选举“创50年最高投票率”：出口民调显示“无明显赢家”，但“反内塔尼亚胡”阵营领先，阿拉伯政党“异军突起”",
+          "titleZh": "以色列选举“创50年最高投票率”：出口民调显示“无明显赢家”，但“反内塔尼亚胡”阵营领先，阿拉伯政党“异军突起”",
+          "url": "https://wallstreetcn.com/articles/3784623",
+          "summary": "以色列第26届议会选举以创近50年来最高投票率落幕，出口民调显示两大阵营均未能获得组阁所需多数席位，政治前景高度不确定，内塔尼亚胡正面临担任总理二十年来的重大挫折。 据新华社10月28日报道，以色列第26届议会选举27日22时结束投票。以媒出口民调显示，现任总理内塔尼亚胡领导的右翼宗教政党阵营预计获得50席，以国防军前总参谋长Gadi Eisenkot领导的…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T00:35:27.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a54997b51ab3",
+          "title": "SK海力士三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报，存储芯片供应短缺持续至2030年",
+          "titleZh": "SK海力士三季度营业利润同比暴增7倍，祭出百万亿韩元史诗级股东回报，存储芯片供应短缺持续至2030年",
+          "url": "https://wallstreetcn.com/articles/3784619",
+          "summary": "SK海力士交出了一份喜忧参半的三季度成绩单：营业收入历史上首次突破100万亿韩元，营业收入和营业利润环比分别增长32%和38%，净利润却意外不及预期。 这家全球第二大内存芯片制造商周三（10月27日）公布，第三季度营业利润同比飙升七倍至83.33万亿韩元，远超市场预期的76.27万亿韩元，超出幅度约9%；营收亦达104.62万亿韩元，较市场预期的97.34万…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T00:03:46.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "62d4c6ba08ef",
+          "title": "华尔街见闻早餐FM-Radio | 2026年10月28日",
+          "titleZh": "华尔街见闻早餐FM-Radio | 2026年10月28日",
+          "url": "https://wallstreetcn.com/articles/3784617",
+          "summary": "华见早安之声 要闻精选 中国9月规模以上工业企业利润同比增长14.4%，为6月以来最强，出厂价格涨幅创2022年以来最快。 2026胡润百富榜：梁文锋首次上榜位列第七，财富2800亿元，王兴兴上榜。 泡泡玛特Q3整体收益同比下降45%-50%，美洲最深降75%，海外市场全面承压。电话会：全年正增长“没有太大压力”但毛利率承压，9月底库存明显下降，海外回归“慢…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-27T23:02:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e4bb8f391dfb",
+          "title": "特朗普特使提议“美国公司重返俄罗斯石油市场”，美国希望下月美俄乌三方会谈“取得进展”",
+          "titleZh": "特朗普特使提议“美国公司重返俄罗斯石油市场”，美国希望下月美俄乌三方会谈“取得进展”",
+          "url": "https://wallstreetcn.com/articles/3784626",
+          "summary": "美国正将经济利益作为筹码，试图推动俄罗斯走向谈判桌。 周三，据媒体援引知情人士透露，白宫与克里姆林宫正就战后美国石油巨头重返俄罗斯市场展开讨论，相关提案涵盖萨哈林岛近海合资项目及俄罗斯石油经由\"友谊\"管道重返欧洲市场等多项安排。特朗普特使Steve Witkoff在9月初圣彼得堡与普京会面时专门讨论了上述潜在商业交易，克里姆林宫随后公布的照片显示，Witko…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T00:57:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5aee5ef1bb39",
+          "title": "中东石油出口量“已超过战前”，但油价依然高企，“4月短缺的是原油，10月则是运输成本”",
+          "titleZh": "中东石油出口量“已超过战前”，但油价依然高企，“4月短缺的是原油，10月则是运输成本”",
+          "url": "https://wallstreetcn.com/articles/3784624",
+          "summary": "波斯湾石油出口已恢复至战前水平以上，但高昂的运输成本和持续的袭击事件，令市场对这一局面能否持续心存疑虑。 据船舶追踪机构Kpler数据，截至10月18日当周，中东石油日均流量（含霍尔木兹海峡及区域替代航线）超过2400万桶，高于战前的2330万桶。 与此同时，布伦特原油本周二报约每桶108美元，近期持续高位运行。摩根大通全球大宗商品策略团队负责人Natash…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-28T00:24:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "244d888e99cf",
+          "title": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+          "titleZh": "The sleep framework: A new way for LLMs to retain knowledge in continual learning",
+          "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+          "summary": "Modern LLMs achieve impressive performance via pre-training and in-context learning (ICL). However, once deployed, they remain largely static, operating with a fixed knowledge cuto…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-10-27T17:35:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "441b6dc603e3",
+          "title": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+          "titleZh": "How Anthropic ships Claude with Claude: Separating the Brain from the Hands",
+          "url": "https://latent.space/p/opus55/",
+          "summary": "Watch the full episode on YouTube As we learned from the Anthropic S-1 filings yesterday , the lab has some of the highest revenue and research efficiency in human history, particu…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-27T18:53:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f873d0b815f6",
+          "title": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+          "titleZh": "How Anthropic ships the #1 LLM in the World safely: Separating the Brain from the Hands",
+          "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands/",
+          "summary": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,”…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-27T18:40:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6563f20ac6db",
+          "title": "Build specialized multimodal models with LFM3",
+          "titleZh": "Build specialized multimodal models with LFM3",
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "summary": "LFM3 is our new generation of Liquid Foundation Models (LFMs), built to be the starting point for specialized intelligence. It brings text, vision, audio, omni, and decision models…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-10-27T17:16:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a2c7da2e885",
+          "title": "Coding From the Himalayas With an Offline AI Agent",
+          "titleZh": "Coding From the Himalayas With an Offline AI Agent",
+          "url": "https://latent.space/p/offline-coding/",
+          "summary": "When we talk about working remotely , we take a lot of things for granted, especially reliable internet and power. But sometimes, working remotely means trying to get something don…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-27T14:41:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2d92b0529737",
+          "title": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "titleZh": "South Carolina's measles outbreak jumped to Washington state 5 times in 2 weeks",
+          "url": "https://arstechnica.com/health/2026/10/domestic-travel-poses-growing-risk-for-measles-and-a-new-challenge-for-states/",
+          "summary": "Since measles was declared eliminated in the US in 2000, the country's occasional cases have come mainly from international travelers—visitors from far-flung places where the virus…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-27T22:22:32.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f50f4af1235a",
+          "title": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "titleZh": "Anthropic IPO warns its AI could blackmail people, become sentient, end humanity",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-ipo-warns-its-ai-could-blackmail-people-become-sentient-end-humanity/",
+          "summary": "The Securities and Exchange Commission 's publication on Monday of Anthropic's S-1 form —ahead of a heavily anticipated initial public offering—has led to plenty of discussion of w…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-27T21:31:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ea2220ab4f99",
+          "title": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+          "titleZh": "Code-execution flaw in UEFI firmware affects most servers on planet Earth",
+          "url": "https://arstechnica.com/security/2026/10/code-execution-flaw-in-uefi-firmware-threatens-most-servers-on-planet-earth/",
+          "summary": "Defenders across the world face the burden of responding to yet another botched code-execution vulnerability, this time in boot-time firmware used by most of the world’s server ven…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-27T20:25:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "4e7c182725d2",
+          "title": "Netanyahu, Eisenkot blocs running close, but both shy of majority",
+          "titleZh": "Netanyahu, Eisenkot blocs running close, but both shy of majority",
+          "url": "https://www.axios.com/2026/10/27/netanyahu-eisenkot-israel-election-exit-polls",
+          "summary": "Israeli Prime Minister Benjamin Netanyahu's far-right coalition is locked in a tight race with opponent Gadi Eisenkot's bloc, but both are below a 61-seat majority, according to Is…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-28T01:21:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8ee50cb7c788",
+          "title": "Republicans fear \"red scream\" could depress GOP voter turnout",
+          "titleZh": "Republicans fear \"red scream\" could depress GOP voter turnout",
+          "url": "https://www.axios.com/2026/10/28/republicans-senate-turnout-2026-midterms",
+          "summary": "Senate Republicans see Iowa moving their way and Ohio slipping, with pessimism growing over Alaska and Kansas. Why it matters: Even when they squint, top Republicans struggle to se…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-28T00:18:55.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c055ad631b4c",
+          "title": "Senate control could hang in limbo for weeks after Election Day",
+          "titleZh": "Senate control could hang in limbo for weeks after Election Day",
+          "url": "https://www.axios.com/2026/10/27/senate-majority-democrats-republicans-schumer-thune",
+          "summary": "Senate leaders could be guessing who will control the chamber well into November, thanks to a slew of tight races and state-specific voting rules. Why it matters: A GOP majority wo…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-27T23:49:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3e9d0a2cdfb8",
+          "title": "🔮 Anthropic’s S-1 in charts",
+          "titleZh": "🔮 Anthropic’s S-1 in charts",
+          "url": "https://www.exponentialview.co/p/anthropics-s-1-in-charts",
+          "summary": "I went live on Substack earlier today to discuss Anthropic’s S-1. Watch the video and read the email for my takeaways. Anthropic’s S-1 should finally address the elephant in the ro…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-10-27T17:31:56.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c6f757f24bb3",
+          "title": "第一批重金找FDE的县城老板，被坑惨",
+          "titleZh": "第一批重金找FDE的县城老板，被坑惨",
+          "url": "https://www.huxiu.com/article/4900685.html?f=rss",
+          "summary": "本文来自微信公众号： AI故事计划 ，编辑：张霞，作者：钟楚笛 \" AI改造的风，从大厂一路吹到县城，吹进那些急于转型的小公司。 王航在陕西一座五线小城，亲历了一场闹剧。他就职于一家不足百人的软件公司。今年8月起，老板先后投入约70万元，引入了一套号称能获客、做客服、做招聘、辅助决策的AI系统。 部署完成后，账号接连被封，工资数据泄露，老员工陆续离职。最后连…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-28T01:34:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-28T01:37:23.308Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-28T01:37:23.308Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-28T01:37:23.308Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "76a76f61a324",
+          "title": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
+          "titleZh": "Transitioning Legacy Aircraft Power Architectures to High-Density Switching Supplies",
+          "url": "https://www.eetimes.com/transitioning-legacy-aircraft-power-architectures-to-high-density-switching-supplies/",
+          "summary": "Aircraft electrical systems often stay in service for decades, even as avionics demand more from established interfaces. High-density switching supplies offer one way to modernize …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-27T23:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c960d2f34bd7",
+          "title": "Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain",
+          "titleZh": "Wafer Fab Equipment: A Booming Market Built on a Fragmenting Supply Chain",
+          "url": "https://www.semiconductor-digest.com/wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain/?utm_source=rss&utm_medium=rss&utm_campaign=wafer-fab-equipment-a-booming-market-built-on-a-fragmenting-supply-chain",
+          "summary": "By Clara Grcevic, Market & Technology Analyst, Semiconductor Equipment YOLE GROUP Wafer fab equipment revenue reached $129 billion in 2025 and is forecast to approach $220 billion …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-27T14:29:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c9a0aec267aa",
+          "title": "Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem",
+          "titleZh": "Back-End Equipment: From Volume Assembly to a Strategic Advanced Packaging Ecosystem",
+          "url": "https://www.semiconductor-digest.com/back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem/?utm_source=rss&utm_medium=rss&utm_campaign=back-end-equipment-from-volume-assembly-to-a-strategic-advanced-packaging-ecosystem",
+          "summary": "By Vishal Saroha, Technology & Market Analyst, Semiconductor Equipment at YOLE GROUP The semiconductor back-end equipment market enters 2026 in a stronger position. According to Yo…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-27T14:26:50.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6f2612fb5cc0",
+          "title": "From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging",
+          "titleZh": "From Wafers to Panels: Overcoming Lithography Challenges in Advanced Packaging",
+          "url": "https://www.semiconductor-digest.com/from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging/?utm_source=rss&utm_medium=rss&utm_campaign=from-wafers-to-panels-overcoming-lithography-challenges-in-advanced-packaging",
+          "summary": "By STÉPHANE PELLEGRINI , Product Manager, ETEL and SHAHBAZ SOHRAB , Business Development Specialist – Semiconductor, HEIDENHAIN AI-driven custom silicon is pushing advanced packagi…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-27T14:04:55.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "12db413877e3",
+          "title": "Manila speaks with 2 voices on China",
+          "titleZh": "Manila speaks with 2 voices on China",
+          "url": "https://www.scmp.com/opinion/asia-opinion/article/3372147/manila-speaks-2-voices-china",
+          "summary": "Manila sent two strikingly different messages to Beijing on October 13. At the Malacanang Palace, a presidential spokeswoman reaffirmed Manila’s commitment to sustaining diplomatic…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-28T01:30:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "508531035f1f",
+          "title": "Will China travel hurt US students’ careers? FBI battles fears as talent pipeline stalls",
+          "titleZh": "Will China travel hurt US students’ careers? FBI battles fears as talent pipeline stalls",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372362/will-china-travel-hurt-american-students-careers-fbi-battles-fears-talent-pipeline-stalls",
+          "summary": "An American student considering studying in China attended a briefing with a senior FBI official at a Washington think tank last month to address her concerns about whether such an…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-28T00:56:18.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dc9a213fab58",
+          "title": "China’s battery factories could be sitting right on top of vast lithium deposits",
+          "titleZh": "China’s battery factories could be sitting right on top of vast lithium deposits",
+          "url": "https://www.scmp.com/news/china/science/article/3372325/chinas-battery-factories-could-be-sitting-right-top-vast-lithium-deposits",
+          "summary": "Lithium deposits formed by ancient volcanic activity may lie beneath parts of China’s battery manufacturing heartland, particularly along the southeastern coast, according to a new…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-28T00:00:26.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "317d3af569b6",
+          "title": "Republicans wanted Rubio on the stump. Trump coaxed him there.",
+          "titleZh": "Republicans wanted Rubio on the stump. Trump coaxed him there.",
+          "url": "https://www.politico.com/news/2026/10/27/marco-rubio-texas-trump-midterms-01137437",
+          "summary": "Secretary of State Marco Rubio on Tuesday came as close to the campaign trail as he’s been all year. And even then, he tried to stay just offshore. Rubio appeared with President Do…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-10-27T22:50:28.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "6ff87ba4e9b4",
+          "title": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
+          "titleZh": "Q&A: Why are UK energy bills so high – and how could they be lowered?",
+          "url": "https://www.carbonbrief.org/qa-why-are-uk-energy-bills-so-high-and-how-could-they-be-lowered",
+          "summary": "Print article Share Article Contents Expand menu Close What is driving high energy bills? What has been done to limit bills so far? What options are there for bringing down bills? …",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-27T16:47:54.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2eecb7ed9b85",
+          "title": "Guest post: Greenland ice sheet shrinks for 30th year in a row",
+          "titleZh": "Guest post: Greenland ice sheet shrinks for 30th year in a row",
+          "url": "https://www.carbonbrief.org/guest-post-greenland-ice-sheet-shrinks-for-30th-year-in-a-row",
+          "summary": "Print article Share Article Contents Expand menu Close Surface mass balance Total mass balance Surface melt Snowfall Iceberg calving The impact of global weather Three decades of d…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-27T14:07:31.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8f23a27565a8",
+          "title": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
+          "titleZh": "Google built AI agents a world to practice in. The physics still aren’t quite right.",
+          "url": "https://thenewstack.io/genie-4-world-model/",
+          "summary": "Google DeepMind introduced Genie 4 on Tuesday , a world model that renders interactive environments in real time with simulated physics, human motion, and native audio. The photore…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-27T22:33:51.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f15d2b9861df",
+          "title": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
+          "titleZh": "Replit’s CEO says an idea from 1937 could make the org chart obsolete",
+          "url": "https://thenewstack.io/replit-self-driving-company/",
+          "summary": "Replit CEO and co-founder Amjad Masad has spent the past year watching AI agents absorb the routine execution inside his own company, and in a thread posted to X on Monday, he argu…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-27T21:16:40.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a12266cfd35",
+          "title": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
+          "titleZh": "“The panic hasn’t turned into patching”: What security researchers really think about the PHP2Shell response",
+          "url": "https://thenewstack.io/php2shell-unpatched-php-servers/",
+          "summary": "The PHP panic has not turned to patching: And that’s bad news, capital B, as PHP2Shell attacks ramp up. We know the paired PHP vulnerabilities, CVE-2026-109618 and CVE-2026-109619,…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-27T20:54:37.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e60c22906553",
+          "title": "Nebius cut rollout collection time by 66.9% — here’s what changed",
+          "titleZh": "Nebius cut rollout collection time by 66.9% — here’s what changed",
+          "url": "https://thenewstack.io/nebius-agentic-rl-training-bottlenecks/",
+          "summary": "In AI agent training, you can pay for powerful GPUs and still spend much of your time waiting. Agents need to attempt tasks and produce results before the model can learn from them…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-27T15:38:21.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 36,
+    "itemsFiltered": 0,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
