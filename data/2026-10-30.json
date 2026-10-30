@@ -1,0 +1,1085 @@
+{
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T02:07:07.356Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 37 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度等 10 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "a80c9c2b4f0b",
+          "title": "闪迪电话会：“客户低估了NAND需求”！长单已排到2030年，PC市场正在筑底",
+          "titleZh": "闪迪电话会：“客户低估了NAND需求”！长单已排到2030年，PC市场正在筑底",
+          "url": "https://wallstreetcn.com/articles/3784810",
+          "summary": "受AI推理需求爆发驱动，闪迪2027财年第一财季营收同比激增378%，凭借深绑超大规模云厂商的NBM长单与新型HBF技术，NAND闪存正全面挺进AI基础设施的核心层。 10月30日，美股盘后闪迪（SanDisk）交出了一份极具爆发力的2027财年第一季度财报，公司当季实现营收110亿美元，环比增长23%，同比暴增378%；非GAAP毛利率达到85.1%，产生…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T01:26:46.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5c250f2159f7",
+          "title": "全球科技股“惨遭血洗”！纳指期货跌2%，韩国股市跌4%，亚洲芯片股重挫",
+          "titleZh": "全球科技股“惨遭血洗”！纳指期货跌2%，韩国股市跌4%，亚洲芯片股重挫",
+          "url": "https://wallstreetcn.com/articles/3784816",
+          "summary": "全球科技股正经历本轮财报季最密集的一次集体下挫。 英特尔盘后重挫23%，亚马逊盘后下跌约7.3%。纳斯达克100指数期货跌幅扩大至2%。这是科技股连续第二个交易日下跌，一轮又一轮令人失望的财报正在加速资金从AI相关交易中撤离。 亚太市场首当其冲。韩国KOSPI指数跌4.5%，韩国交易所随即启动SIDECAR机制，暂停程序化卖盘；芯片股压力尤为突出，SK海力士…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T01:23:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3a1255a0a069",
+          "title": "腾讯系办公开始围着workbuddy转",
+          "titleZh": "腾讯系办公开始围着workbuddy转",
+          "url": "https://wallstreetcn.com/articles/3784818",
+          "summary": "10月14日，WorkBuddy进入了企业微信的通讯录。 在新发布的联合版本中，员工可以像给同事发消息一样，向这个AI智能体交办任务。经过企业授权后，它能够调用相关消息、文档、会议等工作资料，完成任务后再将结果发回企业微信。 15天后，腾讯又将WorkBuddy与旗下更多办公产品连接起来。 10月29日，在2026腾讯全球数字生态大会上，腾讯正式推出跨应用A…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T01:08:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f62c71e0cd1b",
+          "title": "57亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失",
+          "titleZh": "57亿美元！币安遭“史上最大”黑客洗劫，暂停全部存储和提取功能，承诺将承担所有损失",
+          "url": "https://wallstreetcn.com/articles/3784815",
+          "summary": "全球最大加密货币交易所币安周四遭遇疑似史上规模最大的加密货币黑客攻击，失窃金额估计从17亿美元到57亿美元不等，事件震动整个加密市场。 据彭博最先报道，此次大规模资金异动引发市场高度警觉。币安创始人赵长鹏10月29日在社交平台X上发文确认，“看起来确实是针对币安的黑客攻击”，但同时强调用户资金安全。稳定币发行商Tether和Circle随即采取紧急行动，合计…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T01:07:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ad492f1316a",
+          "title": "现金流“烧穿了”！亚马逊电话会：加码支出，AI是“此生仅有的机遇”，零售业务被低估",
+          "titleZh": "现金流“烧穿了”！亚马逊电话会：加码支出，AI是“此生仅有的机遇”，零售业务被低估",
+          "url": "https://wallstreetcn.com/articles/3784809",
+          "summary": "在AI算力强劲需求推动下，亚马逊三季度AWS云业务创下近五年来最快增速，管理层更是罕见给出了“未来两年AWS增速超40%、迈向万亿美元营收”的指引。 华尔街见闻提及，10月29日美股盘后，亚马逊披露Q3营收同比增12%、略低于分析师预期，EPS同比不增反降3%，经营利润率逼近14%创历史新高。 财报最大亮点仍是AWS云业务。三季度AWS净销售额同比增长39.…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T00:53:47.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "90ce947d48bf",
+          "title": "轮番“历史性暴跌”！谷歌的病，亚马逊也得了",
+          "titleZh": "轮番“历史性暴跌”！谷歌的病，亚马逊也得了",
+          "url": "https://wallstreetcn.com/articles/3784814",
+          "summary": "云计算业务连续加速，却难以掩盖电商核心的疲态——亚马逊正在经历一场与谷歌类似的市场考验。 第三季度财报显示，亚马逊总营收同比增长12%至2019亿美元，低于分析师预期。AWS营收增速连续六个季度提升，但在线零售销售增速跌至三年低点，广告业务增速亦创下有记录以来最低水平。与此同时，第三季度设备与物业支出逾770亿美元，远超市场预期，过去12个月自由现金流录得负…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-10-30T00:48:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "4b63d66dc5ef",
+          "title": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+          "titleZh": "Microsoft fixes a Windows 11 annoyance as PC revenue declines",
+          "url": "https://arstechnica.com/gadgets/2026/10/windows-11-gets-right-click-menu-improvements-as-pc-revenue-slides/",
+          "summary": "Microsoft is beginning the rollout of a Windows 11 preview update that finally addresses a persistent power user complaint with the operating system: the right-click menu that obli…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T20:18:49.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "811d4405fa65",
+          "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+          "titleZh": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+          "url": "https://latent.space/p/elorian/",
+          "summary": "This month Elorian launched its first visual reasoning model , Glimpse . It’s being promoted as “a new category of visual thinking model: a system that reasons about the physical w…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-10-29T16:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e187eaba8a64",
+          "title": "Trump declares robot imports a national security threat",
+          "titleZh": "Trump declares robot imports a national security threat",
+          "url": "https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/",
+          "summary": "President Donald Trump has declared the imports of foreign-made factory robots to be a national security threat—ordering new US negotiations with trading partners while holding out…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T19:07:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "04ebc4a735e6",
+          "title": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+          "titleZh": "Trump ignored intel on China’s Nvidia spy to protect company’s stock, report says",
+          "url": "https://arstechnica.com/tech-policy/2026/10/report-trump-did-nothing-with-intel-that-china-planted-spy-close-to-nvidia-ceo/",
+          "summary": "Donald Trump apparently is so aligned with Nvidia CEO Jensen Huang—who has become the president’s key advisor on AI —that he ignored intelligence indicating that Huang was the targ…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T18:29:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6a32bffd69a7",
+          "title": "Turning a solar power system into its own backup",
+          "titleZh": "Turning a solar power system into its own backup",
+          "url": "https://arstechnica.com/science/2026/10/turning-a-solar-power-system-into-its-own-backup/",
+          "summary": "Rather than directly converting photons into electricity, concentrated solar energy uses mirrors to turn sunlight into heat, which can then be used to drive traditional generating …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T18:02:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0e535dafe302",
+          "title": "Building a multiplayer game world with autonomous Fable-class models",
+          "titleZh": "Building a multiplayer game world with autonomous Fable-class models",
+          "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+          "summary": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-10-29T17:00:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c3fc6597b491",
+          "title": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "titleZh": "Reddit is moving to “a logged-in-only experience,” CEO says",
+          "url": "https://arstechnica.com/gadgets/2026/10/reddit-will-require-you-to-log-in-eventually-ceo-confirms/",
+          "summary": "In the future, you won’t be able to use Reddit without logging in. Reddit CEO Steve Huffman confirmed the impending change in a letter (PDF) to shareholders today about Q3 performa…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T21:47:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "479c88196bcc",
+          "title": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "titleZh": "Pentagon IG refuses to investigate Starlink/Starshield slowdown in Ukraine",
+          "url": "https://arstechnica.com/tech-policy/2026/10/pentagon-ig-refuses-to-investigate-starlink-starshield-slowdown-in-ukraine/",
+          "summary": "The Pentagon inspector general's office declined a request from US senators to investigate restrictions recently imposed on the Ukraine military's use of SpaceX's satellite network…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-10-29T20:08:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "554417170437",
+          "title": "Alaska governor casts doubt on certifying election if Peltola wins",
+          "titleZh": "Alaska governor casts doubt on certifying election if Peltola wins",
+          "url": "https://www.axios.com/2026/10/29/alaska-senate-election-peltola-governor-certification",
+          "summary": "Alaska Gov. Mike Dunleavy (R) suggested Thursday the state could withhold certification of the U.S. Senate election results if Democrat Mary Peltola wins. Why it matters: Withholdi…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-30T01:30:46.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fb8a68ef50d8",
+          "title": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+          "titleZh": "Binance probes possible $5.7 billion crypto hack, possibly the biggest in history",
+          "url": "https://www.axios.com/2026/10/29/binance-cyberattack-crypto-heist",
+          "summary": "Crypto exchange Binance is investigating what could be the biggest crypto hack in history as users saw upwards of $5.7 billion in funds drained from wallets Thursday afternoon. Why…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-30T00:58:46.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3829520a40d0",
+          "title": "Scoop: Dems privately name Texas as most-flippable red state",
+          "titleZh": "Scoop: Dems privately name Texas as most-flippable red state",
+          "url": "https://www.axios.com/2026/10/29/democrats-texas-senate-talarico-paxton",
+          "summary": "Democrats' main Senate super PAC is privately telling top donors that Texas offers their best shot at flipping a deep-red Senate seat, followed by Ohio, where the race remains clos…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-10-29T23:42:58.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2d4e492002bf",
+          "title": "海外专利到手，听花酒的“功效故事”就能圆上了吗？",
+          "titleZh": "海外专利到手，听花酒的“功效故事”就能圆上了吗？",
+          "url": "https://www.huxiu.com/article/4901590.html?f=rss",
+          "summary": "本文来自微信公众号： 酒周志 ，作者：木子 客观来讲，听花酒拿下欧美专利授权，是实打实、值得尊重的知识产权成果。但海外专利只完成了技术层面的确权，如何重建大众信任、消解市场对功能白酒的质疑，才是摆在品牌面前真正的长期难关。 听花酒终于拿到海外专利授权了。 近日，听花酒一项创新技术获得欧美专利认可引发国际广泛关注。据报道，这项名为“含酒精与清凉物质的组合物，用…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-30T02:05:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23d17f399780",
+          "title": "红果打败了爱优腾芒，抖音却急着说自己没赢",
+          "titleZh": "红果打败了爱优腾芒，抖音却急着说自己没赢",
+          "url": "https://www.huxiu.com/article/4901589.html?f=rss",
+          "summary": "本文来自微信公众号： 商业对角线 ，作者：小明呸呸呸 今年7月，红果短剧的日活跃用户是1.68亿。 同一个月，腾讯视频、爱奇艺、优酷、芒果TV四家加在一起的日活大约是1.55亿。 红果是2023年才上线的，爱优腾芒最年轻的也做了十几年，一个App赢了一整个行业。 这个数字前几天被秦朔朋友圈写进了一篇文章，文章顺着红果往下说得出一个更大的结论：中国互联网进入了…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-10-30T02:03:22.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-30T02:06:58.082Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-30T02:06:58.082Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-10-30T02:06:58.082Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "245f21edff67",
+          "title": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
+          "titleZh": "Infineon’s OktoberTech: Edge AI, SDVs, and the Road to 800 VDC",
+          "url": "https://www.eetimes.com/infineons-oktobertech-edge-ai-sdvs-and-the-road-to-800-vdc/",
+          "summary": "Infineon held its 10th annual OktoberTech event on Oct. 22 at the Computer History Museum in Mountain View, California. While touring the museum’s exhibits, participants could atte…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-10-29T20:59:28.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d602a3e96fb6",
+          "title": "Entrepix Introduces Head360 CMP Head Rebuild Services",
+          "titleZh": "Entrepix Introduces Head360 CMP Head Rebuild Services",
+          "url": "https://www.semiconductor-digest.com/entrepix-introduces-head360-cmp-head-rebuild-services/?utm_source=rss&utm_medium=rss&utm_campaign=entrepix-introduces-head360-cmp-head-rebuild-services",
+          "summary": "Entrepix, Inc., a provider of chemical mechanical polishing (CMP) equipment, services and process solutions, today announced Head360 CMP Head Rebuild Services, a new offering desig…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-29T21:35:08.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af77aaae10cc",
+          "title": "TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia",
+          "titleZh": "TANAKA and MEP to Establish Precious Metal Refining Joint Venture in Malaysia",
+          "url": "https://www.semiconductor-digest.com/tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia/?utm_source=rss&utm_medium=rss&utm_campaign=tanaka-and-mep-to-establish-precious-metal-refining-joint-venture-in-malaysia",
+          "summary": "ANAKA PRECIOUS METAL TECHNOLOGIES Co., Ltd., a company engaged in the industrial precious metals business of TANAKA, announced that it will establish TANAKA MEP REFINERY SDN. BHD.,…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-29T21:21:12.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "414f7b7738db",
+          "title": "Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor",
+          "titleZh": "Sanjay Mehrotra, Chairman and CEO at Micron Technology, to Receive Global Semiconductor Alliance’s Highest Honor",
+          "url": "https://www.semiconductor-digest.com/sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor/?utm_source=rss&utm_medium=rss&utm_campaign=sanjay-mehrotra-chairman-and-ceo-at-micron-technology-to-receive-global-semiconductor-alliances-highest-honor",
+          "summary": "Global Semiconductor Alliance (GSA) announces it will honor Sanjay Mehrotra, Chairman and CEO at Micron Technology with its prestigious Dr. Morris Chang Exemplary Leadership Award …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-10-29T21:13:03.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "2feec418c9e4",
+          "title": "Inside the PLA’s new austerity drive: lean, mean, printing-on-both-sides machine",
+          "titleZh": "Inside the PLA’s new austerity drive: lean, mean, printing-on-both-sides machine",
+          "url": "https://www.scmp.com/news/china/military/article/3372552/inside-plas-new-austerity-drive-lean-mean-printing-both-sides-machine",
+          "summary": "The People’s Liberation Army (PLA) is distributing second-hand briefcases, salvaging screws and steel bars, and reusing holiday decorations to keep costs down as part of a thrift c…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-30T01:00:11.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "21b6d64dc08c",
+          "title": "Chinese scholars warned of challenge of ‘translating academic research into policy’",
+          "titleZh": "Chinese scholars warned of challenge of ‘translating academic research into policy’",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3372557/chinese-scholars-warned-challenge-translating-academic-research-policy",
+          "summary": "Chinese academic courses designed to deepen understanding of different countries or regions face a challenge in better informing policy and moving beyond frameworks developed in th…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-10-30T00:00:21.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "33f5940188e2",
+          "title": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
+          "titleZh": "GE Vernova in $9B deal to buy high-voltage manufacturer as gas turbine orders slow",
+          "url": "https://www.utilitydive.com/news/ge-vernova-in-9b-deal-to-buy-high-voltage-manufacturer-as-gas-turbine-orde/873223/",
+          "summary": "This audio is auto-generated. Please let us know if you have feedback . GE Vernova delivered “strong financial results” in the third quarter, despite a slowdown in gas turbine orde…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-10-29T17:40:22.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "32c611da0b9b",
+          "title": "Experts: What China wants from the COP31 climate talks",
+          "titleZh": "Experts: What China wants from the COP31 climate talks",
+          "url": "https://www.carbonbrief.org/experts-what-china-wants-from-the-cop31-climate-talks",
+          "summary": "Print article Share With the COP31 climate summit in Turkey looming, all eyes are on China to see what the country will push for in the negotiations. At COP30 last year, China help…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-10-29T14:25:40.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8e4eb1d15934",
+          "title": "California’s long road to make EV charging more reliable",
+          "titleZh": "California’s long road to make EV charging more reliable",
+          "url": "https://www.canarymedia.com/articles/ev-charging/california-ev-charging-reliable",
+          "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack. Welcome back to California…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-10-29T17:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "fe4fafe3c4ec",
+          "title": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+          "titleZh": "Sam Altman almost scrapped token pricing. Here’s why he backed off.",
+          "url": "https://thenewstack.io/openai-token-pricing-reversal/",
+          "summary": "OpenAI considered dropping token-based pricing for its next model , letting developers submit a prompt and receive a price for the work, before negative customer feedback convinced…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-29T22:19:18.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "78e790ad0f4d",
+          "title": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+          "titleZh": "AWS’s Hydro team wants the compiler to catch coding agents’ mistakes",
+          "url": "https://thenewstack.io/ai-agents-compiler-guardrails/",
+          "summary": "Earlier this month, the team behind Hydro developed a new way to check that a distributed system still works correctly when it resends messages after a failure. This produced what …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-29T21:53:05.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "504f342a9814",
+          "title": "Microsoft’s new Copilot harness makes agents easy — until you want to switch",
+          "titleZh": "Microsoft’s new Copilot harness makes agents easy — until you want to switch",
+          "url": "https://thenewstack.io/microsoft-copilot-harness-foundry/",
+          "summary": "Microsoft is opening up the GitHub Copilot agent harness to outside developers through Microsoft Foundry, bringing the same orchestration infrastructure used across its Copilot pro…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-29T20:54:15.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "db9a53121eb1",
+          "title": "Why MCP servers should tell agents what to do next",
+          "titleZh": "Why MCP servers should tell agents what to do next",
+          "url": "https://thenewstack.io/aws-mcp-agent-observability/",
+          "summary": "Many MCP servers do one thing. An agent asks for data, and the server hands it back. AWS&rsquo;s James Ward thinks that leaves a lot on the table. The protocol works best, he told …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-10-29T15:55:39.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 37,
+    "itemsPublished": 35,
+    "itemsFiltered": 2,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
