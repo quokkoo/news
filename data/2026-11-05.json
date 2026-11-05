@@ -1,0 +1,1215 @@
+{
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T02:43:31.077Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 76 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "3bc1cb4400fb",
+        "reason": "OpenAI 等 2 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "2fa44016f3c2",
+          "title": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
+          "titleZh": "油价雪上加霜！停战预期之外，全球原油过剩压力也来了",
+          "url": "https://wallstreetcn.com/articles/3785233",
+          "summary": "油价正在承受双重压力。一边是市场传出的美伊潜在停战协议消息，另一边是摩根大通最新研报揭示的一个关键转变——全球石油市场已重新滑入供应过剩。 据追风交易台消息，摩根大通大宗商品研究团队的估算，全球石油市场9月的过剩量约为每日110万桶，10月进一步扩大至每日140万桶，与去年全年平均过剩水平（每日130万桶）大体相当。 市场已经停止消耗库存，开始重建库存。 这…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T02:13:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5181af480a42",
+          "title": "得州变“蓝”，美国45%数据中心扩张计划面临冻结",
+          "titleZh": "得州变“蓝”，美国45%数据中心扩张计划面临冻结",
+          "url": "https://wallstreetcn.com/articles/3785228",
+          "summary": "得克萨斯州变天，美国AI建设的最大单一州刚刚拉下了“闸刀”。 2026年11月4日深夜11点17分（美东时间），美联社宣布：民主党人Gina Hinojosa以约52.8%对45.7%的得票率，击败共和党现任州长Greg Abbott，成为得克萨斯州30余年来首位民主党州长，其核心竞选承诺是立即暂停新数据中心审批。 这一结果让华尔街措手不及。美国银行选前指出…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T01:44:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a05505adbad5",
+          "title": "求仁得仁？马斯克将面临民主党“秋后算账”",
+          "titleZh": "求仁得仁？马斯克将面临民主党“秋后算账”",
+          "url": "https://wallstreetcn.com/articles/3785227",
+          "summary": "马斯克在2026年中期选举中豪掷逾4.4亿美元押注共和党，却迎来了一场代价惨重的政治溃败。民主党不仅拿下参众两院，更在马斯克的\"大本营\"得克萨斯州全线告捷——这一结果不仅重创其政治影响力，更令旗下特斯拉与SpaceX面临前所未有的监管逆风。 在选夜最具标志性的一幕，民主党人James Talarico在得克萨斯州参议院选举中击败共和党人Ken Paxton，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T01:39:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3e96c963ecea",
+          "title": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
+          "titleZh": "Hypers大涨、Neocloud暴跌：民主党横扫国会，美股科技板块上演大轮动",
+          "url": "https://wallstreetcn.com/articles/3785208",
+          "summary": "民主党横扫国会两院，触发美股剧烈板块轮动。数据中心运营商、国防承包商及与特朗普相关资产遭到抛售，清洁能源、医疗保险等板块则大幅反弹，市场正在重新定价一个监管更趋严格、政策优先项发生位移的新格局。 此次民主党胜选范围超出市场预期，不仅突破共和党传统票仓，更赢得德克萨斯州和佐治亚州两大AI数据中心重镇。 德克萨斯州选出逾30年来首位民主党籍州长Gina Hino…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T01:15:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fbbfc115aaa1",
+          "title": "矛头直指伊朗、乌克兰、古巴！中选惨败，特朗普“内政无力”，反而“对外发力”？",
+          "titleZh": "矛头直指伊朗、乌克兰、古巴！中选惨败，特朗普“内政无力”，反而“对外发力”？",
+          "url": "https://wallstreetcn.com/articles/3785224",
+          "summary": "特朗普在中期选举中遭遇重挫，民主党将夺回国会控制权，其国内施政空间大幅收窄。然而，据彭博11月5日报道，历史规律与制度逻辑表明，这恰恰可能推动他在外交与国家安全领域采取更大胆、更不受约束的行动。 此次选举失利的核心导火索，正是特朗普自己挑起的伊朗战争。这场冲突推高了能源价格，加剧了全球通胀，使生活成本成为选民最关切的议题，也直接击碎了他2024年“不发动新战…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T01:04:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9a0738ec7137",
+          "title": "中选结束，油价暴跌！市场的“止战预期”会实现吗？",
+          "titleZh": "中选结束，油价暴跌！市场的“止战预期”会实现吗？",
+          "url": "https://wallstreetcn.com/articles/3785219",
+          "summary": "美国中期选举民主党大获全胜，油价单日暴跌逾8%，市场押注华盛顿政治格局的剧变将加速伊朗战事终结。然而，从伊朗的强硬表态到美国错综复杂的政治博弈，停战前景远比油价走势更难预测。 周三，民主党在中期选举中席卷参众两院的消息在能源市场引发强烈震荡。WTI原油一度跌至87.13美元/桶，日内跌幅超过9.3%；布伦特原油跌至93.22美元/桶，日内跌幅约10%，创5月…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-05T00:40:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "3bc1cb4400fb",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "titleZh": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "summary": "Today we're announcing that OpenAI will acquire Pierre Computer Company, Inc ⁠ (opens in a new window) . (“Pierre”), the company behind Code Storage ⁠ (opens in a new window) and a…",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-11-04T14:30:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.6,
+          "scores": {
+            "importance": 8,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://openai.com/index/openai-to-acquire-pierre/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cb49d55155d0",
+          "title": "Agile Deliberation: How AI helps humans define the gray areas",
+          "titleZh": "Agile Deliberation: How AI helps humans define the gray areas",
+          "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas/",
+          "summary": "Machine learning models learn to recognize the world around us from examples labeled by humans. Underlying this process is an assumption that the person doing the labeling has a cl…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-11-04T18:07:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a6846d0205f6",
+          "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+          "titleZh": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+          "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+          "summary": "There’s a lot of dispute to yesterday’s title story on “ Weight Space Programming ” — and we agree that some of the claims are presented in overly favorable light and overall took …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-04T19:17:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2f4d93faaa41",
+          "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "titleZh": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
+          "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
+          "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that …",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-04T18:50:55.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1cb1e35cfd3c",
+          "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "titleZh": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+          "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+          "summary": "A 2-billion-parameter model that extracts exactly the fields you ask for, from any document type, outperforming every frontier LLM we tested, at a fraction of the cost. In April, w…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-11-04T17:50:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2a4c853f4740",
+          "title": "Uranium cubes reveal why the German nuclear project failed",
+          "titleZh": "Uranium cubes reveal why the German nuclear project failed",
+          "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
+          "summary": "During World War II, physicists on the Manhattan Project worried that the Nazi German nuclear program might achieve the first nuclear bomb before the US and its allies. That's not …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-04T21:56:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6e95bb6d7d03",
+          "title": "How big is the open model economy today?",
+          "titleZh": "How big is the open model economy today?",
+          "url": "https://www.interconnects.ai/p/how-well-can-we-measure-open-model",
+          "summary": "My longest running agent testbed has been building the Interconnects Dashboard — an aggregator of all of the best data on open model adoption and performance from across the web. T…",
+          "whyItMatters": "",
+          "sourceName": "Interconnects",
+          "publishedAt": "2026-11-04T16:35:44.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e16f3c99aaad",
+          "title": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "titleZh": "Nintendo's biggest ROM chip supplier is bowing out of the business",
+          "url": "https://arstechnica.com/gaming/2026/11/the-tech-memory-shortage-comes-for-nintendos-cartridge-supply-chain/",
+          "summary": "For years, the AI industry's insatiable demand for memory and storage has had plenty of knock-on effects on the price and availability of PC components like RAM , SSDs , and GPUs .…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-04T22:47:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "c458358196ba",
+          "title": "After midterm defeat, Trump faces mostly bad options in Iran",
+          "titleZh": "After midterm defeat, Trump faces mostly bad options in Iran",
+          "url": "https://www.axios.com/2026/11/05/trump-iran-war-midterm-defeat-bad-options",
+          "summary": "President Trump has conceded that the Iran war cost Republicans dearly in the midterms . Now he must decide whether to cut his losses and reach a deal — or double down and go back …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-05T00:57:18.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bc187aa77455",
+          "title": "House Democrats face epic power struggle over their massive majority",
+          "titleZh": "House Democrats face epic power struggle over their massive majority",
+          "url": "https://www.axios.com/2026/11/05/house-democrats-jeffries-centrists-majority-left",
+          "summary": "House Democrats channeled anti-Trump fury into a landslide victory over Republicans. Now comes the hard part: Figuring out what to do with their huge majority . Why it matters: Tha…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-05T00:47:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f95b1a5650af",
+          "title": "第五次全球产业大转移的危与机",
+          "titleZh": "第五次全球产业大转移的危与机",
+          "url": "https://www.huxiu.com/article/4903161.html?f=rss",
+          "summary": "本文来自微信公众号： 分析师Boden ，作者：分析师Boden 2014年前后，中国经济学界曾为“第五次产业转移”爆发过一场激烈的大讨论。 作为全球第四次产业转移的最大赢家，中国能否在第五次转移中独善其身，一度被渲染成国运之战。再加上当时国际局势，美国企图绕过中国主导TPP谈判，关于中国产业的悲观论调一时占据上风。 十余年后，中国已经实现万亿美元顺差，TP…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-05T02:32:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a93467eadb18",
+          "title": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？",
+          "titleZh": "AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？",
+          "url": "https://www.huxiu.com/article/4903155.html?f=rss",
+          "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·产业观察，原文标题：《AI 服务器里一颗 0.2 毫米的电容，为什么是在粤西一个县城的稻田边上造出来的？》 “县城承接的是风口之后留下的空隙，并非风口本身。” 10月29日，深交所上市委员会在第59次会上批准了微容科技向创业板发行股票上市的申请。11月2日该公司提交注册，拟募资16.75亿元，其中13.7亿元投…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-05T02:26:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c742e6ca59d3",
+          "title": "内卷最凶的水泥，开始把货卖到中美洲了",
+          "titleZh": "内卷最凶的水泥，开始把货卖到中美洲了",
+          "url": "https://www.huxiu.com/article/4903154.html?f=rss",
+          "summary": "本文来自微信公众号： 瞰见Lab ，作者：瞰见·出海观察 “国内竞争激烈，并不等于企业有了海外竞争力。” 水泥这种生意，平时多拉一段路，都得算算运费还划不划算。 现在，山东一家水泥厂，却把客户找到了中美洲。 据智慧水泥网报道，枣庄市沃丰水泥有限公司首个1.5万吨海外订单正在组织发运，目的地是中美洲。这笔订单通过与外贸企业合作落地，实现了企业所在集团水泥产品出…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-05T02:21:56.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-05T02:43:13.465Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-05T02:43:13.465Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-05T02:43:13.465Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "fcd178f08c24",
+          "title": "Semiconductor Market Continues to Accelerate in Q3 2026",
+          "titleZh": "Semiconductor Market Continues to Accelerate in Q3 2026",
+          "url": "https://www.semiconductor-digest.com/semiconductor-market-continues-to-accelerate-in-q3-2026/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-market-continues-to-accelerate-in-q3-2026",
+          "summary": "The European Semiconductor Industry Association (ESIA) announced today that global semiconductor sales reached USD 517.7 billion in Q3 2026, an increase of 146.8% compared to Q3 20…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-04T20:10:45.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5e894cf466ad",
+          "title": "Valens Semiconductor Introduces the VS6310 Chipset",
+          "titleZh": "Valens Semiconductor Introduces the VS6310 Chipset",
+          "url": "https://www.semiconductor-digest.com/valens-semiconductor-introduces-the-vs6310-chipset/?utm_source=rss&utm_medium=rss&utm_campaign=valens-semiconductor-introduces-the-vs6310-chipset",
+          "summary": "Valens Semiconductor (NYSE: VLN), a provider of high-performance connectivity chipsets, today announced the VS6310, a low-power USB3 extension chipset designed for integration dire…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-04T20:08:34.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ef545f3086f9",
+          "title": "Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports",
+          "titleZh": "Worldwide Silicon Wafer Shipments Increase 13.4% Year-on-Year in Q3 2026, SEMI Reports",
+          "url": "https://www.semiconductor-digest.com/worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports/?utm_source=rss&utm_medium=rss&utm_campaign=worldwide-silicon-wafer-shipments-increase-13-4-year-on-year-in-q3-2026-semi-reports",
+          "summary": "The SEMI Silicon Manufacturers Group (SMG) reported today, in its quarterly analysis of the silicon wafer industry, that worldwide silicon wafer shipments increased 13.4% year-on-y…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-04T20:06:27.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7bd1cd36f981",
+          "title": "xMEMS Labs Advances Edge AI with Solid-State Cooling and Audio",
+          "titleZh": "xMEMS Labs Advances Edge AI with Solid-State Cooling and Audio",
+          "url": "https://www.semiconductor-digest.com/xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio/?utm_source=rss&utm_medium=rss&utm_campaign=xmems-labs-advances-edge-ai-with-solid-state-cooling-and-audio",
+          "summary": "xMEMS Labs, the pioneer of solid-state MEMS speakers and breakthrough μCooling fan-on-a-chip technology, today announced its CES 2027 demonstrations, highlighting how its piezoMEMS…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-04T19:54:25.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "19c73b9df0f5",
+          "title": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
+          "titleZh": "Star mathematician Ma Xiao leaves the US for China – and a career pivot to AI",
+          "url": "https://www.scmp.com/news/china/science/article/3373211/star-mathematician-ma-xiao-leaves-us-china-and-career-pivot-ai",
+          "summary": "Two years ago, Chinese mathematician Ma Xiao helped crack a century-old puzzle known as Hilbert’s sixth problem. The problem – which has baffled generations of mathematical physici…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-05T01:00:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa77405fd9c9",
+          "title": "China's curbs on tungsten used in drill bits squeeze AI supply chain - Nikkei Asia",
+          "titleZh": "China's curbs on tungsten used in drill bits squeeze AI supply chain - Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQnEyQk96aEtwdE9fVVhzYlJkWW1oU1VVbVdNRW5IWjY4YVdXRFFaR040dEh0ZjlqWWo3U2c0NTNyQ2RIRmhudkhUem1uVzRWT2Nqdk1WbmVNM05haGtjZk91UUhXclJiOVFLREJMWV9Tb2FfdUdHQU1MeG43NjdjTlAweENBOHN6SDg0T0NfTjJacnVFU1Rjcm1id0MxZW12RGtuS3ZYTHpoT0JmWHdsM0I2dTM1Zw?oc=5",
+          "summary": "China's curbs on tungsten used in drill bits squeeze AI supply chain Nikkei Asia",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-11-05T02:28:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "日经亚洲",
+              "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-curbs-on-tungsten-used-in-drill-bits-squeeze-ai-supply-chain"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "07c81a84c539",
+          "title": "‘This is an earthquake’: Latino voters rush back to Democrats",
+          "titleZh": "‘This is an earthquake’: Latino voters rush back to Democrats",
+          "url": "https://www.politico.com/news/2026/11/04/this-is-an-earthquake-latino-voters-rush-back-to-democrats-01149510",
+          "summary": "AUSTIN — Texas. Florida. Pennsylvania. Colorado. Arizona. Nevada. California. The historic landslide of Latino voters toward Democrats hit battleground after battleground Tuesday, …",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-04T19:30:40.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "1268ee16a149",
+          "title": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
+          "titleZh": "Q&A: What is the Brazil-led ‘deforestation roadmap’?",
+          "url": "https://www.carbonbrief.org/qa-what-is-the-brazil-led-deforestation-roadmap",
+          "summary": "Print article Share Article Contents Expand menu Close What is a deforestation ‘roadmap’? What does the roadmap say about reducing deforestation? Why did some countries not sign on…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-04T15:39:10.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fcb0a2c79597",
+          "title": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
+          "titleZh": "Q&A: What is in the global ‘roadmap’ for transitioning away from fossil fuels?",
+          "url": "https://www.carbonbrief.org/qa-what-is-in-the-global-roadmap-for-transitioning-away-from-fossil-fuels",
+          "summary": "Print article Share Article Contents Expand menu Close Why has Brazil produced a fossil-fuel ‘roadmap’? What does the fossil-fuel roadmap say? How will the fossil-fuel roadmap be d…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-04T15:23:07.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5f3c36d2600b",
+          "title": "Top clean energy wins from the midterm elections",
+          "titleZh": "Top clean energy wins from the midterm elections",
+          "url": "https://www.canarymedia.com/articles/politics/top-clean-energy-wins-midterms",
+          "summary": "The top story from Tuesday’s elections is clear: Democrats won big-time on the national level, dominating U.S. Senate and House races across the country. And on the state level, cl…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-04T22:30:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "4a8a8fab8d87",
+          "title": "U.S. archaeology faces ‘apocalyptic’ threat",
+          "titleZh": "U.S. archaeology faces ‘apocalyptic’ threat",
+          "url": "https://www.science.org/content/article/u-s-archaeology-faces-apocalyptic-threat",
+          "summary": "Congress and the White House are moving to weaken key law that requires preproject reviews",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-04T12:45:28.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e53cb5be0d0d",
+          "title": "Astronomers sharpen JWST’s view of distant worlds",
+          "titleZh": "Astronomers sharpen JWST’s view of distant worlds",
+          "url": "https://www.science.org/content/article/astronomers-sharpen-jwst-s-view-distant-worlds",
+          "summary": "Model of the telescope’s imperfections helps strip away starlight obscuring faint exoplanets",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "de699b777142",
+          "title": "A barbarian tribe’s mythic origin story is true, ancient DNA reveals",
+          "titleZh": "A barbarian tribe’s mythic origin story is true, ancient DNA reveals",
+          "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+          "summary": "Skeletons across Europe confirm the Goths surged out of Scandinavia before sacking Rome",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-04T11:00:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "d4314f93c6a9",
+          "title": "We now have Kerr’s Law",
+          "titleZh": "We now have Kerr’s Law",
+          "url": "https://changelog.com/podcast/689",
+          "summary": "Dave Kerr created hacker laws, and now he finds himself reviewing agent-written code for them. Back on the show after six years, Dave names what he sees limiting teams today: keepi…",
+          "whyItMatters": "",
+          "sourceName": "Changelog",
+          "publishedAt": "2026-11-04T21:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0fe47154cbf3",
+          "title": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+          "titleZh": "Anthropic found a way to prove which AI model answered you — but there’s a costly catch",
+          "url": "https://thenewstack.io/anthropic-flashprove-model-verification/",
+          "summary": "Developers using AI APIs have little way of knowing whether the model answering their requests is actually the one they&rsquo;re paying for. A provider could route requests to a ch…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-04T22:50:18.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4a4ca976bea0",
+          "title": "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+          "titleZh": "Render just removed its AI sandbox time limit — and Vercel still has a 24-hour cap",
+          "url": "https://thenewstack.io/render-vercel-ai-sandboxes/",
+          "summary": "Render is taking on Vercel with AI sandboxes that can run indefinitely, along with new tools for managing long-running agent workflows and shared storage. Announced Wednesday, the …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-04T18:04:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "815481a19eab",
+          "title": "Fortra says AI could save file transfer admins up to 160 hours a year",
+          "titleZh": "Fortra says AI could save file transfer admins up to 160 hours a year",
+          "url": "https://thenewstack.io/failed-file-transfer-ai-troubleshooting/",
+          "summary": "Fortra makes software that moves files between companies on a schedule and says AI could give admins back up to 160 hours a year. That’s 3.1 hours a week admins would otherwise spe…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-04T17:53:47.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "3bc1cb4400fb",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 39,
+    "itemsFiltered": 1,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 75,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
