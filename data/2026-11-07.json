@@ -1,0 +1,1274 @@
+{
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T02:19:00.677Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 10 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "f3f7783c5d80",
+          "title": "5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”",
+          "titleZh": "5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”",
+          "url": "https://wallstreetcn.com/articles/3785423",
+          "summary": "积累已久的AI泡沫忧虑，在一场选举结果面前骤然引爆。 美国中期选举民主党大胜国会，本应是一个\"风险出清\"的信号——股市最初也如此反应。但不到24小时，华尔街完成了从庆祝到恐慌的戏剧性翻转。周四，纳斯达克100指数录得2020年3月以来最大单日跌幅，单日蒸发市值2.3万亿美元；自10月6日高点计算，美国股市累计市值损失已达5.7万亿美元。VIX恐慌指数从16.…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-07T02:04:48.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2408584f3f70",
+          "title": "微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌",
+          "titleZh": "微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌",
+          "url": "https://wallstreetcn.com/articles/3785404",
+          "summary": "微软正在重新评估此前大举押注外部AI算力供应商的策略。继收紧对AI“新云”（Neocloud）服务商的合作审查后，微软又被曝正逐步终止向甲骨文租用AI云算力的安排。 据彭博隔夜报道，微软近几个月已开始逐步关闭此前从甲骨文租用的部分计算资源，并决定不再续签相关合同。知情人士称，甲骨文提供的服务器搭载较旧一代英伟达芯片，已不符合微软的技术规格要求，对微软的价值有…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-07T01:26:33.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a31d6d19e814",
+          "title": "三方下周重启谈判，立场分歧依然巨大，美总统称将就俄乌达成“重大协议”，乌方称“不指望取得突破”",
+          "titleZh": "三方下周重启谈判，立场分歧依然巨大，美总统称将就俄乌达成“重大协议”，乌方称“不指望取得突破”",
+          "url": "https://wallstreetcn.com/articles/3785418",
+          "summary": "美俄乌三方将于下周在阿联酋阿布扎比重启谈判，这是三方时隔9个月再次举行面对面会谈。尽管美国总统特朗普高调宣称将达成涵盖整个欧洲的\"庞大而美妙的协议\"，但乌克兰官员明确表示对此次会谈不抱突破性期望，俄乌双方在领土与安全保障等核心议题上的分歧也依然悬而未决。 据环球时报援引法新社报道，特朗普5日在白宫称，协议将不仅涵盖乌克兰，甚至可能涵盖整个欧洲，距离解决该问题…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-07T01:10:24.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 5,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a68d073df8a7",
+          "title": "华尔街预计美国债务上限将于2月触顶，\"X日期\"或在2027年底前到来",
+          "titleZh": "华尔街预计美国债务上限将于2月触顶，\"X日期\"或在2027年底前到来",
+          "url": "https://wallstreetcn.com/articles/3785417",
+          "summary": "美国债务上限问题再度逼近。华尔街主要金融机构预计，美国财政部最早将于今年2月触及41.1万亿美元的法定借债上限，届时将不得不动用非常规会计手段维持政府运转，而真正的资金耗尽时刻——即所谓\"X日期\"——预计落在2027年8月至11月之间。 11月6日，据彭博报道，美国银行、巴克莱和摩根士丹利的策略师均指出，美国财政部最新融资估算显示，今年1月至3月净借款规模约…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-07T00:42:46.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dae57c5b5db4",
+          "title": "ECB publishes consolidated banking data for end-June 2026",
+          "titleZh": "ECB publishes consolidated banking data for end-June 2026",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+          "summary": "PRESS RELEASE 6 November 2026 The aggregate of total assets of EU-headquartered credit institutions increased by 5.18%, from €33.27 trillion in June 2025 to €34.99 trillion in June…",
+          "whyItMatters": "",
+          "sourceName": "欧洲央行公告",
+          "publishedAt": "2026-11-06T09:00:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "67bb4b007a01",
+          "title": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+          "titleZh": "见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”",
+          "url": "https://wallstreetcn.com/articles/3782813",
+          "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-07T01:23:13.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "b6c85e50db07",
+          "title": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+          "titleZh": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+          "url": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+          "summary": "Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. It is not hyperbole at all to say that his lab has been pushing …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-06T15:10:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "131653c52e24",
+          "title": "Man unexpectedly recovers from a knife wound through his eye and brain",
+          "titleZh": "Man unexpectedly recovers from a knife wound through his eye and brain",
+          "url": "https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/",
+          "summary": "A man in his 20s showed up to a UK hospital with the hilt of a knife sticking out of his face. The 15 mm blade hidden within went completely through his right eye and through his b…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T23:09:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ba987e47dad8",
+          "title": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "titleZh": "Chainalysis says hackers stole credentials and tokens for all of its customers",
+          "url": "https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/",
+          "summary": "Blockchain analysis firm Chainalysis said that hackers have obtained sensitive personal information—including names, usernames, password hashes, and live tokens—for all of its user…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T20:56:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c1b848eecc29",
+          "title": "Earth's churning mantle may have created the Great Unconformity",
+          "titleZh": "Earth's churning mantle may have created the Great Unconformity",
+          "url": "https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/",
+          "summary": "In the Grand Canyon, there is a line in the rock where time seems to have gone missing. Ancient crystalline rocks mark its bottom, while sandstones laid down as life started to div…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T20:24:20.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "687ba73dd63b",
+          "title": "The folks behind John Wick are back with Karōshi trailer",
+          "titleZh": "The folks behind John Wick are back with Karōshi trailer",
+          "url": "https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/",
+          "summary": "Those of us missing the John Wick universe can take heart, because Chad Stahelski—who created that franchise—is coming back early next year with a new dystopian action film. It's c…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T18:30:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "408b5c8a1f96",
+          "title": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "titleZh": "Ships loiter near subsea cables amid Iran's warnings to Trump",
+          "url": "https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/",
+          "summary": "Several tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T22:41:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8a7e3e85c663",
+          "title": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+          "titleZh": "Nvidia hardware worth $11.4M vanished between Oakland and Texas",
+          "url": "https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/",
+          "summary": "A shipment of Nvidia hardware valued at $11.4 million vanished in transport between Oakland and Texas over the summer, and more than two months later, police have announced no arre…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T20:05:30.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9fed43e67782",
+          "title": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+          "titleZh": "FAA to finally ditch floppy disks in what it calls \"historic\" tech upgrade",
+          "url": "https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/",
+          "summary": "While you might be pondering whether to replace a smartphone with one that has a slightly better camera or a second screen, the Federal Aviation Administration is planning a much b…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-06T19:12:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "97a73ad38061",
+          "title": "Vance leads behind-the-scenes push for new Iran deal",
+          "titleZh": "Vance leads behind-the-scenes push for new Iran deal",
+          "url": "https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal",
+          "summary": "Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-07T01:10:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3276ddd1497",
+          "title": "What to build next? With Bill Gross, IdeaLab.ai",
+          "titleZh": "What to build next? With Bill Gross, IdeaLab.ai",
+          "url": "https://www.exponentialview.co/p/what-to-build-next-with-bill-gross",
+          "summary": "This week, I hosted the legendary Bill Gross, founder and chairman of Idealab, for a conversation with the Exponential View community about building businesses in the AI age. Bill …",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-11-06T14:37:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8139a8a98099",
+          "title": "强脑科技韩璧丞放话3年内缓解失眠，睡眠脑机迎来落地拐点？",
+          "titleZh": "强脑科技韩璧丞放话3年内缓解失眠，睡眠脑机迎来落地拐点？",
+          "url": "https://www.huxiu.com/article/4903732.html?f=rss",
+          "summary": "本文来自微信公众号： 第四波 ，编辑：王晓，作者：白岩 11月3日，在世界互联网大会乌镇峰会上，强脑科技创始人兼CEO韩璧丞谈到了脑机接口在睡眠领域的应用。他也透露了最新产品进展，”非侵入式的脑机接口技术有望在未来36个月内，缓解大多数人的失眠问题，让人佩戴一个很舒适的小设备，就可以快速入睡。” 脑机助眠并不是一个新概念。在京东、淘宝等电商平台搜索“脑机睡眠…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-07T02:02:41.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06bf639f720e",
+          "title": "为什么高敏感是大后期人格？",
+          "titleZh": "为什么高敏感是大后期人格？",
+          "url": "https://www.huxiu.com/article/4903729.html?f=rss",
+          "summary": "本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：AI生成 前几天去浙江出差，跟一个发小吃了一顿饭。就叫她小林吧。 小林这个人很特别。从小到大，她听得最多的一句评价是：你就是太敏感了。 敏感到什么程度呢？上学的时候，老师一句批评，她能难过一整个星期。在大学宿舍，室友关门声音稍微重了一点，她就会翻来覆去地想，是不是自己哪里做错…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-07T02:01:34.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ffac29539adb",
+          "title": "我们离不开陌生人，却不再敲邻居的门",
+          "titleZh": "我们离不开陌生人，却不再敲邻居的门",
+          "url": "https://www.huxiu.com/article/4903724.html?f=rss",
+          "summary": "本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 家里突然缺一把螺丝刀，你会怎么办？以前住在熟人多的院子里，最省事的办法可能是敲开隔壁的门，借来用几分钟。现在更方便了，网上买一套工具，第二天就能送到。做饭缺几根葱，可以叫即时配送；电器坏了，可以预约师傅上门。许多过去需要开口求人的小事，今天在手机上点几下就解决了，甚至不用离开沙发。 方便带来的改变还不…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-07T01:06:55.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-07T02:18:51.494Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-07T02:18:51.494Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-07T02:18:51.494Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "7521541ef26d",
+          "title": "The Countdown to Q-Day Has Begun",
+          "titleZh": "The Countdown to Q-Day Has Begun",
+          "url": "https://www.eetimes.com/the-countdown-to-q-day-has-begun/",
+          "summary": "In September this year, IonQ published a blueprint for breaking the cryptography used by Bitcoin and other blockchains to secure transactions and wallets. Researchers estimated a q…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-06T21:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cfe11c70b4b5",
+          "title": "Micron Announces Board of Directors Retirement",
+          "titleZh": "Micron Announces Board of Directors Retirement",
+          "url": "https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&utm_medium=rss&utm_campaign=micron-announces-board-of-directors-retirement",
+          "summary": "Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expe…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-06T16:15:18.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bfc71304f7de",
+          "title": "Eulitha Ramps Up Deliveries of Advanced Lithography Systems",
+          "titleZh": "Eulitha Ramps Up Deliveries of Advanced Lithography Systems",
+          "url": "https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/?utm_source=rss&utm_medium=rss&utm_campaign=eulitha-ramps-up-deliveries-of-advanced-lithography-systems",
+          "summary": "Eulitha AG, a provider of high-throughput optical lithography solutions, today announced deliveries of multiple automated tools to foundries for the production of InP DFB lasers to…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-06T16:12:32.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7267d69993ee",
+          "title": "Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form",
+          "titleZh": "Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form",
+          "url": "https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/?utm_source=rss&utm_medium=rss&utm_campaign=hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form",
+          "summary": "Controlling where crystals begin to form is a challenge in manufacturing two-dimensional semiconductors. Researchers from Hanyang University and collaborating institutions develope…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-06T16:05:05.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.95,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "47a4f4ac39f5",
+          "title": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+          "titleZh": "Sanae Takaichi slammed online for praising calligraphy without mentioning China",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china",
+          "summary": "Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots. On Th…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-07T01:00:12.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "05dfe4997b8e",
+          "title": "Inside the early GOP reckoning after historic defeat",
+          "titleZh": "Inside the early GOP reckoning after historic defeat",
+          "url": "https://www.politico.com/news/2026/11/06/gop-reckoning-trump-midterms-stephen-miller-01154760",
+          "summary": "President Donald Trump's decision to name hard-line loyalist Stephen Miller as his top aide cemented what many Republicans were already privately fearing: There will be no party-wi…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-06T23:00:00.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "d1ce775691e9",
+          "title": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
+          "titleZh": "Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election",
+          "url": "https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/",
+          "summary": "The company’s large-load pipeline of 15.4 GW has remained virtually unchanged since the first quarter of 2026 as it pursues a $103 billion spending plan heavily focused on new natu…",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-11-06T18:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "156cbe3d4086",
+          "title": "Voters gave a big middle finger to data centers",
+          "titleZh": "Voters gave a big middle finger to data centers",
+          "url": "https://www.canarymedia.com/articles/data-centers/data-center-voters-election-day",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Americans aren’t happy about the data center boom, and they made their …",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-06T17:19:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "36de46813292",
+          "title": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
+          "titleZh": "‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December",
+          "url": "https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december",
+          "summary": "Print article Share The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year. That is according to Carbon Br…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-06T09:12:35.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "7d74f0addd4f",
+          "title": "AI can track a single bird over time—based solely on its song",
+          "titleZh": "AI can track a single bird over time—based solely on its song",
+          "url": "https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song",
+          "summary": "Approach could provide scientists with a quicker, gentler way to gauge the health of bird populations",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-06T12:35:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1ca080f2d774",
+          "title": "A congressional veteran and a rookie lay out a possible science agenda for Democrats",
+          "titleZh": "A congressional veteran and a rookie lay out a possible science agenda for Democrats",
+          "url": "https://www.science.org/content/article/congressional-veteran-and-rookie-lay-out-possible-science-agenda-democrats",
+          "summary": "Representative Zoe Lofgren prepares to lead the House science committee that microbiologist Jasmine Clark hopes to serve on",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-06T11:45:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "dcaadc46390a",
+          "title": "Beyond code generation: A developer’s guide to agentic engineering",
+          "titleZh": "Beyond code generation: A developer’s guide to agentic engineering",
+          "url": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+          "summary": "This October, GitHub saw more than 1.2 billion commits in one week&mdash;over 400% more than a year earlier. This is more commits than GitHub received in all of 2025. Chances are, …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-11-06T22:15:59.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "acf5b4286e3f",
+          "title": "AI agents are getting more complex. Developers shouldn’t have to babysit them.",
+          "titleZh": "AI agents are getting more complex. Developers shouldn’t have to babysit them.",
+          "url": "https://thenewstack.io/harness-engineering-coding-agents/",
+          "summary": "What if your coding agent could catch its own mistakes before you ever reviewed its work? A few years ago, AI hallucinations seemed to be everywhere. (Just how many r&rsquo;s are t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-06T19:35:59.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "16c32c327dbe",
+          "title": "Cognition turned an open model into a coding beast. But it won’t release the weights.",
+          "titleZh": "Cognition turned an open model into a coding beast. But it won’t release the weights.",
+          "url": "https://thenewstack.io/cognition-flash-private-weights/",
+          "summary": "Cognition built its newest coding model on a foundation that anyone can download, yet the company is keeping its own finished version locked away. Released Wednesday, SWE-2 Flash c…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-06T18:16:42.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "180d3172cc8e",
+          "title": "Meta’s best AI model now trains the one most of its users get",
+          "titleZh": "Meta’s best AI model now trains the one most of its users get",
+          "url": "https://thenewstack.io/meta-muse-specialized-models/",
+          "summary": "Starting on Friday, everyone using Meta’s Muse agent and Meta AI gets new models the company trained using Muse Wonder, its frontier model. Subscribers still get Wonder itself for …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-06T18:05:55.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "988dcf7778b4",
+          "title": "Reclassification Is All You Missed: Surfacing Variant Reinterpretation Need in Online Health Communities at Population Scale",
+          "titleZh": "Reclassification Is All You Missed: Surfacing Variant Reinterpretation Need in Online Health Communities at Population Scale",
+          "url": "https://arxiv.org/abs/2611.07054",
+          "summary": "arXiv:2611.07054v1 Announce Type: cross Abstract: Genetic variants are routinely reclassified in ClinVar after a patient is tested, sometimes from uncertain to pathogenic, yet pati…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-06T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.07054"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2611.07054"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6510228bc5ef",
+          "title": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+          "titleZh": "Compositional Unalignment: Auditing Safety in Large Vision-Language Models",
+          "url": "https://arxiv.org/abs/2611.07216",
+          "summary": "arXiv:2611.07216v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation beco…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-06T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2611.07216"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.07216"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8966ac18bd11",
+          "title": "How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model",
+          "titleZh": "How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model",
+          "url": "https://arxiv.org/abs/2611.07265",
+          "summary": "arXiv:2611.07265v1 Announce Type: cross Abstract: EHR foundation models read medical events within a fixed context window, and long context has so far been measured only in tokens.…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-06T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2611.07265"
+            },
+            {
+              "sourceName": "arXiv q-bio",
+              "url": "https://arxiv.org/abs/2611.07265"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 40,
+    "itemsFiltered": 0,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 69,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

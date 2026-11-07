@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 06 Nov 2026 02:46:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:19:00 GMT</lastBuildDate>
     <item>
-      <title>【2026-11-06 今日导读】</title>
+      <title>【2026-11-07 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-11-06</guid>
-      <pubDate>Fri, 06 Nov 2026 02:46:59 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 41 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 72 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-11-07</guid>
+      <pubDate>Sat, 07 Nov 2026 02:19:00 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 10 个领域，全部读完约需 69 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>资金巨变！香港及部分上海投资者对存储显著转空</title>
-      <link>https://wallstreetcn.com/articles/3785324</link>
-      <guid isPermaLink="false">e8ed7eb18df2</guid>
-      <pubDate>Fri, 06 Nov 2026 02:12:23 GMT</pubDate>
+      <title>5.7万亿美元“灰飞烟灭”！一场“应已计价”的中选却引爆了“科技股灾”</title>
+      <link>https://wallstreetcn.com/articles/3785423</link>
+      <guid isPermaLink="false">f3f7783c5d80</guid>
+      <pubDate>Sat, 07 Nov 2026 02:04:48 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美银证券近期在港路演显示，多数投资者已对存储芯片持悲观态度，主因包括AI资本开支前景存疑、存储价格走势等；情绪较8-9月路演时明显恶化。 Citrini Research独立科技分析师Jukan赴上海拜访后直言“失去了持仓的信念”——一位资深投资者向其指出，即便存储股以2027年盈利计算市盈率仅3倍，依然谈不上便宜。历史数据显示，一旦存储价格从峰值跌超60%…
+      <description>积累已久的AI泡沫忧虑，在一场选举结果面前骤然引爆。 美国中期选举民主党大胜国会，本应是一个&quot;风险出清&quot;的信号——股市最初也如此反应。但不到24小时，华尔街完成了从庆祝到恐慌的戏剧性翻转。周四，纳斯达克100指数录得2020年3月以来最大单日跌幅，单日蒸发市值2.3万亿美元；自10月6日高点计算，美国股市累计市值损失已达5.7万亿美元。VIX恐慌指数从16.…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>科技股“血洗”后，Anthropic IPO面临危机：还值1.5万亿美元吗？还应该此刻上市吗？</title>
-      <link>https://wallstreetcn.com/articles/3785326</link>
-      <guid isPermaLink="false">2ebfa1b32657</guid>
-      <pubDate>Fri, 06 Nov 2026 01:49:02 GMT</pubDate>
+      <title>微软收缩AI算力租赁！据称逐步退出甲骨文云协议，“新云”CoreWeave闪跌</title>
+      <link>https://wallstreetcn.com/articles/3785404</link>
+      <guid isPermaLink="false">2408584f3f70</guid>
+      <pubDate>Sat, 07 Nov 2026 01:26:33 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>AI明星公司Anthropic正面临上市计划的重大考验。在中期选举后两天的科技股暴跌中，纳斯达克综合指数成分股单日蒸发2.5万亿美元市值，原本被视为&quot;必买&quot;标的的Anthropic IPO，如今却在估值与时机两个核心问题上同时承压。 周四，据华尔街日报和路透社报道，知情人士透露，已有三位计划参与IPO的主要投资者明确表示，1.5万亿美元的目标估值可能难以实现…
+      <description>微软正在重新评估此前大举押注外部AI算力供应商的策略。继收紧对AI“新云”（Neocloud）服务商的合作审查后，微软又被曝正逐步终止向甲骨文租用AI云算力的安排。 据彭博隔夜报道，微软近几个月已开始逐步关闭此前从甲骨文租用的部分计算资源，并决定不再续签相关合同。知情人士称，甲骨文提供的服务器搭载较旧一代英伟达芯片，已不符合微软的技术规格要求，对微软的价值有…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>马斯克“输掉”中选，SpaceX五年期CDS连创历史新高</title>
-      <link>https://wallstreetcn.com/articles/3785320</link>
-      <guid isPermaLink="false">6d4955c1d576</guid>
-      <pubDate>Fri, 06 Nov 2026 01:42:50 GMT</pubDate>
+      <title>三方下周重启谈判，立场分歧依然巨大，美总统称将就俄乌达成“重大协议”，乌方称“不指望取得突破”</title>
+      <link>https://wallstreetcn.com/articles/3785418</link>
+      <guid isPermaLink="false">a31d6d19e814</guid>
+      <pubDate>Sat, 07 Nov 2026 01:10:24 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>马斯克在2026年中期选举中豪掷逾4.4亿美元押注共和党，却迎来惨败。这场政治溃败不仅重创其个人影响力，更令旗下SpaceX和特斯拉在监管与信用市场上同步承压。 民主党不仅拿下参众两院，更在马斯克的&quot;大本营&quot;得克萨斯州全线告捷。市场对此迅速作出反应——据Markit数据，SpaceX五年期信用违约互换（CDS）周四扩大24.5个基点至286.56基点，再度刷…
+      <description>美俄乌三方将于下周在阿联酋阿布扎比重启谈判，这是三方时隔9个月再次举行面对面会谈。尽管美国总统特朗普高调宣称将达成涵盖整个欧洲的&quot;庞大而美妙的协议&quot;，但乌克兰官员明确表示对此次会谈不抱突破性期望，俄乌双方在领土与安全保障等核心议题上的分歧也依然悬而未决。 据环球时报援引法新社报道，特朗普5日在白宫称，协议将不仅涵盖乌克兰，甚至可能涵盖整个欧洲，距离解决该问题…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 5 分钟</description>
     </item>
     <item>
-      <title>盈亏同源！纳指股灾，对冲基金纷现巨亏、关门</title>
-      <link>https://wallstreetcn.com/articles/3785318</link>
-      <guid isPermaLink="false">90be9f0779f8</guid>
-      <pubDate>Fri, 06 Nov 2026 01:04:29 GMT</pubDate>
+      <title>华尔街预计美国债务上限将于2月触顶，&quot;X日期&quot;或在2027年底前到来</title>
+      <link>https://wallstreetcn.com/articles/3785417</link>
+      <guid isPermaLink="false">a68d073df8a7</guid>
+      <pubDate>Sat, 07 Nov 2026 00:42:46 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>隔夜，美股全线大跌，纳指重挫超5%，芯片指数跳水12%。而科技股新一轮暴跌正在对冲基金行业引发连锁冲击。 据Business Insider 11月6日报道，规模达170亿美元的多策略对冲基金Walleye Capital宣布裁撤股票多空核心团队、返还部分投资者资金，并对整体业务架构进行重组——这是继7月AI专注型基金Situational Awarenes…
+      <description>美国债务上限问题再度逼近。华尔街主要金融机构预计，美国财政部最早将于今年2月触及41.1万亿美元的法定借债上限，届时将不得不动用非常规会计手段维持政府运转，而真正的资金耗尽时刻——即所谓&quot;X日期&quot;——预计落在2027年8月至11月之间。 11月6日，据彭博报道，美国银行、巴克莱和摩根士丹利的策略师均指出，美国财政部最新融资估算显示，今年1月至3月净借款规模约…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>科技股抛售潮席卷亚太股市，韩股暴跌近9%触发熔断，日经跌破6万点、步入技术性熊市</title>
-      <link>https://wallstreetcn.com/articles/3785315</link>
-      <guid isPermaLink="false">2fcd29f3e4cf</guid>
-      <pubDate>Fri, 06 Nov 2026 00:53:10 GMT</pubDate>
+      <title>ECB publishes consolidated banking data for end-June 2026</title>
+      <link>https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html</link>
+      <guid isPermaLink="false">dae57c5b5db4</guid>
+      <pubDate>Fri, 06 Nov 2026 09:00:00 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美国中期选举民主党大胜引发人工智能监管收紧忧虑，科技股遭遇剧烈抛售，冲击波迅速蔓延至亚太市场。 周五早盘，MSCI亚太指数下跌3%至247.75点。韩国综合股价指数暴跌8.8%，跌破象征意义重大的5000点关口并触发熔断机制，日本日经225指数下跌逾5%，盘中跌破6万点，自6月高点回落超过20%，正式步入技术性熊市。 此轮抛售源于华尔街前夜的&quot;AI崩盘&quot;。纳…
+      <description>PRESS RELEASE 6 November 2026 The aggregate of total assets of EU-headquartered credit institutions increased by 5.18%, from €33.27 trillion in June 2025 to €34.99 trillion in June…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：欧洲央行公告 · 宏观经济与资本市场 · 约 2 分钟</description>
     </item>
     <item>
-      <title>纳指股灾！美股“无处可逃”</title>
-      <link>https://wallstreetcn.com/articles/3785314</link>
-      <guid isPermaLink="false">ffefc85cefbb</guid>
-      <pubDate>Fri, 06 Nov 2026 00:36:00 GMT</pubDate>
+      <title>见闻历11.11限时大促！随日历附赠千元知识礼包，送什么都不如送“搞钱的智慧”</title>
+      <link>https://wallstreetcn.com/articles/3782813</link>
+      <guid isPermaLink="false">67bb4b007a01</guid>
+      <pubDate>Sat, 07 Nov 2026 01:23:13 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>美股遭遇2020年新冠疫情以来最惨烈的单日崩跌，这一次，投资者几乎没有任何藏身之处。 隔夜纳斯达克100指数收跌逾6%，抹去年内全部涨幅，自10月6日高点累计下跌近15%，市值蒸发约2.3万亿美元。标普500指数重挫4.4%，道琼斯工业平均指数30只成分股无一幸免。从芯片龙头英伟达到零售防御股沃尔玛，从高估值成长股到小盘股，全线溃败，抛售浪潮席卷几乎所有资产…
+      <description>本文来自华尔街见闻，欢迎下载APP查看更多
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Cult.fit builds operational muscle with Codex</title>
-      <link>https://openai.com/index/cultfit-builds-with-codex</link>
-      <guid isPermaLink="false">cbc96edd356e</guid>
-      <pubDate>Thu, 05 Nov 2026 20:00:00 GMT</pubDate>
+      <title>Controlling Biology - Fabian Theis, Helmholtz Munich</title>
+      <link>https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/</link>
+      <guid isPermaLink="false">b6c85e50db07</guid>
+      <pubDate>Fri, 06 Nov 2026 15:10:53 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Cult.fit is one of India’s leading technology-enabled fitness companies, operating 708 fitness centers across 77 cities and serving nearly one million paid members. Its business co…
+      <description>Fabian Theis has been one of the key players in the various iterations of the Virtual Cell concept and initiatives. It is not hyperbole at all to say that his lab has been pushing …
 
-来源：OpenAI · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Latent Space · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>New NVIDIA Cosmos 3 Open Models for Interactive World Simulation</title>
-      <link>https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation</link>
-      <guid isPermaLink="false">c1d2780aa803</guid>
-      <pubDate>Thu, 05 Nov 2026 19:35:16 GMT</pubDate>
+      <title>Man unexpectedly recovers from a knife wound through his eye and brain</title>
+      <link>https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/</link>
+      <guid isPermaLink="false">131653c52e24</guid>
+      <pubDate>Fri, 06 Nov 2026 23:09:45 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>TL;DR NVIDIA Cosmos world model development platform adds four new open-weight checkpoints to its Cosmos 3 model family for generating interactive world simulation and multi-sensor…
-
-来源：Hugging Face · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>BMW bumps battery for the better: The 2027 i7 60 xDrive, driven</title>
-      <link>https://arstechnica.com/cars/2026/11/bmw-bumps-battery-for-the-better-the-2027-i7-60-xdrive-driven/</link>
-      <guid isPermaLink="false">097b17d5f436</guid>
-      <pubDate>Thu, 05 Nov 2026 20:45:50 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>BMW provided flights from Washington, DC, to Los Angeles and accommodation so Ars could drive the 2027 i7 as well as the 2027 iX5 and X5. Ars does not accept paid editorial content…
+      <description>A man in his 20s showed up to a UK hospital with the hilt of a knife sticking out of his face. The 15 mm blade hidden within went completely through his right eye and through his b…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips</title>
-      <link>https://deepmind.google/blog/gemini-omni-12-flash-fast-and-cost-effective-with-longer-clips/</link>
-      <guid isPermaLink="false">bd7461743ea7</guid>
-      <pubDate>Thu, 05 Nov 2026 17:05:16 GMT</pubDate>
+      <title>Chainalysis says hackers stole credentials and tokens for all of its customers</title>
+      <link>https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/</link>
+      <guid isPermaLink="false">ba987e47dad8</guid>
+      <pubDate>Fri, 06 Nov 2026 20:56:41 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Nov 05, 2026 | Gemini Omni 1.2 Flash brings 15-second clips, stronger consistency, and faster, more cost-effective generation. Anish Nangia Product Manager, Google DeepMind Your br…
-
-来源：Google DeepMind · 前沿科技与 AI 产业 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Detecting signs of hypertension using wearable sensors</title>
-      <link>https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors/</link>
-      <guid isPermaLink="false">01dffa1da2d9</guid>
-      <pubDate>Thu, 05 Nov 2026 16:01:08 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Hypertension (i.e., high blood pressure), often called the &quot;silent killer”, affects over one billion people globally, yet more than half of adults with the condition are unaware th…
-
-来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Meet *sshole, the vulnerability that lets hackers SSH into Linux devices</title>
-      <link>https://arstechnica.com/security/2026/11/vulnerability-allows-attackers-to-log-into-some-linux-devices-sans-password/</link>
-      <guid isPermaLink="false">cfab5e50d041</guid>
-      <pubDate>Thu, 05 Nov 2026 23:09:36 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Devices running some configurations of Alpine Linux, and possibly other distributions, are affected by a decade-old vulnerability that allows attackers to log into devices with no …
+      <description>Blockchain analysis firm Chainalysis said that hackers have obtained sensitive personal information—including names, usernames, password hashes, and live tokens—for all of its user…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Google: Schools can keep search while skipping Gemini, but AI search is non-negotiable</title>
-      <link>https://arstechnica.com/ai/2026/11/google-schools-can-keep-search-while-skipping-gemini-but-ai-search-is-non-negotiable/</link>
-      <guid isPermaLink="false">6fda6b2d059c</guid>
-      <pubDate>Thu, 05 Nov 2026 21:40:36 GMT</pubDate>
+      <title>Earth&apos;s churning mantle may have created the Great Unconformity</title>
+      <link>https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/</link>
+      <guid isPermaLink="false">c1b848eecc29</guid>
+      <pubDate>Fri, 06 Nov 2026 20:24:20 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Google faced the ire of educators and parents earlier this week when it announced a new AI policy for K–12 schools . Google said that it developed its new approach to give schools …
+      <description>In the Grand Canyon, there is a line in the rock where time seems to have gone missing. Ancient crystalline rocks mark its bottom, while sandstones laid down as life started to div…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Lawsuit: Man introduced his wife to ChatGPT. She used it to plan his murder.</title>
-      <link>https://arstechnica.com/tech-policy/2026/11/lawsuit-man-introduced-his-wife-to-chatgpt-she-used-it-to-plan-his-murder/</link>
-      <guid isPermaLink="false">12a324023028</guid>
-      <pubDate>Thu, 05 Nov 2026 21:39:40 GMT</pubDate>
+      <title>The folks behind John Wick are back with Karōshi trailer</title>
+      <link>https://arstechnica.com/culture/2026/11/the-folks-behind-john-wick-are-back-with-karoshi-trailer/</link>
+      <guid isPermaLink="false">687ba73dd63b</guid>
+      <pubDate>Fri, 06 Nov 2026 18:30:19 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>ChatGPT allegedly helped a North Carolina woman, Cheryl Gates, craft a “personalized plan” to poison her husband, James, after fueling her delusions that he planned to divorce her …
+      <description>Those of us missing the John Wick universe can take heart, because Chad Stahelski—who created that franchise—is coming back early next year with a new dystopian action film. It&apos;s c…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Nvidia CEO called in by lawmakers over ties to alleged Chinese spy</title>
-      <link>https://www.axios.com/2026/11/05/jensen-huang-nvidia-congress-china</link>
-      <guid isPermaLink="false">1fd3184cafb0</guid>
-      <pubDate>Fri, 06 Nov 2026 00:53:37 GMT</pubDate>
+      <title>Ships loiter near subsea cables amid Iran&apos;s warnings to Trump</title>
+      <link>https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/</link>
+      <guid isPermaLink="false">408b5c8a1f96</guid>
+      <pubDate>Fri, 06 Nov 2026 22:41:37 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Several tanker ships linked to Iran have been loitering over subsea Internet cables in the Gulf of Oman near the Strait of Hormuz—a possible indication that the Iranian government …
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Nvidia hardware worth $11.4M vanished between Oakland and Texas</title>
+      <link>https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/</link>
+      <guid isPermaLink="false">8a7e3e85c663</guid>
+      <pubDate>Fri, 06 Nov 2026 20:05:30 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>A shipment of Nvidia hardware valued at $11.4 million vanished in transport between Oakland and Texas over the summer, and more than two months later, police have announced no arre…
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>FAA to finally ditch floppy disks in what it calls &quot;historic&quot; tech upgrade</title>
+      <link>https://arstechnica.com/tech-policy/2026/11/faa-to-finally-ditch-floppy-disks-in-what-it-calls-historic-tech-upgrade/</link>
+      <guid isPermaLink="false">9fed43e67782</guid>
+      <pubDate>Fri, 06 Nov 2026 19:12:28 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>While you might be pondering whether to replace a smartphone with one that has a slightly better camera or a second screen, the Federal Aviation Administration is planning a much b…
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Vance leads behind-the-scenes push for new Iran deal</title>
+      <link>https://www.axios.com/2026/11/06/vance-leads-push-new-iran-deal</link>
+      <guid isPermaLink="false">97a73ad38061</guid>
+      <pubDate>Sat, 07 Nov 2026 01:10:14 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Nvidia CEO Jensen Huang has been asked by three House Republican committee chairs to brief Congress behind closed doors about his reported ties to a woman accused of spying for Chi…
+      <description>Vice President Vance has spent the past two weeks personally involved in indirect talks with Iran aimed at reaching a new ceasefire and resuming nuclear negotiations, according to …
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
-      <title>&quot;Never heard of them&quot;: Meet the incoming House Dems who shocked even their own party</title>
-      <link>https://www.axios.com/2026/11/06/house-democrats-nc-tennessee-new-members-wave</link>
-      <guid isPermaLink="false">04e8c0e9b24f</guid>
-      <pubDate>Fri, 06 Nov 2026 00:43:45 GMT</pubDate>
+      <title>What to build next? With Bill Gross, IdeaLab.ai</title>
+      <link>https://www.exponentialview.co/p/what-to-build-next-with-bill-gross</link>
+      <guid isPermaLink="false">f3276ddd1497</guid>
+      <pubDate>Fri, 06 Nov 2026 14:37:32 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Tuesday&apos;s blue tsunami is poised to sweep an unusually large cohort of House Democrats into office who are virtually unknown outside of their districts. Why it matters: Obscure tho…
+      <description>This week, I hosted the legendary Bill Gross, founder and chairman of Idealab, for a conversation with the Exponential View community about building businesses in the AI age. Bill …
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：Exponential View · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>酒店业，不拼规模拼什么？</title>
-      <link>https://www.huxiu.com/article/4903424.html?f=rss</link>
-      <guid isPermaLink="false">12c898b5480a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:10:21 GMT</pubDate>
+      <title>强脑科技韩璧丞放话3年内缓解失眠，睡眠脑机迎来落地拐点？</title>
+      <link>https://www.huxiu.com/article/4903732.html?f=rss</link>
+      <guid isPermaLink="false">8139a8a98099</guid>
+      <pubDate>Sat, 07 Nov 2026 02:02:41 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 斑马消费 ，作者：陈碧婷 随着中国酒店市场转入存量时代，行业竞争核心从规模转向运营，酒店巨头们还有哪些牌可以打？ 2026年，中国酒店行业正在进入一个新的时期。以华住、亚朵为首的用户运营派，正在结出新的果实；今年开始规模化落地的酒店业REITs，给酒店市场轻重结合模式提供了更大的空间。 酒店市场的核心竞争，依然是酒店运营本身：酒店和客房…
+      <description>本文来自微信公众号： 第四波 ，编辑：王晓，作者：白岩 11月3日，在世界互联网大会乌镇峰会上，强脑科技创始人兼CEO韩璧丞谈到了脑机接口在睡眠领域的应用。他也透露了最新产品进展，”非侵入式的脑机接口技术有望在未来36个月内，缓解大多数人的失眠问题，让人佩戴一个很舒适的小设备，就可以快速入睡。” 脑机助眠并不是一个新概念。在京东、淘宝等电商平台搜索“脑机睡眠…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>Trump says voters should blame themselves for stock market rout</title>
-      <link>https://www.axios.com/2026/11/06/trump-stock-market-sell-off</link>
-      <guid isPermaLink="false">7cf60056897a</guid>
-      <pubDate>Fri, 06 Nov 2026 00:28:09 GMT</pubDate>
+      <title>为什么高敏感是大后期人格？</title>
+      <link>https://www.huxiu.com/article/4903729.html?f=rss</link>
+      <guid isPermaLink="false">06bf639f720e</guid>
+      <pubDate>Sat, 07 Nov 2026 02:01:34 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>President Trump said Thursday night that voters had themselves to blame for the stock market&apos;s historic sell-off . Why it matters: Two days after Republicans lost the midterm elect…
+      <description>本文来自微信公众号：缸中之脑cybernetics，作者：Preston，题图来自：AI生成 前几天去浙江出差，跟一个发小吃了一顿饭。就叫她小林吧。 小林这个人很特别。从小到大，她听得最多的一句评价是：你就是太敏感了。 敏感到什么程度呢？上学的时候，老师一句批评，她能难过一整个星期。在大学宿舍，室友关门声音稍微重了一点，她就会翻来覆去地想，是不是自己哪里做错…
 
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>纳指股灾，美股6年来最惨单日崩跌</title>
-      <link>https://www.huxiu.com/article/4903471.html?f=rss</link>
-      <guid isPermaLink="false">9072c8f5330e</guid>
-      <pubDate>Fri, 06 Nov 2026 02:21:38 GMT</pubDate>
+      <title>我们离不开陌生人，却不再敲邻居的门</title>
+      <link>https://www.huxiu.com/article/4903724.html?f=rss</link>
+      <guid isPermaLink="false">ffac29539adb</guid>
+      <pubDate>Sat, 07 Nov 2026 01:06:55 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 大橘财经 ，作者：翁彬凯 美股遭遇2020年以来最惨烈的单日崩跌，这一次市场几乎没有任何“藏身之处”。 隔夜纳斯达克100指数收跌逾6%，抹去年内全部涨幅，自10月6日高点累计下跌近15%，市值蒸发约2.3万亿美元。标普500指数重挫4.4%，道琼斯工业平均指数30只成分股无一幸免。费城半导体指数暴跌12.25%，从芯片龙头英伟达到零售…
+      <description>本文来自微信公众号： 防冷涂的蜡书斋 ，作者：防冷涂的蜡 家里突然缺一把螺丝刀，你会怎么办？以前住在熟人多的院子里，最省事的办法可能是敲开隔壁的门，借来用几分钟。现在更方便了，网上买一套工具，第二天就能送到。做饭缺几根葱，可以叫即时配送；电器坏了，可以预约师傅上门。许多过去需要开口求人的小事，今天在手机上点几下就解决了，甚至不用离开沙发。 方便带来的改变还不…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Fri, 06 Nov 2026 02:46:50 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 02:18:51 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Fri, 06 Nov 2026 02:46:50 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 02:18:51 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,201 +228,191 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Fri, 06 Nov 2026 02:46:50 GMT</pubDate>
+      <pubDate>Sat, 07 Nov 2026 02:18:51 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>EE Times Magazine – November 2026</title>
-      <link>https://www.eetimes.com/ee-times-magazine-november-2026/</link>
-      <guid isPermaLink="false">2ff71ff3c2fc</guid>
-      <pubDate>Thu, 05 Nov 2026 22:30:00 GMT</pubDate>
+      <title>The Countdown to Q-Day Has Begun</title>
+      <link>https://www.eetimes.com/the-countdown-to-q-day-has-begun/</link>
+      <guid isPermaLink="false">7521541ef26d</guid>
+      <pubDate>Fri, 06 Nov 2026 21:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>As the semiconductor industry gathers in Munich for SEMICON Europa and electronica 2026, the November 2026 Edition of EE Times Magazine opens with a look at advances in semiconduct…
+      <description>In September this year, IonQ published a blueprint for breaking the cryptography used by Bitcoin and other blockchains to secure transactions and wallets. Researchers estimated a q…
 
 来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Macronix’s sNOVA Technology Recognized with IEEE Milestone Award</title>
-      <link>https://www.semiconductor-digest.com/macronixs-snova-technology-recognized-with-ieee-milestone-award/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=macronixs-snova-technology-recognized-with-ieee-milestone-award</link>
-      <guid isPermaLink="false">675fe2276d5f</guid>
-      <pubDate>Thu, 05 Nov 2026 22:42:44 GMT</pubDate>
+      <title>Micron Announces Board of Directors Retirement</title>
+      <link>https://www.semiconductor-digest.com/micron-announces-board-of-directors-retirement/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=micron-announces-board-of-directors-retirement</link>
+      <guid isPermaLink="false">cfe11c70b4b5</guid>
+      <pubDate>Fri, 06 Nov 2026 16:15:18 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Macronix International Co., Ltd., a integrated device manufacturer in the non-volatile memory (NVM) market, today announced its independently developed industrial production optimi…
+      <description>Micron Technology, Inc. today announced that Linnie M. Haynesworth has informed the Company that she will retire from its board of directors at the annual shareholders meeting expe…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Marvell and Lumentum Announce Combination</title>
-      <link>https://www.semiconductor-digest.com/marvell-and-lumentum-announce-combination/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=marvell-and-lumentum-announce-combination</link>
-      <guid isPermaLink="false">3105907b917c</guid>
-      <pubDate>Thu, 05 Nov 2026 22:35:54 GMT</pubDate>
+      <title>Eulitha Ramps Up Deliveries of Advanced Lithography Systems</title>
+      <link>https://www.semiconductor-digest.com/eulitha-ramps-up-deliveries-of-advanced-lithography-systems/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=eulitha-ramps-up-deliveries-of-advanced-lithography-systems</link>
+      <guid isPermaLink="false">bfc71304f7de</guid>
+      <pubDate>Fri, 06 Nov 2026 16:12:32 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Marvell Technology, Inc. and Lumentum today announced that they have entered into a definitive agreement for Marvell to acquire Lumentum in an all-stock transaction. Under the term…
+      <description>Eulitha AG, a provider of high-throughput optical lithography solutions, today announced deliveries of multiple automated tools to foundries for the production of InP DFB lasers to…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Global Semiconductor Alliance Announces 2026 Award Nominees</title>
-      <link>https://www.semiconductor-digest.com/global-semiconductor-alliance-announces-2026-award-nominees/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=global-semiconductor-alliance-announces-2026-award-nominees</link>
-      <guid isPermaLink="false">e36f2cd489af</guid>
-      <pubDate>Thu, 05 Nov 2026 22:28:23 GMT</pubDate>
+      <title>Hanyang University Researchers Gain Control Over Where Semiconductor Crystals First Form</title>
+      <link>https://www.semiconductor-digest.com/hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=hanyang-university-researchers-gain-control-over-where-semiconductor-crystals-first-form</link>
+      <guid isPermaLink="false">7267d69993ee</guid>
+      <pubDate>Fri, 06 Nov 2026 16:05:05 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>The Global Semiconductor Alliance (GSA) is pleased to announce its 2026 award nominees. The prestigious awards will be presented at the GSA Awards Celebration on Thursday, Dec. 10,…
+      <description>Controlling where crystals begin to form is a challenge in manufacturing two-dimensional semiconductors. Researchers from Hanyang University and collaborating institutions develope…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Chances are, US-China truce will be extended at Shenzhen Apec summit</title>
-      <link>https://www.scmp.com/opinion/china-opinion/article/3373140/chances-are-us-china-truce-will-be-extended-shenzhen-apec-summit</link>
-      <guid isPermaLink="false">9278cd0e5139</guid>
-      <pubDate>Fri, 06 Nov 2026 01:30:06 GMT</pubDate>
+      <title>Sanae Takaichi slammed online for praising calligraphy without mentioning China</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3373580/sanae-takaichi-slammed-online-praising-calligraphy-without-mentioning-china</link>
+      <guid isPermaLink="false">47a4f4ac39f5</guid>
+      <pubDate>Sat, 07 Nov 2026 01:00:12 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>At their October meeting in South Korea last year, US President Donald Trump and Chinese President Xi Jinping, recognising mutual vulnerability to export restrictions, agreed to su…
+      <description>Japanese Prime Minister Sanae Takaichi has faced backlash online after writing a social media post celebrating Japan’s shodo calligraphy without mentioning its Chinese roots. On Th…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>China’s new PLA theatre chiefs identified as anti-corruption drive clears ranks</title>
-      <link>https://www.scmp.com/news/china/military/article/3373437/chinas-new-pla-theatre-chiefs-identified-anti-corruption-drive-clears-ranks</link>
-      <guid isPermaLink="false">dc8ca2251587</guid>
-      <pubDate>Fri, 06 Nov 2026 01:00:08 GMT</pubDate>
+      <title>Inside the early GOP reckoning after historic defeat</title>
+      <link>https://www.politico.com/news/2026/11/06/gop-reckoning-trump-midterms-stephen-miller-01154760</link>
+      <guid isPermaLink="false">05dfe4997b8e</guid>
+      <pubDate>Fri, 06 Nov 2026 23:00:00 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>Beijing has hinted at the new leadership line-up in its military theatre commands, with fresh faces emerging during last week’s party conclave in the seating area reserved for key …
+      <description>President Donald Trump&apos;s decision to name hard-line loyalist Stephen Miller as his top aide cemented what many Republicans were already privately fearing: There will be no party-wi…
 
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
+来源：Politico · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>How Abdul El-Sayed actually did with Jewish voters</title>
-      <link>https://www.politico.com/news/2026/11/05/abdul-el-sayed-jewish-voters-interview-01152872</link>
-      <guid isPermaLink="false">1bb76417da65</guid>
-      <pubDate>Thu, 05 Nov 2026 23:12:00 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>Abdul El-Sayed ran well behind other Michigan Democrats in places with more Jewish voters, according to a detailed POLITICO analysis of precinct-level results. Statewide, the progr…
-
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Analysis: China’s quarterly CO2 falls 3% in largest drop since Covid</title>
-      <link>https://www.carbonbrief.org/analysis-chinas-quarterly-co2-falls-3-in-largest-drop-since-covid</link>
-      <guid isPermaLink="false">dca0f8397329</guid>
-      <pubDate>Fri, 06 Nov 2026 00:01:00 GMT</pubDate>
+      <title>Duke Energy to stay course on data center-fueled growth plan after ‘historic’ election</title>
+      <link>https://www.utilitydive.com/news/historic-election-night-wont-change-growth-focus-at-duke-energy-executi/873965/</link>
+      <guid isPermaLink="false">d1ce775691e9</guid>
+      <pubDate>Fri, 06 Nov 2026 18:00:00 GMT</pubDate>
       <category>能源与气候科技</category>
-      <description>China’s carbon dioxide (CO2) emissions fell by 3.1% in the third quarter of 2026, as the Hormuz crisis continued to hit oil demand and coal use also dropped. This guest post is by:…
+      <description>The company’s large-load pipeline of 15.4 GW has remained virtually unchanged since the first quarter of 2026 as it pursues a $103 billion spending plan heavily focused on new natu…
+
+来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Voters gave a big middle finger to data centers</title>
+      <link>https://www.canarymedia.com/articles/data-centers/data-center-voters-election-day</link>
+      <guid isPermaLink="false">156cbe3d4086</guid>
+      <pubDate>Fri, 06 Nov 2026 17:19:00 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. Americans aren’t happy about the data center boom, and they made their …
+
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>‘Simply staggering’: Rapidly developing ‘super El Niño’ on track to peak in December</title>
+      <link>https://www.carbonbrief.org/simply-staggering-rapidly-developing-super-el-nino-on-track-to-peak-in-december</link>
+      <guid isPermaLink="false">36de46813292</guid>
+      <pubDate>Fri, 06 Nov 2026 09:12:35 GMT</pubDate>
+      <category>能源与气候科技</category>
+      <description>Print article Share The ongoing “super El Niño” is likely to peak at the end of 2026 and push average global temperatures to record levels next year. That is according to Carbon Br…
 
 来源：Carbon Brief · 能源与气候科技 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Democrats&apos; state wins open the door for major clean energy progress</title>
-      <link>https://www.canarymedia.com/articles/politics/democrat-state-wins-clean-energy-progress</link>
-      <guid isPermaLink="false">3b8b75bc3986</guid>
-      <pubDate>Fri, 06 Nov 2026 00:30:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Democrats&apos; historic wins in Tuesday’s midterm elections will give them control of Congress and a chance to combat the Trump administration’s anti-climate agenda, but the president’…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Will PG&amp;E’s $2B grid cutbacks derail California’s clean energy buildout?</title>
-      <link>https://www.canarymedia.com/articles/utilities/pge-2b-cut-in-grid-investments</link>
-      <guid isPermaLink="false">c1979e43dd14</guid>
-      <pubDate>Thu, 05 Nov 2026 17:00:00 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it every Thursday via Substack. Hello, everyone! We’ve got…
-
-来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>FDA Grants Accelerated Approval to a New Treatment for Head and Neck Squamous Cell Carcinoma</title>
-      <link>http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-treatment-head-and-neck-squamous-cell-carcinoma</link>
-      <guid isPermaLink="false">75f090fddb8b</guid>
-      <pubDate>Thu, 05 Nov 2026 22:30:38 GMT</pubDate>
+      <title>AI can track a single bird over time—based solely on its song</title>
+      <link>https://www.science.org/content/article/ai-can-track-single-bird-over-time-based-solely-its-song</link>
+      <guid isPermaLink="false">7d74f0addd4f</guid>
+      <pubDate>Fri, 06 Nov 2026 12:35:00 GMT</pubDate>
       <category>生物医药与健康科技</category>
-      <description>The U.S. Food and Drug Administration today granted accelerated approval to Rybrevant Faspro (amivantamab and hyaluronidase-lpuj) for the treatment of adults with recurrent or meta…
-
-来源：FDA 公告 · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Are brain-scanning hard hats a safety dream—or a privacy nightmare?</title>
-      <link>https://www.science.org/content/article/are-brain-scanning-hard-hats-safety-dream-or-privacy-nightmare</link>
-      <guid isPermaLink="false">0bb06690360a</guid>
-      <pubDate>Thu, 05 Nov 2026 10:00:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Construction and mining firms are rolling out devices that track workers’ fatigue. Critics say the tech could be misused by authorities
+      <description>Approach could provide scientists with a quicker, gentler way to gauge the health of bird populations
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Inside GitHub’s new Git storage architecture</title>
-      <link>https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/</link>
-      <guid isPermaLink="false">7853f34a5a1b</guid>
-      <pubDate>Thu, 05 Nov 2026 20:23:21 GMT</pubDate>
+      <title>A congressional veteran and a rookie lay out a possible science agenda for Democrats</title>
+      <link>https://www.science.org/content/article/congressional-veteran-and-rookie-lay-out-possible-science-agenda-democrats</link>
+      <guid isPermaLink="false">1ca080f2d774</guid>
+      <pubDate>Fri, 06 Nov 2026 11:45:00 GMT</pubDate>
+      <category>生物医药与健康科技</category>
+      <description>Representative Zoe Lofgren prepares to lead the House science committee that microbiologist Jasmine Clark hopes to serve on
+
+来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Beyond code generation: A developer’s guide to agentic engineering</title>
+      <link>https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/</link>
+      <guid isPermaLink="false">dcaadc46390a</guid>
+      <pubDate>Fri, 06 Nov 2026 22:15:59 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Last week at GitHub Universe, we announced our new Git storage architecture, capable of handling thousands of writes per second with reads that scale on demand. Through internal te…
+      <description>This October, GitHub saw more than 1.2 billion commits in one week&amp;mdash;over 400% more than a year earlier. This is more commits than GitHub received in all of 2025. Chances are, …
 
 来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
     </item>
     <item>
-      <title>HumanLayer just got acquired by Factory. But it gave users a way out first.</title>
-      <link>https://thenewstack.io/factory-acquires-humanlayer-agents/</link>
-      <guid isPermaLink="false">38b76aaf58b1</guid>
-      <pubDate>Thu, 05 Nov 2026 20:02:19 GMT</pubDate>
+      <title>AI agents are getting more complex. Developers shouldn’t have to babysit them.</title>
+      <link>https://thenewstack.io/harness-engineering-coding-agents/</link>
+      <guid isPermaLink="false">acf5b4286e3f</guid>
+      <pubDate>Fri, 06 Nov 2026 19:35:59 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Factory has acquired HumanLayer, its third AI coding startup in less than a month, as it works to fold more of the software engineering lifecycle into a single autonomous platform.…
+      <description>What if your coding agent could catch its own mistakes before you ever reviewed its work? A few years ago, AI hallucinations seemed to be everywhere. (Just how many r&amp;rsquo;s are t…
+
+来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>Cognition turned an open model into a coding beast. But it won’t release the weights.</title>
+      <link>https://thenewstack.io/cognition-flash-private-weights/</link>
+      <guid isPermaLink="false">16c32c327dbe</guid>
+      <pubDate>Fri, 06 Nov 2026 18:16:42 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Cognition built its newest coding model on a foundation that anyone can download, yet the company is keeping its own finished version locked away. Released Wednesday, SWE-2 Flash c…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>OpenAI’s new GPT-6 Cyber is better at hacking and better at staying in its lane</title>
-      <link>https://thenewstack.io/openai-gpt6-cyber-exploits/</link>
-      <guid isPermaLink="false">b72012d6c110</guid>
-      <pubDate>Thu, 05 Nov 2026 19:01:03 GMT</pubDate>
+      <title>Meta’s best AI model now trains the one most of its users get</title>
+      <link>https://thenewstack.io/meta-muse-specialized-models/</link>
+      <guid isPermaLink="false">180d3172cc8e</guid>
+      <pubDate>Fri, 06 Nov 2026 18:05:55 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>OpenAI on Thursday launched GPT-6 Cyber , the latest release in its series of cybersecurity-focused models. The company ranks GPT-6 Cyber’s ability to identify vulnerabilities and …
+      <description>Starting on Friday, everyone using Meta’s Muse agent and Meta AI gets new models the company trained using Muse Wonder, its frontier model. Subscribers still get Wonder itself for …
 
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
+来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Together AI let coding agents rewrite its GPU code. Then it kept humans on the deploy button.</title>
-      <link>https://thenewstack.io/together-compiler-gpu-optimization/</link>
-      <guid isPermaLink="false">5c699455f53d</guid>
-      <pubDate>Thu, 05 Nov 2026 18:56:57 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Together AI is putting AI coding agents to work on the GPU code that runs its inference infrastructure, automating performance tuning that used to take engineers days or weeks of m…
-
-来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Challenge-Aware Knowledge Recruitment with Meta-Agent Supervision for Medical Multi-Agent Reasoning</title>
-      <link>https://arxiv.org/abs/2611.05393</link>
-      <guid isPermaLink="false">e5302f76842f</guid>
-      <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
+      <title>Reclassification Is All You Missed: Surfacing Variant Reinterpretation Need in Online Health Communities at Population Scale</title>
+      <link>https://arxiv.org/abs/2611.07054</link>
+      <guid isPermaLink="false">988dcf7778b4</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
       <category>学术前沿速递</category>
-      <description>arXiv:2611.05393v1 Announce Type: new Abstract: Large language models perform strongly on standard medical QA but degrade on harder reasoning tasks, where multi-agent debate often …
+      <description>arXiv:2611.07054v1 Announce Type: cross Abstract: Genetic variants are routinely reclassified in ClinVar after a patient is tested, sometimes from uncertain to pathogenic, yet pati…
 
 来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
     </item>
     <item>
-      <title>VenusGenome: Genome-Aware Masked Autoencoding for Microbial Genome Representation Learning</title>
-      <link>https://arxiv.org/abs/2611.05405</link>
-      <guid isPermaLink="false">34f42e8f2a38</guid>
-      <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
+      <title>Compositional Unalignment: Auditing Safety in Large Vision-Language Models</title>
+      <link>https://arxiv.org/abs/2611.07216</link>
+      <guid isPermaLink="false">6510228bc5ef</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
       <category>学术前沿速递</category>
-      <description>arXiv:2611.05405v1 Announce Type: cross Abstract: Genomic-context models have shown that contextualizing protein embeddings can improve predictions of microbial function. We observ…
+      <description>arXiv:2611.07216v1 Announce Type: cross Abstract: Large vision-language models (LVLMs) are vulnerable to compositional harm: an image and a prompt that are benign in isolation beco…
 
 来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Who Pays for the Knowledge Models Copy? Model Collapse as Rogers&apos; Paradox</title>
-      <link>https://arxiv.org/abs/2611.06022</link>
-      <guid isPermaLink="false">d8a9f6c486b8</guid>
-      <pubDate>Thu, 05 Nov 2026 05:00:00 GMT</pubDate>
+      <title>How Deep is the Signal? Time-Context up to 30 Years for Colorectal Cancer Prediction in a Primary-Care EHR Model</title>
+      <link>https://arxiv.org/abs/2611.07265</link>
+      <guid isPermaLink="false">8966ac18bd11</guid>
+      <pubDate>Fri, 06 Nov 2026 05:00:00 GMT</pubDate>
       <category>学术前沿速递</category>
-      <description>arXiv:2611.06022v1 Announce Type: new Abstract: Generative models trained on the output of earlier models lose knowledge across generations, rare knowledge first. The remedies that…
+      <description>arXiv:2611.07265v1 Announce Type: cross Abstract: EHR foundation models read medical events within a fixed context window, and long context has so far been measured only in tokens.…
 
-来源：arXiv cs.LG · 学术前沿速递 · 约 1 分钟</description>
+来源：arXiv cs.AI · 学术前沿速递 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
