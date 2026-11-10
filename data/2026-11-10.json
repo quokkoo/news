@@ -1,0 +1,1262 @@
+{
+  "date": "2026-11-10",
+  "generatedAt": "2026-11-10T04:17:25.785Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 40 条，覆盖 深度长文与思考、商业模式与行业深度、前沿科技与 AI 产业、宏观经济与资本市场等 10 个领域，全部读完约需 79 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "426bc21e343d",
+          "title": "创业板半日涨近1.5%，AI硬件反弹、“易中天”拉升，机器人爆发、宇树市值重回3000亿，恒科指一度涨1%",
+          "titleZh": "创业板半日涨近1.5%，AI硬件反弹、“易中天”拉升，机器人爆发、宇树市值重回3000亿，恒科指一度涨1%",
+          "url": "https://wallstreetcn.com/articles/3785617",
+          "summary": "隔夜美股科技股大涨，纳斯达克100指数涨3.4%，芯片股指数单日飙升近7%。亚太股市周二跟随上涨，韩国KOSPI指数盘初大涨，韩国交易所对KOSPI指数启动程序化交易暂停机制，暂停程序化买盘。芯片巨头SK海力士和三星电子亦拉升，A股和港股的AI硬件普遍反弹。 11月10日，A股早盘集体高开，盘中震荡回落，三大股指涨幅均收窄，沪指接近平盘，创业板涨1%，盘初一…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T04:05:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1d79e536e19d",
+          "title": "世界对黄仁勋依赖过深，英伟达应降低单一CEO风险",
+          "titleZh": "世界对黄仁勋依赖过深，英伟达应降低单一CEO风险",
+          "url": "https://wallstreetcn.com/articles/3785624",
+          "summary": "11月9日，英国《金融时报》（FT）总编辑Roula Khalaf在FT发表了一篇个人观点文章，直指当前全球科技产业对英伟达CEO黄仁勋的过度依赖问题。文章以黄仁勋近期陷入的个人丑闻为切入点，深刻揭示了一家市值4.5万亿美元的科技巨头在公司治理上存在的结构性隐患。 Khalaf在文章开篇便点明了问题的严峻性——一位行为失当的CEO对任何公司来说都是大麻烦，但…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T04:03:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e9250e1291be",
+          "title": "大摩“内存死神”Shawn Kim再发警告！真正的炸弹是“2028盈利悬崖”，全面下调内存股目标价",
+          "titleZh": "大摩“内存死神”Shawn Kim再发警告！真正的炸弹是“2028盈利悬崖”，全面下调内存股目标价",
+          "url": "https://wallstreetcn.com/articles/3785625",
+          "summary": "摩根士丹利分析师Shawn Kim再度向内存行业发出警告，这一次他瞄准的是行业“2028年的盈利悬崖”。 据追风交易台消息，在11月9日发布的最新研报中，Shawn Kim全面下调三星电子和SK海力士目标价，并将三星电子升为新首选股，取代SK海力士。他在报告中写道：“对内存的担忧，与其说是美国中期选举后数据中心建设延迟或AI需求的问题，不如说是'2028盈利…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T03:46:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3c4b2554f163",
+          "title": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
+          "titleZh": "能控制机器人拧瓶盖、解魔方和画画！Fable 5.2的具身智能能力实现“惊人跃迁”",
+          "url": "https://wallstreetcn.com/articles/3785622",
+          "summary": "Anthropic最新旗舰模型Claude Fable 5.2在机器人控制领域交出了一份令业界侧目的成绩单——作为一款通用大模型，它在双臂仿真机器人基准测试中的得分较上一代翻了逾两倍，并在真机演示中完成了拧瓶盖、解魔方和画画等操作任务。 11月9日，Anthropic正式发布Claude Fable 5.2。在RoboDojo双臂仿真机器人基准测试中，Fab…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T02:57:40.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b6d44ed43477",
+          "title": "信心为0！高盛解读对冲基金仓位：\"投降式清仓\"，疫情以来最大亏损",
+          "titleZh": "信心为0！高盛解读对冲基金仓位：\"投降式清仓\"，疫情以来最大亏损",
+          "url": "https://wallstreetcn.com/articles/3785614",
+          "summary": "上周，对冲基金终于“举手投降”。高盛最新数据显示，美国基本面多空基金单周大幅削减杠杆，去杠杆规模创2020年3月新冠疫情暴跌以来最大，净杠杆率跌至五年来0百分位，美国股票选手的仓位之轻，为过去五年所未见。与此同时，科技股遭遇的抛售规模已远超今年夏季那轮动荡，CTA量化策略仍在持续卖出，市场几乎所有情绪指标均在发出恐慌信号。 周一（11月9日），高盛大宗经纪数…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T02:41:50.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ea18c39e2a2",
+          "title": "AI风暴重头戏：股价接近腰斩，“AI云双雄”CoreWeave和Nebius财报要来了",
+          "titleZh": "AI风暴重头戏：股价接近腰斩，“AI云双雄”CoreWeave和Nebius财报要来了",
+          "url": "https://wallstreetcn.com/articles/3785618",
+          "summary": "在AI基础设施投资热潮遭遇债务成本上升的双重压力下，两家新兴云计算公司CoreWeave和Nebius的股价在短短一个月内双双接近腰斩。 本周，两家公司将相继在11月10日、11月12日发布三季度财报。这一时间节点颇为微妙——市场正在等待一个答案：这场抛售，究竟是过度反应，还是合理定价？ 从基本面数据看，两家公司的营收增长轨迹依然强劲，分析师预期2027年C…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-10T02:36:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "33d7528ec578",
+          "title": "Exploring the world's languages with Language Explorer",
+          "titleZh": "Exploring the world's languages with Language Explorer",
+          "url": "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer/",
+          "summary": "November 9, 2026 Daan van Esch, Senior Technical Program Manager, Google DeepMind and Uche Okonkwo, Senior Program Manager, Google Research Language Explorer, featured in an exhibi…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-11-09T20:29:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dc0ef79b28ad",
+          "title": "The backlash about data centers might really just be about electricity",
+          "titleZh": "The backlash about data centers might really just be about electricity",
+          "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . As voters went to the polls across the US…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-09T19:35:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "68122bd4d2a3",
+          "title": "Locating the source of a mysterious beep with Claude",
+          "titleZh": "Locating the source of a mysterious beep with Claude",
+          "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+          "summary": "Our house has a box room, full of boxes that we still haven't unpacked from our last move. A couple of weeks ago something in that room started intermittently beeping . The beeps w…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-09T23:57:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a099a804117c",
+          "title": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+          "titleZh": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+          "url": "https://arstechnica.com/culture/2026/11/dcu-shake-up-james-gunn-and-peter-safran-out-post-merger/",
+          "summary": "It's barely been two months since the controversial Paramount and Warner Bros. merger, and we've already got a shockingly unexpected ouster : Co-CEOs of the rebooted DC Universe, J…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-09T21:55:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "958de1a8f011",
+          "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+          "titleZh": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+          "url": "https://latent.space/p/handshake/",
+          "summary": "This is our first Latent Space deep dive with an AI data company . In roughly a year, Handshake’s AI training business went from launch to $1 billion in gross annualized revenue . …",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-09T17:15:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e3077ce189aa",
+          "title": "A Sam Altman parody offers an amusing lesson in memory management",
+          "titleZh": "A Sam Altman parody offers an amusing lesson in memory management",
+          "url": "https://arstechnica.com/gadgets/2026/11/a-sam-altman-parody-offers-an-amusing-lesson-in-memory-management/",
+          "summary": "Sam Altman's recent comments on the Cheeky Pint podcast inspired developer Iain Kay to create a satirical script that allows users to email the OpenAI CEO once per day if more than…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-09T20:49:09.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "05b842b1fba8",
+          "title": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+          "titleZh": "Vulnerability that lets hackers SSH into Linux devices is under active exploitation",
+          "url": "https://arstechnica.com/security/2026/11/vulnerability-that-lets-hackers-ssh-into-linux-devices-is-under-active-exploitation/",
+          "summary": "Hackers are actively exploiting a recently discovered critical vulnerability that allows them to log in to privileged accounts on many Linux systems, multiple researchers are repor…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-09T19:41:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8e10ae57c133",
+          "title": "Nvidia CEO is in Congress’ sights after spy scandal",
+          "titleZh": "Nvidia CEO is in Congress’ sights after spy scandal",
+          "url": "https://www.semafor.com/article/11/09/2026/nvidia-ceo-is-in-congress-sights-after-spy-scandal",
+          "summary": "The News Nvidia and its embattled CEO can add Washington to their list of huge problems. Members of Congress in both parties are pushing for strengthened export controls and invest…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-09T23:11:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "出口管制（Google News）",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcXVFV0pheEV4LVU5V1JZRmpBNWpxNVQ3QUFZWWw0SExBaHoyTkhDUk14eEZJeVpiRWZYYmRDck9xUXJ2UmZ3bE1NSk5iYmYtMFhtMkVQbXRyVW04RFJkUDZGaEpNQV9FY1lOaFNaODZwdi1vYTlVcHJ1c1NkN29mUnE1dksyMjVCRm1DU0xlYmMwS1Ew?oc=5"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "e5ab5fc7449b",
+          "title": "Madness and mayhem",
+          "titleZh": "Madness and mayhem",
+          "url": "https://www.exponentialview.co/p/madness-and-mayhem",
+          "summary": "Hi all, Azeem here. The last two weeks have been chaotic in tech. The Democrats' huge victory upended lots of assumptions. But the news that Jensen Huang has a relationship with a …",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-11-10T02:02:29.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7978e874567f",
+          "title": "House Dems size up 2028 Senate map after midterm landslide",
+          "titleZh": "House Dems size up 2028 Senate map after midterm landslide",
+          "url": "https://www.axios.com/2026/11/10/democrats-2028-senate-map",
+          "summary": "Current and former House Democrats, flush with victory following their landslide midterm wins , are already looking at potential opportunities to run for Senate in 2028, Axios has …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-10T01:43:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "92bb1860e318",
+          "title": "France says Iranian hackers sabotaged supermarket refrigerators",
+          "titleZh": "France says Iranian hackers sabotaged supermarket refrigerators",
+          "url": "https://www.axios.com/2026/11/10/france-iran-supermarket-refridgerator-hacks",
+          "summary": "The French government has blamed an Iranian military hacking unit for cyberattacks that disrupted refrigeration systems at roughly 700 grocery stores and other retail locations las…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-10T01:36:17.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "877cdf45defe",
+          "title": "牛肉自由，到头了",
+          "titleZh": "牛肉自由，到头了",
+          "url": "https://www.huxiu.com/article/4904308.html?f=rss",
+          "summary": "本文来自微信公众号： 斑马消费 ，作者：陈晓京 牛肉价格接连上涨，打工人的心脏连遭重击——“牛肉自由”就这样结束了。 两年前，平价牛肉餐饮街边疯狂开店，火锅、烤串、自助等业态一路狂奔，四五十元的客单价，让畅吃牛肉成了普通人的日常。但由养殖端持续亏损换来的低价，终究无法持续。 自去年起，牛肉价格一路温和上行，低价窗口缓缓合上。据全国农批批发口径，牛肉价格从20…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-09T23:52:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8199019.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "55cfaf4d1a0a",
+          "title": "黄仁勋危机",
+          "titleZh": "黄仁勋危机",
+          "url": "https://www.huxiu.com/article/4904386.html?f=rss",
+          "summary": "本文来自微信公众号： 雪贝财经 ，作者：栖迟，原文标题：《雪贝 | 黄仁勋危机》 一场涉及公司创始人的调查，暴露了人工智能产业对少数企业和个人的依赖。 在过去三年里，黄仁勋几乎成为人工智能繁荣的代言人。他站在发布会舞台上介绍新一代芯片，与各国政要讨论算力，也与大型科技公司的掌门人商谈数十亿美元的采购。很少有一家公司的首席执行官，能像他这样同时出现在技术、资本…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-10T03:57:02.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 5,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-10T04:17:06.621Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-10T04:17:06.621Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-10T04:17:06.621Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "62d5298f67ce",
+          "title": "Infineon Processes Functional Power Devices on 300mm SiC Wafers",
+          "titleZh": "Infineon Processes Functional Power Devices on 300mm SiC Wafers",
+          "url": "https://www.semiconductor-digest.com/infineon-processes-functional-power-devices-on-300mm-sic-wafers/?utm_source=rss&utm_medium=rss&utm_campaign=infineon-processes-functional-power-devices-on-300mm-sic-wafers",
+          "summary": "Infineon Technologies AG has successfully processed 300mm silicon carbide wafers into functional power devices at its fab in Villach, Austria. Infineon is the first company to pion…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-10T01:04:14.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c66d9985f329",
+          "title": "Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa",
+          "titleZh": "Fraunhofer IPMS Highlights Semiconductor Technology Developments at SEMICON Europa",
+          "url": "https://www.semiconductor-digest.com/fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa/?utm_source=rss&utm_medium=rss&utm_campaign=fraunhofer-ipms-highlights-semiconductor-technology-developments-at-semicon-europa",
+          "summary": "At SEMICON Europa 2026, the Fraunhofer Institute for Photonic Microsystems IPMS will showcase current research results and technological developments for the semiconductor industry…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-10T00:51:55.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "321381303e18",
+          "title": "SEMI Foundation Launches Global Chip the Future Challenge",
+          "titleZh": "SEMI Foundation Launches Global Chip the Future Challenge",
+          "url": "https://www.semiconductor-digest.com/semi-foundation-launches-global-chip-the-future-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semi-foundation-launches-global-chip-the-future-challenge",
+          "summary": "The SEMI Foundation announced the launch of the Chip the Future Challenge™ , a new global competition inviting undergraduate and graduate students to bring their ideas, research, a…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-10T00:32:15.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "afd1871196f9",
+          "title": "Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge",
+          "titleZh": "Semiconductor Companies Get Tough on AI Investment, but Measuring Returns Remains a Challenge",
+          "url": "https://www.semiconductor-digest.com/semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge/?utm_source=rss&utm_medium=rss&utm_campaign=semiconductor-companies-get-tough-on-ai-investment-but-measuring-returns-remains-a-challenge",
+          "summary": "HTEC, the global AI technology and engineering leader, today released its research on the semiconductor sector, which reveals that the sector is relatively advanced in adopting AI …",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-09T21:31:27.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d845b96f0407",
+          "title": "Trump recounts pilots’ ‘very strange’ UFO stories but says he remains sceptical",
+          "titleZh": "Trump recounts pilots’ ‘very strange’ UFO stories but says he remains sceptical",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3373863/trump-recounts-pilots-very-strange-ufo-stories-says-he-remains-sceptical",
+          "summary": "United States President Donald Trump has recounted stories from air force pilots who told him they encountered UFOs, while saying he remains sceptical and has seen no evidence of a…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-10T03:00:28.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c987913f063c",
+          "title": "China uses military drones, heavy-lift and C909 planes in huge forest fire drill",
+          "titleZh": "China uses military drones, heavy-lift and C909 planes in huge forest fire drill",
+          "url": "https://www.scmp.com/news/china/military/article/3373864/china-uses-military-drones-heavy-lift-and-c909-planes-huge-forest-fire-drill",
+          "summary": "Firefighters used military drones, heavy transport aircraft and seaplanes in a large-scale drill in southwest China on Monday, as part of efforts to bring the latest technologies i…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-10T01:59:32.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b7544379141",
+          "title": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
+          "titleZh": "Court filing alleges Trump adviser received cash, luxury gifts from foreign interests",
+          "url": "https://www.politico.com/news/2026/11/09/lawsuit-alex-bruesewitz-foreign-entities-derek-utley-01157561",
+          "summary": "A former business partner is accusing MAGA media guru Alex Bruesewitz of receiving lavish gifts from foreign individuals in Qatar and Syria while also pursuing lucrative deals with…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-10T01:18:38.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a86d8c2d9429",
+          "title": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal - TechCrunch",
+          "titleZh": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZXJiaTdrLTJPT0c5MzNWQ0tldUVWWkN6MEdxU0xzSHdDUEwtQ2VrN1RpWndpUXBhb1AwN2JQZnpxeHJvY0M4US0zMnRTdDhEMDhtek51Q0lxaGV0ZDlhNFA3NllXNmlBWWpOUHI1OXZ3SEgwZEZQdVU0c2ZSc1ZZRjkzS2h2cXUtdFMwR180eDU5dWlzOVk4dUZUamNESGU5eDYwWDBFSE1mRmZBZk80VFBNS2tacW9mU2VlUHBYc1ZFZmRLWWVpaU42MA?oc=5",
+          "summary": "A short seller flagged Nvidia CEO's ties to a suspected Chinese spy six months before the scandal TechCrunch",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-11-09T22:46:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/09/a-short-seller-flagged-nvidia-ceos-ties-to-a-suspected-chinese-spy-six-months-before-the-scandal/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "4f80a10f3c19",
+          "title": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+          "titleZh": "Analysis: Fossil-fuel CO2 emissions set to dip in 2026 as Iran conflict hits oil use",
+          "url": "https://www.carbonbrief.org/analysis-fossil-fuel-co2-emissions-set-to-dip-in-2026-as-iran-conflict-hits-oil-use",
+          "summary": "Print article Share Article Contents Expand menu Close Total emissions edge up as land-use emissions rise Land-use emissions rise in 2026 Fossil emissions fall in most major econom…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-10T01:01:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6f4337f5560d",
+          "title": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
+          "titleZh": "Q&A: What is the Belém-Antalya mechanism for a ‘just transition’?",
+          "url": "https://www.carbonbrief.org/qa-what-is-the-belem-antalya-mechanism-for-a-just-transition",
+          "summary": "Print article Share Article Contents Expand menu Close How has a ‘just transition’ featured in UN climate talks? Where did the ‘just transition mechanism’ come from? What role coul…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-09T08:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "c1e0a32f4e07",
+          "title": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
+          "titleZh": "FDA Approves First Factor Xla Inhibitor to Help Prevent Stroke in Certain Adults at High Risk",
+          "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-factor-xla-inhibitor-help-prevent-stroke-certain-adults-high-risk",
+          "summary": "FDA today approved Sunharbo (asundexian) 50 mg tablets, the first factor XIa (FXIa) inhibitor for use in combination with antiplatelet therapy to reduce the risk of stroke in adult…",
+          "whyItMatters": "",
+          "sourceName": "FDA 公告",
+          "publishedAt": "2026-11-09T22:15:46.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b42ebc918da7",
+          "title": "Researchers sue to block NSF from demolishing social science directorate",
+          "titleZh": "Researchers sue to block NSF from demolishing social science directorate",
+          "url": "https://www.science.org/content/article/researchers-sue-block-nsf-demolishing-social-science-directorate",
+          "summary": "Without intervention, NSF could fully close the Social, Behavioral and Economic Sciences Directorate in a month",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-09T12:50:00.000Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 4,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "79f54e12f13f",
+          "title": "A $60 billion fintech hired a 14-year-old. Its CEO explains why.",
+          "titleZh": "A $60 billion fintech hired a 14-year-old. Its CEO explains why.",
+          "url": "https://thenewstack.io/ramp-hires-teen-intern/",
+          "summary": "Ramp hired a 14-year-old intern after discovering an app he had built for fun that attracted attention from roughly a million people on Twitter. Co-CEO Eric Glyman discussed the hi…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-09T23:18:34.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d238110fc9f2",
+          "title": "Anthropic launches Fable 5.2 with a price cut and stronger coding scores",
+          "titleZh": "Anthropic launches Fable 5.2 with a price cut and stronger coding scores",
+          "url": "https://thenewstack.io/anthropic-fable-coding-upgrade/",
+          "summary": "On Monday, Anthropic launched Claude Fable 5.2 and Mythos 5.2 , the latest versions of its duo of flagship models. Like before, Fable 5.2 will be available on all platforms today, …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-09T19:08:20.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c49bbcb8180b",
+          "title": "Google claims its new AI software cuts inference latency by over 90% — but there’s a catch",
+          "titleZh": "Google claims its new AI software cuts inference latency by over 90% — but there’s a catch",
+          "url": "https://thenewstack.io/google-tpu-sync-inference/",
+          "summary": "Google&rsquo;s eighth-generation TPU announcement on Monday included more than new chips, introducing TPU Sync , an open-source system designed to speed up AI inference by tackling…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-09T18:40:01.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "65a58c3141ac",
+          "title": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.",
+          "titleZh": "Cursor and Google join OpenAI in giving coding agents a voice. Claude Code stays silent.",
+          "url": "https://thenewstack.io/cursor-antigravity-voice-agents/",
+          "summary": "Two of the biggest players in the AI coding space are betting that developers want to talk to their agents while they work, with both announcing a two-way voice feature that lets u…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-09T18:22:41.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "bba23c004de2",
+          "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+          "titleZh": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+          "url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-10T03:36:43.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c066194bd027",
+          "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+          "titleZh": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+          "url": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-10T02:13:07.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 40,
+    "itemsPublished": 40,
+    "itemsFiltered": 0,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 79,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
