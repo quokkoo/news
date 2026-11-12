@@ -1,0 +1,1161 @@
+{
+  "date": "2026-11-12",
+  "generatedAt": "2026-11-12T03:17:59.624Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 67 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "c191264ddc04",
+        "reason": "Simon Willison 等 2 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "91c2d65f4253",
+        "reason": "Hacker News Best 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "5fd6e5baa46e",
+          "title": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
+          "titleZh": "Altman密会三星高管：承认AI短期泡沫，算力需求存在“重复计算”的水分",
+          "url": "https://wallstreetcn.com/articles/3785777",
+          "summary": "OpenAI首席执行官在三星高管闭门会议上罕见坦承AI基础设施需求存在重复计算，并提出与三星联合开发下一代AI终端设备。 据韩国《金融新闻》报道，Sam Altman在上月底赴韩访问期间，向三星集团旗下约50名事业部社长级高管发出警告：AI内存及数据中心需求在短期内可能出现波动，市场上存在需求重复计算的情况。 与此同时，奥特曼在同一场合向三星抛出合作橄榄枝，…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T01:59:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "42ef20bb5744",
+          "title": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
+          "titleZh": "互联网泡沫“龙头”亲历者！前思科高管对比：互联网大基建 vs AI大基建",
+          "url": "https://wallstreetcn.com/articles/3785780",
+          "summary": "2026年11月11日，就在CoreWeave三季报超预期、NeoCloud板块单日暴涨逾12%、市场短暂从“AI回报焦虑”中喘过一口气的节骨眼上，a16z发布了一期对话：前思科高级副总裁Mike Volpi坐在a16z合伙人Raghu Raghuram和Guido Appenzeller对面，被问到同一个问题——这轮AI大基建，和你们当年亲手搭建的互联网大…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T01:57:19.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6fd44ecc682f",
+          "title": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件",
+          "titleZh": "万斯考虑与伊朗强硬派“直接谈”，伊朗议长：美国必须满足伊方提出的七项条件",
+          "url": "https://wallstreetcn.com/articles/3785776",
+          "summary": "美伊之间的外交试探正在升温。 据媒体最新报道，美国副总统万斯正考虑与伊朗强硬派安全官员Mohsen Rezaei进行直接会谈，特朗普已向幕僚和外国对应方表示，支持万斯重启对伊谈判并授权其主导这一进程。 伊朗一方则表示，美国必须全面满足伊方七项条件，方可重开霍尔木兹海峡、重启谈判。据央视新闻12日报道，伊朗议会议长卡利巴夫表示，伊朗已向美方给出了明确且直白的答…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T00:56:30.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b933a86ee7fa",
+          "title": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
+          "titleZh": "CoreWeave大涨给AI云“喘息之机”，接下来就看Anthropic IPO和英伟达了",
+          "url": "https://wallstreetcn.com/articles/3785774",
+          "summary": "CoreWeave周二发布三季度财报，营收和亏损均好于预期，全年指引亦超出市场预期上限。消息提振了此前因AI投资回报担忧而持续承压的“新云”（neocloud）板块。 在CoreWeave股价单日大涨约25%的带动下，新云（NeoCloud）板块盘中涨幅一度超过12%，纳指也收复了中期选举后的失地。市场的乐观情绪还受到两则消息强化：Anthropic据报正讨…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T00:43:39.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bb51c3259fbb",
+          "title": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击",
+          "titleZh": "中选结束清算开始！民主党誓言揭露\"特朗普执政贪腐\"，白宫以调查反击",
+          "url": "https://wallstreetcn.com/articles/3785775",
+          "summary": "美国中期选举落幕，两党对抗随即进入新阶段。民主党赢得国会控制权后，迅速将矛头指向特朗普政府，誓言展开大规模腐败调查；白宫则率先出手，警告民主党议员其调查行为\"可能涉嫌犯罪\"，华盛顿政治对决骤然升温。 据新华社报道，白宫法律顾问Will Scharf于11月9日致信众议院监督委员会主席、民主党人Robert Garcia，指责民主党人意图利用国会调查程序恐吓和…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T00:31:08.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "94c3cfb32d25",
+          "title": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
+          "titleZh": "A股三大股指齐涨，科创50大涨超3%，算力硬件股继续爆发，机器人调整，恒指、恒科指齐跌超1%",
+          "url": "https://wallstreetcn.com/articles/3785781",
+          "summary": "隔夜，CoreWeave业绩超预期、Anthropic IPO超额认购、OpenAI季度营收首破百亿美元，三重催化剂重振AI交易热情，推动美股科技板块大幅反弹，A股算力硬件再度拉升，推动科创50大涨超3%。 11月12日，A股早盘高开，三大股指盘初集体上涨，科创综指、科创50大涨超2%，半导体板块爆发，半导体设备、GPU、存储芯片、光模块等概念股延续反弹势头…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-12T02:09:53.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "c191264ddc04",
+          "title": "Gemini Decisions API",
+          "titleZh": "Gemini Decisions API",
+          "url": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+          "summary": "Gemini Decisions API Google join Jev and OpenAI in the decision model category with \"Gemini Decision 1\". This new model API is almost identical to Jev: it supports the same three t…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-11T22:03:25.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "91c2d65f4253",
+          "title": "Nvidia is preparing to oust Jensen Huang",
+          "titleZh": "Nvidia is preparing to oust Jensen Huang",
+          "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+          "summary": "Article URL: https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad Comments URL: https://news.ycombinator.com/item?id=50459703 Points: 601 # Com…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-11T22:31:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad"
+            },
+            {
+              "sourceName": "WSJ Business",
+              "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad?mod=pls_whats_news_us_business_f"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2ec5a926872c",
+          "title": "Gilbert + Tobin rethinks the business of law with AI",
+          "titleZh": "Gilbert + Tobin rethinks the business of law with AI",
+          "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+          "summary": "Our Executive Function series features perspectives from leaders driving transformation through AI. Gilbert + Tobin ⁠ (opens in a new window) is one of Australia’s leading corporat…",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-11-12T00:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "49f238457637",
+          "title": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+          "titleZh": "Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching",
+          "url": "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching/",
+          "summary": "Heart disease, kidney conditions, and metabolic disorders like type 2 diabetes aren't isolated, they form an interconnected web known as cardiovascular-kidney-metabolic (CKM) syndr…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-11-11T19:54:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b52e3b7da04a",
+          "title": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "titleZh": "AlphaGenome 2: Deciphering how cells read DNA to better understand disease",
+          "url": "https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/",
+          "summary": "November 11, 2026 Science Adam Gayoso, Natasha Latysheva, Pushmeet Kohli and Žiga Avsec Our next-generation DNA sequence model bridges single-cell biology and human genetics, predi…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-11-11T15:00:15.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7925fff9605d",
+          "title": "What to know about this year’s UN climate talks",
+          "titleZh": "What to know about this year’s UN climate talks",
+          "url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
+          "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 offi…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-11T17:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "deeec4a22640",
+          "title": "Jensen Huang said to have had relationship with executive who reports to him",
+          "titleZh": "Jensen Huang said to have had relationship with executive who reports to him",
+          "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html",
+          "summary": "Article URL: https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html Comments URL: https://news.ycombinator.com/item?id=50459321 Points: 272 # Comments: 284",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-11T22:03:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a08ce8e529ac",
+          "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "titleZh": "United Airlines bans AI agents from booking flights on behalf of travelers",
+          "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+          "summary": "Article URL: https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/ Comments URL: https://news.ycombinator.com/item?id=50458900 Points: 427 # Comments: 412",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-11T21:24:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "6a5664060ecd",
+          "title": "Outgoing Trump foe Massie forces new Epstein files showdown",
+          "titleZh": "Outgoing Trump foe Massie forces new Epstein files showdown",
+          "url": "https://www.axios.com/2026/11/11/massie-epstein-files-second-vote",
+          "summary": "Outgoing Rep. Thomas Massie (R-Ky.) secured the 218 signatures needed to force another House showdown over the Jeffrey Epstein files Wednesday, just one day after fellow Republican…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-12T01:41:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "cc7acac729e5",
+          "title": "我们正目睹乔布斯后科技史上最严重的逼宫",
+          "titleZh": "我们正目睹乔布斯后科技史上最严重的逼宫",
+          "url": "https://www.huxiu.com/article/4904905.html?f=rss",
+          "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的 上一次科技公司的创始人兼CEO遭遇如此级别的逼宫事件，还是在1985年的苹果。 当时年仅30岁的乔布斯在库比提诺，和自己亲自从百事公司挖来的约翰·斯考利正面对决。董事会最终站在了职业经理人那一边，将创始人赶出了自己亲手创办的公司。 40年后，黄仁勋发现处在风口浪尖的自己已经越来越难站稳。 更棘手的是，黄仁…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-12T00:45:47.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "爱范儿",
+              "url": "https://www.ifanr.com/1689084?utm_source=rss&utm_medium=rss&utm_campaign="
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5323dfe0652d",
+          "title": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
+          "titleZh": "Scoop: Lutnick stalled curbing Nvidia chip sales to China — again — after Oval Office showdown",
+          "url": "https://www.axios.com/2026/11/11/trump-lutnick-nvidia-china-chip-export-controls",
+          "summary": "President Trump on Thursday authorized a crack down on companies suspected of diverting Nvidia's advanced AI chips to China for the third time this year — even consulting Elon Musk…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-11T20:59:02.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "出口管制（Google News）",
+              "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa01VNnZpTE10OFNfTFRXZDZzeUJwSjFkNmlhVjFwUVExM3RmaUlNOG1jWm1aYXJMRHkyb2s1WGdMQU9IQUN6RE5kVi1ub3JkQ0wxVnc2YWFvY2VzTWRiX0FZeVlpdDNsMzBhcWpzOVhqNVh4UUFCa2cySy1ZSlkwTGRxbHVjcEU?oc=5"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ebf3d110d766",
+          "title": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
+          "titleZh": "年内最后一批储蓄国债“秒光”，低利差下为何仍遭抢购？",
+          "url": "https://www.huxiu.com/article/4904951.html?f=rss",
+          "summary": "本文来自微信公众号： 经济观察网 ，作者：刘轩宇 存款利率回升、利差几乎抹平，年内最后一批储蓄国债仍然开售即“秒光”。 11月10日8时30分，2026年第九期、第十期储蓄国债（电子式）正式开售，这也是今年最后一批储蓄国债。开售仅数分钟，多家银行APP的渠道额度即告售罄。 虽然储蓄国债历来都会被抢购，但值得注意的是，这几个月随着大额存单的回归，银行定存利率已…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-12T03:09:09.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3351670d8ab4",
+          "title": "AI超创倒是不用投流，他们赚到钱了吗？",
+          "titleZh": "AI超创倒是不用投流，他们赚到钱了吗？",
+          "url": "https://www.huxiu.com/article/4904948.html?f=rss",
+          "summary": "本文来自微信公众号： 影视独舌 ，作者：许心强，原文标题：《调查丨AI超创倒是不用投流，他们赚到钱了吗？》 为什么那么多人看AI短剧，新闻上却总说做AI短剧不赚钱？ 最近，网上关于AI短剧的新闻呈现出两种截然不同的景象： 一边是“54岁大哥靠AI短剧还清负债”的暴富故事，一边是“盈利的AI短剧只有1.3%”的行业现实。 新火集团首席经济学家付鹏在接受采访时谈…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-12T02:57:55.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-12T03:17:42.676Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-12T03:17:42.676Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-12T03:17:42.676Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "4058e301a045",
+          "title": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+          "titleZh": "Automotive Tech Forum: Panel Discussion the Make-or-Break Milestones Toward Level 4 Autonomous Driving",
+          "url": "https://www.eetimes.com/automotive-tech-forum-panel-discussion-the-make-or-break-milestones-toward-level-4-autonomous-driving/",
+          "summary": "This panel discussion with industry experts is moderated by Anne-Françoise Pelé, Editor-in-Chief of EE Times Europe . Over the next decade, autonomous driving technology is expecte…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-11T23:39:41.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "69184df81d05",
+          "title": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
+          "titleZh": "Automotive Tech Forum: The Current State of Sic in EV Design and How It’s Evolving",
+          "url": "https://www.eetimes.com/automotive-tech-forum-the-current-state-of-sic-in-ev-design-and-how-its-evolving/",
+          "summary": "This Keynote is presented by Mark Münzer, Fellow Motor Control, Infineon. Customer satisfaction for electric vehicles is directly linked to the ability of easy long-distance drivin…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-11T23:34:28.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "21c3d86a3845",
+          "title": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
+          "titleZh": "Automotive Tech Forum: Lidar is Key to Safer ADAS and Autonomous Vehicles",
+          "url": "https://www.eetimes.com/automotive-tech-forum-lidar-is-key-to-safer-adas-and-autonomous-vehicles/",
+          "summary": "This keynote is presented by Elad Hofstetter, Chief Business Officer, Innoviz Technologies. LiDAR technology is rapidly emerging as a key enabler of safer ADAS and autonomous vehic…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-11T23:28:21.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1569dbace310",
+          "title": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+          "titleZh": "Automotive Tech Forum: GaN Building Blocks in EV’s and Their Design Roadmap in 2026 and Beyond",
+          "url": "https://www.eetimes.com/automotive-tech-forum-gan-building-blocks-in-evs-and-their-design-roadmap-in-2026-and-beyond/",
+          "summary": "This Event Session is presented by Andrew Smith, Director Technical Outreach, Power Integrations Electric vehicles must become more efficient and more affordable. The automotive in…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-11T23:22:01.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "be37af028940",
+          "title": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+          "titleZh": "Taiwan to send Acer founder Stan Shih to Shenzhen Apec, calls for ‘equal footing’",
+          "url": "https://www.scmp.com/news/china/politics/article/3374140/taiwan-send-acer-founder-stan-shih-shenzhen-apec-calls-equal-footing",
+          "summary": "Taiwan will send Stan Shih, founder of computer giant Acer, to the Apec leaders’ summit in Shenzhen next week and has urged Beijing to ensure its delegation is treated with “dignit…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-12T02:53:34.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dbed3043e70b",
+          "title": "China has more than 20 small nuclear reactor start-ups. Should the US worry?",
+          "titleZh": "China has more than 20 small nuclear reactor start-ups. Should the US worry?",
+          "url": "https://www.scmp.com/news/china/science/article/3374063/china-has-more-20-small-nuclear-reactor-start-ups-should-us-worry",
+          "summary": "More than 20 Chinese start-ups are developing small modular reactors (SMRs) with ambitions to reshape the global energy landscape, according to the founder of one of the sector’s f…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-12T01:00:05.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "fbbed8d7c830",
+          "title": "Leading small modular nuclear reactor will be late and over budget",
+          "titleZh": "Leading small modular nuclear reactor will be late and over budget",
+          "url": "https://www.canarymedia.com/articles/nuclear/small-modular-nuclear-reactor-late-canada",
+          "summary": "North America’s first small modular reactor project is running into two familiar challenges for the nuclear industry: timing and cost. Ontario Power Generation said in a Tuesday ea…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-11T19:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7067ba389f0d",
+          "title": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+          "titleZh": "Analysis: Climate-finance pledges fall 70% as countries meet at COP31",
+          "url": "https://www.carbonbrief.org/analysis-climate-finance-pledges-fall-70-as-countries-meet-at-cop31",
+          "summary": "Print article Share The amount of public funding pledged to help developing countries tackle climate change has dropped by more than 70% in 2026, according to Carbon Brief analysis…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-11T07:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.8,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "9f241a734f62",
+          "title": "Anthropic built a model that beats Opus. It recommends Opus anyway.",
+          "titleZh": "Anthropic built a model that beats Opus. It recommends Opus anyway.",
+          "url": "https://thenewstack.io/anthropic-fable-opus-cost/",
+          "summary": "Anthropic just released a coding model that beats Opus 5.5 on two major benchmarks and can complete certain difficult tasks for half the cost. Yet in its Fable 5.2 announcement on …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-11T19:15:21.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eabb87028a46",
+          "title": "Why Nvidia gave OpenShell to the CNCF",
+          "titleZh": "Why Nvidia gave OpenShell to the CNCF",
+          "url": "https://thenewstack.io/nvidia-donates-openshell-cncf/",
+          "summary": "Nvidia this week donated OpenShell , its open-source runtime for securing and governing AI agents, to the Cloud Native Computing Foundation. The teams that run it in production alr…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-11T19:13:54.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bf548d73a27a",
+          "title": "Expensive accelerators, no workload-level visibility: Introducing Amazon CloudWatch accelerated compute insights",
+          "titleZh": "Expensive accelerators, no workload-level visibility: Introducing Amazon CloudWatch accelerated compute insights",
+          "url": "https://thenewstack.io/cloudwatch-accelerated-compute-insights/",
+          "summary": "Accelerator bills have become one of the largest lines in the infrastructure budget. GPUs have become the most expensive resource in modern computing, and yet most organizations op…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-11T18:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7c55f4f2e709",
+          "title": "Anthropic’s Claude Fable 5.2 built a shooter in 1 prompt — and it only took 8 hours and $550",
+          "titleZh": "Anthropic’s Claude Fable 5.2 built a shooter in 1 prompt — and it only took 8 hours and $550",
+          "url": "https://thenewstack.io/claude-fable-game-demos/",
+          "summary": "An Anthropic engineer gave Claude Fable 5.2 one prompt to build a first-person shooter and let it run for eight hours without human feedback. By the end, the model had processed 44…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-11T17:52:06.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "ef3c579f661f",
+          "title": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+          "titleZh": "‘Milestone quarter’: Solana Company reports Q3 revenue growth driven by staking rewards",
+          "url": "https://www.theblock.co/news/business/2026-11-11-solana-company-reports-q3-revenue-growth-438448",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-12T02:25:14.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "48e8b4afeffa",
+          "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+          "titleZh": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+          "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-12T02:23:45.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "c191264ddc04",
+    "91c2d65f4253",
+    "4639984632fb"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 36,
+    "itemsFiltered": 0,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 67,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
