@@ -1,0 +1,1184 @@
+{
+  "date": "2026-11-13",
+  "generatedAt": "2026-11-13T02:52:14.635Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "4e2cd5fae493",
+          "title": "黄仁勋下台，14家华尔街投行火速解读：共识是“无人可替”，有人感叹“他哪来的时间？”",
+          "titleZh": "黄仁勋下台，14家华尔街投行火速解读：共识是“无人可替”，有人感叹“他哪来的时间？”",
+          "url": "https://wallstreetcn.com/articles/3785851",
+          "summary": "英伟达已经宣布，公司联合创始人、执掌公司33年的唯一一任CEO黄仁勋即时辞职，同时卸任董事会职务。CFO Colette Kress兼任临时CEO，Synopsys资深人士Harvey Jones出任公司首位董事会主席，永久CEO人选将同时考虑内外部候选人。 消息在美东时间12日上午8点48分落地。到开盘前，英伟达股价已跌约10%至156美元附近，跌破52周…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T01:15:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5ed49437e21b",
+          "title": "一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果",
+          "titleZh": "一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果",
+          "url": "https://wallstreetcn.com/articles/3785854",
+          "summary": "黄仁勋离开了他掌舵33年的英伟达。 “英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。 Semianalysis将英伟达类比成下一个苹果。 在如此规模和体量下，只有另一个有远见的创始人公司在创始人离任后依然发展良好的案例，那就是史蒂夫·乔布斯领导下的苹果公司。 SpaceX和特斯拉在没有埃隆的情况下…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T01:13:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "934f600dc84d",
+          "title": "叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”",
+          "titleZh": "叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”",
+          "url": "https://wallstreetcn.com/articles/3785850",
+          "summary": "据新华社报道，美国总统特朗普12日在社交媒体上称，已要求副总统万斯把全部注意力集中在美国各地民主党执政城市和州“正在发生的大规模腐败与犯罪”上，并称美国不需要与伊朗达成协议。这一表态标志着特朗普对伊政策出现重大转向。 当地时间11月12日，特朗普称，“我们不需要与伊朗达成任何协议，那些日子早已过去”，同时叫停万斯正在推进的美伊谈判进程，放弃此前坚持的以核协议…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T00:40:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "accad8be0726",
+          "title": "黄仁勋出局，英伟达5000亿美元AI融资计划也悬了",
+          "titleZh": "黄仁勋出局，英伟达5000亿美元AI融资计划也悬了",
+          "url": "https://wallstreetcn.com/articles/3785848",
+          "summary": "英伟达创始人兼首席执行官黄仁勋的突然离职，令这家芯片巨头一项雄心勃勃的AI融资计划陷入更深的不确定性。这项由黄仁勋亲自主导、联合华尔街六大资产管理巨头打造的5000亿美元AI计算基础设施融资平台，在黄仁勋出局之前便已问题重重，如今前景更加扑朔迷离。 据彭博社11月13日报道，知情人士透露，在过去数月内未能促成任何交易之后，英伟达近一个月来已面临来自部分客户和…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T00:24:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "41ca15f1497c",
+          "title": "黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌",
+          "titleZh": "黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌",
+          "url": "https://wallstreetcn.com/articles/3785829",
+          "summary": "英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。 当地时间11月12日，英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司首席财务官Colette Kress接任临时CEO，董事会将同时考虑内部和外部候选人，启动正式继任者遴选…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T00:05:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aaeecfcf00ee",
+          "title": "SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易",
+          "titleZh": "SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易",
+          "url": "https://wallstreetcn.com/articles/3785849",
+          "summary": "SpaceX与特斯拉的合并谈判正在加速推进，这笔交易一旦落地，将成为全球有史以来规模最大的并购案，彻底重塑全球交易市场的边界。 据彭博报道，知情人士透露，双方最快可能在12月宣布这笔交易，这一激进时间表折射出马斯克在企业运作上一贯的快节奏风格。与此同时，双方也讨论了公告推迟至2027年初的备选方案。消息传出后，特斯拉股价当日盘中最高涨幅达1.9%，Space…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T00:12:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "47563e2a9e3d",
+          "title": "Introducing Gemini 4 Hydrogen",
+          "titleZh": "Introducing Gemini 4 Hydrogen",
+          "url": "https://deepmind.google/blog/introducing-gemini-4-hydrogen/",
+          "summary": "Nov 12, 2026 | Hydrogen brings cutting-edge intelligence to everyone. Your browser does not support the audio element. Listen to article [[duration]] minutes This content is genera…",
+          "whyItMatters": "",
+          "sourceName": "Google DeepMind",
+          "publishedAt": "2026-11-12T18:00:50.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "64b9d3eaec30",
+          "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "titleZh": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+          "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+          "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security …",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-12T20:16:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b0f81cbdf296",
+          "title": "llm-gemini 0.37",
+          "titleZh": "llm-gemini 0.37",
+          "url": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+          "summary": "Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It's actually not too far off the price of its much bigger sibling…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-12T22:55:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "018d6fe24eea",
+          "title": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+          "titleZh": "Ars Live: What drone attacks on data centers mean for modern life in the cloud",
+          "url": "https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/",
+          "summary": "Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-12T19:59:59.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f5dd4eb31c32",
+          "title": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+          "titleZh": "Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash",
+          "url": "https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/",
+          "summary": "Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen'…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-12T19:23:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e719805b8fa5",
+          "title": "Netflix releases new trailer for Ray Gunn",
+          "titleZh": "Netflix releases new trailer for Ray Gunn",
+          "url": "https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/",
+          "summary": "We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird's blend of a Jetsons-like future with classic 1930s …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-12T18:38:38.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "79fe0c61ff53",
+          "title": "‘A high probability’: Congress pushes tighter export controls following Nvidia scandal",
+          "titleZh": "‘A high probability’: Congress pushes tighter export controls following Nvidia scandal",
+          "url": "https://www.semafor.com/article/11/12/2026/a-high-probability-congress-pushes-tighter-export-controls-following-nvidia-scandal",
+          "summary": "The News Republican and Democratic leaders are coalescing behind a new crackdown on advanced chip exports to China following the Nvidia scandal that could become law by the end of …",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-12T21:04:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "出口管制（Google News）",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS2VDTEpkZ2dyLUVta1BCVkNiOGNSRFpsN1lpQUptanRKdENtcmRjYWhWOGxWdWU0SjU1NVB2dWZvNkQ3cUJGcm9rLVY2TmVjMTVFTUJmaHVYa2VRLU44N0xvVkpVaFBSdFE4TklyeTFuSWVqWnNqbU43LUUxd3FqaUNFUlRJVHBFMnh1cUF0M0o1dHphSmVSa3djbkMyU0VMdzhWU09ib2RIeE1GQ283YllYNjBIZXhTa012MU5oT0FkMzBU?oc=5"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d8c4bd7a9c5c",
+          "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
+          "titleZh": "In reversal, American Cancer Society urges routine prostate cancer screening",
+          "url": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
+          "summary": "In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that men get routinely screened for prostate cancer with a …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-12T22:59:51.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "af4aa22438db",
+          "title": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+          "titleZh": "Chris Van Hollen to challenge Schumer for Senate majority leader",
+          "url": "https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader",
+          "summary": "Sen. Chris Van Hollen announced Thursday that he'll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen's bid gives grassroots activists nearly three weeks to p…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-13T02:06:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fceb6952589d",
+          "title": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
+          "titleZh": "House Democratic leaders face fallout over poorly timed floor vote fumbles",
+          "url": "https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries",
+          "summary": "A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by surprise Republican vic…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-13T00:34:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "57caf44482d4",
+          "title": "Senate Dems can look forward to unlikely MAGA allies",
+          "titleZh": "Senate Dems can look forward to unlikely MAGA allies",
+          "url": "https://www.axios.com/2026/11/13/senate-democrats-republicans-hawley-moreno-banks",
+          "summary": "Senate Democrats could find some of their most surprising allies next Congress from the right wing of the Republican Party . Why it matters: Senate Democrats are on track to need o…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-13T00:32:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e88afe03c236",
+          "title": "🔥 Jensen Huang and the future of the AI boom",
+          "titleZh": "🔥 Jensen Huang and the future of the AI boom",
+          "url": "https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the",
+          "summary": "Image generated using GPT-6 Astra Jensen Huang has resigned . The company is in an awkward position, having refused to put a succession policy in place. Colette Kress, the CFO, wil…",
+          "whyItMatters": "",
+          "sourceName": "Exponential View",
+          "publishedAt": "2026-11-12T16:19:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50cecb99c328",
+          "title": "医院集团花1元反向收购市值30亿药企，上一任实控人已身陷囹圄",
+          "titleZh": "医院集团花1元反向收购市值30亿药企，上一任实控人已身陷囹圄",
+          "url": "https://www.huxiu.com/article/4905263.html?f=rss",
+          "summary": "本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 一家市值30多亿元的上市药企，22个月内两次以1元股权对价易主。第一次接手它的实际控制人，后来因涉嫌职务侵占被捕；第二次接手它的，是一家IPO长跑六年的骨科医院集团。 更耐人寻味的是，第二位买家刚刚取得控制权，便承诺未来36个月不向上市公司注入旗下资产。 这场交易发生在2026年10月。北大医药公…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-13T02:32:51.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-13T02:51:57.811Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-13T02:51:57.811Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-13T02:51:57.811Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "134f65445f6e",
+          "title": "Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection",
+          "titleZh": "Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection",
+          "url": "https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/?utm_source=rss&utm_medium=rss&utm_campaign=teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection",
+          "summary": "Teledyne Vision Solutions showcases advanced imaging technologies for semiconductor inspection at SEMICON Europa 2026 , taking place November 10-13, 2026, at Messe München in Munic…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-12T23:04:57.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bd1043f26e61",
+          "title": "ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed",
+          "titleZh": "ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed",
+          "url": "https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/?utm_source=rss&utm_medium=rss&utm_campaign=vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed",
+          "summary": "ViTrox is participating in SEMICON Europa 2026, taking place at the Trade Fair Centre Messe München, Munich, Germany, from 10th to 13th November 2026. At Hall C2, Booth #174, visit…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-12T23:02:06.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7b30f00e9b49",
+          "title": "Almere, Flevoland and Q.ANT Team Up for Computing with Light",
+          "titleZh": "Almere, Flevoland and Q.ANT Team Up for Computing with Light",
+          "url": "https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/?utm_source=rss&utm_medium=rss&utm_campaign=almere-flevoland-and-q-ant-team-up-for-computing-with-light",
+          "summary": "German deep-tech company Q.ANT, Innovally and Horizon Flevoland marked their collaboration today at SEMICON Europa in Munich with a ceremony commemorating the signing of a Memorand…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-12T22:57:34.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c0aa0ab92d3e",
+          "title": "Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing",
+          "titleZh": "Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing",
+          "url": "https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/?utm_source=rss&utm_medium=rss&utm_campaign=aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing",
+          "summary": "Aeluma, Inc. (NASDAQ: ALMU), a semiconductor company specializing in high-performance, scalable technologies for AI, mobile and consumer, defense and aerospace, and quantum, announ…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-12T22:27:38.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "29db9a7d53ec",
+          "title": "Reporter’s notebook: shooting brings home grim reality in the US capital",
+          "titleZh": "Reporter’s notebook: shooting brings home grim reality in the US capital",
+          "url": "https://www.scmp.com/news/us/politics/article/3374284/shooting-close-home-reporters-view-grim-reality-us-capital",
+          "summary": "We were weeks into a three-month assignment reporting from the SCMP bureau in Washington when we heard a shooting just around the corner from our apartment building. From our flat,…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-13T02:34:39.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7e8e623c82b4",
+          "title": "Meet the 27-year old behind the protein ad that helped flip Mississippi",
+          "titleZh": "Meet the 27-year old behind the protein ad that helped flip Mississippi",
+          "url": "https://www.politico.com/news/2026/11/12/ryan-sayles-scott-colom-viral-protein-ad-01163508",
+          "summary": "You know you’ve made a good ad when it’s outperforming an endorsement video from Barack Obama. Ryan Sayles, a 27-year-old Mississippi content creator, is behind arguably the best p…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-12T22:34:55.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "655abea7abac",
+          "title": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
+          "titleZh": "COP31: How Ed Miliband answered Carbon Brief readers’ questions",
+          "url": "https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions",
+          "summary": "Print article Share UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to answer readers’ questions. Carbon Brief r…",
+          "whyItMatters": "",
+          "sourceName": "Carbon Brief",
+          "publishedAt": "2026-11-12T16:55:59.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bd69f5081d9c",
+          "title": "Ohio GOP circulates bill that would stymie coal plant closures",
+          "titleZh": "Ohio GOP circulates bill that would stymie coal plant closures",
+          "url": "https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures",
+          "summary": "Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, befo…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-12T22:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa594e17ae4e",
+          "title": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+          "titleZh": "As coal burn declines, rising power demand will be primarily met by renewables: EIA",
+          "url": "https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/",
+          "summary": "The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 …",
+          "whyItMatters": "",
+          "sourceName": "Utility Dive",
+          "publishedAt": "2026-11-12T18:25:33.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "a1bc058e9880",
+          "title": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+          "titleZh": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+          "url": "https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback",
+          "summary": "Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss of crucial neurons",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-13T02:52:00.548Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0ac9642fab98",
+          "title": "As food becomes scarce, Asian elephant friendships fall apart",
+          "titleZh": "As food becomes scarce, Asian elephant friendships fall apart",
+          "url": "https://www.science.org/content/article/food-becomes-scarce-asian-elephant-friendships-fall-apart",
+          "summary": "Social breakdown poses long-term risks to the population",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-13T02:52:00.548Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c3e3bd02f094",
+          "title": "Celebrity psychiatrist who performs brain scans tapped for NIH’s mental health council",
+          "titleZh": "Celebrity psychiatrist who performs brain scans tapped for NIH’s mental health council",
+          "url": "https://www.science.org/content/article/celebrity-psychiatrist-who-performs-brain-scans-tapped-nih-s-mental-health-council",
+          "summary": "Daniel Amen’s pending appointment reflects growing influence of Make America Healthy Again movement on federally funded psychiatric research",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-13T02:52:00.548Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "444d3ff2f910",
+          "title": "GitHub availability report: October 2026",
+          "titleZh": "GitHub availability report: October 2026",
+          "url": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+          "summary": "We continue to share monthly updates on the work behind GitHub&rsquo;s availability and reliability. The short version of October: we added substantial independently scalable Azure…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-11-13T00:20:16.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e12e3fc24f6c",
+          "title": "Build once, run on any agent: A practical guide to agent skills",
+          "titleZh": "Build once, run on any agent: A practical guide to agent skills",
+          "url": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+          "summary": "How many times this week did you re-explain the same task to an agent? How many times did you ask your colleague with deep institutional knowledge how to solve a specific problem? …",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-11-12T22:54:52.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a1d485385059",
+          "title": "Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
+          "titleZh": "Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster",
+          "url": "https://thenewstack.io/gemini-4-hydrogen-orchestrator/",
+          "summary": "Google launched Gemini 4 Hydrogen on Thursday alongside a new system that changes how coding agents use AI models. Rather than keeping its most capable model running across an enti…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-12T21:26:08.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "913f3376e585",
+          "title": "Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.",
+          "titleZh": "Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.",
+          "url": "https://thenewstack.io/cursor-google-multiplayer-swarm/",
+          "summary": "Coding agents are pretty good at working in parallel : one writes a new API endpoint, another updates the tests, while a third fixes a bug elsewhere in the codebase. However, they&…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-12T21:22:46.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 38,
+    "itemsPublished": 38,
+    "itemsFiltered": 0,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
