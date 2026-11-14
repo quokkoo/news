@@ -1,0 +1,1126 @@
+{
+  "date": "2026-11-14",
+  "generatedAt": "2026-11-14T02:39:28.288Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度等 8 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "9ff064efe0b1",
+          "title": "Agencies extend comment period for proposed third-party risk management guidance",
+          "titleZh": "Agencies extend comment period for proposed third-party risk management guidance",
+          "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+          "summary": "November 13, 2026 Agencies extend comment period for proposed third-party risk management guidance Board of Governors of the Federal Reserve System Federal Deposit Insurance Corpor…",
+          "whyItMatters": "",
+          "sourceName": "美联储公告",
+          "publishedAt": "2026-11-13T21:15:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "38f336b55872",
+          "title": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+          "titleZh": "OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型",
+          "url": "https://wallstreetcn.com/articles/3785914",
+          "summary": "OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道，OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。在英伟达的一项测试中，由Astra驱…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-14T01:09:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d80cf63bbafa",
+          "title": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
+          "titleZh": "美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11",
+          "url": "https://wallstreetcn.com/articles/3785927",
+          "summary": "据新华社报道，美国联邦航空管理局11月13日以“特殊情况和安全原因”为由，发布全国范围的航班暂停起飞指令。该事件造成逾万架次航班延误或取消，成为近年来美国航空史上影响最为深远的停飞事件之一。 此次停飞令于美东时间下午3时53分生效，起因为影响全美空中航路交通管制中心的通信系统故障。航班追踪网站FlightAware的数据显示，截至当日下午6时40分，全美已有…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-14T01:05:38.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9ee0e941085a",
+          "title": "同样是科技巨头IPO，Anthropic为何比SpaceX上市定价更保守",
+          "titleZh": "同样是科技巨头IPO，Anthropic为何比SpaceX上市定价更保守",
+          "url": "https://wallstreetcn.com/articles/3785926",
+          "summary": "Anthropic正寻求打破SpaceX创下的史上最大IPO纪录，但在定价策略上，这家Claude开发商选择了一条截然不同的路径——将更多主动权交给机构投资者，而非单方面设定价格。 华尔街见闻提及，Anthropic正以每股70至78美元的区间价格向投资者询价，目标完全稀释估值约为1.4万亿美元，计划通过IPO募资最多644亿美元，另通过私募融资260亿美元…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-13T23:44:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8b698af3150",
+          "title": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
+          "titleZh": "Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”",
+          "url": "https://wallstreetcn.com/articles/3785931",
+          "summary": "Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望\"少承诺、多兑现\"，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-14T01:37:31.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9d079110406e",
+          "title": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
+          "titleZh": "马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”",
+          "url": "https://wallstreetcn.com/articles/3785930",
+          "summary": "黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时，承载一请愿活动的网站因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-14T01:29:54.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "0559848f58bf",
+          "title": "Advancing science & engineering with Antigravity’s /teamwork",
+          "titleZh": "Advancing science & engineering with Antigravity’s /teamwork",
+          "url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/",
+          "summary": "Over the past several weeks, teams across Google and academic partner institutions have tackled open problems in math, science, and complex systems engineering that had remained op…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-11-13T20:47:18.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ac9c30a436ed",
+          "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "titleZh": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+          "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+          "summary": "This walkthrough showcases a beverage can pick-and-place task that uses the UR17G arm , Robotiq 2F-140 gripper , and beverage can to compose a scene in Isaac Sim, check their behav…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-11-13T18:00:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b8f3134e96ce",
+          "title": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "titleZh": "Millions of Americans are not taking their GLP-1 drugs as prescribed",
+          "url": "https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/",
+          "summary": "GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-13T21:59:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ab8ccbbd0be7",
+          "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "titleZh": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+          "url": "https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/",
+          "summary": "STARBASE, Texas—Starship lifted off right on schedule Friday from South Texas, making its 15th test flight in more than three years. The largely successful launch took place in the…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-14T00:49:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b62e11440ddd",
+          "title": "In elephants, the resilience of communities has its limits",
+          "titleZh": "In elephants, the resilience of communities has its limits",
+          "url": "https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/",
+          "summary": "Elephants live in some of the most complex and resilient societies in the animal kingdom. Individuals die or move away, calves grow up, and newcomers join, but the local communitie…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-13T20:03:13.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3c364996cccf",
+          "title": "How Nvidia’s Jensen Huang – and Trump – jumped the guardrails",
+          "titleZh": "How Nvidia’s Jensen Huang – and Trump – jumped the guardrails",
+          "url": "https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails",
+          "summary": "The Scoop In January, the general counsel for what was then the world’s most valuable company delivered a blunt directive on chip export controls to more than a dozen government of…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-13T20:34:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "出口管制（Google News）",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX2RQRHdqdFg5cV9jWUREU2MzR29kOFBPSllsU29oYVIzVzItdGlNR2VkZllTb3hWaFhIaFlyVnZ3elZtS1VqTHhJbi0zbFNfYkR3cTVYb3VrTDhwYndHenJMdUxSOUwydjN6RzBXYzJOdVdYd0dvcERmWnFZRlA0LWhvYU5jdnpqYlM3aVZpaUJDb2ZEdnN5OVdLMElXQnpt?oc=5"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "dca60de378a9",
+          "title": "XYBench: Helping with the problem behind the question",
+          "titleZh": "XYBench: Helping with the problem behind the question",
+          "url": "https://huggingface.co/blog/allenai/xybench",
+          "summary": "📄 Paper | 🤗 Data | 💻 Code Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of…",
+          "whyItMatters": "",
+          "sourceName": "Hugging Face",
+          "publishedAt": "2026-11-13T17:02:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d3e7817f129c",
+          "title": "FAA issues national ground stop",
+          "titleZh": "FAA issues national ground stop",
+          "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+          "summary": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=5…",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-13T21:05:53.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "6abf0b73f2d6",
+          "title": "FAA ends hours-long nationwide ground stop",
+          "titleZh": "FAA ends hours-long nationwide ground stop",
+          "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+          "summary": "The FAA lifted its nationwide ground stop Friday night after hours of chaos and thousands of delays and cancellations. Why it matters: The effects of the rare and extreme move will…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-14T02:10:10.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "88a68e11da01",
+          "title": "Mississippi River cruise crash has no fatalities, critical injuries",
+          "titleZh": "Mississippi River cruise crash has no fatalities, critical injuries",
+          "url": "https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike",
+          "summary": "Thirty-two people are in local hospitals and all passengers and crew are accounted for after a tanker collided with a Mississippi River cruise ship near the Port of New Orleans , o…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-14T01:17:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "42c3200e3f13",
+          "title": "谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者",
+          "titleZh": "谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者",
+          "url": "https://www.huxiu.com/article/4905561.html?f=rss",
+          "summary": "本文来自微信公众号： 欧洲价值 ，作者：叶克飞，编辑：郑大钱 柏林墙倒塌37周年（6） 柏林墙倒塌后，德国媒体每年都会进行各种关于柏林墙的社会调查，尤其是在五周年、十周年这类整数纪念年份，类似调查更是铺天盖地。进行调查的媒体很多，涉及的地区和样本不同，不同年份又有区别，所以可以参考的数据非常多，有兴趣的人可以自行查阅。 数据虽多，但大方向趋同，也可以见到德国…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-14T02:30:48.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "44ac7101c7c8",
+          "title": "腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列",
+          "titleZh": "腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列",
+          "url": "https://www.huxiu.com/article/4905443.html?f=rss",
+          "summary": "本文来自微信公众号：针尖，作者：针尖，头图来自：AI生成 AI时代，信息即权力。 信息差是现代政治经济组织的第一重基础，再往上是财权和人事权。管理层通过操纵信息差以获得后两重资源的分配合理性。 这些信息分为五层： 1.纵向层级差：高层知道战略，中层知道分解，执行层知道动作。 2.横向部门差：销售不知道研发进度，研发不知道财务底线。 3.内外差：公司知道而外部…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-14T02:27:06.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "035518341aa0",
+          "title": "医学真人秀不能拿“盲猜”当看点",
+          "titleZh": "医学真人秀不能拿“盲猜”当看点",
+          "url": "https://www.huxiu.com/article/4905558.html?f=rss",
+          "summary": "本文来自微信公众号： 经济观察网 ，作者：苏斯楠 “盲猜”“写病历只是套路”等表述为何出现在镜头里？当流量成为内容生产的重要考量，综艺节目又该如何兼顾娱乐性、真实性与社会价值？ “手握10篇SCI”“盲猜是颅咽管瘤”“写病历只是套路”……这些出自职场观察真人秀《令人心动的offer》第八季的台词，正在成为全网热议的话题。 这档节目于10月21日在腾讯视频首播…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-14T02:20:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-14T02:39:19.818Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-14T02:39:19.818Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-14T02:39:19.818Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "0822f415aa74",
+          "title": "New Insights Into a Promising Material for Next-Generation Electronics",
+          "titleZh": "New Insights Into a Promising Material for Next-Generation Electronics",
+          "url": "https://www.semiconductor-digest.com/new-insights-into-a-promising-material-for-next-generation-electronics/?utm_source=rss&utm_medium=rss&utm_campaign=new-insights-into-a-promising-material-for-next-generation-electronics",
+          "summary": "Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems, and indus…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-13T18:32:36.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ffe721c3887b",
+          "title": "Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships",
+          "titleZh": "Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships",
+          "url": "https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&utm_medium=rss&utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships",
+          "summary": "Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its fourth quarter and fiscal year ended Oct. 25, 2026. Fourth Quarter Results Applied generated record revenue of…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-13T18:27:10.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "44878f84854b",
+          "title": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+          "titleZh": "Nvidia board reportedly approached Arm CEO Rene Haas during replacement search",
+          "url": "https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void",
+          "summary": "Nvidia's board of directors has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, according to a report from the Financial Times that cites people …",
+          "whyItMatters": "",
+          "sourceName": "Tom's Hardware",
+          "publishedAt": "2026-11-13T21:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a1a56e84123e",
+          "title": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+          "titleZh": "Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs",
+          "url": "https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/",
+          "summary": "Nova Scotia is unlikely to become the next great destination for wafer fabs. But its semiconductor and microelectronics opportunity may be more relevant to the region’s economy: as…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-13T18:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "561e9705e0f5",
+          "title": "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
+          "titleZh": "Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value",
+          "summary": "“I thought spooks were supposed to be stealthy,” the uncouth, flatulent anti-hero Jackson Lamb complains in the hit British spy series Slow Horses as an annoying underling loudly e…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-14T01:30:08.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a86e4be42883",
+          "title": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+          "titleZh": "China holds 80% of world’s underwater data centre patents as computing energy demands grow",
+          "url": "https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow",
+          "summary": "China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the f…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-14T01:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bf44ebabf405",
+          "title": "White House confirms US-China-Russia trilateral on Apec sidelines",
+          "titleZh": "White House confirms US-China-Russia trilateral on Apec sidelines",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines",
+          "summary": "The White House on Friday confirmed an unprecedented meeting between leaders of the US, China and Russia has been scheduled to take place on the sidelines of the Asia-Pacific Econo…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-14T00:30:57.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5148ef05eeb3",
+          "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
+          "titleZh": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
+          "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! TechCrunch",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-11-13T18:40:30.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "TechCrunch",
+              "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "f98928c42abd",
+          "title": "How California Gov.-elect Becerra could be better on climate than Newsom",
+          "titleZh": "How California Gov.-elect Becerra could be better on climate than Newsom",
+          "url": "https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate",
+          "summary": "This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Welcome back, everyone! Well, we m…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-13T20:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a39aa0d52a7c",
+          "title": "‘Electrify everything’ hits the global stage",
+          "titleZh": "‘Electrify everything’ hits the global stage",
+          "url": "https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference",
+          "summary": "This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. World leaders — well, some of them — gathered in Turkey this week for C…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-13T16:14:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "9aec3c842cf3",
+          "title": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk",
+          "titleZh": "Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk",
+          "url": "https://thenewstack.io/self-hosted-claude-managed-agents/",
+          "summary": "Anthropic has unveiled a self-hosted version of its platform for building and running AI agents. Self-hosted Claude Managed Agents , as it’s aptly called, is available now in priva…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-13T21:29:30.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9f20cfce546a",
+          "title": "The context problem: It’s what’s really breaking AI agents at scale",
+          "titleZh": "The context problem: It’s what’s really breaking AI agents at scale",
+          "url": "https://thenewstack.io/elastic-ai-context-gap/",
+          "summary": "AI models are getting smarter , tokens are getting cheaper, and agents are improving. But the context gap sits between the modern enterprise and agentic nirvana, keeping many compa…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-13T18:15:22.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6f148e91d707",
+          "title": "DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it",
+          "titleZh": "DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it",
+          "url": "https://thenewstack.io/deepseek-harness-cleanup-benchmark/",
+          "summary": "DeepSeek&rsquo;s open-source coding agent is losing points on a major benchmark for a habit developers usually treat as good practice: cleaning up after itself. The problem surface…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-13T17:56:30.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f4f9da10f0a1",
+          "title": "Here’s how to teach AI agents to search like human experts",
+          "titleZh": "Here’s how to teach AI agents to search like human experts",
+          "url": "https://thenewstack.io/ai-agents-retrieval-agent-ready-schema/",
+          "summary": "Agentic retrieval is a hot topic for a reason: Every company wants to automate work, but they often just are not ready. It&rsquo;s also extremely easy — and tempting — to spin up a…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-13T14:50:37.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 36,
+    "itemsPublished": 36,
+    "itemsFiltered": 0,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 66,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

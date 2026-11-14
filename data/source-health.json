@@ -1,9 +1,14 @@
 {
-  "updatedAt": "2026-11-13T02:52:13.240Z",
+  "updatedAt": "2026-11-14T02:39:27.206Z",
   "sources": {
     "wsj-markets": {
       "name": "WSJ Markets",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 24
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -33,11 +38,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 27
         }
       ],
       "consecutiveFailures": 0,
@@ -46,6 +46,11 @@
     "wsj-world": {
       "name": "WSJ World News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 12
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -75,11 +80,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 12
         }
       ],
       "consecutiveFailures": 0,
@@ -88,6 +88,11 @@
     "wsj-business": {
       "name": "WSJ Business",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 32
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -117,11 +122,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 7
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 22
         }
       ],
       "consecutiveFailures": 0,
@@ -130,6 +130,11 @@
     "bloomberg-markets": {
       "name": "Bloomberg Markets",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 20
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -159,11 +164,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 20
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 16
         }
       ],
       "consecutiveFailures": 0,
@@ -172,6 +172,11 @@
     "bloomberg-economics": {
       "name": "Bloomberg Economics",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 18
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -201,11 +206,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 7
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 19
         }
       ],
       "consecutiveFailures": 0,
@@ -214,6 +214,11 @@
     "cnbc-economy": {
       "name": "CNBC Economy",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -243,11 +248,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -256,6 +256,11 @@
     "cnbc-finance": {
       "name": "CNBC Finance",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -285,11 +290,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -298,6 +298,11 @@
     "marketwatch-top": {
       "name": "MarketWatch",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -327,11 +332,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 10
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -340,6 +340,11 @@
     "ftchinese": {
       "name": "FT中文网",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -370,11 +375,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -383,6 +383,11 @@
     "wallstreetcn": {
       "name": "华尔街见闻",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 59
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -412,11 +417,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 24
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 55
         }
       ],
       "consecutiveFailures": 0,
@@ -425,6 +425,11 @@
     "eastmoney": {
       "name": "东方财富",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -454,19 +459,19 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 52
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0
         }
       ],
-      "consecutiveFailures": 1,
+      "consecutiveFailures": 2,
       "successRate7d": 0.42857142857142855
     },
     "fed-press": {
       "name": "美联储公告",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -496,11 +501,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -509,6 +509,11 @@
     "ecb-press": {
       "name": "欧洲央行公告",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -538,11 +543,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -551,6 +551,11 @@
     "calculated-risk": {
       "name": "Calculated Risk",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -578,11 +583,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -594,6 +594,11 @@
       "name": "Reuters（经 Google News）",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 40
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 40
@@ -622,11 +627,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 40
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 40
         }
       ],
       "consecutiveFailures": 0,
@@ -635,6 +635,11 @@
     "techcrunch": {
       "name": "TechCrunch",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 13
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -664,11 +669,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 7
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 15
         }
       ],
       "consecutiveFailures": 0,
@@ -677,6 +677,11 @@
     "theverge": {
       "name": "The Verge",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -706,11 +711,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 9
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -719,6 +719,11 @@
     "arstechnica": {
       "name": "Ars Technica",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 14
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -748,11 +753,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 2
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 17
         }
       ],
       "consecutiveFailures": 0,
@@ -761,6 +761,11 @@
     "hn-front": {
       "name": "Hacker News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 10
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -790,11 +795,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 13
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 9
         }
       ],
       "consecutiveFailures": 0,
@@ -803,6 +803,11 @@
     "hn-best": {
       "name": "Hacker News Best",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 8
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -833,20 +838,19 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 9
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 502"
         }
       ],
-      "consecutiveFailures": 1,
-      "successRate7d": 0.7142857142857143
+      "consecutiveFailures": 0,
+      "successRate7d": 0.8571428571428571
     },
     "mit-tr": {
       "name": "MIT Technology Review",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -876,11 +880,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -889,6 +888,11 @@
     "openai-news": {
       "name": "OpenAI",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -918,11 +922,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -932,6 +931,11 @@
       "name": "Google DeepMind",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -963,11 +967,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Non-whitespace before first tag.\nLine: 0\nColumn: 1\nChar: \u001f"
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -977,6 +976,11 @@
       "name": "Google Research",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -1003,11 +1007,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -1018,6 +1017,11 @@
     "huggingface": {
       "name": "Hugging Face",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1047,11 +1051,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1060,6 +1059,12 @@
     "import-ai": {
       "name": "Import AI",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -1092,12 +1097,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
-        },
-        {
-          "date": "2026-11-07",
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"
@@ -1110,6 +1109,11 @@
       "name": "Latent Space",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 2
@@ -1138,11 +1142,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -1151,6 +1150,11 @@
     "interconnects": {
       "name": "Interconnects",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1180,11 +1184,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -1193,6 +1192,11 @@
     "simonwillison": {
       "name": "Simon Willison",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1222,11 +1226,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1235,6 +1234,11 @@
     "semafor-tech": {
       "name": "Semafor",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 31
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1264,11 +1268,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 29
         }
       ],
       "consecutiveFailures": 0,
@@ -1277,6 +1276,11 @@
     "ifanr": {
       "name": "爱范儿",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1306,11 +1310,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -1319,6 +1318,11 @@
     "geekpark": {
       "name": "极客公园",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -1352,19 +1356,19 @@
           "ok": false,
           "itemCount": 0,
           "error": "Request timed out after 15000ms"
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 3
         }
       ],
-      "consecutiveFailures": 2,
+      "consecutiveFailures": 0,
       "successRate7d": 0.42857142857142855
     },
     "cnbeta": {
       "name": "cnBeta",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 80
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1394,11 +1398,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 44
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 58
         }
       ],
       "consecutiveFailures": 0,
@@ -1407,6 +1406,11 @@
     "solidot": {
       "name": "Solidot",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 9
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1436,11 +1440,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -1450,6 +1449,11 @@
       "name": "Stratechery",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -1478,11 +1482,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -1492,6 +1491,11 @@
       "name": "The Generalist",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -1518,11 +1522,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -1533,6 +1532,11 @@
     "huxiu": {
       "name": "虎嗅",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 20
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1562,11 +1566,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 5
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 8
         }
       ],
       "consecutiveFailures": 0,
@@ -1575,6 +1574,11 @@
     "tmtpost": {
       "name": "钛媒体",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 17
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1604,11 +1608,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 17
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 17
         }
       ],
       "consecutiveFailures": 0,
@@ -1617,6 +1616,11 @@
     "axios": {
       "name": "Axios",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 16
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1646,11 +1650,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 15
         }
       ],
       "consecutiveFailures": 0,
@@ -1660,6 +1659,11 @@
       "name": "Exponential View",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -1688,11 +1692,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -1702,6 +1701,11 @@
       "name": "Paul Graham",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 20
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 20
@@ -1728,11 +1732,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 20
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 20
         }
@@ -1744,6 +1743,11 @@
       "name": "Not Boring",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -1772,11 +1776,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1786,6 +1785,11 @@
       "name": "Sequoia Capital",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -1812,11 +1816,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -1828,6 +1827,11 @@
       "name": "Astral Codex Ten",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -1856,11 +1860,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -1869,6 +1868,11 @@
     "marginalrevolution": {
       "name": "Marginal Revolution",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 6
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1898,11 +1902,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -1911,6 +1910,11 @@
     "benedictevans": {
       "name": "Benedict Evans",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -1938,11 +1942,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -1954,6 +1953,11 @@
       "name": "One Useful Thing",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -1980,11 +1984,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -1996,6 +1995,11 @@
       "name": "Construction Physics",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -2024,11 +2028,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -2037,6 +2036,11 @@
     "noahpinion": {
       "name": "Noahpinion",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2066,11 +2070,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -2079,6 +2078,11 @@
     "pragmatic-engineer": {
       "name": "The Pragmatic Engineer",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2106,11 +2110,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -2122,6 +2121,11 @@
       "name": "SemiAnalysis",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -2150,11 +2154,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2163,6 +2162,11 @@
     "digitimes": {
       "name": "DigiTimes Asia",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 48
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2192,11 +2196,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 7
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 35
         }
       ],
       "consecutiveFailures": 0,
@@ -2205,6 +2204,11 @@
     "eetimes": {
       "name": "EE Times",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2234,11 +2238,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -2247,6 +2246,11 @@
     "nikkei-asia": {
       "name": "日经亚洲",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 50
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2276,11 +2280,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 50
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 50
         }
       ],
       "consecutiveFailures": 0,
@@ -2289,6 +2288,11 @@
     "tomshardware": {
       "name": "Tom's Hardware",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 14
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2318,11 +2322,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 11
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 13
         }
       ],
       "consecutiveFailures": 0,
@@ -2331,6 +2330,11 @@
     "trendforce": {
       "name": "TrendForce",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2361,11 +2365,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2374,6 +2373,11 @@
     "semiconductor-digest": {
       "name": "Semiconductor Digest",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 2
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2403,11 +2407,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -2416,6 +2415,11 @@
     "politico": {
       "name": "Politico",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 5
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2445,11 +2449,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 7
         }
       ],
       "consecutiveFailures": 0,
@@ -2458,6 +2457,11 @@
     "foreignaffairs": {
       "name": "Foreign Affairs",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2487,11 +2491,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -2500,6 +2499,11 @@
     "scmp-china": {
       "name": "南华早报",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 16
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2529,11 +2533,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 11
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 21
         }
       ],
       "consecutiveFailures": 0,
@@ -2542,6 +2541,11 @@
     "gnews-export-controls": {
       "name": "出口管制（Google News）",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 40
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2571,11 +2575,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 27
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 23
         }
       ],
       "consecutiveFailures": 0,
@@ -2585,6 +2584,11 @@
       "name": "Canary Media",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 4
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 3
@@ -2613,11 +2617,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -2627,6 +2626,11 @@
       "name": "Carbon Brief",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -2655,11 +2659,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -2668,6 +2667,11 @@
     "utilitydive": {
       "name": "Utility Dive",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2697,11 +2701,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -2710,6 +2709,12 @@
     "heatmap": {
       "name": "Heatmap News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Feed not recognized as RSS 1 or 2."
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -2745,12 +2750,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Feed not recognized as RSS 1 or 2."
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
       "consecutiveFailures": 7,
@@ -2759,6 +2758,11 @@
     "statnews": {
       "name": "STAT News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 16
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2788,11 +2792,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 4
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 14
         }
       ],
       "consecutiveFailures": 0,
@@ -2801,6 +2800,11 @@
     "endpoints": {
       "name": "Endpoints News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 7
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2830,11 +2834,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 7
         }
       ],
       "consecutiveFailures": 0,
@@ -2843,6 +2842,12 @@
     "fiercepharma": {
       "name": "FiercePharma",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "html.replace is not a function"
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -2875,12 +2880,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": false,
-          "itemCount": 0,
-          "error": "html.replace is not a function"
-        },
-        {
-          "date": "2026-11-07",
           "ok": false,
           "itemCount": 0,
           "error": "html.replace is not a function"
@@ -2893,6 +2892,11 @@
       "name": "Nature News",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -2921,11 +2925,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -2934,6 +2933,11 @@
     "science-news": {
       "name": "Science News",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -2963,11 +2967,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 4
         }
       ],
       "consecutiveFailures": 0,
@@ -2976,6 +2975,11 @@
     "fda-press": {
       "name": "FDA 公告",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3003,11 +3007,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -3019,6 +3018,11 @@
       "name": "GitHub Blog",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 2
@@ -3047,11 +3051,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 1
         }
       ],
       "consecutiveFailures": 0,
@@ -3061,6 +3060,11 @@
       "name": "Hacker News Show HN",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 1
@@ -3089,11 +3093,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3102,6 +3101,11 @@
     "infoq-en": {
       "name": "InfoQ",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 6
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3131,11 +3135,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 9
         }
       ],
       "consecutiveFailures": 0,
@@ -3144,6 +3143,12 @@
     "infoq-cn": {
       "name": "InfoQ 中文",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 404"
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -3179,12 +3184,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Feed not recognized as RSS 1 or 2."
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Feed not recognized as RSS 1 or 2."
         }
       ],
       "consecutiveFailures": 7,
@@ -3193,6 +3192,11 @@
     "changelog": {
       "name": "Changelog",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 1
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3220,11 +3224,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -3236,6 +3235,11 @@
       "name": "Go Blog",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -3262,11 +3266,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -3278,6 +3277,11 @@
       "name": "Rust Blog",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -3306,11 +3310,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3319,6 +3318,11 @@
     "thenewstack": {
       "name": "The New Stack",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 4
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3348,11 +3352,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 5
         }
       ],
       "consecutiveFailures": 0,
@@ -3361,6 +3360,11 @@
     "sspai": {
       "name": "少数派",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3390,11 +3394,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 3
         }
       ],
       "consecutiveFailures": 0,
@@ -3404,6 +3403,11 @@
       "name": "arXiv cs.AI",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -3432,11 +3436,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 120
         }
       ],
       "consecutiveFailures": 0,
@@ -3446,6 +3445,11 @@
       "name": "arXiv cs.LG",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -3474,11 +3478,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 120
         }
       ],
       "consecutiveFailures": 0,
@@ -3488,6 +3487,11 @@
       "name": "arXiv cs.CL",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 0
@@ -3516,11 +3520,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 120
         }
       ],
       "consecutiveFailures": 0,
@@ -3529,6 +3528,11 @@
     "arxiv-econ": {
       "name": "arXiv econ.GN",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3558,11 +3562,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 10
         }
       ],
       "consecutiveFailures": 0,
@@ -3571,6 +3570,11 @@
     "arxiv-qbio": {
       "name": "arXiv q-bio",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3600,11 +3604,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 40
         }
       ],
       "consecutiveFailures": 0,
@@ -3613,6 +3612,11 @@
     "nature-research": {
       "name": "Nature 研究论文",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3642,11 +3646,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 0
         }
       ],
       "consecutiveFailures": 0,
@@ -3655,6 +3654,12 @@
     "restofworld": {
       "name": "Rest of World",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Invalid character in entity name\nLine: 25\nColumn: 125\nChar: ="
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -3690,12 +3695,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Invalid character in entity name\nLine: 25\nColumn: 131\nChar: ="
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Invalid character in entity name\nLine: 25\nColumn: 131\nChar: ="
         }
       ],
       "consecutiveFailures": 7,
@@ -3704,6 +3703,12 @@
     "bof": {
       "name": "Business of Fashion",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
         {
           "date": "2026-11-13",
           "ok": false,
@@ -3739,12 +3744,6 @@
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"
-        },
-        {
-          "date": "2026-11-07",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
         }
       ],
       "consecutiveFailures": 7,
@@ -3753,6 +3752,11 @@
     "modernretail": {
       "name": "Modern Retail",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 3
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3782,11 +3786,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 1
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 2
         }
       ],
       "consecutiveFailures": 0,
@@ -3795,6 +3794,11 @@
     "technode": {
       "name": "TechNode",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 8
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3824,11 +3828,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 7
         }
       ],
       "consecutiveFailures": 0,
@@ -3837,6 +3836,11 @@
     "theblock": {
       "name": "The Block",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 17
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3866,11 +3870,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 15
         }
       ],
       "consecutiveFailures": 0,
@@ -3879,6 +3878,11 @@
     "coindesk": {
       "name": "CoinDesk",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 13
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3908,11 +3912,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 3
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 13
         }
       ],
       "consecutiveFailures": 0,
@@ -3921,6 +3920,11 @@
     "blockworks": {
       "name": "Blockworks",
       "history": [
+        {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 0
+        },
         {
           "date": "2026-11-13",
           "ok": true,
@@ -3948,11 +3952,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": true,
-          "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
           "ok": true,
           "itemCount": 0
         }
@@ -3964,6 +3963,11 @@
       "name": "Bankless",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": true,
+          "itemCount": 6
+        },
+        {
           "date": "2026-11-13",
           "ok": true,
           "itemCount": 5
@@ -3992,11 +3996,6 @@
           "date": "2026-11-08",
           "ok": true,
           "itemCount": 0
-        },
-        {
-          "date": "2026-11-07",
-          "ok": true,
-          "itemCount": 6
         }
       ],
       "consecutiveFailures": 0,
@@ -4006,6 +4005,12 @@
       "name": "Fintech Business Weekly",
       "history": [
         {
+          "date": "2026-11-14",
+          "ok": false,
+          "itemCount": 0,
+          "error": "Status code 403"
+        },
+        {
           "date": "2026-11-13",
           "ok": false,
           "itemCount": 0,
@@ -4037,12 +4042,6 @@
         },
         {
           "date": "2026-11-08",
-          "ok": false,
-          "itemCount": 0,
-          "error": "Status code 403"
-        },
-        {
-          "date": "2026-11-07",
           "ok": false,
           "itemCount": 0,
           "error": "Status code 403"

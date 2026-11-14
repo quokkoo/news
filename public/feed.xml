@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 13 Nov 2026 02:52:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:39:28 GMT</lastBuildDate>
     <item>
-      <title>【2026-11-13 今日导读】</title>
+      <title>【2026-11-14 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-11-13</guid>
-      <pubDate>Fri, 13 Nov 2026 02:52:14 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 38 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-11-14</guid>
+      <pubDate>Sat, 14 Nov 2026 02:39:28 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 36 条，覆盖 深度长文与思考、宏观经济与资本市场、前沿科技与 AI 产业、商业模式与行业深度等 8 个领域，全部读完约需 66 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>黄仁勋下台，14家华尔街投行火速解读：共识是“无人可替”，有人感叹“他哪来的时间？”</title>
-      <link>https://wallstreetcn.com/articles/3785851</link>
-      <guid isPermaLink="false">4e2cd5fae493</guid>
-      <pubDate>Fri, 13 Nov 2026 01:15:03 GMT</pubDate>
+      <title>Agencies extend comment period for proposed third-party risk management guidance</title>
+      <link>https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm</link>
+      <guid isPermaLink="false">9ff064efe0b1</guid>
+      <pubDate>Fri, 13 Nov 2026 21:15:00 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>英伟达已经宣布，公司联合创始人、执掌公司33年的唯一一任CEO黄仁勋即时辞职，同时卸任董事会职务。CFO Colette Kress兼任临时CEO，Synopsys资深人士Harvey Jones出任公司首位董事会主席，永久CEO人选将同时考虑内外部候选人。 消息在美东时间12日上午8点48分落地。到开盘前，英伟达股价已跌约10%至156美元附近，跌破52周…
+      <description>November 13, 2026 Agencies extend comment period for proposed third-party risk management guidance Board of Governors of the Federal Reserve System Federal Deposit Insurance Corpor…
+
+来源：美联储公告 · 宏观经济与资本市场 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>OpenAI解散机器人团队！GPT-6 Astra证明：通用大模型已可直接用于“物理AI”，无需专用模型</title>
+      <link>https://wallstreetcn.com/articles/3785914</link>
+      <guid isPermaLink="false">38f336b55872</guid>
+      <pubDate>Sat, 14 Nov 2026 01:09:09 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>OpenAI解散独立机器人团队，押注通用模型直驱具身智能。 11月13日，据《财富》杂志报道，OpenAI已解散独立运营的机器人团队，将相关研究人员分拨至其他部门。公司表示，此举的直接导火索是GPT-6 Astra等通用前沿模型的意外突破。 研究人员发现，这些模型可被直接应用于机器人控制任务，无需为机器人单独开发专用模型。在英伟达的一项测试中，由Astra驱…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>一个时代的结束！Semianalysis：没有黄仁勋，英伟达将成为下一个苹果</title>
-      <link>https://wallstreetcn.com/articles/3785854</link>
-      <guid isPermaLink="false">5ed49437e21b</guid>
-      <pubDate>Fri, 13 Nov 2026 01:13:20 GMT</pubDate>
+      <title>美国“全国停飞”！超过10000架次航班延误或取消，国土安全部长：不是又一次9·11</title>
+      <link>https://wallstreetcn.com/articles/3785927</link>
+      <guid isPermaLink="false">d80cf63bbafa</guid>
+      <pubDate>Sat, 14 Nov 2026 01:05:38 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>黄仁勋离开了他掌舵33年的英伟达。 “英伟达从来都不是为了在他不在的情况下而建立的。”知名半导体研究机构Semianalysis在最新报告中写道。 Semianalysis将英伟达类比成下一个苹果。 在如此规模和体量下，只有另一个有远见的创始人公司在创始人离任后依然发展良好的案例，那就是史蒂夫·乔布斯领导下的苹果公司。 SpaceX和特斯拉在没有埃隆的情况下…
+      <description>据新华社报道，美国联邦航空管理局11月13日以“特殊情况和安全原因”为由，发布全国范围的航班暂停起飞指令。该事件造成逾万架次航班延误或取消，成为近年来美国航空史上影响最为深远的停飞事件之一。 此次停飞令于美东时间下午3时53分生效，起因为影响全美空中航路交通管制中心的通信系统故障。航班追踪网站FlightAware的数据显示，截至当日下午6时40分，全美已有…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>叫停万斯与伊朗谈判，特朗普“180度转变”：转向“不战不谈”</title>
-      <link>https://wallstreetcn.com/articles/3785850</link>
-      <guid isPermaLink="false">934f600dc84d</guid>
-      <pubDate>Fri, 13 Nov 2026 00:40:56 GMT</pubDate>
+      <title>同样是科技巨头IPO，Anthropic为何比SpaceX上市定价更保守</title>
+      <link>https://wallstreetcn.com/articles/3785926</link>
+      <guid isPermaLink="false">9ee0e941085a</guid>
+      <pubDate>Fri, 13 Nov 2026 23:44:09 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>据新华社报道，美国总统特朗普12日在社交媒体上称，已要求副总统万斯把全部注意力集中在美国各地民主党执政城市和州“正在发生的大规模腐败与犯罪”上，并称美国不需要与伊朗达成协议。这一表态标志着特朗普对伊政策出现重大转向。 当地时间11月12日，特朗普称，“我们不需要与伊朗达成任何协议，那些日子早已过去”，同时叫停万斯正在推进的美伊谈判进程，放弃此前坚持的以核协议…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>黄仁勋出局，英伟达5000亿美元AI融资计划也悬了</title>
-      <link>https://wallstreetcn.com/articles/3785848</link>
-      <guid isPermaLink="false">accad8be0726</guid>
-      <pubDate>Fri, 13 Nov 2026 00:24:07 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>英伟达创始人兼首席执行官黄仁勋的突然离职，令这家芯片巨头一项雄心勃勃的AI融资计划陷入更深的不确定性。这项由黄仁勋亲自主导、联合华尔街六大资产管理巨头打造的5000亿美元AI计算基础设施融资平台，在黄仁勋出局之前便已问题重重，如今前景更加扑朔迷离。 据彭博社11月13日报道，知情人士透露，在过去数月内未能促成任何交易之后，英伟达近一个月来已面临来自部分客户和…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>黄仁勋下台有何影响？市场给出答案：博通、AMD大涨，CoreWeave、Nebius承压，费半指数微跌</title>
-      <link>https://wallstreetcn.com/articles/3785829</link>
-      <guid isPermaLink="false">41ca15f1497c</guid>
-      <pubDate>Fri, 13 Nov 2026 00:05:31 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>英伟达创始人、首席执行官黄仁勋突然离任，全球AI产业迎来重大领导层变局。这家由黄仁勋一手打造、并成为全球AI算力基础设施核心供应商的科技巨头，正式进入后黄仁勋时代。 当地时间11月12日，英伟达宣布，黄仁勋辞去公司总裁、首席执行官及董事职务，即刻生效。公司首席财务官Colette Kress接任临时CEO，董事会将同时考虑内部和外部候选人，启动正式继任者遴选…
-
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>SpaceX与特斯拉世纪合并谈判提速，最快12月宣布交易</title>
-      <link>https://wallstreetcn.com/articles/3785849</link>
-      <guid isPermaLink="false">aaeecfcf00ee</guid>
-      <pubDate>Fri, 13 Nov 2026 00:12:20 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>SpaceX与特斯拉的合并谈判正在加速推进，这笔交易一旦落地，将成为全球有史以来规模最大的并购案，彻底重塑全球交易市场的边界。 据彭博报道，知情人士透露，双方最快可能在12月宣布这笔交易，这一激进时间表折射出马斯克在企业运作上一贯的快节奏风格。与此同时，双方也讨论了公告推迟至2027年初的备选方案。消息传出后，特斯拉股价当日盘中最高涨幅达1.9%，Space…
+      <description>Anthropic正寻求打破SpaceX创下的史上最大IPO纪录，但在定价策略上，这家Claude开发商选择了一条截然不同的路径——将更多主动权交给机构投资者，而非单方面设定价格。 华尔街见闻提及，Anthropic正以每股70至78美元的区间价格向投资者询价，目标完全稀释估值约为1.4万亿美元，计划通过IPO募资最多644亿美元，另通过私募融资260亿美元…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>Introducing Gemini 4 Hydrogen</title>
-      <link>https://deepmind.google/blog/introducing-gemini-4-hydrogen/</link>
-      <guid isPermaLink="false">47563e2a9e3d</guid>
-      <pubDate>Thu, 12 Nov 2026 18:00:50 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Nov 12, 2026 | Hydrogen brings cutting-edge intelligence to everyone. Your browser does not support the audio element. Listen to article [[duration]] minutes This content is genera…
+      <title>Anthropic上市路演，CEO称“不在乎什么市场条件”，希望“少承诺、多兑现”</title>
+      <link>https://wallstreetcn.com/articles/3785931</link>
+      <guid isPermaLink="false">b8b698af3150</guid>
+      <pubDate>Sat, 14 Nov 2026 01:37:31 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>Anthropic正在冲刺史上最大规模IPO之一，其首席执行官Dario Amodei在上市前路演中展现出刻意低调的姿态——他表示公司希望&quot;少承诺、多兑现&quot;，并对上市时机的市场波动表现出相当的淡定。 据《华尔街日报》报道，Amodei于周五在摩根大通纽约总部与摩根大通CEO Jamie Dimon进行了一场直播炉边对话，现有和潜在投资者、Anthropic首…
 
-来源：Google DeepMind · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility</title>
-      <link>https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/</link>
-      <guid isPermaLink="false">64b9d3eaec30</guid>
-      <pubDate>Thu, 12 Nov 2026 20:16:24 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security …
+      <title>马斯克带头签署请愿书！硅谷力挺黄仁勋，万人联名呼吁“让创始人回归”</title>
+      <link>https://wallstreetcn.com/articles/3785930</link>
+      <guid isPermaLink="false">9d079110406e</guid>
+      <pubDate>Sat, 14 Nov 2026 01:29:54 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>黄仁勋辞去英伟达CEO职务的余波正在硅谷迅速蔓延，以马斯克为代表的科技界领军人物正积极介入，试图推动这位灵魂人物重掌帅印。 北京时间今天清晨，马斯克在社交媒体上公开确认，自己正在签署一份请求黄仁勋复职的请愿书。与此同时，承载一请愿活动的网站因访问量激增而面临服务器压力，目前已收集到超过1.4万人的签名支持。 曾在英伟达工作过的核心工程师的公开表态暗示，如果高…
 
-来源：MIT Technology Review · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>llm-gemini 0.37</title>
-      <link>https://simonwillison.net/2026/Nov/12/llm-gemini/</link>
-      <guid isPermaLink="false">b0f81cbdf296</guid>
-      <pubDate>Thu, 12 Nov 2026 22:55:19 GMT</pubDate>
+      <title>Advancing science &amp; engineering with Antigravity’s /teamwork</title>
+      <link>https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/</link>
+      <guid isPermaLink="false">0559848f58bf</guid>
+      <pubDate>Fri, 13 Nov 2026 20:47:18 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Release: llm-gemini 0.37 Google launched Gemini 4 Hydrogen today - the lowest cost member of the Gemini 4 family. It&apos;s actually not too far off the price of its much bigger sibling…
+      <description>Over the past several weeks, teams across Google and academic partner institutions have tackled open problems in math, science, and complex systems engineering that had remained op…
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Google Research · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Ars Live: What drone attacks on data centers mean for modern life in the cloud</title>
-      <link>https://arstechnica.com/gadgets/2026/11/ars-live-can-the-cloud-survive-drone-strikes-on-data-centers/</link>
-      <guid isPermaLink="false">018d6fe24eea</guid>
-      <pubDate>Thu, 12 Nov 2026 19:59:59 GMT</pubDate>
+      <title>Build a Robot Pick-and-Place Simulation with SimReady Assets</title>
+      <link>https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place</link>
+      <guid isPermaLink="false">ac9c30a436ed</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:39 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Drone and missile strikes have inflicted unprecedented damage on data centers in Eastern Europe and the Middle East this year, disrupting cloud services for millions of people and …
+      <description>This walkthrough showcases a beverage can pick-and-place task that uses the UR17G arm , Robotiq 2F-140 gripper , and beverage can to compose a scene in Isaac Sim, check their behav…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Google rolls out Gemini 4 Hydrogen, finally replacing 3.8 Flash</title>
-      <link>https://arstechnica.com/google/2026/11/google-rolls-out-gemini-4-hydrogen-finally-replacing-3-8-flash/</link>
-      <guid isPermaLink="false">f5dd4eb31c32</guid>
-      <pubDate>Thu, 12 Nov 2026 19:23:03 GMT</pubDate>
+      <title>Millions of Americans are not taking their GLP-1 drugs as prescribed</title>
+      <link>https://arstechnica.com/health/2026/11/millions-in-us-use-unapproved-glp-1s-and-use-them-in-unapproved-ways/</link>
+      <guid isPermaLink="false">b8f3134e96ce</guid>
+      <pubDate>Fri, 13 Nov 2026 21:59:01 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Google is continuing its elemental AI naming scheme with the new Gemini 4 Hydrogen . These names are less descriptive than the Pro/Flash monikers of earlier releases, but Hydrogen&apos;…
-
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Netflix releases new trailer for Ray Gunn</title>
-      <link>https://arstechnica.com/culture/2026/11/netflix-releases-new-trailer-for-ray-gunn/</link>
-      <guid isPermaLink="false">e719805b8fa5</guid>
-      <pubDate>Thu, 12 Nov 2026 18:38:38 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>We caught the first trailer for the upcoming Netflix animated film Ray Gunn in September and were charmed by director Brad Bird&apos;s blend of a Jetsons-like future with classic 1930s …
+      <description>GLP-1 medications are everywhere these days. The peptide-based drugs are both highly effective and wildly popular for diabetes, weight loss and a growing range of connected chronic…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>‘A high probability’: Congress pushes tighter export controls following Nvidia scandal</title>
-      <link>https://www.semafor.com/article/11/12/2026/a-high-probability-congress-pushes-tighter-export-controls-following-nvidia-scandal</link>
-      <guid isPermaLink="false">79fe0c61ff53</guid>
-      <pubDate>Thu, 12 Nov 2026 21:04:33 GMT</pubDate>
+      <title>Starship flight 15 powers to orbit—setting up a possible catch on Saturday</title>
+      <link>https://arstechnica.com/space/2026/11/starship-flight-15-powers-to-orbit-setting-up-a-possible-catch-on-saturday/</link>
+      <guid isPermaLink="false">ab8ccbbd0be7</guid>
+      <pubDate>Sat, 14 Nov 2026 00:49:13 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>The News Republican and Democratic leaders are coalescing behind a new crackdown on advanced chip exports to China following the Nvidia scandal that could become law by the end of …
-
-来源：Semafor · 前沿科技与 AI 产业 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>In reversal, American Cancer Society urges routine prostate cancer screening</title>
-      <link>https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/</link>
-      <guid isPermaLink="false">d8c4bd7a9c5c</guid>
-      <pubDate>Thu, 12 Nov 2026 22:59:51 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>In a significant update to its guidelines for prostate cancer screening, the American Cancer Society is now recommending that men get routinely screened for prostate cancer with a …
+      <description>STARBASE, Texas—Starship lifted off right on schedule Friday from South Texas, making its 15th test flight in more than three years. The largely successful launch took place in the…
 
 来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Chris Van Hollen to challenge Schumer for Senate majority leader</title>
-      <link>https://www.axios.com/2026/11/13/schumer-van-hollen-senate-majority-leader</link>
-      <guid isPermaLink="false">af4aa22438db</guid>
-      <pubDate>Fri, 13 Nov 2026 02:06:00 GMT</pubDate>
+      <title>In elephants, the resilience of communities has its limits</title>
+      <link>https://arstechnica.com/science/2026/11/in-elephants-the-resilience-of-communities-has-its-limits/</link>
+      <guid isPermaLink="false">b62e11440ddd</guid>
+      <pubDate>Fri, 13 Nov 2026 20:03:13 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>Elephants live in some of the most complex and resilient societies in the animal kingdom. Individuals die or move away, calves grow up, and newcomers join, but the local communitie…
+
+来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>How Nvidia’s Jensen Huang – and Trump – jumped the guardrails</title>
+      <link>https://www.semafor.com/article/11/13/2026/how-nvidias-jensen-huang-and-trump-jumped-the-guardrails</link>
+      <guid isPermaLink="false">3c364996cccf</guid>
+      <pubDate>Fri, 13 Nov 2026 20:34:12 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>The Scoop In January, the general counsel for what was then the world’s most valuable company delivered a blunt directive on chip export controls to more than a dozen government of…
+
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>XYBench: Helping with the problem behind the question</title>
+      <link>https://huggingface.co/blog/allenai/xybench</link>
+      <guid isPermaLink="false">dca60de378a9</guid>
+      <pubDate>Fri, 13 Nov 2026 17:02:35 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>📄 Paper | 🤗 Data | 💻 Code Truly useful AI assistants need to be able to help users who ask misguided questions—not just users who ask the right question with the right amount of…
+
+来源：Hugging Face · 前沿科技与 AI 产业 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>FAA issues national ground stop</title>
+      <link>https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247</link>
+      <guid isPermaLink="false">d3e7817f129c</guid>
+      <pubDate>Fri, 13 Nov 2026 21:05:53 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&amp;a... https://www.nytimes.com/live/2026/11/13/us/ground-stop-natio... Comments URL: https://news.ycombinator.com/item?id=5…
+
+来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>FAA ends hours-long nationwide ground stop</title>
+      <link>https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</link>
+      <guid isPermaLink="false">6abf0b73f2d6</guid>
+      <pubDate>Sat, 14 Nov 2026 02:10:10 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Sen. Chris Van Hollen announced Thursday that he&apos;ll challenge Chuck Schumer for majority leader. Why it matters: Van Hollen&apos;s bid gives grassroots activists nearly three weeks to p…
+      <description>The FAA lifted its nationwide ground stop Friday night after hours of chaos and thousands of delays and cancellations. Why it matters: The effects of the rare and extreme move will…
 
 来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
     </item>
     <item>
-      <title>House Democratic leaders face fallout over poorly timed floor vote fumbles</title>
-      <link>https://www.axios.com/2026/11/13/house-democrats-hegseth-impeachment-vote-jeffries</link>
-      <guid isPermaLink="false">fceb6952589d</guid>
-      <pubDate>Fri, 13 Nov 2026 00:34:48 GMT</pubDate>
+      <title>Mississippi River cruise crash has no fatalities, critical injuries</title>
+      <link>https://www.axios.com/2026/11/13/new-orleans-cruise-ship-tanker-strike</link>
+      <guid isPermaLink="false">88a68e11da01</guid>
+      <pubDate>Sat, 14 Nov 2026 01:17:59 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>A week that was supposed to see House Democrats transition seamlessly from a landslide midterm victory to a leadership coronation has instead been pocked by surprise Republican vic…
-
-来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Senate Dems can look forward to unlikely MAGA allies</title>
-      <link>https://www.axios.com/2026/11/13/senate-democrats-republicans-hawley-moreno-banks</link>
-      <guid isPermaLink="false">57caf44482d4</guid>
-      <pubDate>Fri, 13 Nov 2026 00:32:44 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>Senate Democrats could find some of their most surprising allies next Congress from the right wing of the Republican Party . Why it matters: Senate Democrats are on track to need o…
+      <description>Thirty-two people are in local hospitals and all passengers and crew are accounted for after a tanker collided with a Mississippi River cruise ship near the Port of New Orleans , o…
 
 来源：Axios · 商业模式与行业深度 · 约 2 分钟</description>
     </item>
     <item>
-      <title>🔥 Jensen Huang and the future of the AI boom</title>
-      <link>https://www.exponentialview.co/p/jensen-huang-and-the-future-of-the</link>
-      <guid isPermaLink="false">e88afe03c236</guid>
-      <pubDate>Thu, 12 Nov 2026 16:19:28 GMT</pubDate>
+      <title>谁最痛恨柏林墙的倒塌？是失去铁饭碗的前既得利益者</title>
+      <link>https://www.huxiu.com/article/4905561.html?f=rss</link>
+      <guid isPermaLink="false">42c3200e3f13</guid>
+      <pubDate>Sat, 14 Nov 2026 02:30:48 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>Image generated using GPT-6 Astra Jensen Huang has resigned . The company is in an awkward position, having refused to put a succession policy in place. Colette Kress, the CFO, wil…
+      <description>本文来自微信公众号： 欧洲价值 ，作者：叶克飞，编辑：郑大钱 柏林墙倒塌37周年（6） 柏林墙倒塌后，德国媒体每年都会进行各种关于柏林墙的社会调查，尤其是在五周年、十周年这类整数纪念年份，类似调查更是铺天盖地。进行调查的媒体很多，涉及的地区和样本不同，不同年份又有区别，所以可以参考的数据非常多，有兴趣的人可以自行查阅。 数据虽多，但大方向趋同，也可以见到德国…
 
-来源：Exponential View · 商业模式与行业深度 · 约 2 分钟</description>
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>医院集团花1元反向收购市值30亿药企，上一任实控人已身陷囹圄</title>
-      <link>https://www.huxiu.com/article/4905263.html?f=rss</link>
-      <guid isPermaLink="false">50cecb99c328</guid>
-      <pubDate>Fri, 13 Nov 2026 02:32:51 GMT</pubDate>
+      <title>腾讯“裁员”风波背后：物理AI正在重塑大厂的权力序列</title>
+      <link>https://www.huxiu.com/article/4905443.html?f=rss</link>
+      <guid isPermaLink="false">44ac7101c7c8</guid>
+      <pubDate>Sat, 14 Nov 2026 02:27:06 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 深蓝观 ，编辑：王晨，作者：深蓝观团队 一家市值30多亿元的上市药企，22个月内两次以1元股权对价易主。第一次接手它的实际控制人，后来因涉嫌职务侵占被捕；第二次接手它的，是一家IPO长跑六年的骨科医院集团。 更耐人寻味的是，第二位买家刚刚取得控制权，便承诺未来36个月不向上市公司注入旗下资产。 这场交易发生在2026年10月。北大医药公…
+      <description>本文来自微信公众号：针尖，作者：针尖，头图来自：AI生成 AI时代，信息即权力。 信息差是现代政治经济组织的第一重基础，再往上是财权和人事权。管理层通过操纵信息差以获得后两重资源的分配合理性。 这些信息分为五层： 1.纵向层级差：高层知道战略，中层知道分解，执行层知道动作。 2.横向部门差：销售不知道研发进度，研发不知道财务底线。 3.内外差：公司知道而外部…
+
+来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>医学真人秀不能拿“盲猜”当看点</title>
+      <link>https://www.huxiu.com/article/4905558.html?f=rss</link>
+      <guid isPermaLink="false">035518341aa0</guid>
+      <pubDate>Sat, 14 Nov 2026 02:20:44 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 经济观察网 ，作者：苏斯楠 “盲猜”“写病历只是套路”等表述为何出现在镜头里？当流量成为内容生产的重要考量，综艺节目又该如何兼顾娱乐性、真实性与社会价值？ “手握10篇SCI”“盲猜是颅咽管瘤”“写病历只是套路”……这些出自职场观察真人秀《令人心动的offer》第八季的台词，正在成为全网热议的话题。 这档节目于10月21日在腾讯视频首播…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Fri, 13 Nov 2026 02:51:57 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:39:19 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Fri, 13 Nov 2026 02:51:57 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:39:19 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,169 +228,149 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Fri, 13 Nov 2026 02:51:57 GMT</pubDate>
+      <pubDate>Sat, 14 Nov 2026 02:39:19 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Teledyne Vision Solutions Demonstrates Single-Pass 300mm Wafer Inspection</title>
-      <link>https://www.semiconductor-digest.com/teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=teledyne-vision-solutions-demonstrates-single-pass-300mm-wafer-inspection</link>
-      <guid isPermaLink="false">134f65445f6e</guid>
-      <pubDate>Thu, 12 Nov 2026 23:04:57 GMT</pubDate>
+      <title>New Insights Into a Promising Material for Next-Generation Electronics</title>
+      <link>https://www.semiconductor-digest.com/new-insights-into-a-promising-material-for-next-generation-electronics/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=new-insights-into-a-promising-material-for-next-generation-electronics</link>
+      <guid isPermaLink="false">0822f415aa74</guid>
+      <pubDate>Fri, 13 Nov 2026 18:32:36 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Teledyne Vision Solutions showcases advanced imaging technologies for semiconductor inspection at SEMICON Europa 2026 , taking place November 10-13, 2026, at Messe München in Munic…
+      <description>Power electronic devices help control the flow of electricity and convert it into forms needed by different machines, such as electric vehicles, renewable energy systems, and indus…
 
 来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>ViTrox Reports Nearly 200 AI-Powered X-Ray Inspection Systems Deployed</title>
-      <link>https://www.semiconductor-digest.com/vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=vitrox-reports-nearly-200-ai-powered-x-ray-inspection-systems-deployed</link>
-      <guid isPermaLink="false">bd1043f26e61</guid>
-      <pubDate>Thu, 12 Nov 2026 23:02:06 GMT</pubDate>
+      <title>Applies Materials Introduces VeritySEM 20; Adds Intel to EPIC Center Partnerships</title>
+      <link>https://www.semiconductor-digest.com/applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=applies-materials-introduces-veritysem-20-adds-intel-to-epic-center-partnerships</link>
+      <guid isPermaLink="false">ffe721c3887b</guid>
+      <pubDate>Fri, 13 Nov 2026 18:27:10 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>ViTrox is participating in SEMICON Europa 2026, taking place at the Trade Fair Centre Messe München, Munich, Germany, from 10th to 13th November 2026. At Hall C2, Booth #174, visit…
+      <description>Applied Materials, Inc. (NASDAQ: AMAT) today reported results for its fourth quarter and fiscal year ended Oct. 25, 2026. Fourth Quarter Results Applied generated record revenue of…
 
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：Semiconductor Digest · 半导体与硬件供应链 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Almere, Flevoland and Q.ANT Team Up for Computing with Light</title>
-      <link>https://www.semiconductor-digest.com/almere-flevoland-and-q-ant-team-up-for-computing-with-light/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=almere-flevoland-and-q-ant-team-up-for-computing-with-light</link>
-      <guid isPermaLink="false">7b30f00e9b49</guid>
-      <pubDate>Thu, 12 Nov 2026 22:57:34 GMT</pubDate>
+      <title>Nvidia board reportedly approached Arm CEO Rene Haas during replacement search</title>
+      <link>https://www.tomshardware.com/pc-components/gpus/nvidia-board-reportedly-approached-arm-ceo-rene-haas-during-replacement-search-jensen-huangs-transgressions-leave-nvidia-scrambling-to-fill-a-massive-void</link>
+      <guid isPermaLink="false">44878f84854b</guid>
+      <pubDate>Fri, 13 Nov 2026 21:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>German deep-tech company Q.ANT, Innovally and Horizon Flevoland marked their collaboration today at SEMICON Europa in Munich with a ceremony commemorating the signing of a Memorand…
+      <description>Nvidia&apos;s board of directors has approached Arm chief executive Rene Haas as a potential successor to Jensen Huang, according to a report from the Financial Times that cites people …
 
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：Tom&apos;s Hardware · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Aeluma Orders AIXTRON MOCVD System to Expand Photonics Manufacturing</title>
-      <link>https://www.semiconductor-digest.com/aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=aeluma-orders-aixtron-mocvd-system-to-expand-photonics-manufacturing</link>
-      <guid isPermaLink="false">c0aa0ab92d3e</guid>
-      <pubDate>Thu, 12 Nov 2026 22:27:38 GMT</pubDate>
+      <title>Nova Scotia Bets on Microelectronics Integration, Not Chip Fabs</title>
+      <link>https://www.eetimes.com/nova-scotia-bets-on-microelectronics-integration-not-chip-fabs/</link>
+      <guid isPermaLink="false">a1a56e84123e</guid>
+      <pubDate>Fri, 13 Nov 2026 18:00:00 GMT</pubDate>
       <category>半导体与硬件供应链</category>
-      <description>Aeluma, Inc. (NASDAQ: ALMU), a semiconductor company specializing in high-performance, scalable technologies for AI, mobile and consumer, defense and aerospace, and quantum, announ…
+      <description>Nova Scotia is unlikely to become the next great destination for wafer fabs. But its semiconductor and microelectronics opportunity may be more relevant to the region’s economy: as…
 
-来源：Semiconductor Digest · 半导体与硬件供应链 · 约 1 分钟</description>
+来源：EE Times · 半导体与硬件供应链 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Reporter’s notebook: shooting brings home grim reality in the US capital</title>
-      <link>https://www.scmp.com/news/us/politics/article/3374284/shooting-close-home-reporters-view-grim-reality-us-capital</link>
-      <guid isPermaLink="false">29db9a7d53ec</guid>
-      <pubDate>Fri, 13 Nov 2026 02:34:39 GMT</pubDate>
+      <title>Don’t take Nvidia CEO Jensen Huang’s ‘sex’ scandal at face value</title>
+      <link>https://www.scmp.com/opinion/china-opinion/article/3374017/dont-take-nvidia-ceo-jensen-huangs-sex-scandal-face-value</link>
+      <guid isPermaLink="false">561e9705e0f5</guid>
+      <pubDate>Sat, 14 Nov 2026 01:30:08 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>We were weeks into a three-month assignment reporting from the SCMP bureau in Washington when we heard a shooting just around the corner from our apartment building. From our flat,…
+      <description>“I thought spooks were supposed to be stealthy,” the uncouth, flatulent anti-hero Jackson Lamb complains in the hit British spy series Slow Horses as an annoying underling loudly e…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Meet the 27-year old behind the protein ad that helped flip Mississippi</title>
-      <link>https://www.politico.com/news/2026/11/12/ryan-sayles-scott-colom-viral-protein-ad-01163508</link>
-      <guid isPermaLink="false">7e8e623c82b4</guid>
-      <pubDate>Thu, 12 Nov 2026 22:34:55 GMT</pubDate>
+      <title>China holds 80% of world’s underwater data centre patents as computing energy demands grow</title>
+      <link>https://www.scmp.com/news/china/science/article/3374153/china-holds-80-worlds-underwater-data-centre-patents-computing-energy-demands-grow</link>
+      <guid isPermaLink="false">a86e4be42883</guid>
+      <pubDate>Sat, 14 Nov 2026 01:00:07 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>You know you’ve made a good ad when it’s outperforming an endorsement video from Barack Obama. Ryan Sayles, a 27-year-old Mississippi content creator, is behind arguably the best p…
+      <description>China owns 80 per cent of the world’s underwater data centre patents, giving it a decisive lead in critical technologies, according to a two-decade study of global patents in the f…
 
-来源：Politico · 地缘政治与政策监管 · 约 2 分钟</description>
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>COP31: How Ed Miliband answered Carbon Brief readers’ questions</title>
-      <link>https://www.carbonbrief.org/cop31-how-ed-miliband-answered-carbon-brief-readers-questions</link>
-      <guid isPermaLink="false">655abea7abac</guid>
-      <pubDate>Thu, 12 Nov 2026 16:55:59 GMT</pubDate>
-      <category>能源与气候科技</category>
-      <description>Print article Share UK foreign secretary and COP veteran Ed Miliband spoke with Carbon Brief earlier today at COP31 in Antalya, Turkey, to answer readers’ questions. Carbon Brief r…
+      <title>White House confirms US-China-Russia trilateral on Apec sidelines</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3374415/white-house-confirms-us-china-russia-trilateral-apec-sidelines</link>
+      <guid isPermaLink="false">bf44ebabf405</guid>
+      <pubDate>Sat, 14 Nov 2026 00:30:57 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>The White House on Friday confirmed an unprecedented meeting between leaders of the US, China and Russia has been scheduled to take place on the sidelines of the Asia-Pacific Econo…
 
-来源：Carbon Brief · 能源与气候科技 · 约 2 分钟</description>
+来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Ohio GOP circulates bill that would stymie coal plant closures</title>
-      <link>https://www.canarymedia.com/articles/fossil-fuels/ohio-gop-bill-stymie-coal-plant-closures</link>
-      <guid isPermaLink="false">bd69f5081d9c</guid>
-      <pubDate>Thu, 12 Nov 2026 22:00:00 GMT</pubDate>
+      <title>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch</title>
+      <link>https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5</link>
+      <guid isPermaLink="false">5148ef05eeb3</guid>
+      <pubDate>Fri, 13 Nov 2026 18:40:30 GMT</pubDate>
+      <category>地缘政治与政策监管</category>
+      <description>Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! TechCrunch
+
+来源：出口管制（Google News） · 地缘政治与政策监管 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>How California Gov.-elect Becerra could be better on climate than Newsom</title>
+      <link>https://www.canarymedia.com/articles/politics/california-gov-elect-becerra-climate</link>
+      <guid isPermaLink="false">f98928c42abd</guid>
+      <pubDate>Fri, 13 Nov 2026 20:00:00 GMT</pubDate>
       <category>能源与气候科技</category>
-      <description>Republican lawmakers in Ohio are circulating a plan to keep coal plants open, even if an owner has a contractual obligation to close a facility. And they hope to pass it fast, befo…
+      <description>This is California Wire , a weekly newsletter from Jeff St. John on the state’s clean energy transition. Subscribe to get it weekly via Substack. Welcome back, everyone! Well, we m…
 
 来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>As coal burn declines, rising power demand will be primarily met by renewables: EIA</title>
-      <link>https://www.utilitydive.com/news/as-coal-burn-declines-rising-power-demand-will-be-primarily-met-by-renewab/874315/</link>
-      <guid isPermaLink="false">aa594e17ae4e</guid>
-      <pubDate>Thu, 12 Nov 2026 18:25:33 GMT</pubDate>
+      <title>‘Electrify everything’ hits the global stage</title>
+      <link>https://www.canarymedia.com/articles/electrification/electrify-everything-cop31-climate-conference</link>
+      <guid isPermaLink="false">a39aa0d52a7c</guid>
+      <pubDate>Fri, 13 Nov 2026 16:14:00 GMT</pubDate>
       <category>能源与气候科技</category>
-      <description>The electric power sector could install more than 26 GW of battery storage next year, helping support a renewable resource base that is expected to supply almost a quarter of 2027 …
+      <description>This analysis and news roundup come from the Canary Media Weekly newsletter. Sign up to get it every Friday. World leaders — well, some of them — gathered in Turkey this week for C…
 
-来源：Utility Dive · 能源与气候科技 · 约 1 分钟</description>
+来源：Canary Media · 能源与气候科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Long-overlooked Alzheimer’s hypothesis makes a comeback</title>
-      <link>https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback</link>
-      <guid isPermaLink="false">a1bc058e9880</guid>
-      <pubDate>Fri, 13 Nov 2026 02:52:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss of crucial neurons
-
-来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>As food becomes scarce, Asian elephant friendships fall apart</title>
-      <link>https://www.science.org/content/article/food-becomes-scarce-asian-elephant-friendships-fall-apart</link>
-      <guid isPermaLink="false">0ac9642fab98</guid>
-      <pubDate>Fri, 13 Nov 2026 02:52:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Social breakdown poses long-term risks to the population
-
-来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Celebrity psychiatrist who performs brain scans tapped for NIH’s mental health council</title>
-      <link>https://www.science.org/content/article/celebrity-psychiatrist-who-performs-brain-scans-tapped-nih-s-mental-health-council</link>
-      <guid isPermaLink="false">c3e3bd02f094</guid>
-      <pubDate>Fri, 13 Nov 2026 02:52:00 GMT</pubDate>
-      <category>生物医药与健康科技</category>
-      <description>Daniel Amen’s pending appointment reflects growing influence of Make America Healthy Again movement on federally funded psychiatric research
-
-来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>GitHub availability report: October 2026</title>
-      <link>https://github.blog/news-insights/company-news/github-availability-report-october-2026/</link>
-      <guid isPermaLink="false">444d3ff2f910</guid>
-      <pubDate>Fri, 13 Nov 2026 00:20:16 GMT</pubDate>
+      <title>Anthropic now lets you self-host Claude Managed Agents. The catch? 8 hours to act if it flags a safety risk</title>
+      <link>https://thenewstack.io/self-hosted-claude-managed-agents/</link>
+      <guid isPermaLink="false">9aec3c842cf3</guid>
+      <pubDate>Fri, 13 Nov 2026 21:29:30 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>We continue to share monthly updates on the work behind GitHub&amp;rsquo;s availability and reliability. The short version of October: we added substantial independently scalable Azure…
-
-来源：GitHub Blog · 开源与开发者生态 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>Build once, run on any agent: A practical guide to agent skills</title>
-      <link>https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/</link>
-      <guid isPermaLink="false">e12e3fc24f6c</guid>
-      <pubDate>Thu, 12 Nov 2026 22:54:52 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>How many times this week did you re-explain the same task to an agent? How many times did you ask your colleague with deep institutional knowledge how to solve a specific problem? …
-
-来源：GitHub Blog · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Google’s Gemini 4 coding agent now switches models mid-task — and finishes 19% faster</title>
-      <link>https://thenewstack.io/gemini-4-hydrogen-orchestrator/</link>
-      <guid isPermaLink="false">a1d485385059</guid>
-      <pubDate>Thu, 12 Nov 2026 21:26:08 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Google launched Gemini 4 Hydrogen on Thursday alongside a new system that changes how coding agents use AI models. Rather than keeping its most capable model running across an enti…
+      <description>Anthropic has unveiled a self-hosted version of its platform for building and running AI agents. Self-hosted Claude Managed Agents , as it’s aptly called, is available now in priva…
 
 来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Google’s coding agents now /swarm for one developer. Cursor’s go multiplayer so teammates’ agents can talk.</title>
-      <link>https://thenewstack.io/cursor-google-multiplayer-swarm/</link>
-      <guid isPermaLink="false">913f3376e585</guid>
-      <pubDate>Thu, 12 Nov 2026 21:22:46 GMT</pubDate>
+      <title>The context problem: It’s what’s really breaking AI agents at scale</title>
+      <link>https://thenewstack.io/elastic-ai-context-gap/</link>
+      <guid isPermaLink="false">9f20cfce546a</guid>
+      <pubDate>Fri, 13 Nov 2026 18:15:22 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Coding agents are pretty good at working in parallel : one writes a new API endpoint, another updates the tests, while a third fixes a bug elsewhere in the codebase. However, they&amp;…
+      <description>AI models are getting smarter , tokens are getting cheaper, and agents are improving. But the context gap sits between the modern enterprise and agentic nirvana, keeping many compa…
+
+来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>DeepSeek’s coding agent is too tidy for its own good — and benchmarks are punishing it</title>
+      <link>https://thenewstack.io/deepseek-harness-cleanup-benchmark/</link>
+      <guid isPermaLink="false">6f148e91d707</guid>
+      <pubDate>Fri, 13 Nov 2026 17:56:30 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>DeepSeek&amp;rsquo;s open-source coding agent is losing points on a major benchmark for a habit developers usually treat as good practice: cleaning up after itself. The problem surface…
+
+来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
+    </item>
+    <item>
+      <title>Here’s how to teach AI agents to search like human experts</title>
+      <link>https://thenewstack.io/ai-agents-retrieval-agent-ready-schema/</link>
+      <guid isPermaLink="false">f4f9da10f0a1</guid>
+      <pubDate>Fri, 13 Nov 2026 14:50:37 GMT</pubDate>
+      <category>开源与开发者生态</category>
+      <description>Agentic retrieval is a hot topic for a reason: Every company wants to automate work, but they often just are not ready. It&amp;rsquo;s also extremely easy — and tempting — to spin up a…
 
 来源：The New Stack · 开源与开发者生态 · 约 1 分钟</description>
     </item>
