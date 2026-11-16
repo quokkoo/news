@@ -1,0 +1,994 @@
+{
+  "date": "2026-11-16",
+  "generatedAt": "2026-11-16T02:21:45.306Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 32 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 8 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "cdf8f7388a63",
+        "reason": "Hacker News Best 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "2b9b2278000f",
+          "title": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+          "titleZh": "“保守”下调2028增速、但维持增持--大摩解读“后黄仁勋时代的英伟达”",
+          "url": "https://wallstreetcn.com/articles/3785982",
+          "summary": "黄仁勋辞任英伟达CEO后，摩根士丹利发布更新报告，将此次事件定性为\"重大挫折\"。同时将目标价从300美元下调至267美元，但维持\"增持\"评级。 据追风交易台消息，大摩认为，英伟达供应链与产品管线已锁定未来两年，Vera Rubin平台正在爬坡，即便将FY28/FY29数据中心收入预测下调约10%以应对出口管制风险，当前股价相对目标价仍有约61%的上行空间，基…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T01:24:25.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5ec7c0028cda",
+          "title": "美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险",
+          "titleZh": "美银Hartnett：美元正在“破坏一切”，美元下跌前保持避险",
+          "url": "https://wallstreetcn.com/articles/3785968",
+          "summary": "不断飙升的美元正在收紧全球流动性，并化身为金融市场的“破坏球”，压制全球风险资产及大宗商品，风险资产暂难入场。 这是美国银行首席投资策略师Michael Hartnett在其最新一期《Flow Show》报告中的观点。他认为，当前市场面临三重矛盾——美联储紧缩周期远未结束、政府托市构筑空头壁垒、高净值消费者财富效应支撑经济。这意味着，目前风险资产既不值得追涨…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T00:25:42.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7407950142a0",
+          "title": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
+          "titleZh": "公开斗法！黄仁勋与盟友商讨重返CEO计划，而贝森特则敦促英伟达选择“外部人士”",
+          "url": "https://wallstreetcn.com/articles/3785975",
+          "summary": "黄仁勋辞职数日后，围绕英伟达CEO职位的争夺已演变为一场公开博弈。一边是硅谷盟友为其回归积极奔走，另一边是美国财政部长贝森特高调施压，要求彻底换血。 11月15日，据英国《金融时报》报道，黄仁勋已与亲信讨论重返CEO职位的可能性，其盟友正在硅谷组建\"战情室\"，游说英伟达董事会将其复职，并计划争取白宫支持。与此同时，美国财政部长贝森特周日在福克斯新闻节目上明确…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T00:17:14.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d2ad679aa05d",
+          "title": "沪指跌破3600点，创业板跌超2%，光模块龙头“易中天”再大跌，银行、家电逆势拉升，恒科指、恒指齐涨，新世界发展大跌35%",
+          "titleZh": "沪指跌破3600点，创业板跌超2%，光模块龙头“易中天”再大跌，银行、家电逆势拉升，恒科指、恒指齐涨，新世界发展大跌35%",
+          "url": "https://wallstreetcn.com/articles/3785986",
+          "summary": "11月16日，A股早盘低开低走，三大股指盘初齐跌，沪指跌破3600点，跌幅达到1%，创业板低开超1%，盘初跌幅扩大至超2%，科创50、科创综指亦跌超2%，算力硬件集体下挫，光模块等概念股跌幅居前。物理AI、人形机器人等概念股同样下挫，基本金属、半导体板块陷入调整。银行、白色家电、煤炭、油气等板块逆势走强。 港股早盘震荡上涨，恒指、恒科指盘初集体拉升，权重科网…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T01:53:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "99b67c9c823c",
+          "title": "银行理财利率高达近10%，散户抛弃越南股市",
+          "titleZh": "银行理财利率高达近10%，散户抛弃越南股市",
+          "url": "https://wallstreetcn.com/articles/3785979",
+          "summary": "越南散户正在用脚投票——卖出股票，转而追逐接近10%的银行存款利率。 据彭博报道，越南各银行近几个月持续上调存款利率以争夺资金，吸引了该国约1400万散户投资者中的大批人转向这一长期被视为\"过时\"的理财方式。与此同时，规模约3920亿美元的越南股市2026年累计下跌约3%，有望录得四年来首次年度亏损。 外资持续净卖出与散户资金加速撤离，令越南基准股指市盈率较…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T01:20:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8372bf53c0a6",
+          "title": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
+          "titleZh": "数周来首次！伊朗袭击巴林，“回应美国侵略”",
+          "url": "https://wallstreetcn.com/articles/3785974",
+          "summary": "伊朗数周来首次对波斯湾国家发动直接打击，局势再度升温，但德黑兰同时释放出结束冲突仍有可能的信号，油价在供需宽松压力下维持震荡。 据新华社报道，伊朗伊斯兰革命卫队15日发表声明称，伊朗无人机打击了位于巴林里法直升机基地的美军防空雷达。巴林国防军总司令部证实，防空系统当天拦截并摧毁多架伊朗无人机，国防军各作战部门已处于最高戒备状态。伊朗外交部发言人巴加埃随后在例…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-16T00:15:57.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "cdf8f7388a63",
+          "title": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "titleZh": "Microsoft 365 outage leads to chlorine gas poisoning of 15 hotel guests",
+          "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html",
+          "summary": "Article URL: https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html Comments URL: https://news.ycombinator.com/item?id=50509411 Points: …",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-15T18:36:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.55,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 7,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://www1.wdr.de/nrw/rheinland/rhein-erft-kreis/technischer-defekt-chlor-phantasialand-100.html"
+            },
+            {
+              "sourceName": "Tom's Hardware",
+              "url": "https://www.tomshardware.com/tech-industry/data-centers/microsoft-365-outage-leads-to-chlorine-gas-poisoning-of-15-hotel-guests-email-warning-system-fails-40-first-responders-deployed-for-triage-four-hospitalized"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "76c0cd22d3c1",
+          "title": "datasette-maplibre 0.1a0",
+          "titleZh": "datasette-maplibre 0.1a0",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+          "summary": "Release: datasette-maplibre 0.1a0 The first new Datasette geospatial plugin in quite a while! This one combines the excellent MapLibre GL library with OpenFreeMap , the free vector…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-15T23:58:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3da7e8c7a8cf",
+          "title": "datasette 1.0a43",
+          "titleZh": "datasette 1.0a43",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette/",
+          "summary": "Release: datasette 1.0a43 I've been leaning hard into Claude Fable 5.2 to help knock things off the 1.0 milestone , which is now 53% complete. The biggest 1.0 item in this release …",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-15T23:20:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ec7929250a15",
+          "title": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "titleZh": "Vulcan rocket fails during launch, dealing major blow to SpaceX competitors",
+          "url": "https://arstechnica.com/space/2026/11/vulcan-rocket-fails-during-launch-dealing-major-blow-to-spacex-competitors/",
+          "summary": "United Launch Alliance's Vulcan rocket and 40 Amazon Leo broadband satellites fell back to Earth minutes after liftoff Sunday, a crushing setback that will ripple across all sector…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-15T23:11:54.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a71962c910f0",
+          "title": "A step toward defining the Standard Model on a lattice",
+          "titleZh": "A step toward defining the Standard Model on a lattice",
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-11-15T22:00:01.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "23782a5381e2",
+          "title": "Our new blog for science",
+          "titleZh": "Our new blog for science",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-11-15T22:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.85,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "023523546348",
+          "title": "datasette 0.65.6",
+          "titleZh": "datasette 0.65.6",
+          "url": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+          "summary": "Release: datasette 0.65.6 I backported a minor security fix from 1.0a43: Fixed a security issue where a database registered using add_database(db, name=..., route=...) with a route…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-15T23:18:17.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1115bbcf67ed",
+          "title": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
+          "titleZh": "曝黄仁勋考虑重返英伟达担任 CEO；苹果计划明年发布首款智能眼镜；OpenAI 撤销独立机器人研究团队",
+          "url": "http://www.geekpark.net/news/373994",
+          "summary": "曝黄仁勋考虑重返英伟达担任 CEO，盟友正施压董事会 据英国《金融时报》周日报道，黄仁勋正考虑重返英伟达担任首席执行官。如今他在硅谷的多位盟友正向英伟达董事会施压，要求公司重新任命他。 报道称，黄仁勋已经和亲信讨论了重返公司的可能性。与此同时，英伟达董事会还在开展独立调查。 一位黄仁勋的盟友表示，他们正在组建一个由硅谷高管构成的「作战室」，游说黄仁勋重返英伟…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-11-16T00:47:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "5f5b827bfb17",
+          "title": "谁能熬过具身寒冬？",
+          "titleZh": "谁能熬过具身寒冬？",
+          "url": "https://www.huxiu.com/article/4905792.html?f=rss",
+          "summary": "本文来自微信公众号： 定焦One ，作者：定焦one团队，编辑：魏佳 从拼融资，到拼真本事。 定焦One（dingjiaoone）原创 张硕一周前从一家具身智能公司离职。这家公司成立不到三年，融资已到B轮，主要产品是四足机器狗。他负责to B大客户销售，去年下半年还曾签下几笔大单。 今年七八月份，情况开始变化。项目尾款被一再拖延，为了拿到一张验收单，他有时要…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-16T01:16:23.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8206266.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "307e0b94b8da",
+          "title": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？",
+          "titleZh": "40颗卫星一夜损失，亚马逊买的火箭为何靠不住？",
+          "url": "https://www.huxiu.com/article/4905791.html?f=rss",
+          "summary": "本文来自微信公众号： 反熵 ，作者：司马大大 亚马逊已经制造超过1000颗卫星，成功送入太空的却只有约400颗。今天凌晨，一枚火箭又让它损失了40颗卫星。 北京时间11月16日1时40分，美国联合发射联盟（ULA）的火神-半人马座（Vulcan Centaur）运载火箭从卡纳维拉尔角升空。约10分钟后，火箭发生异常，搭载的40颗Amazon Leo宽带互联网…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-16T01:16:23.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8206149.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6b0f72f67047",
+          "title": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
+          "titleZh": "黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”",
+          "url": "https://www.huxiu.com/article/4905788.html?f=rss",
+          "summary": "本文来自微信公众号： APPSO ，作者：APPSO ，原文标题：《反转！黄仁勋考虑重返英伟达，科技大佬连夜组建“作战室”》，题图来自：视觉中国 前两天大伙还在替 63 岁的黄仁勋唏嘘，觉得这位干了三十三年的皮衣刀客算是彻底告别历史舞台了。 结果周末刚过完，事情突然迎来了戏剧性的新动向。 据金融时报的最新爆料，刚因婚外情风波辞职不到几天的老黄，不仅没打算就此…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-16T01:08:54.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "爱范儿",
+              "url": "https://www.ifanr.com/1689549?utm_source=rss&utm_medium=rss&utm_campaign="
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8ac5ce572312",
+          "title": "“穷鬼超市”，开启巷战",
+          "titleZh": "“穷鬼超市”，开启巷战",
+          "url": "https://www.huxiu.com/article/4905767.html?f=rss",
+          "summary": "本文来自微信公众号： 斑马消费 ，作者：徐霁 年末，各路“穷鬼超市”的拓店明显提速。 11月21日，奥乐齐将在合肥、芜湖两地6店齐开，杀入安徽市场。而安徽本土商超龙头百大合家福旗下“淝小百”已筹划许久，首店预计年内开业，与奥乐齐正面抗衡；芜湖则是三只松鼠生活馆的大本营。 不仅是奥乐齐，各路硬折扣超市玩家，都已按下了扩张的快进键：京东折扣超市将于11月27日，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-16T00:03:37.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8206099.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "013f6906e18f",
+          "title": "斯坦福重磅AI100年度报告解读：AI 走向主流",
+          "titleZh": "斯坦福重磅AI100年度报告解读：AI 走向主流",
+          "url": "https://www.huxiu.com/article/4905774.html?f=rss",
+          "summary": "本文来自微信公众号： AI时代仍不辍思考 ，作者：创业思考碎片 来源：斯坦福大学AI100《AI Goes Mainstream:The Scaling Era and the Rise of Generative AI》（AI走向主流：规模化时代与生成式AI的崛起），2026年11月发布。 AI100（人工智能百年研究）由斯坦福大学以人为本人工智能研究院（…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-16T02:08:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-16T02:21:37.349Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-16T02:21:37.349Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-16T02:21:37.349Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "3cb69ac36328",
+          "title": "Chinese Premier Li Qiang addresses Asean summit in Manila",
+          "titleZh": "Chinese Premier Li Qiang addresses Asean summit in Manila",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374527/chinese-premier-li-qiang-addresses-asean-summit-manila",
+          "summary": "Chinese Premier Li Qiang is in Manila for the Asean summit, joining around 20 leaders, including US President Donald Trump and Brazilian President Luiz Inacio Lula da Silva, for th…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-16T02:15:26.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "10a9a2477910",
+          "title": "China-US-Russia trilateral set for Thursday on Apec sidelines: Beijing",
+          "titleZh": "China-US-Russia trilateral set for Thursday on Apec sidelines: Beijing",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374523/china-us-russia-trilateral-set-thursday-beijing",
+          "summary": "The state leaders of China, the United States and Russia will hold a trilateral meeting in the southern Chinese city of Shenzhen on Thursday on the sidelines of the Apec leaders’ s…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-16T01:12:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b1ab53a7f6d",
+          "title": "Can a new 4-country defence hub counter Beijing in the South China Sea?",
+          "titleZh": "Can a new 4-country defence hub counter Beijing in the South China Sea?",
+          "url": "https://www.scmp.com/news/china/military/article/3374504/can-new-four-country-defence-hub-counter-china-south-china-sea",
+          "summary": "China’s activities in the South China Sea’s disputed waters could face greater challenges as the US, Japan, Australia and the Philippines accelerate efforts to build a joint operat…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-16T01:00:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "f673455e91d9",
+          "title": "Extinct ‘vampire camel’ once stalked North American plains",
+          "titleZh": "Extinct ‘vampire camel’ once stalked North American plains",
+          "url": "https://www.science.org/content/article/extinct-vampire-camel-once-stalked-north-american-plains",
+          "summary": "New fossil survey shines light on this mysterious creature, as well as ancient camels’ ecological importance",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-16T02:21:40.045Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b99c1c3985ab",
+          "title": "Senate spending panel backs raises for science agencies and questions Trump policies",
+          "titleZh": "Senate spending panel backs raises for science agencies and questions Trump policies",
+          "url": "https://www.science.org/content/article/senate-spending-panel-backs-raises-science-agencies-and-questions-trump-policies",
+          "summary": "Fate of 2027 budget bill is uncertain as Congress tries to avoid government shutdown next month",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-16T02:21:40.045Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a1bc058e9880",
+          "title": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+          "titleZh": "Long-overlooked Alzheimer’s hypothesis makes a comeback",
+          "url": "https://www.science.org/content/article/long-overlooked-alzheimer-s-hypothesis-makes-comeback",
+          "summary": "Decades after it fell out of fashion, researchers return to an idea linking the disease to the loss of crucial neurons",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-16T02:21:40.045Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "2f8a3182705c",
+          "title": "DuckDB has an answer to “bloated” database messages",
+          "titleZh": "DuckDB has an answer to “bloated” database messages",
+          "url": "https://thenewstack.io/duckdb-quack-database-protocol/",
+          "summary": "Older database protocols were built before big data. Some still send results row by row, repeating details like column names and types with every row. The result, says DuckLabs pro…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-15T15:05:56.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eabb0953bba1",
+          "title": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+          "titleZh": "Claude Fable 5.2 vs. Opus 5.5: Same scores at almost 4x the cost",
+          "url": "https://thenewstack.io/claude-fable-5-2-vs-opus-5-5/",
+          "summary": "Anthropic released Claude Fable 5.2 on November 9 and said it beats Claude Opus 5.5 in almost every capability the company measured. In the same announcement, it recommended starti…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-15T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "1564ff8baddd",
+          "title": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+          "titleZh": "Uber's Secure AI Framework Governs Autonomous AI Agents across Their Lifecycle",
+          "url": "https://www.infoq.com/news/2026/11/uber-secure-ai-framework/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "In a recent article, Uber Engineering highlights the limitations of traditional identity and API controls in securing AI agents that dynamically reason over external content and ta…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-11-15T20:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "cdf8f7388a63",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 32,
+    "itemsPublished": 31,
+    "itemsFiltered": 1,
+    "sourcesOk": 87,
+    "sourcesFailed": 8,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
