@@ -1,0 +1,1058 @@
+{
+  "date": "2026-11-17",
+  "generatedAt": "2026-11-17T04:44:29.996Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 35 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 9 个领域，全部读完约需 70 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "d3fcdd19c69e",
+          "title": "创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%",
+          "titleZh": "创业板盘中拉升涨0.7%，科创50大涨超3%，半导体产业链爆发，AI短剧调整，恒指、恒科指齐跌，阿里跌近5%、腾讯跌3%",
+          "url": "https://wallstreetcn.com/articles/3786073",
+          "summary": "今天，A股半导体产业链国产替代反弹——灵晟超算蝉联世界第一、中芯国际三季报超预期叠加设备紧缺，科创50涨超3%领涨，光刻机、光刻胶掀涨停潮；家电、消费电子延续活跃，AI漫剧重挫领跌。 11月17日，A股三大指数低开后盘中回升，临近午盘再度上涨，沪指微跌0.01%，收复3600点，深成指、创业板翻红转涨。科创50涨超3%，得益于半导体产业链的带动，光刻机、半导…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T04:03:52.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "445f8ffcfdb2",
+          "title": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战",
+          "titleZh": "与高盛唱反调？大摩展望2027中国股市：A股优于离岸，港股面临流动性挑战",
+          "url": "https://wallstreetcn.com/articles/3786078",
+          "summary": "摩根士丹利对2027年中国股市的判断，与高盛形成鲜明对照。 11月15日，据追风交易台消息，摩根士丹利发布的2027年中国股票策略展望报告，该行维持MSCI中国等权重评级，同时明确偏好A股优于港股等离岸市场，理由是A股在新兴前沿产业的代表性更强，且有资金支撑。与此同时，高盛于11月16日发布的同期报告则将港股上调至超配、A股下调至中性，两家机构在A/H股相对…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T03:56:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "43fcc93e20c1",
+          "title": "摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职",
+          "titleZh": "摩根大通：CUDA护城河正在瓦解，英伟达面临的真正挑战不止于CEO离职",
+          "url": "https://wallstreetcn.com/articles/3786076",
+          "summary": "英伟达正面临来自两端的结构性压力，而这与创始人黄仁勋的离任同等重要，甚至可能更为深远。 摩根大通策略师Michael Cembalest在最新研报《英伟达与AI的下一步》中指出，前沿AI实验室正将采购重心向AMD、谷歌、亚马逊等多家供应商分散，英伟达在2026年后计算协议中的份额仅占28%。 与此同时，开源模型生态圈则面临华盛顿的监管铁拳。对投资者而言，这意…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T03:46:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f509de9d6862",
+          "title": "高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱",
+          "titleZh": "高盛五份研报同指一个结论：AI盛宴接近尾声，市场比经济更脆弱",
+          "url": "https://wallstreetcn.com/articles/3786075",
+          "summary": "高盛近期连续发布五份2027年度展望研报，一个核心主题贯穿始终：AI投资规模仍在扩张，但增速将于2027年上半年触顶，这对宏观经济而言影响有限，对金融市场而言却是一次更严峻的考验。 高盛跨资产策略师Kamakshya Trivedi与Dominic Wilson将这一逻辑浓缩为一句话：“AI对市场涨幅的贡献远超其对经济增长的贡献，因此AI增速见顶对市场的冲击…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T03:07:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e88044ab5b30",
+          "title": "解码AI\"思维\"的初创公司身价几何？OpenAI曾给出50亿美元",
+          "titleZh": "解码AI\"思维\"的初创公司身价几何？OpenAI曾给出50亿美元",
+          "url": "https://wallstreetcn.com/articles/3786072",
+          "summary": "OpenAI一度愿意为一家两岁的初创公司支付逾50亿美元，这笔报价不仅揭示了AI安全领域的价值天花板，也折射出这场智能竞赛正在开辟新的战场。 据The Information周一报道，OpenAI 今夏曾与专注解码AI“思维”的初创公司Goodfire就收购或商业合作展开多轮谈判，OpenAI首席执行官Sam Altman亦参与其中。 谈判期间，一名Open…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T02:44:41.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d9da17c372b9",
+          "title": "黄仁勋离职震荡蔓延：“AI央行”紧缩，新云公司融资危险了",
+          "titleZh": "黄仁勋离职震荡蔓延：“AI央行”紧缩，新云公司融资危险了",
+          "url": "https://wallstreetcn.com/articles/3786063",
+          "summary": "英伟达董事长黄仁勋的离职，正在动摇整个新云行业赖以生存的信用根基。 11月16日周一科技股领跌美股，其中新云服务公司跌幅居前。CoreWeave跌超6%，其无担保债券收益率此前一度逼近15%，触及困境债券区间。Nebius同样重挫逾7%，上周四周五已经累跌25%。 这一冲击发生在新云行业本就承压的节点。这类公司普遍背负沉重债务，项目推进遭遇延误，新上台的美国…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-17T02:15:04.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "0281d536bef4",
+          "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+          "titleZh": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+          "url": "https://latent.space/p/bfl/",
+          "summary": "This episode is sponsored by Deepgram. Try Deepgram for voice agents that truly understand your context! #contextiseverything Not many people know that Stable Diffusion is why I we…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-16T21:38:03.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "96eef73f41db",
+          "title": "Three small failures combined to take down Microsoft 365",
+          "titleZh": "Three small failures combined to take down Microsoft 365",
+          "url": "https://arstechnica.com/gadgets/2026/11/microsoft-details-how-three-problems-combined-for-a-global-outage/",
+          "summary": "A hidden defect in Microsoft's cloud gateway, dormant since July, was to blame for one of the largest outages in the company's history last week. A preliminary Post-Incident Report…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-16T21:56:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bdbd642b44dd",
+          "title": "Hyperscale data centers use 2% of US electricity",
+          "titleZh": "Hyperscale data centers use 2% of US electricity",
+          "url": "https://arstechnica.com/science/2026/11/hyperscale-data-centers-use-2-of-us-electricity/",
+          "summary": "One flashpoint for the tech industry’s all-in push on large language models has been the sudden rush to turn investment money into hyperscale data centers. The rush hasn’t allowed …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-16T20:52:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f32c1b8e2761",
+          "title": "Supreme Court keeps injunction against DEI grant defunding in place",
+          "titleZh": "Supreme Court keeps injunction against DEI grant defunding in place",
+          "url": "https://arstechnica.com/science/2026/11/supreme-court-keeps-injunction-against-dei-grant-defunding-in-place/",
+          "summary": "On Monday, the Supreme Court announced it would not hear an appeal of a lower court decision that blocked the government from canceling the grants of a handful of researchers whose…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-16T19:54:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "985063de4df4",
+          "title": "The open-source movement wants Jensen Huang back",
+          "titleZh": "The open-source movement wants Jensen Huang back",
+          "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+          "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here . On Friday, a petition to reinstate Jensen…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-16T18:38:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "434bd55e5fc0",
+          "title": "llm 0.37.3",
+          "titleZh": "llm 0.37.3",
+          "url": "https://simonwillison.net/2026/Nov/16/llm/",
+          "summary": "Release: llm 0.37.3 A bug fix release for LLM , mainly to cover a problem with the most recent Homebrew package of the software. Homebrew now ships the latest SQLite, 3.54.1 , whic…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-16T23:57:26.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "35b0b15c177c",
+          "title": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "titleZh": "Robo-soldier startup backed by Eric Trump misses payroll, may collapse",
+          "url": "https://arstechnica.com/ai/2026/11/robo-soldier-startup-backed-by-eric-trump-misses-payroll-may-collapse/",
+          "summary": "A humanoid robotics company backed and advised by President Donald Trump’s son, Eric Trump, has reportedly missed payroll and may be on the brink of collapse after a funding shortf…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-16T22:58:27.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "106b7ededb07",
+          "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "titleZh": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
+          "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day/",
+          "summary": "Intel is being sued by shareholders, who are accusing the chipmaker of misleading them about the impact of the PC sales slump that contributed to a drop of 28.6 percent in the pric…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-16T20:37:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "dc3e28b360f2",
+          "title": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
+          "titleZh": "Top Trump aides to meet with Europeans, Ukrainians on peace plan",
+          "url": "https://www.axios.com/2026/11/17/witkoff-kushner-ukraine-europe-russia-berlin-meeting",
+          "summary": "President Trump's envoys Steve Witkoff and Jared Kushner are planning to meet with Ukrainian and European officials this week to work on security guarantees and a postwar economic …",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-17T02:57:13.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "29ef53bad5db",
+          "title": "“学霸”自首AI作弊，韩国高考紧急布防",
+          "titleZh": "“学霸”自首AI作弊，韩国高考紧急布防",
+          "url": "https://www.huxiu.com/article/4906175.html?f=rss",
+          "summary": "本文来自微信公众号： 字母AI ，作者：小金牙 韩国今年税务师考试的第一名，自首了。 11月15日，34岁的韩元锡承认，自己在两轮考试中都用了电子设备和生成式AI作弊。而在不久之前，他还在接受采访，分享自己的备考秘诀。这套成功经验里，甚至包括对手机的严格管理。 韩国上上下下已经炸了锅，韩元锡自首时，距离11月19日的韩国高考，只剩四天。一个带着摄像头和手机的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-17T03:44:16.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8208106.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ef80eeba5a2",
+          "title": "美国成“卖血帝国”？说法存疑",
+          "titleZh": "美国成“卖血帝国”？说法存疑",
+          "url": "https://www.huxiu.com/article/4906193.html?f=rss",
+          "summary": "本文来自微信公众号： 核真录 ，制图：颜百川黄珈烜，编辑：黄珈烜曾慧娴，作者：核真录，原文标题：《美国成“卖血帝国”？说法存疑！》 围绕全球血浆供应的话题，“美国以占全球4%的人口贡献了全球70%的血浆”的说法在中文互联网上持续流传，有短视频作品据此进一步对美国血浆产业的规模、献血浆者群体及血浆采集的规模、频次与健康后果提出一系列说法。 图1：短视频作品对美…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-17T04:11:39.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a312c3108f2a",
+          "title": "今年最火的“过冬战袍”，把冲锋衣挤下桌",
+          "titleZh": "今年最火的“过冬战袍”，把冲锋衣挤下桌",
+          "url": "https://www.huxiu.com/article/4906192.html?f=rss",
+          "summary": "本文来自微信公众号： DT商业观察 ，作者：DT商业观察 当一群人在超市抢购百元羽绒服，另一群人开始扒拉出一种体面穿搭——皮草。 在小红书，第一批预备过冬的人，把海宁皮革城逛成时尚码头。他们手握小红书攻略、抖音比价视频，冲到线下，本着花小钱办大事的原则，置办过冬的行头。 作为古早网红，今年冬天皮草的声势“卷土重来”。 根据千瓜数据，近30天（10月6日-11…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-17T04:07:52.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0692ec735cb8",
+          "title": "男性站着尿比坐着尿更健康？随机试验发现差异不显著",
+          "titleZh": "男性站着尿比坐着尿更健康？随机试验发现差异不显著",
+          "url": "https://www.huxiu.com/article/4906191.html?f=rss",
+          "summary": "本文来自微信公众号： 环球科学科研圈 ，作者：环球科学科研圈 男人上厕所该站着还是坐着，这个问题在不少家庭里引发过争论，理由通常和马桶圈的卫生有关。在德国，坐着小便的男人甚至有个专门的称呼“Sitzpinkler”，字面意思是“坐着尿尿的人”，常被用来调侃男人不够爷们儿。尽管如此，在一项2023年对13个国家7000多名男性的调查中，德国男性里有40%说自己…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-17T04:07:13.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-17T04:44:10.086Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-17T04:44:10.086Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-17T04:44:10.086Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "4101ef90fc2d",
+          "title": "Siemens to Acquire Lauterbach to Expand Semiconductor Design and Verification",
+          "titleZh": "Siemens to Acquire Lauterbach to Expand Semiconductor Design and Verification",
+          "url": "https://www.semiconductor-digest.com/siemens-to-acquire-lauterbach-to-expand-semiconductor-design-and-verification/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-lauterbach-to-expand-semiconductor-design-and-verification",
+          "summary": "Siemens has signed an agreement to acquire Lauterbach, a leading provider of debug and trace solutions for embedded software and complex system-on-chip (SoC) architectures. Lauterb…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-16T22:27:45.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7510b6e85a0",
+          "title": "EV Group Wins Austrian National Innovation Award for Third Time",
+          "titleZh": "EV Group Wins Austrian National Innovation Award for Third Time",
+          "url": "https://www.semiconductor-digest.com/ev-group-wins-austrian-national-innovation-award-for-third-time/?utm_source=rss&utm_medium=rss&utm_campaign=ev-group-wins-austrian-national-innovation-award-for-third-time",
+          "summary": "EV Group (EVG), a provider of innovative process solutions and expertise serving leading-edge and future semiconductor designs and chip integration schemes, has been named Austria’…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-16T22:19:31.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5b146f127111",
+          "title": "The best Warhammer 40K-themed gifts for your gaming setup",
+          "titleZh": "The best Warhammer 40K-themed gifts for your gaming setup",
+          "url": "https://www.tomshardware.com/gift-guides-seasonal-sales/the-best-warhammer-40k-themed-gifts-for-your-gaming-setup-chairs-desks-backpacks-toys-and-games-that-will-please-the-imperium",
+          "summary": "If you're a fan of Warhammer 40K and want to invite a SpaceMarine chapter or even a Chaos God to adorn your setup, then take a look at some of our favorite product picks for the pe…",
+          "whyItMatters": "",
+          "sourceName": "Tom's Hardware",
+          "publishedAt": "2026-11-16T23:00:00.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.9,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "05acf3cc0238",
+          "title": "AI agents were all over KubeCon. Production is another story",
+          "titleZh": "AI agents were all over KubeCon. Production is another story",
+          "url": "https://thenewstack.io/cncf-bryce-ai-agents/",
+          "summary": "AI agents are testing systems that were originally built for people, and Jonathan Bryce thinks the cloud-native community has a lot of work to do to help those systems keep up in t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-16T22:08:42.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "404939d199ac",
+          "title": "Google found hackers using autonomous AI agents to turn security patches into exploits",
+          "titleZh": "Google found hackers using autonomous AI agents to turn security patches into exploits",
+          "url": "https://thenewstack.io/autonomous-ai-exploit-agents/",
+          "summary": "Google&rsquo;s Threat Intelligence Group says attackers are using autonomous AI agents to reverse-engineer security patches, generate exploits, and attempt to execute them without …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-16T21:27:38.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f0782cbfad3e",
+          "title": "Dax Raad rebuilt his browser tool in Rust for $60. Then memory use fell 97%.",
+          "titleZh": "Dax Raad rebuilt his browser tool in Rust for $60. Then memory use fell 97%.",
+          "url": "https://thenewstack.io/opencode-browse-rust-rewrite/",
+          "summary": "OpenCode developer Dax Raad says he rebuilt the project’s browser automation tool in Rust for $60, replacing the parts of Playwright and Patchright it actually used and dramaticall…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-16T17:59:39.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8e8672c03054",
+          "title": "With Qwen4-Max, Alibaba puts the open source jacket back on the hanger",
+          "titleZh": "With Qwen4-Max, Alibaba puts the open source jacket back on the hanger",
+          "url": "https://thenewstack.io/qwen4-max-alibaba-open-weights/",
+          "summary": "Alibaba has officially unveiled Qwen4-Max, the first model in its next-generation Qwen4 family, with a focus on complex professional tasks and autonomous AI agents. The Chinese tec…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-16T16:54:17.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "papers",
+      "name": "学术前沿速递",
+      "description": "arXiv 高影响力新论文与 Nature/Science 重大成果。每条一句话讲清它证明了什么。",
+      "core": false,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#6d28d9",
+        "dark": "#d8b4fe"
+      },
+      "items": [
+        {
+          "id": "e4a28ea6f6aa",
+          "title": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+          "titleZh": "A Push Down the Mountain: Framing Effects and Internal State Interventions on Collusive Behavior in a Long-Horizon LLM Agent",
+          "url": "https://arxiv.org/abs/2611.17515",
+          "summary": "arXiv:2611.17515v1 Announce Type: new Abstract: Can sustained gain-loss (valence) framing sway an LLM agent toward market manipulation? We place Gemma 3 12B into the seat of a defe…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-16T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.17515"
+            },
+            {
+              "sourceName": "arXiv econ.GN",
+              "url": "https://arxiv.org/abs/2611.17515"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "34918072f9e9",
+          "title": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+          "titleZh": "More Agents, More Samples, or More Thinking? Untangling Coordination, Ensembling, and Test-Time Compute in Multi-Agent LLMs",
+          "url": "https://arxiv.org/abs/2611.17610",
+          "summary": "arXiv:2611.17610v1 Announce Type: new Abstract: Evaluations of multi-agent language models often compare communicating architectures against a single greedy pass. This practice con…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-16T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2611.17610"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.17610"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b9730543076c",
+          "title": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+          "titleZh": "Benchmarks Don't Talk Back: Learning Through Self-Disagreement",
+          "url": "https://arxiv.org/abs/2611.17563",
+          "summary": "arXiv:2611.17563v1 Announce Type: cross Abstract: A benchmark usually measures a language model alone with a question, and deployment rarely looks like that: answers get contested,…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-16T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2611.17563"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.17563"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "415b285d564e",
+          "title": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
+          "titleZh": "LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent",
+          "url": "https://arxiv.org/abs/2611.17780",
+          "summary": "arXiv:2611.17780v1 Announce Type: cross Abstract: Frontier LLM agents that query databases with tools are among the most accurate text-to-SQL systems, but per-query calls to a host…",
+          "whyItMatters": "",
+          "sourceName": "arXiv cs.AI",
+          "publishedAt": "2026-11-16T05:00:00.000Z",
+          "topic": "papers",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 8,
+            "novelty": 3,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "arXiv cs.LG",
+              "url": "https://arxiv.org/abs/2611.17780"
+            },
+            {
+              "sourceName": "arXiv cs.CL",
+              "url": "https://arxiv.org/abs/2611.17780"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 35,
+    "itemsPublished": 33,
+    "itemsFiltered": 2,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 68,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
