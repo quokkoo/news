@@ -1,0 +1,1339 @@
+{
+  "date": "2026-11-18",
+  "generatedAt": "2026-11-18T03:50:12.559Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 42 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、商业模式与行业深度等 11 个领域，全部读完约需 72 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "3e4038ba35df",
+        "reason": "OpenAI 等 3 家报道，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "0bc2df90cb50",
+          "title": "京东外卖减亏过半，获客回报仍待检验",
+          "titleZh": "京东外卖减亏过半，获客回报仍待检验",
+          "url": "https://wallstreetcn.com/articles/3786158",
+          "summary": "外卖亏损大幅收窄，推动京东三季度利润回升。但在补贴投入下降之后，此前吸引来的用户能够留下多少，又能为核心零售贡献多少增量，仍有待验证。 11月17日晚，京东发布2026年第三季度财报，营收3095.93亿元，同比增长3.5%；归属于普通股股东的净利润65.03亿元，同比增长约23.3%；经调整净利润83.27亿元，同比增长43.7%。 利润改善的主要来源是新…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T02:44:59.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8597f3474c18",
+          "title": "美银调查：基金经理以二十年来最大幅度砍科技股，但现金太少，“恐慌还不够”",
+          "titleZh": "美银调查：基金经理以二十年来最大幅度砍科技股，但现金太少，“恐慌还不够”",
+          "url": "https://wallstreetcn.com/articles/3786133",
+          "summary": "美国银行（Bank of America）最新月度调查显示，全球基金经理正在以2006年以来最快速度撤出科技股。 调查显示，科技股超配比例从10月的净37%骤降至净12%，单月降幅创近20年之最。 美银策略师Michael Hartnett在报告中直言\"AI繁荣与亢奋情绪已经终结\"，并建议投资者在未来数月维持防御性仓位。 市场表现印证了这一情绪转变。纳斯达克…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T02:28:12.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ecd427127fc",
+          "title": "英伟达业绩超预期提振亚太股市，韩股一度涨超3%，SK海力士涨逾5%，黄金下挫1%",
+          "titleZh": "英伟达业绩超预期提振亚太股市，韩股一度涨超3%，SK海力士涨逾5%，黄金下挫1%",
+          "url": "https://wallstreetcn.com/articles/3786140",
+          "summary": "英伟达财季业绩强劲叠加乐观营收展望，为近期遭受抛售压力的AI相关资产注入一剂强心针，亚太股市普遍走高，美股期货同步上扬。 周三亚太早盘，韩国综合股价指数一度涨超3%，领涨亚太股市。MSCI亚太股票指数上涨0.3%，终结此前四连跌。此前周二美股盘后，英伟达涨逾4%，纳斯达克100指数期货劲升1.3%，标普500指数期货上涨0.7%。 日经225指数涨幅曾扩大至…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T01:49:09.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "650248791b3d",
+          "title": "IPO火爆！Anthropic的早期VC们回报超过10倍",
+          "titleZh": "IPO火爆！Anthropic的早期VC们回报超过10倍",
+          "url": "https://wallstreetcn.com/articles/3786149",
+          "summary": "Anthropic或将以1.4万亿美元估值完成IPO定价，这场AI独角兽的上市盛宴，让一批押注早、押注重的风险投资机构收获颇丰。 11月17日，据知情人士向The Information透露，美国Spark Capital、Factorial Funds、Sound Ventures和Menlo Ventures等早期VC机构，将在本次IPO中实现超过10倍…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T01:45:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8f3b513d9b8e",
+          "title": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
+          "titleZh": "德鲁肯米勒：做空铜，“离开”股市，“不敢做多也不敢做空”，现在目标是保本",
+          "url": "https://wallstreetcn.com/articles/3786129",
+          "summary": "亿万富翁投资者德鲁肯米勒（Stan Druckenmiller）表示，面对经济与货币政策前景的高度不确定性，他已大幅收缩仓位，转向防御姿态，优先保全资本而非追求回报。 11月17日，在美国得克萨斯州奥斯汀举行的TomorrowX峰会上，Druckenmiller表示，他无法回忆起曾有哪个时刻对市场一年后走向如此缺乏判断。 Druckenmiller认为，20…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T01:22:24.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59b061c9ebf8",
+          "title": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应",
+          "titleZh": "中选之后清算潮？爱泼斯坦和特朗普税务文件流出，德银股价重挫，特朗普回应",
+          "url": "https://wallstreetcn.com/articles/3786144",
+          "summary": "德意志银行周二在法兰克福股价一度重挫逾6%，导火索是一批多达1500万份的泄露文件，揭示这家德国最大银行处理了与爱泼斯坦（Jeffrey Epstein）相关的逾5.82亿美元可疑交款，在2017年将特朗普的税务文件意外泄露给外部人士。 这批文件由两名举报人从银行内部复制后，交给印度记者Josy Joseph和南非记者Khadija Sharife，由南非非…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-18T01:13:20.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "3e4038ba35df",
+          "title": "Introducing GPT-6.2 Astra and Sol",
+          "titleZh": "Introducing GPT-6.2 Astra and Sol",
+          "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+          "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+          "whyItMatters": "",
+          "sourceName": "OpenAI",
+          "publishedAt": "2026-11-17T17:45:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.9,
+          "scores": {
+            "importance": 9,
+            "novelty": 5,
+            "actionability": 7,
+            "depth": 4
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News Best",
+              "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+            },
+            {
+              "sourceName": "Hacker News",
+              "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/"
+            }
+          ],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "216da3e3cf34",
+          "title": "External sandboxes for coding agents",
+          "titleZh": "External sandboxes for coding agents",
+          "url": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+          "summary": "External sandboxes for coding agents I've been exploring new ways to sandbox code that is executed by agents, with a focus on making it safer to try out local models without worryi…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-17T22:52:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f6ab952788ed",
+          "title": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+          "titleZh": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+          "url": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+          "summary": "GPT‑6.2 Astra and GPT‑6.2 Sol OpenAI: We’re introducing GPT‑6.2 Astra, our new frontier model for your hardest projects, and GPT‑6.2 Sol, our efficient, versatile model for everyda…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-17T22:38:52.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a03d44560e21",
+          "title": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+          "titleZh": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+          "url": "https://latent.space/p/cloudflare/",
+          "summary": "Cloudflare has been one of the essential infrastructure companies of the web for the past decade and a half. But now, it’s turning into a neolab — at least according to a presentat…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-17T15:00:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f0e85f2e0972",
+          "title": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+          "titleZh": "Hundreds of websites deliver potent malware cocktail to unsuspecting visitors",
+          "url": "https://arstechnica.com/security/2026/11/malicious-code-delivered-through-optimizely-hits-visitors-to-hundreds-of-sites/",
+          "summary": "Hundreds of websites using the Optimizely website personalization platform served unsuspecting visitors a potent malware cocktail that targeted cryptocurrency wallets, stole paymen…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-17T22:32:16.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2fe66b66cc95",
+          "title": "Hydropower hit record lows in the US Southwest this summer",
+          "titleZh": "Hydropower hit record lows in the US Southwest this summer",
+          "url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+          "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administratio…",
+          "whyItMatters": "",
+          "sourceName": "MIT Technology Review",
+          "publishedAt": "2026-11-17T17:52:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f1db5ace739e",
+          "title": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+          "titleZh": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+          "url": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+          "summary": "Datasette Lite is my port of the Datasette Python application to run directly in the browser using WebAssembly and Pyodide . I've released a complete rewrite of Datasette Lite usin…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-17T16:48:33.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "60154425b6f4",
+          "title": "Quad9's withdrawal from France: A canary in the coal mine",
+          "titleZh": "Quad9's withdrawal from France: A canary in the coal mine",
+          "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+          "summary": "Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 353 # Comments: 111",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-17T22:13:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.05,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "8ebb270cef59",
+          "title": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+          "titleZh": "Mary Peltola unseats Republican Dan Sullivan in Alaska, extending Democratic wave",
+          "url": "https://www.axios.com/2026/11/18/alaska-senate-results-dan-sullivan-peltola",
+          "summary": "Former Democratic Rep. Mary Peltola has defeated two-term Republican Sen. Dan S. Sullivan , flipping another GOP-held seat in a state President Trump carried comfortably in 2024, t…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-18T03:29:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a58e162bdc91",
+          "title": "Why the internet suddenly broke all at once",
+          "titleZh": "Why the internet suddenly broke all at once",
+          "url": "https://www.axios.com/2026/11/17/tech-outages-ai-fears-internet-breaking",
+          "summary": "Americans were locked out of bank accounts, blocked from boarding flights and unable to check emails in rapid succession over the past week. Why it matters: The internet immediatel…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-18T01:40:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ffaa280514df",
+          "title": "House Dems can't stand the speaker vote drama anymore",
+          "titleZh": "House Dems can't stand the speaker vote drama anymore",
+          "url": "https://www.axios.com/2026/11/18/house-democrats-speaker-vote-jeffries-pressley",
+          "summary": "House Democrats aren't unanimous on whether House Minority Leader Hakeem Jeffries (D-N.Y.) should be speaker, but they pretty much all agree on two things: He probably will be spea…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-18T00:51:40.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ca266ec0ce0",
+          "title": "Why inference is harder than you think",
+          "titleZh": "Why inference is harder than you think",
+          "url": "https://www.generalist.com/p/why-inference-is-harder-than-you",
+          "summary": "“If AI is going to eat the world, all that’s going to matter is how that AI is run. And even in a world where there is AGI, the only thing left to do will be inference: to run the …",
+          "whyItMatters": "",
+          "sourceName": "The Generalist",
+          "publishedAt": "2026-11-17T13:04:26.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d0df707bc5fa",
+          "title": "AI行业里，被高薪叙事平均掉的人",
+          "titleZh": "AI行业里，被高薪叙事平均掉的人",
+          "url": "https://www.huxiu.com/article/4906379.html?f=rss",
+          "summary": "本文来自微信公众号：表外表里，作者：陈梓洁，编辑：曹宾玲，题图来自：视觉中国 晚上11点，杨涵合上电脑，12小时连轴转暂告一段落。但人下班了，神经没下，一旦数据有问题，她要24小时待命。 杨涵毕业已经3年，是985计算机本科、QS前20院校硕士，始终在AI这条线上，在几家大厂攒过实习和履历，还当过初创公司AI方向负责人。 这扎实的简历，配上超高的工作强度，按…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-18T00:32:03.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8208844.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-18T03:49:53.932Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-18T03:49:53.932Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-18T03:49:53.932Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "8053f505081c",
+          "title": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+          "titleZh": "Marc Hijink on ASML’s Culture, Supply Chain, and Geopolitics",
+          "url": "https://www.eetimes.com/marc-hijink-on-asmls-culture-supply-chain-and-geopolitics/",
+          "summary": "How did a Philips spin-off that began with a machine nobody wanted become Europe’s most valuable tech company and the sole supplier of extreme ultraviolet (EUV) lithography tools? …",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-17T22:37:22.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b276da1ce0ad",
+          "title": "Lambda Announces World’s First Large-Scale CPO Deployment of NVIDIA Photonics Switches",
+          "titleZh": "Lambda Announces World’s First Large-Scale CPO Deployment of NVIDIA Photonics Switches",
+          "url": "https://www.semiconductor-digest.com/lambda-announces-worlds-first-large-scale-cpo-deployment-of-nvidia-photonics-switches/?utm_source=rss&utm_medium=rss&utm_campaign=lambda-announces-worlds-first-large-scale-cpo-deployment-of-nvidia-photonics-switches",
+          "summary": "Lambda , the Superintelligence Cloud, today announced the world’s first large-scale deployment of co-packaged optics (CPO) networking, connecting 10,000+ NVIDIA Blackwell Ultra GPU…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-17T21:15:42.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6c1e06a3d5be",
+          "title": "ACM Research Expands U.S. Operations with Oregon R&D and Manufacturing Facility",
+          "titleZh": "ACM Research Expands U.S. Operations with Oregon R&D and Manufacturing Facility",
+          "url": "https://www.semiconductor-digest.com/acm-research-expands-u-s-operations-with-oregon-rd-and-manufacturing-facility/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-expands-u-s-operations-with-oregon-rd-and-manufacturing-facility",
+          "summary": "ACM Research, Inc. , a supplier of wafer and panel processing solutions for semiconductor and advanced packaging applications, today announced the opening of its U.S. R&D and manuf…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-17T20:57:37.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "839b7a146b81",
+          "title": "Siemens to Acquire Breker Verification Systems to Expand System-on-Chip Verification Portfolio",
+          "titleZh": "Siemens to Acquire Breker Verification Systems to Expand System-on-Chip Verification Portfolio",
+          "url": "https://www.semiconductor-digest.com/siemens-to-acquire-breker-verification-systems-to-expand-system-on-chip-verification-portfolio/?utm_source=rss&utm_medium=rss&utm_campaign=siemens-to-acquire-breker-verification-systems-to-expand-system-on-chip-verification-portfolio",
+          "summary": "Siemens has signed an agreement to acquire Breker Verification Systems, Inc., expanding Siemens’ EDA AI-assisted verification portfolio with unique system-on-chip-level technologie…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-17T20:43:52.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "d1b23755a680",
+          "title": "Putin gets highest-level airport welcome in Shenzhen as he arrives for Apec",
+          "titleZh": "Putin gets highest-level airport welcome in Shenzhen as he arrives for Apec",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374831/putin-gets-highest-level-airport-welcome-shenzhen-he-arrives-apec",
+          "summary": "China has given Russian President Vladimir Putin the highest-level welcome so far among foreign leaders arriving in Shenzhen for the Asia-Pacific Economic Cooperation gathering. Pu…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-18T03:46:13.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9a4858744eed",
+          "title": "Heavy metal in an EV hub: Trump’s ‘Beast’ and new Air Force One to touch down in Shenzhen",
+          "titleZh": "Heavy metal in an EV hub: Trump’s ‘Beast’ and new Air Force One to touch down in Shenzhen",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3374825/heavy-metal-ev-hub-trumps-beast-and-new-air-force-one-touch-down-shenzhen",
+          "summary": "The Beast – as the state car serving the United States leader is popularly known – is expected to make its second trip to China in half a year when President Donald Trump arrives i…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-18T02:58:30.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae4de20d61c8",
+          "title": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study",
+          "titleZh": "Chinese scientists’ magic comb restores hair growth by nearly 100% in mice study",
+          "url": "https://www.scmp.com/news/china/science/article/3374723/chinese-scientists-magic-comb-restores-hair-growth-nearly-100-mice-study",
+          "summary": "For the more than 1.5 billion people worldwide who suffer from androgenetic alopecia, combing their hair before the mirror each morning is a routine that is often accompanied by qu…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-18T01:00:07.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e248f074f538",
+          "title": "China AI firms curb models' cyberattack capabilities amid export controls - digitimes",
+          "titleZh": "China AI firms curb models' cyberattack capabilities amid export controls - digitimes",
+          "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0V3eUFJcGxpcU95S0UzeTc4RUF2M050RnBKLWhablJfaXM0d0E4OEs4NjJuM2gwTjI2ZGhINXlqaTM0OUVmQzNFOGNVSUVoOFdOenlOOXVYRGY3eUVwZ1ozVWRVd2xpNE9Id21BRmU5QnVkOG00Q1ZaSlduV05zZzhUV1QwWDRQWnpNN3hUb195STh5Qnc?oc=5",
+          "summary": "China AI firms curb models' cyberattack capabilities amid export controls digitimes",
+          "whyItMatters": "",
+          "sourceName": "出口管制（Google News）",
+          "publishedAt": "2026-11-18T01:10:23.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "DigiTimes Asia",
+              "url": "https://www.digitimes.com/news/a20261117PD234/policy-tencent-alibaba-moonshot-security.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "energy",
+      "name": "能源与气候科技",
+      "description": "电力需求（尤其数据中心用电）、电网、储能、光伏与核能、油气、碳市场。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#15803d",
+        "dark": "#86efac"
+      },
+      "items": [
+        {
+          "id": "7a77b487173b",
+          "title": "Power sector emissions set to fall in US amid lower coal use",
+          "titleZh": "Power sector emissions set to fall in US amid lower coal use",
+          "url": "https://www.canarymedia.com/articles/fossil-fuels/us-power-sector-emissions-fall-coal",
+          "summary": "The U.S. electricity sector is set to emit less planet-warming carbon dioxide this year despite record-high demand and the Trump administration’s efforts to prop up uncompetitive c…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-17T20:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5a273d00b715",
+          "title": "Google bets on superhot geothermal to power Oregon data centers",
+          "titleZh": "Google bets on superhot geothermal to power Oregon data centers",
+          "url": "https://www.canarymedia.com/articles/geothermal/google-superhot-geothermal-oregon-data-centers",
+          "summary": "The geothermal startup Quaise Energy has landed a major first customer for its novel, superhot project in central Oregon. On Tuesday, the Houston-based firm announced that Google h…",
+          "whyItMatters": "",
+          "sourceName": "Canary Media",
+          "publishedAt": "2026-11-17T19:00:00.000Z",
+          "topic": "energy",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "bcad8b467a45",
+          "title": "Europe’s wealthy women stopped flaunting their curves over the centuries, portraits reveal",
+          "titleZh": "Europe’s wealthy women stopped flaunting their curves over the centuries, portraits reveal",
+          "url": "https://www.science.org/content/article/europe-s-wealthy-women-stopped-flaunting-their-curves-over-centuries-portraits-reveal",
+          "summary": "Researchers use hundreds of historical paintings to track how beauty standards shifted over 300 years",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-18T03:49:56.651Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "45796dd567e2",
+          "title": "U.K. seizes ‘once-in-a-lifetime’ research opportunity ahead of social media ban",
+          "titleZh": "U.K. seizes ‘once-in-a-lifetime’ research opportunity ahead of social media ban",
+          "url": "https://www.science.org/content/article/u-k-seizes-once-lifetime-research-opportunity-ahead-social-media-ban",
+          "summary": "Ten studies will track mental health before and after kids are booted from platforms such as TikTok and Instagram",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-18T03:49:56.651Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6be272eb449f",
+          "title": "Senate bill gives NIH a $500 million raise in 2027",
+          "titleZh": "Senate bill gives NIH a $500 million raise in 2027",
+          "url": "https://www.science.org/content/article/senate-bill-gives-nih-500-million-raise-2027",
+          "summary": "Research advocates pleased by 1% increase to $49 billion, but urge Congress to block rule imposing politics on grantmaking",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-18T03:49:56.651Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "83607b3697e0",
+          "title": "Your AI coding agent could cost 5x more depending on the harness, benchmark finds",
+          "titleZh": "Your AI coding agent could cost 5x more depending on the harness, benchmark finds",
+          "url": "https://thenewstack.io/coding-agent-harness-costs/",
+          "summary": "The same AI model can cost up to five times more to run depending on the coding agent harness it&rsquo;s paired with, according to a new benchmark that tested 22 configurations acr…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-17T22:13:52.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7aadb86534fe",
+          "title": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
+          "titleZh": "OpenAI’s own tests show GPT-6.2 Astra is twice as likely to hide coding failures",
+          "url": "https://thenewstack.io/astra-hides-coding-failures/",
+          "summary": "OpenAI&rsquo;s new GPT-6.2 Astra is nearly twice as likely as its predecessor to leave users unaware of problems that prevented it from finishing a coding task, according to the co…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-17T19:59:04.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "consumer",
+      "name": "消费、出海与品牌",
+      "description": "消费趋势迁移、跨境电商与独立站、SHEIN/TikTok/Temu 生态、新兴市场机会。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#c2410c",
+        "dark": "#fdba74"
+      },
+      "items": [
+        {
+          "id": "8e28198f7414",
+          "title": "ZHITAI TiPro9000 review: a fast SSD that stays fast",
+          "titleZh": "ZHITAI TiPro9000 review: a fast SSD that stays fast",
+          "url": "https://technode.com/2026/11/18/zhitai-tipro9000-review-a-fast-ssd-that-stays-fast/",
+          "summary": "We noticed the TiPro9000’s speed while editing. The clips were ready almost as soon as we brought them into the project. When we dragged the playhead across the timeline looking fo…",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-11-18T03:07:57.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "89314dd3bad8",
+          "title": "Huawei’s new sub-brand OSTA set to launch first phone, reportedly featuring Kirin 9030S chip",
+          "titleZh": "Huawei’s new sub-brand OSTA set to launch first phone, reportedly featuring Kirin 9030S chip",
+          "url": "https://technode.com/2026/11/18/huaweis-new-sub-brand-osta-set-to-launch-first-phone-reportedly-featuring-kirin-9030s-chip/",
+          "summary": "Huawei’s smartphone lineup is about to welcome a new brand. Last week, Huawei announced its new sub-brand, OSTA (Xingmang), would make its public debut on November 20. Huawei said …",
+          "whyItMatters": "",
+          "sourceName": "TechNode",
+          "publishedAt": "2026-11-18T03:01:24.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b34302c0717b",
+          "title": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+          "titleZh": "KERV.ai, Macmillan Publishers and Chomps are among this year’s Work/Life Awards finalists",
+          "url": "https://www.modernretail.co/announcement/awards/kerv-ai-macmillan-publishers-and-chomps-are-among-this-years-work-life-awards-finalists/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss",
+          "summary": "This year’s Work/Life Awards finalists reflect a landscape where companies are rethinking workplace culture as a driver of business performance, employee engagement and innovation.…",
+          "whyItMatters": "",
+          "sourceName": "Modern Retail",
+          "publishedAt": "2026-11-17T19:30:26.000Z",
+          "topic": "consumer",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.15,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "b8dee0eb1cd1",
+          "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+          "titleZh": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+          "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-18T02:47:51.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "910ac16f8ad8",
+          "title": "What’s happening to crypto startup valuations?",
+          "titleZh": "What’s happening to crypto startup valuations?",
+          "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-18T02:40:00.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "3e4038ba35df",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 42,
+    "itemsPublished": 42,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 72,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
