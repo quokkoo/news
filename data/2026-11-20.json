@@ -1,0 +1,1142 @@
+{
+  "date": "2026-11-20",
+  "generatedAt": "2026-11-20T03:41:35.565Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 39 条，覆盖 深度长文与思考、前沿科技与 AI 产业、宏观经济与资本市场、商业模式与行业深度等 10 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "8f5915d3cd8d",
+          "title": "首发24小时销量或达到季度预测！GTA 6让大摩惊叹",
+          "titleZh": "首发24小时销量或达到季度预测！GTA 6让大摩惊叹",
+          "url": "https://wallstreetcn.com/articles/3786337",
+          "summary": "《侠盗猎车手6》（《GTA 6》）发布首日即打破多项纪录，摩根士丹利认为这一成绩不仅有望在24小时内兑现其单季度销量预期，更将为母公司Take-Two Interactive奠定未来十年变现增长的基础。 11月19日，《GTA 6》正式上线首日，第三方数据机构Sensor Tower估计销售额已达18亿美元，销量约1900万份。 追风交易台消息，当日摩根士丹…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T02:23:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c8e553105343",
+          "title": "阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理",
+          "titleZh": "阿里、腾讯释放同一个信号：资本开支在2028年后下降，国产算力驱动推理",
+          "url": "https://wallstreetcn.com/articles/3786331",
+          "summary": "阿里巴巴和腾讯在各自最新季度财报电话会上，都给出了相似的资本开支路径：AI基础设施资本开支的高峰期正在临近，2028年将成为关键拐点。与此同时，两家公司均强调，推理负载已可在国内芯片上高效运行，国产算力正成为支撑云收入增长的一大核心引擎。 阿里CFO徐宏在电话会上表示，本季度资本开支为505亿元人民币（约合75亿美元），环比上季度的677亿元人民币（约合10…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T01:29:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "057baabe5e2e",
+          "title": "黑色星期五！日韩股指跌近5%，软银大跌15%，SK海力士跌超7%，黄金跌破3600",
+          "titleZh": "黑色星期五！日韩股指跌近5%，软银大跌15%，SK海力士跌超7%，黄金跌破3600",
+          "url": "https://wallstreetcn.com/articles/3786330",
+          "summary": "Anthropic上市未能提振AI板块信心，受人工智能交易前景悲观情绪的影响，亚太市场周五开盘遭遇重挫，科技股首当其冲，全球股指正迈向近三年来最长连跌纪录。 MSCI亚太股票指数下跌1.7%，连续第七个交易日收跌，逼近4月以来最低收盘位，同步拖累MSCI全球指数走向2023年9月以来最长跌势。韩国综合股价指数下挫4.7%，日本日经225指数跌幅扩大至4.6%…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T01:22:29.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a7d8eb2cd98f",
+          "title": "A股三大股指早盘下跌，创业板跌近3%，银行、煤炭逆势走强，恒科指跌超4%，权重科网股普遍下跌",
+          "titleZh": "A股三大股指早盘下跌，创业板跌近3%，银行、煤炭逆势走强，恒科指跌超4%，权重科网股普遍下跌",
+          "url": "https://wallstreetcn.com/articles/3786333",
+          "summary": "11月20日，A股早盘集体低开，三大股指盘初延续跌势，深成指、创业板均跌超2%，算力硬件再度调整，光模块、光通信、光电路交换机等领跌，“易中天”均跌5%。覆铜板、电路板等逆势活跃。AI短剧、贵金属等板块大幅下挫，生物医药、航天军工等板块亦下跌。资金涌入红利资产，银行、煤炭等走强。 港股大幅低开低走，恒指、恒科指双双下挫，恒科指早盘跌超3%，权重科网股多数下跌…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T02:26:15.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0a2716f3e9e",
+          "title": "连续第18个月维持不变！11月LPR报价出炉：5年期以上3.5%，1年期3%",
+          "titleZh": "连续第18个月维持不变！11月LPR报价出炉：5年期以上3.5%，1年期3%",
+          "url": "https://wallstreetcn.com/articles/3786332",
+          "summary": "中国11月贷款市场报价利率（LPR）11月20日出炉，1年期和5年期以上LPR均未调整。 中国人民银行授权全国银行间同业拆借中心公布显示，2026年11月20日贷款市场报价利率（LPR）为：1年期LPR为3.0%，5年期以上LPR为3.5%。以上LPR在下一次发布LPR之前有效。 作为主要政策利率的7天期逆回购利率自2025年5月下调后已经连续17个月保持不…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T01:01:03.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "59ea0e209d2b",
+          "title": "罕见！CoreWeave联合创始人3000万美元买入自己债券",
+          "titleZh": "罕见！CoreWeave联合创始人3000万美元买入自己债券",
+          "url": "https://wallstreetcn.com/articles/3786328",
+          "summary": "CoreWeave联合创始人以一笔罕见的债券自购行动，向市场传递信心信号。 CoreWeave联合创始人兼首席战略官Brian Venturo周三（11月18日）在LinkedIn发文披露，他已买入该公司面值3000万美元的无担保债券，并计划持有至2031年10月1日到期。“我对CoreWeave的信心从未如此之强，”他写道。 CoreWeave随后在社交平…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-20T00:48:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "dbc545a2ecea",
+          "title": "Token fraud is here and it’s BAD (YouTube)",
+          "titleZh": "Token fraud is here and it’s BAD (YouTube)",
+          "url": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+          "summary": "Token fraud is here and it’s BAD (YouTube) Claire Vo runs ChatPRD , an AI platform that helps product managers \"turn an idea into a spec\". The product has been live since the GPT-4…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-20T02:49:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d04b0eb3af84",
+          "title": "A game you cannot win unless you have a quantum computer",
+          "titleZh": "A game you cannot win unless you have a quantum computer",
+          "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer/",
+          "summary": "Here is a Sunday paper-style puzzle you can try right now. Draw a 3×3 grid. Fill every cell with either +1 or −1, subject to two rules: each row must multiply to +1, and each colum…",
+          "whyItMatters": "",
+          "sourceName": "Google Research",
+          "publishedAt": "2026-11-19T20:03:00.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "906974202230",
+          "title": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+          "titleZh": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+          "url": "https://latent.space/p/linear-scaling/",
+          "summary": "Open video on YouTube ↗ Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tra…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-19T23:58:21.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ac50876ad674",
+          "title": "PostgreSQL 19 Released",
+          "titleZh": "PostgreSQL 19 Released",
+          "url": "https://simonwillison.net/2026/Nov/19/postgresql-19/",
+          "summary": "PostgreSQL 19 Released Most years PostgreSQL ships a new release in September, but this year's release came two months later thanks mainly to the flurry of issues that the PostgreS…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-19T20:43:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b2e0f2a62780",
+          "title": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+          "titleZh": "\"You’re right\"—LLMs will get climate info wrong if you ask",
+          "url": "https://arstechnica.com/science/2026/11/llms-will-provide-accurate-climate-info-except-when-they-wont/",
+          "summary": "Many studies over the years have examined how people encounter climate science information. Some focused on the top results that Google surfaced (back when Google was still in the …",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-19T18:44:39.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50d47dd05eca",
+          "title": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+          "titleZh": "Man hired by Russia spied on Silicon Valley tech and defense company, feds say",
+          "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+          "summary": "A Russian national has been indicted on suspicions he was a Russian spy who stalked and surveilled employees of a Silicon Valley company that was assisting Ukraine in its ongoing w…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-19T20:29:46.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eb0dc9157aca",
+          "title": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+          "titleZh": "Amazon fights the Delivery Protection Act with homepage banner, in-app pop-up",
+          "url": "https://arstechnica.com/tech-policy/2026/11/amazon-takes-its-fight-against-nyc-delivery-bill-to-shoppers-with-in-app-pop-up/",
+          "summary": "In an unprecedented move, Amazon is using its app and website to try to convince shoppers to not support a New York City bill. When I log into Amazon today, I’m met with a vertical…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-19T22:16:37.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e22c16d0b839",
+          "title": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "titleZh": "MAHA PAC spent more on steak, luxury club than candidates, report shows",
+          "url": "https://arstechnica.com/health/2026/11/maha-pac-spent-more-on-steak-luxury-club-than-candidates-report-shows/",
+          "summary": "In the wake of the Make America Healthy Again movement's midterm wipeout , a top leader suggested the heavy losses came down to being outspent by wealthier, more powerful rivals. B…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-19T21:19:12.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "283cc4fa73c8",
+          "title": "Senate passes Trump-backed permitting bill",
+          "titleZh": "Senate passes Trump-backed permitting bill",
+          "url": "https://www.axios.com/2026/11/20/senate-passes-energy-permitting-bill",
+          "summary": "The Senate passed a sweeping, bipartisan bill Thursday night that's designed to cut permitting timelines for energy and infrastructure projects. Why it matters: The eyes of the ent…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-20T03:08:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa382120f1d4",
+          "title": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+          "titleZh": "Trump tells skeptical Europeans: \"Putin wants to end the war\"",
+          "url": "https://www.axios.com/2026/11/20/trump-pushes-putin-ukraine-war-deal",
+          "summary": "On his way back from China Thursday aboard Air Force One, President Trump called in to a meeting his envoys Steve Witkoff and Jared Kushner were holding in Berlin with a group of E…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-20T01:30:59.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3f2ef535668d",
+          "title": "Future 50 is back",
+          "titleZh": "Future 50 is back",
+          "url": "https://www.generalist.com/p/future-50-2026",
+          "summary": "Illustration by Tyler Comrie Friends, This is our third edition of Future 50 , and the first with a sibling. For those new to The Generalist, Future 50 is our annual compilation of…",
+          "whyItMatters": "",
+          "sourceName": "The Generalist",
+          "publishedAt": "2026-11-19T15:26:51.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.95,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "30eab2844400",
+          "title": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+          "titleZh": "史上最大IPO开盘暴涨，市值一度逼近2万亿美元",
+          "url": "https://www.huxiu.com/article/4907033.html?f=rss",
+          "summary": "本文来自微信公众号：字母AI，作者：小金牙，题图来自：视觉中国 清醒地认识到自己在见证历史，是挺刺激的一件事。 Anthropic上市，就是这样。 当地时间11月19日，做出Claude的Anthropic在纳斯达克挂牌，股票代码ANT。第一笔交易以每股111.50美元成交，较83美元的发行价上涨34.34%。 按完全稀释口径算，Anthropic的估值从发…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-20T00:00:28.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8211807.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "bfa74dbd5ef9",
+          "title": "置业泰国的中国人，开始以骨折价卖房",
+          "titleZh": "置业泰国的中国人，开始以骨折价卖房",
+          "url": "https://www.huxiu.com/article/4906803.html?f=rss",
+          "summary": "本文来自微信公众号：北纬实验室，作者：陈默，题图来自：视觉中国 今年10月，一位中国投资者准备卖掉自己在泰国清迈的房产。这是一套三十多平米的小公寓，她于2023年以期房形式购入，价格是330万泰铢（注：目前1人民币约等于5.1泰铢），现在她想以270万泰铢的价格出手，但她发现，房子“不是很好卖”。 好卖的只有价格“打骨折”的房子。王猛是短视频号“猛哥猛说”的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-20T03:12:42.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-20T03:41:27.249Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-20T03:41:27.249Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-20T03:41:27.249Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "semi",
+      "name": "半导体与硬件供应链",
+      "description": "制程节点、先进封装、HBM 与存储周期、EDA、设备出口管制、代工产能。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#0369a1",
+        "dark": "#7dd3fc"
+      },
+      "items": [
+        {
+          "id": "62ae3c6f963e",
+          "title": "Memory R&D Is a High-Stakes Game",
+          "titleZh": "Memory R&D Is a High-Stakes Game",
+          "url": "https://www.eetimes.com/memory-rd-is-a-high-stakes-game/",
+          "summary": "The need for significant investment in R&D is nothing new for memory makers, but Micron Technology’s creation of a dedicated facility that looks beyond the next node illustrates wh…",
+          "whyItMatters": "",
+          "sourceName": "EE Times",
+          "publishedAt": "2026-11-19T22:21:15.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.45,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4efb7ccfcd58",
+          "title": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration",
+          "titleZh": "Boston Dynamics & GlobalFoundries Expand Robotics Collaboration",
+          "url": "https://www.semiconductor-digest.com/boston-dynamics-globalfoundries-expand-robotics-collaboration/?utm_source=rss&utm_medium=rss&utm_campaign=boston-dynamics-globalfoundries-expand-robotics-collaboration",
+          "summary": "Boston Dynamics, the global leader in mobile robotics, and GlobalFoundries (opens in new tab) (GF), a leading manufacturer of essential semiconductors, today announced an expansion…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-19T23:34:24.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "01b906d44243",
+          "title": "Construction of a New Plant for ALD Materials for Advanced Semiconductors",
+          "titleZh": "Construction of a New Plant for ALD Materials for Advanced Semiconductors",
+          "url": "https://www.semiconductor-digest.com/construction-of-a-new-plant-for-ald-materials-for-advanced-semiconductors/?utm_source=rss&utm_medium=rss&utm_campaign=construction-of-a-new-plant-for-ald-materials-for-advanced-semiconductors",
+          "summary": "The semiconductor market continues to grow, driven in part by the expanding use of generative AI. In logic ICs, which perform computing and control functions, transistor structures…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-19T23:32:33.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af0a7af8901e",
+          "title": "Ecolab Launches Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure",
+          "titleZh": "Ecolab Launches Liquid Cooling Ecosystem to Shape the Industry’s Most Efficient AI Infrastructure",
+          "url": "https://www.semiconductor-digest.com/ecolab-launches-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure/?utm_source=rss&utm_medium=rss&utm_campaign=ecolab-launches-liquid-cooling-ecosystem-to-shape-the-industrys-most-efficient-ai-infrastructure",
+          "summary": "Ecolab today announced it is convening an open AI infrastructure ecosystem to solve the data center industry’s need for faster next-generation data center development. Today at SC2…",
+          "whyItMatters": "",
+          "sourceName": "Semiconductor Digest",
+          "publishedAt": "2026-11-19T22:15:17.000Z",
+          "topic": "semi",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.2,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "0f342f0d8e4e",
+          "title": "China-Russia-US trilateral summit declaration towards peace",
+          "titleZh": "China-Russia-US trilateral summit declaration towards peace",
+          "url": "https://www.scmp.com/plus/news/china/article/3375154/china-russia-us-trilateral-summit-declaration-towards-peace",
+          "summary": "Chinese President Xi Jinping, US President Donald Trump and Russian President Vladimir Putin held a trilateral summit in Shenzhen on November 19, 2026. Following the summit, the th…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-20T03:16:47.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "9df2d545dbd9",
+          "title": "Rob Sand shuts down any talk of 2028",
+          "titleZh": "Rob Sand shuts down any talk of 2028",
+          "url": "https://www.politico.com/news/2026/11/19/rob-sand-iowa-2028-01177322",
+          "summary": "Iowa Gov.-elect Rob Sand isn’t indulging any consideration of him as a potential 2028 presidential candidate. Sand, who cemented himself as a rising star in the party by flipping t…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-19T23:54:25.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f3b8bdf70021",
+          "title": "Massachusetts gov says Dems want ‘a uniter and a fighter’ for 2028",
+          "titleZh": "Massachusetts gov says Dems want ‘a uniter and a fighter’ for 2028",
+          "url": "https://www.politico.com/news/2026/11/19/massachusetts-gov-maura-healey-2028-01177150",
+          "summary": "Democrats want fighters. Massachusetts Gov. Maura Healey believes they want healers, too. Healey, a Democrat who easily won a second term in the deep-blue state earlier this month,…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-19T23:14:37.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8fbace13a49b",
+          "title": "Keisha Lance Bottoms says Democrats better spend big on the South",
+          "titleZh": "Keisha Lance Bottoms says Democrats better spend big on the South",
+          "url": "https://www.politico.com/news/2026/11/19/keisha-lance-bottoms-democrats-campaigns-south-01177147",
+          "summary": "Georgia Democratic Gov.-elect Keisha Lance Bottoms said the midterm election results “have spoken for themselves” in showing the need for the Democratic Party to invest more in the…",
+          "whyItMatters": "",
+          "sourceName": "Politico",
+          "publishedAt": "2026-11-19T23:11:12.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.05,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "af751a6dccf9",
+          "title": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "titleZh": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+          "summary": "Surprising result contrasts with earlier studies and complicates policy debates about culling",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-20T03:41:29.374Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b27db717985a",
+          "title": "Flawed research papers should be retracted faster, U.S. academy urges",
+          "titleZh": "Flawed research papers should be retracted faster, U.S. academy urges",
+          "url": "https://www.science.org/content/article/flawed-research-papers-should-be-retracted-faster-u-s-academy-urges",
+          "summary": "Report recommends deadlines and destigmatizing errors",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-20T03:41:29.374Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a6fe1625ed6c",
+          "title": "Chemists are uncovering a hidden world of pollution",
+          "titleZh": "Chemists are uncovering a hidden world of pollution",
+          "url": "https://www.science.org/content/article/chemists-are-uncovering-hidden-world-pollution",
+          "summary": "New analytical tools are revealing thousands of chemicals that conventional tests miss",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-20T03:41:29.374Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "378167b0e2bd",
+          "title": "Does your AI agent need an LLM to decide what to do next?",
+          "titleZh": "Does your AI agent need an LLM to decide what to do next?",
+          "url": "https://thenewstack.io/aws-decider-models-agents/",
+          "summary": "Say &ldquo;good morning&rdquo; to an AI agent , and it might search its long-term memory before saying hello back. Somewhere in that system, a service performs a semantic lookup to…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-20T01:37:32.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2b9b541019b7",
+          "title": "Google just gave Gemini the run of your Mac — three days after Apple tightened the rules",
+          "titleZh": "Google just gave Gemini the run of your Mac — three days after Apple tightened the rules",
+          "url": "https://thenewstack.io/gemini-mac-computer-use/",
+          "summary": "Google is adding computer use to its Gemini app for macOS. The assistant can now work across desktop applications and websites in a separate background window without taking over t…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-19T21:35:09.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2db48e632a5a",
+          "title": "An engineer didn’t message his AI for 22 of 44 days. It built an Android app anyway.",
+          "titleZh": "An engineer didn’t message his AI for 22 of 44 days. It built an Android app anyway.",
+          "url": "https://thenewstack.io/cognition-devin-bots-management/",
+          "summary": "Cognition has spent nearly three years developing Devin as an autonomous engineer that takes a ticket and ships a pull request. With Tuesday&rsquo;s launch of Devin Bots , the comp…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-19T20:22:18.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "35495f04cc71",
+          "title": "The best things in open source are built together",
+          "titleZh": "The best things in open source are built together",
+          "url": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
+          "summary": "In 2026, public contributions on GitHub soared to 2.5 billion , more than double last year&rsquo;s total of 1.12 billion. It goes to show how open source remains a powerful mechani…",
+          "whyItMatters": "",
+          "sourceName": "GitHub Blog",
+          "publishedAt": "2026-11-19T16:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 39,
+    "itemsPublished": 37,
+    "itemsFiltered": 2,
+    "sourcesOk": 89,
+    "sourcesFailed": 6,
+    "totalReadMinutes": 66,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
