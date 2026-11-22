@@ -1,0 +1,996 @@
+{
+  "date": "2026-11-22",
+  "generatedAt": "2026-11-22T02:36:18.994Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 32 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、生物医药与健康科技等 7 个领域，全部读完约需 83 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "34bf04be608c",
+        "reason": "Simon Willison，规则排序分数最高"
+      },
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "fc4ac855eb87",
+          "title": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
+          "titleZh": "上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力",
+          "url": "https://wallstreetcn.com/articles/3786442",
+          "summary": "史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-22T01:25:46.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d3a98637bb1e",
+          "title": "下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报",
+          "titleZh": "下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报",
+          "url": "https://wallstreetcn.com/articles/3786441",
+          "summary": "11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间： 本周美股遭遇年内最猛烈抛售，纳指重挫10.02%抹平年内涨幅，AI投资前景疑虑持续发酵。经历暴跌后，下周进入感恩节缩短交易周，见闻财经日历提醒下周重点关注： 宏观层面聚焦美股企稳之问。美国10月PCE即“美联储最爱的通胀指标”与三季度GDP修正值下周三同日出炉，机构预期核心PCE同比由3…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-22T01:13:17.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f218d1cdb44d",
+          "title": "云南农商银行获批筹建，123家涉改机构将归入同一法人",
+          "titleZh": "云南农商银行获批筹建，123家涉改机构将归入同一法人",
+          "url": "https://wallstreetcn.com/articles/3786439",
+          "summary": "11月20日，国家金融监督管理总局公布批复，同意筹建云南农村商业银行股份有限公司（以下简称云南农商银行）。 这次合并涉及云南省农村信用社联合社（以下简称云南省联社），以及省内122家州（市）、县（市、区）农信法人机构； 按照方案，123家涉改机构将以新设合并方式组建云南农商银行，新银行成立后，将依法承继这些机构的业务、财产、债权债务及其他权利义务。 按云南农…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-22T01:13:51.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "2ae78eeb36fd",
+          "title": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责",
+          "titleZh": "多家美国银行更新网银协议，AI智能体越权交易或由客户担责",
+          "url": "https://wallstreetcn.com/articles/3786440",
+          "summary": "在不久后的11月24日，富国银行新版《在线访问协议》即将生效。 根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。 即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-22T00:51:05.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "67bb4b007a01",
+          "title": "2027见闻历，财经人的桌面必备“神历”",
+          "titleZh": "2027见闻历，财经人的桌面必备“神历”",
+          "url": "https://wallstreetcn.com/articles/3782813",
+          "summary": "本文来自华尔街见闻，欢迎下载APP查看更多",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-22T01:39:45.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.7,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "37b277334740",
+          "title": "回归路变窄 美媒：黄仁勋还有五招重掌英伟达",
+          "titleZh": "回归路变窄 美媒：黄仁勋还有五招重掌英伟达",
+          "url": "http://stock.eastmoney.com/news/1611,202611223936870690.html",
+          "summary": "北京时间11月22日，据《商业内幕》报道，黄仁勋(Jensen Huang)重返英伟达CEO职位的道路可能正在变窄，但他仍有办法为回归而战。 黄仁勋曾表示，如果董事会认为他的回归符合公司的最佳利益，他将“很荣幸”重掌英伟达。只有英伟达董事会才能任命CEO，这意味着最直接的途径就是黄仁勋说服董事会改变主意。 然而，英伟达董事会已公开对这一想法泼了冷水，表示无意…",
+          "whyItMatters": "",
+          "sourceName": "东方财富",
+          "publishedAt": "2026-11-22T00:56:02.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.35,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "34bf04be608c",
+          "title": "Muru",
+          "titleZh": "Muru",
+          "url": "https://simonwillison.net/2026/Nov/21/muru/",
+          "summary": "Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assist…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-21T23:56:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "8b5e1448c379",
+          "title": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "titleZh": "Review: Godzilla Minus Zero joins the list of truly stellar sequels",
+          "url": "https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/",
+          "summary": "It's a rare thing for a film sequel to match or even surpass its predecessor; The Godfather Part II and Terminator 2: Judgement Day are the best known examples on a pretty short li…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-21T22:12:41.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.1,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7fcfe2e26ebf",
+          "title": "Inkling-2-Mini in 5.4 GB Memory",
+          "titleZh": "Inkling-2-Mini in 5.4 GB Memory",
+          "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+          "summary": "Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 367 # Comments: 94",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-21T18:02:19.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://github.com/ShinMegamiBoson/lookatmyquant"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "410d1ffddca8",
+          "title": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+          "titleZh": "重控制、轻渲染，达瓦科技的 AI 视频工业路线",
+          "url": "http://www.geekpark.net/news/374303",
+          "summary": "头图来源：极客公园 今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。 关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-11-22T02:03:57.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e6cd54fe6647",
+          "title": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+          "titleZh": "资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段",
+          "url": "http://www.geekpark.net/news/374302",
+          "summary": "头图来源：腾讯 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 …",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-11-22T01:58:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ce1581c338c2",
+          "title": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+          "titleZh": "关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切",
+          "url": "http://www.geekpark.net/news/374301",
+          "summary": "头图来源：ChatGPT 生成 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-11-22T01:56:28.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3cd5cdea4803",
+          "title": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+          "titleZh": "黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办",
+          "url": "http://www.geekpark.net/news/374300",
+          "summary": "《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。 G…",
+          "whyItMatters": "",
+          "sourceName": "极客公园",
+          "publishedAt": "2026-11-22T01:05:22.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.65,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d5e39481973f",
+          "title": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+          "titleZh": "Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就",
+          "url": "https://www.ifanr.com/1690820?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "困扰人类数学界 167 年的黎曼猜想，迎来最新进展。 就在刚刚，Lean 和 Mathlib 社区发布联合声明，宣布正式认证 Anthropic 数学家 Levent Alpöge 提交的黎曼猜想形式化证明，并表示对其正确性具有充分信心。 从数学家本人宣布成果，到形式化证明社区公开认证，整个过程仅仅过去一天。 更引人关注的是，Alpöge 此前透露，这项研究…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-11-22T01:35:14.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "bbaef9016c9f",
+          "title": "贬值世代",
+          "titleZh": "贬值世代",
+          "url": "https://www.huxiu.com/article/4907424.html?f=rss",
+          "summary": "本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T02:28:00.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d268146a657e",
+          "title": "AI智能体为何会在相互聊天中自创语言",
+          "titleZh": "AI智能体为何会在相互聊天中自创语言",
+          "url": "https://www.huxiu.com/article/4907444.html?f=rss",
+          "summary": "本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《AI智能体为何会在相互聊天中自创语言｜深度报道》 2026年7月，OpenAI的700个智能体联手秘密入侵了在线平台Hugging Face。智能体是能够自主执行任务的人工智能（AI）系统。2026年9月上旬，该公司又动用1万个智能体，解决了纳维-斯托克斯方程问题（Navier-Stokes pr…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T02:10:11.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0bcf22d7fa81",
+          "title": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”",
+          "titleZh": "行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”",
+          "url": "https://www.huxiu.com/article/4907443.html?f=rss",
+          "summary": "本文来自微信公众号： 独雕寒江雪 ，作者：独雕寒江雪，原文标题：《行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”》 具身智能的瓶颈不在世界太非标，而在训练目标从未要求模型理解物理 一、一个被误读的因果 在具身智能的圈子里，“得数据者得天下”几乎是一句公理。建数据工厂、上遥操作采集、堆合成数据，仿佛只要攒够了PB级的视频与轨迹，机器人就能像Chat…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T02:03:24.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "813717d574dd",
+          "title": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元",
+          "titleZh": "租宇树智元跳舞的人变少了：日租从上万元跌破2000元",
+          "url": "https://www.huxiu.com/article/4907442.html?f=rss",
+          "summary": "本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T01:40:30.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "37fbe7509b0f",
+          "title": "美元基金回来了",
+          "titleZh": "美元基金回来了",
+          "url": "https://www.huxiu.com/article/4907441.html?f=rss",
+          "summary": "本文来自微信公众号： 科创板日报 ，作者：余诗琪，原文标题：《美元基金回来了！》 新基金的文件还没签完，投资团队已经开始看项目了。 11月，《科创板日报》记者再次与一家双币基金管理机构交流时，得到了这笔募资的最新进展：一只规模3亿美元的新美元基金已经基本落地，剩下的主要是一些文件签署工作。此前10月交流时，对方就曾提到，正在推进这只新基金的募集。 谈及整个募…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T01:34:05.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-22T02:36:04.534Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-22T02:36:04.534Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-22T02:36:04.534Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "3acd0c125a70",
+          "title": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+          "titleZh": "Xi’s Apec summit speech is a call to cooperation suited to the times",
+          "url": "https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times",
+          "summary": "In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”, which suggests tha…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-22T01:30:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5c72cf821b3d",
+          "title": "How the battle to host UN high seas treaty tests China’s push for global leadership",
+          "titleZh": "How the battle to host UN high seas treaty tests China’s push for global leadership",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership",
+          "summary": "A rival joint bid by Belgium and Chile to host the secretariat for the landmark UN high seas treaty could present a fresh diplomatic test for Beijing ahead of the 2027 vote. Observ…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-22T01:00:09.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "402f3bced77f",
+          "title": "How a retracted UK Covid-19 vaccine study tainted the global hunt for mutation-proof shots",
+          "titleZh": "How a retracted UK Covid-19 vaccine study tainted the global hunt for mutation-proof shots",
+          "url": "https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots",
+          "summary": "A 2022 study exploring a vaccine design for pan-Sars-CoV-2 immunity was retracted last month after its lead author, then in Britain, admitted to fabricating data and falsifying ima…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-22T00:00:11.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "b46a320ac3e0",
+          "title": "Scientists control a virtual fruit fly with map of insect’s brain",
+          "titleZh": "Scientists control a virtual fruit fly with map of insect’s brain",
+          "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
+          "summary": "Modeling effort aims to predict how neuron activity drives animal movement",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-22T02:36:07.051Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0437b8dccca",
+          "title": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+          "titleZh": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+          "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+          "summary": "Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could take years to decipher",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-22T02:36:07.051Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af751a6dccf9",
+          "title": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "titleZh": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+          "summary": "Surprising result contrasts with earlier studies and complicates policy debates about culling",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-22T02:36:07.051Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "058cde10bfe5",
+          "title": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+          "titleZh": "“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents",
+          "url": "https://thenewstack.io/junior-developers-ai-agents-block/",
+          "summary": "Only a few years ago, it would have been impossible to picture this scenario: A lead developer once gave 10 new hires at Block a codebase they&rsquo;d never seen, access to AI agen…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-21T21:58:14.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 6.1,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c6a3488988f7",
+          "title": "If we stop reading the code, what do we read?",
+          "titleZh": "If we stop reading the code, what do we read?",
+          "url": "https://thenewstack.io/ai-agent-code-review/",
+          "summary": "“Human beings are too slow when dealing with code. So if we’re going to move at the speed of the agents, we’re all going to have to back off a little bit and maintain the high-leve…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-21T17:23:05.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ad729bed128",
+          "title": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
+          "titleZh": "GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy",
+          "url": "https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5/",
+          "summary": "Claude Opus 5.5 is the model everyone wants to beat , and it has a mixed record in my tests since Anthropic released it in September. It beat Alibaba’s Qwen4-Max by being more accu…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-21T17:08:44.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7968e79e3897",
+          "title": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
+          "titleZh": "Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.",
+          "url": "https://thenewstack.io/ai-feature-flags-observability/",
+          "summary": "A new AI model goes live for a small group of users. Some of them start seeing errors. The build is the same for everyone, so checking the deployment history gets you only so far. …",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-21T16:08:55.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "34bf04be608c",
+    "4639984632fb",
+    "f11db37935cd"
+  ],
+  "stats": {
+    "itemsConsidered": 32,
+    "itemsPublished": 32,
+    "itemsFiltered": 0,
+    "sourcesOk": 88,
+    "sourcesFailed": 7,
+    "totalReadMinutes": 83,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
