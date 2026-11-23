@@ -1,0 +1,923 @@
+{
+  "date": "2026-11-23",
+  "generatedAt": "2026-11-23T03:02:16.313Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 30 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "0b38073ed4c4",
+          "title": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+          "titleZh": "共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”",
+          "url": "https://wallstreetcn.com/articles/3786482",
+          "summary": "特斯拉自动驾驶系统迎来一次颇具视觉冲击力的升级。 当地时间11月21日，特斯拉开始推送FSD V15.0.1，新版本不仅引入实时生成式驾驶可视化系统，还升级了底层视觉编码器，将汽车、Robotaxi与人形机器人Optimus的视觉训练进一步打通。 此次升级最引人注目的变化，据追风交易台，野村证券认为，特斯拉正尝试打通自动驾驶汽车与人形机器人的视觉系统，通过共…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T02:06:07.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "591502411bbf",
+          "title": "高盛谈美股“见底”三大条件：AI货币化、美联储转鸽与机构仓位下降",
+          "titleZh": "高盛谈美股“见底”三大条件：AI货币化、美联储转鸽与机构仓位下降",
+          "url": "https://wallstreetcn.com/articles/3786485",
+          "summary": "标普500指数自10月高点已累计下跌12%，高盛认为，在三个关键条件得到满足之前，市场尚难言触底。 此轮调整已超过标普500指数自1980年以来历年峰谷跌幅的中位数水平。追风交易台消息，高盛在最新发布的《美国每周市场启动》报告中指出，支持美股见底并启动反弹的三大催化剂分别为：AI投资货币化前景获得投资者信心背书、美联储政策释放鸽派信号，以及机构投资者仓位出现…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T01:57:56.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e28a758df036",
+          "title": "Claude证明黎曼假设“大反转”：论证无效，只是空转？",
+          "titleZh": "Claude证明黎曼假设“大反转”：论证无效，只是空转？",
+          "url": "https://wallstreetcn.com/articles/3786480",
+          "summary": "11月20日，Anthropic数学家Levent Alpöge在个人网站发布说明，宣布自己与Claude共同找到了黎曼假设的证明。 他没有交出人类可读的论文，而是直接放出一个Lean 4代码库：175,187个文件、约1700万行代码。黎曼假设1859年由Bernhard Riemann提出，是克雷数学研究所悬赏100万美元的千禧年问题之一，至今已悬置约1…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T01:46:23.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06cb4804d2f8",
+          "title": "美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底",
+          "titleZh": "美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底",
+          "url": "https://wallstreetcn.com/articles/3786476",
+          "summary": "美银证券认为，利率见顶是费城半导体指数（SOX）形成持久底部的必要条件。 11月20日，据追风交易台消息，美银Vivek Arya等分析师发布报告《利率见顶，芯片见底（Peak Rates, Trough Semis）》。报告认为，利率对芯片股的影响已不只停留在估值层面，还会直接作用于AI需求本身。10年期美债收益率逼近5%，美联储仍可能进一步收紧，芯片股正…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T00:53:54.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d319b8681ad9",
+          "title": "谷歌广告放缓，苹果也受伤",
+          "titleZh": "谷歌广告放缓，苹果也受伤",
+          "url": "https://wallstreetcn.com/articles/3786471",
+          "summary": "谷歌因人工智能（AI）功能普及导致搜索广告收入增长放缓，这一趋势正在引发连锁反应，不仅重挫了谷歌自身股价，也波及了苹果公司和Reddit等高度依赖谷歌搜索生态的科技企业。 谷歌搜索广告收入增速在最新季度放缓至12%，低于前两个季度的17%和19%。受此影响，包含谷歌搜索广告分成在内的苹果服务业务收入增速，已从上一季度的12%降至10%，且苹果高管预计本季度将…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T00:50:44.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "6ffa8068e3d9",
+          "title": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场",
+          "titleZh": "科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场",
+          "url": "https://wallstreetcn.com/articles/3786473",
+          "summary": "科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。高盛主经纪业务数据显示，基本面多空策…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-23T00:31:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "087e96512420",
+          "title": "Select Styling Specimens",
+          "titleZh": "Select Styling Specimens",
+          "url": "https://simonwillison.net/2026/Nov/22/select-styling/",
+          "summary": "Tool: Select Styling Specimens I got frustrated at how HTML <select> boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Clau…",
+          "whyItMatters": "",
+          "sourceName": "Simon Willison",
+          "publishedAt": "2026-11-22T19:45:06.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 6
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5f314ea89816",
+          "title": "Directors push back on ‘You Can See Everything’ reporting",
+          "titleZh": "Directors push back on ‘You Can See Everything’ reporting",
+          "url": "https://www.semafor.com/article/11/22/2026/directors-push-back-on-you-can-see-everything-reporting",
+          "summary": "The directors of are pushing back against new reporting about the film’s controversial subject. At the end of the documentary, which follows disgraced pharmaceutical entrepreneur E…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-23T01:52:56.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "46efddcf22f1",
+          "title": "High-profile events businesses can strain media companies’ trust and credibility",
+          "titleZh": "High-profile events businesses can strain media companies’ trust and credibility",
+          "url": "https://www.semafor.com/article/11/22/2026/high-profile-events-businesses-can-strain-media-companies-trust-and-credibility",
+          "summary": "The News Semafor is facing scrutiny for hiring high-profile Washington consultants to assist with event bookings, a revelation that underscores the murkiness embedded into a high-l…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-23T02:02:22.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "06ef6d32febd",
+          "title": "Poll shows media ripples of midterm blue wave — and Rogan’s lasting appeal",
+          "titleZh": "Poll shows media ripples of midterm blue wave — and Rogan’s lasting appeal",
+          "url": "https://www.semafor.com/article/11/22/2026/poll-shows-media-ripples-of-midterm-blue-wave-and-rogans-lasting-appeal",
+          "summary": "Two years out from the “manosphere election,” Joe Rogan remains American men’s most trusted voice in media, even as their electoral sympathies have swung back towards the Democrati…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-23T01:42:35.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "514c54c7c506",
+          "title": "‘Grand Theft Auto VI’ marks a turning point for the series",
+          "titleZh": "‘Grand Theft Auto VI’ marks a turning point for the series",
+          "url": "https://www.semafor.com/article/11/22/2026/grand-theft-auto-vi-marks-a-turning-point-for-the-series",
+          "summary": "The highest-grossing film of all time, , grossed $2.9 billion during its theatrical run. , the long-awaited next installment of the video game franchise, recorded $3.8 billion in s…",
+          "whyItMatters": "",
+          "sourceName": "Semafor",
+          "publishedAt": "2026-11-23T01:41:36.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.75,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "34a260b20c10",
+          "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "titleZh": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+          "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+          "summary": "Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 167 # Comments: 144",
+          "whyItMatters": "",
+          "sourceName": "Hacker News",
+          "publishedAt": "2026-11-22T23:12:10.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b174891fc638",
+          "title": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+          "titleZh": "华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机",
+          "url": "https://www.ifanr.com/1690613?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "经过了一周多的预热和烘焙，华为旗下全新的子品牌「华为OSTA星芒」终于在 11 月 20 日发布了它们的首款旗舰产品：OSTA O1 Pro。 图｜哔哩哔哩 @OSTA星芒手机 在面对 OSTA O1 Pro 时，我们可以明显感觉到： 「星芒」想要承载的东西，超越了纯粹的市场需求和客群扩张，本质上包含着华为对于「下一个十年人际交互方式」的探索工程。 我们这次…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-11-23T00:57:34.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "74fb01e1856f",
+          "title": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+          "titleZh": "早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元",
+          "url": "https://www.ifanr.com/1690857?utm_source=rss&utm_medium=rss&utm_campaign=",
+          "summary": "苹果明年新品计划曝光：iPhone 18、新款 MacBook Neo 春季登场 Claude 的黎曼猜想证明获 Lean 官方认证 丘成桐：AI 证明黎曼猜想，数学进入新纪元 曝小米汽车欧洲团队再添一名前小鹏高管 神舟二十四号完成发射前最后一次全区合练 《GTA VI》发售后，PS5 Pro 涨至 1.6 万元 特斯拉开始向首批车主推送 FSD v15，车…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-11-23T00:25:24.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "b3dc91c89110",
+          "title": "Trump's top intelligence official is also taking charge of cyber policy",
+          "titleZh": "Trump's top intelligence official is also taking charge of cyber policy",
+          "url": "https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director",
+          "summary": "Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learne…",
+          "whyItMatters": "",
+          "sourceName": "Axios",
+          "publishedAt": "2026-11-23T00:31:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 7.25,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "7873eebf6aab",
+          "title": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始",
+          "titleZh": "iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始",
+          "url": "https://www.huxiu.com/article/4907565.html?f=rss",
+          "summary": "本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始》 新旧交替时期，苹果改变了不少「祖宗之法」，新品发布的节奏当然也不例外。 最明显的变化就是，过去集中在秋季发布会上的产品，如今被苹果分拆为连续数月的更新—— 9月，iPhone 18 Pro系列与首款折叠屏iPhon…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-22T23:23:43.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "爱范儿",
+              "url": "https://www.ifanr.com/1690832?utm_source=rss&utm_medium=rss&utm_campaign="
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "a138dad8e9fe",
+          "title": "三年市值涨超90%，三叶草生物迎来新转机？｜市值观察",
+          "titleZh": "三年市值涨超90%，三叶草生物迎来新转机？｜市值观察",
+          "url": "https://www.huxiu.com/article/4907624.html?f=rss",
+          "summary": "本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：雨山，原文标题：《三年市值涨超90%，三叶草生物迎来新转机？｜市值观察》 一家半年营收只有17.9万元的疫苗公司，资本市场愿意给出多少估值？ 三叶草生物的最新市值，给出了答案：17.4亿港元——2026年11月20日收盘，三叶草生物股价为1.34港元，总市值约17.4亿港元。 以20…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-23T02:50:44.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "fc3004bc86cc",
+          "title": "OpenAI又想叫暂停",
+          "titleZh": "OpenAI又想叫暂停",
+          "url": "https://www.huxiu.com/article/4907607.html?f=rss",
+          "summary": "本文来自微信公众号：腾讯科技，作者：苏扬，编辑：徐青阳，题图来自：视觉中国 模型能力越强，讨论“暂缓”的声音就越多。 美国当地时间11月22日，OpenAI首席科学家雅库布·帕乔茨基（Jakub Pachocki）发表了题为《Perplexity and Intelligence》（困惑度与智能）的文字，公开公司内部追踪多年的预训练数据，并提出建立AI行业共…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-23T02:25:32.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "eae63703b3ac",
+          "title": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈",
+          "titleZh": "解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈",
+          "url": "https://www.huxiu.com/article/4907613.html?f=rss",
+          "summary": "本文来自微信公众号： 出海同学会 ，作者：出海同学会，原文标题：《干货｜解读 Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈》 在上篇，我们讨论了Personal Agent的实际需求、中美市场的差异，以及通用与垂直产品的不同路线。 到了下篇，讨论进一步涉及数据、平台与竞争格局。本篇聚焦三个问题：用户愿意向Agent开放…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-23T02:23:57.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-23T03:01:59.579Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-23T03:01:59.579Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-23T03:01:59.579Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "269cf9a25595",
+          "title": "China’s biogas tech turns Argentina’s farm waste into clean energy",
+          "titleZh": "China’s biogas tech turns Argentina’s farm waste into clean energy",
+          "url": "https://www.scmp.com/news/china/science/article/3375368/chinas-biogas-tech-turns-argentinas-farm-waste-clean-energy",
+          "summary": "China holds nearly 70 per cent of the world’s patents for turning farm waste into energy and useful by-products – a research stockpile born from domestic pressure to manage billion…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-23T01:00:15.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f87286e3d72d",
+          "title": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+          "titleZh": "US seeks answers on Nvidia’s sale of chips to China, Bessent says",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says",
+          "summary": "The US ⁠is seeking answers from Nvidia on ⁠its chip sales to China and will find out who was in charge of compliance at the company formerly led by Jensen Huang, who resigned follo…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-22T20:03:17.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Reuters（经 Google News）",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcm1fbVJENmFGZU81bGR4WXVfeDMwdWdaY0xNbmVBN3hmaXVVeVBLelJxT3dubnROYnVkM2NCRXRfcFFvMGNtZ0FlM3c5LWt1WUVGclQzY1ZJTVBCR2d2dXozSXRqN0VIM1NsV0d2YVJLRjJpRnlIcVRNSlZqeURwLWhKa1V4dUNvWDdlZmNoMnQxQ1d6WlVGalNpdjVSZm9PMXRzUA?oc=5"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "b46a320ac3e0",
+          "title": "Scientists control a virtual fruit fly with map of insect’s brain",
+          "titleZh": "Scientists control a virtual fruit fly with map of insect’s brain",
+          "url": "https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain",
+          "summary": "Modeling effort aims to predict how neuron activity drives animal movement",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-23T03:02:02.640Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e0437b8dccca",
+          "title": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+          "titleZh": "AI may have solved math’s greatest mystery. Can humans understand the answer?",
+          "url": "https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer",
+          "summary": "Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could take years to decipher",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-23T03:02:02.640Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "af751a6dccf9",
+          "title": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "titleZh": "Killing more sea lions won’t help endangered salmon recover, model suggests",
+          "url": "https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests",
+          "summary": "Surprising result contrasts with earlier studies and complicates policy debates about culling",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-23T03:02:02.640Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "f842ffdd4e37",
+          "title": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+          "titleZh": "GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here",
+          "url": "https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/",
+          "summary": "When I compared Anthropic’s Fable 5.2 vs. OpenAI’s GPT-6 Astra last week, Fable 5.2 was slightly more accurate (149 points vs. 145). But it cost 3.4 times as much as Astra, even wi…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-22T15:00:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ce14c7b0a301",
+          "title": "QCon San Francisco 2026: The Harness Is the New Operating System",
+          "titleZh": "QCon San Francisco 2026: The Harness Is the New Operating System",
+          "url": "https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+          "summary": "At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what…",
+          "whyItMatters": "",
+          "sourceName": "InfoQ",
+          "publishedAt": "2026-11-22T22:44:00.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.7,
+          "scores": {
+            "importance": 6,
+            "novelty": 6,
+            "actionability": 5,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 30,
+    "itemsPublished": 29,
+    "itemsFiltered": 1,
+    "sourcesOk": 85,
+    "sourcesFailed": 10,
+    "totalReadMinutes": 66,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}

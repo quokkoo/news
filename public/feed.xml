@@ -6,201 +6,201 @@
     <atom:link href="https://quokkoo.github.io/news/feed.xml" rel="self" type="application/rss+xml" />
     <description>每天早上 7 点前更新：从几百条资讯里挑出真正值得读的，并告诉你为什么值得读、该花多久读。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:36:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:02:16 GMT</lastBuildDate>
     <item>
-      <title>【2026-11-22 今日导读】</title>
+      <title>【2026-11-23 今日导读】</title>
       <link>https://quokkoo.github.io/news/</link>
-      <guid isPermaLink="false">brief-2026-11-22</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:18 GMT</pubDate>
-      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 32 条，覆盖 前沿科技与 AI 产业、深度长文与思考、宏观经济与资本市场、生物医药与健康科技等 7 个领域，全部读完约需 83 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
+      <guid isPermaLink="false">brief-2026-11-23</guid>
+      <pubDate>Mon, 23 Nov 2026 03:02:16 GMT</pubDate>
+      <description>本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 30 条，覆盖 深度长文与思考、宏观经济与资本市场、商业模式与行业深度、前沿科技与 AI 产业等 8 个领域，全部读完约需 68 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。</description>
     </item>
     <item>
-      <title>上市第二天就“差点破发”！Anthropic的“豪华投行承销团”面临压力</title>
-      <link>https://wallstreetcn.com/articles/3786442</link>
-      <guid isPermaLink="false">fc4ac855eb87</guid>
-      <pubDate>Sun, 22 Nov 2026 01:25:46 GMT</pubDate>
+      <title>共享数据飞轮！特斯拉FSD v15统一“汽车与机器人视觉”</title>
+      <link>https://wallstreetcn.com/articles/3786482</link>
+      <guid isPermaLink="false">0b38073ed4c4</guid>
+      <pubDate>Mon, 23 Nov 2026 02:06:07 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>史上最大规模IPO在上市次日遭遇剧烈抛售。 人工智能巨头Anthropic（ANT）周五盘中一度大跌15%，最低仅比IPO发行价高出5美分，收盘跌幅收窄至8.5%，报88.91美元，单日市值蒸发约1090亿美元。 这场剧烈震荡浇灭了市场借Anthropic扭转AI板块颓势的预期。周五，英伟达、Meta和甲骨文等AI核心标的随Anthropic同步下挫，令纳斯…
+      <description>特斯拉自动驾驶系统迎来一次颇具视觉冲击力的升级。 当地时间11月21日，特斯拉开始推送FSD V15.0.1，新版本不仅引入实时生成式驾驶可视化系统，还升级了底层视觉编码器，将汽车、Robotaxi与人形机器人Optimus的视觉训练进一步打通。 此次升级最引人注目的变化，据追风交易台，野村证券认为，特斯拉正尝试打通自动驾驶汽车与人形机器人的视觉系统，通过共…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>下周重磅日程：“美联储最爱通胀指标”、小米、美团、B站、戴尔财报</title>
-      <link>https://wallstreetcn.com/articles/3786441</link>
-      <guid isPermaLink="false">d3a98637bb1e</guid>
-      <pubDate>Sun, 22 Nov 2026 01:13:17 GMT</pubDate>
+      <title>高盛谈美股“见底”三大条件：AI货币化、美联储转鸽与机构仓位下降</title>
+      <link>https://wallstreetcn.com/articles/3786485</link>
+      <guid isPermaLink="false">591502411bbf</guid>
+      <pubDate>Mon, 23 Nov 2026 01:57:56 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>11月22日 - 11月30日当周重磅财经事件一览，以下均为北京时间： 本周美股遭遇年内最猛烈抛售，纳指重挫10.02%抹平年内涨幅，AI投资前景疑虑持续发酵。经历暴跌后，下周进入感恩节缩短交易周，见闻财经日历提醒下周重点关注： 宏观层面聚焦美股企稳之问。美国10月PCE即“美联储最爱的通胀指标”与三季度GDP修正值下周三同日出炉，机构预期核心PCE同比由3…
+      <description>标普500指数自10月高点已累计下跌12%，高盛认为，在三个关键条件得到满足之前，市场尚难言触底。 此轮调整已超过标普500指数自1980年以来历年峰谷跌幅的中位数水平。追风交易台消息，高盛在最新发布的《美国每周市场启动》报告中指出，支持美股见底并启动反弹的三大催化剂分别为：AI投资货币化前景获得投资者信心背书、美联储政策释放鸽派信号，以及机构投资者仓位出现…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>云南农商银行获批筹建，123家涉改机构将归入同一法人</title>
-      <link>https://wallstreetcn.com/articles/3786439</link>
-      <guid isPermaLink="false">f218d1cdb44d</guid>
-      <pubDate>Sun, 22 Nov 2026 01:13:51 GMT</pubDate>
+      <title>Claude证明黎曼假设“大反转”：论证无效，只是空转？</title>
+      <link>https://wallstreetcn.com/articles/3786480</link>
+      <guid isPermaLink="false">e28a758df036</guid>
+      <pubDate>Mon, 23 Nov 2026 01:46:23 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>11月20日，国家金融监督管理总局公布批复，同意筹建云南农村商业银行股份有限公司（以下简称云南农商银行）。 这次合并涉及云南省农村信用社联合社（以下简称云南省联社），以及省内122家州（市）、县（市、区）农信法人机构； 按照方案，123家涉改机构将以新设合并方式组建云南农商银行，新银行成立后，将依法承继这些机构的业务、财产、债权债务及其他权利义务。 按云南农…
+      <description>11月20日，Anthropic数学家Levent Alpöge在个人网站发布说明，宣布自己与Claude共同找到了黎曼假设的证明。 他没有交出人类可读的论文，而是直接放出一个Lean 4代码库：175,187个文件、约1700万行代码。黎曼假设1859年由Bernhard Riemann提出，是克雷数学研究所悬赏100万美元的千禧年问题之一，至今已悬置约1…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>多家美国银行更新网银协议，AI智能体越权交易或由客户担责</title>
-      <link>https://wallstreetcn.com/articles/3786440</link>
-      <guid isPermaLink="false">2ae78eeb36fd</guid>
-      <pubDate>Sun, 22 Nov 2026 00:51:05 GMT</pubDate>
+      <title>美银美林：芯片股“触底”需要“利率见顶”，等待“股价不再理会利空”时抄底</title>
+      <link>https://wallstreetcn.com/articles/3786476</link>
+      <guid isPermaLink="false">06cb4804d2f8</guid>
+      <pubDate>Mon, 23 Nov 2026 00:53:54 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>在不久后的11月24日，富国银行新版《在线访问协议》即将生效。 根据新增条款，客户把网银登录凭证交给第三方AI智能体，或以其他方式授权其代为操作后，除非法律法规另有规定，银行将把智能体发起的交易视为客户本人授权。 即使智能体误解指令或超出权限，协议也将相应责任归给客户。客户撤销授权时，须留存记录并通知银行。在法律允许的范围内，客户仍须对通知银行前智能体的操作…
+      <description>美银证券认为，利率见顶是费城半导体指数（SOX）形成持久底部的必要条件。 11月20日，据追风交易台消息，美银Vivek Arya等分析师发布报告《利率见顶，芯片见底（Peak Rates, Trough Semis）》。报告认为，利率对芯片股的影响已不只停留在估值层面，还会直接作用于AI需求本身。10年期美债收益率逼近5%，美联储仍可能进一步收紧，芯片股正…
+
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
+    </item>
+    <item>
+      <title>谷歌广告放缓，苹果也受伤</title>
+      <link>https://wallstreetcn.com/articles/3786471</link>
+      <guid isPermaLink="false">d319b8681ad9</guid>
+      <pubDate>Mon, 23 Nov 2026 00:50:44 GMT</pubDate>
+      <category>宏观经济与资本市场</category>
+      <description>谷歌因人工智能（AI）功能普及导致搜索广告收入增长放缓，这一趋势正在引发连锁反应，不仅重挫了谷歌自身股价，也波及了苹果公司和Reddit等高度依赖谷歌搜索生态的科技企业。 谷歌搜索广告收入增速在最新季度放缓至12%，低于前两个季度的17%和19%。受此影响，包含谷歌搜索广告分成在内的苹果服务业务收入增速，已从上一季度的12%降至10%，且苹果高管预计本季度将…
 
 来源：华尔街见闻 · 宏观经济与资本市场 · 约 3 分钟</description>
     </item>
     <item>
-      <title>2027见闻历，财经人的桌面必备“神历”</title>
-      <link>https://wallstreetcn.com/articles/3782813</link>
-      <guid isPermaLink="false">67bb4b007a01</guid>
-      <pubDate>Sun, 22 Nov 2026 01:39:45 GMT</pubDate>
+      <title>科技股崩盘后，华尔街“聚焦”对冲基金：快钱已率先“投降”，慢钱仍未离场</title>
+      <link>https://wallstreetcn.com/articles/3786473</link>
+      <guid isPermaLink="false">6ffa8068e3d9</guid>
+      <pubDate>Mon, 23 Nov 2026 00:31:01 GMT</pubDate>
       <category>宏观经济与资本市场</category>
-      <description>本文来自华尔街见闻，欢迎下载APP查看更多
+      <description>科技股连续七周下跌、纳斯达克跌入熊市之后，华尔街的关注焦点已从“AI该配多少”转向“谁还没卖”。高盛和摩根士丹利的交易台数据显示，对冲基金已完成一轮近乎恐慌的降杠杆，但共同基金、散户和ETF资金仍在场内，这意味着市场距离真正的底部可能还有距离。 高盛波动率恐慌指数上周五收于9.8（满分10），为2007年以来极端读数之一。高盛主经纪业务数据显示，基本面多空策…
 
-来源：华尔街见闻 · 宏观经济与资本市场 · 约 1 分钟</description>
+来源：华尔街见闻 · 宏观经济与资本市场 · 约 4 分钟</description>
     </item>
     <item>
-      <title>回归路变窄 美媒：黄仁勋还有五招重掌英伟达</title>
-      <link>http://stock.eastmoney.com/news/1611,202611223936870690.html</link>
-      <guid isPermaLink="false">37b277334740</guid>
-      <pubDate>Sun, 22 Nov 2026 00:56:02 GMT</pubDate>
-      <category>宏观经济与资本市场</category>
-      <description>北京时间11月22日，据《商业内幕》报道，黄仁勋(Jensen Huang)重返英伟达CEO职位的道路可能正在变窄，但他仍有办法为回归而战。 黄仁勋曾表示，如果董事会认为他的回归符合公司的最佳利益，他将“很荣幸”重掌英伟达。只有英伟达董事会才能任命CEO，这意味着最直接的途径就是黄仁勋说服董事会改变主意。 然而，英伟达董事会已公开对这一想法泼了冷水，表示无意…
-
-来源：东方财富 · 宏观经济与资本市场 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>Muru</title>
-      <link>https://simonwillison.net/2026/Nov/21/muru/</link>
-      <guid isPermaLink="false">34bf04be608c</guid>
-      <pubDate>Sat, 21 Nov 2026 23:56:28 GMT</pubDate>
+      <title>Select Styling Specimens</title>
+      <link>https://simonwillison.net/2026/Nov/22/select-styling/</link>
+      <guid isPermaLink="false">087e96512420</guid>
+      <pubDate>Sun, 22 Nov 2026 19:45:06 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Muru Graham Dumpleton started mod_wsgi 20 years ago, and has been thinking about the ideal way to serve Python web applications in production ever since. Muru is his new, AI-assist…
+      <description>Tool: Select Styling Specimens I got frustrated at how HTML &lt;select&gt; boxes default to looking different in different browsers, and are (I think) quite ugly in Chrome: So I had Clau…
 
-来源：Simon Willison · 前沿科技与 AI 产业 · 约 2 分钟</description>
+来源：Simon Willison · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Review: Godzilla Minus Zero joins the list of truly stellar sequels</title>
-      <link>https://arstechnica.com/culture/2026/11/review-godzilla-minus-zero-is-everything-we-could-want-in-a-sequel/</link>
-      <guid isPermaLink="false">8b5e1448c379</guid>
-      <pubDate>Sat, 21 Nov 2026 22:12:41 GMT</pubDate>
+      <title>Directors push back on ‘You Can See Everything’ reporting</title>
+      <link>https://www.semafor.com/article/11/22/2026/directors-push-back-on-you-can-see-everything-reporting</link>
+      <guid isPermaLink="false">5f314ea89816</guid>
+      <pubDate>Mon, 23 Nov 2026 01:52:56 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>It&apos;s a rare thing for a film sequel to match or even surpass its predecessor; The Godfather Part II and Terminator 2: Judgement Day are the best known examples on a pretty short li…
+      <description>The directors of are pushing back against new reporting about the film’s controversial subject. At the end of the documentary, which follows disgraced pharmaceutical entrepreneur E…
 
-来源：Ars Technica · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>Inkling-2-Mini in 5.4 GB Memory</title>
-      <link>https://github.com/ShinMegamiBoson/lookatmyquant</link>
-      <guid isPermaLink="false">7fcfe2e26ebf</guid>
-      <pubDate>Sat, 21 Nov 2026 18:02:19 GMT</pubDate>
+      <title>High-profile events businesses can strain media companies’ trust and credibility</title>
+      <link>https://www.semafor.com/article/11/22/2026/high-profile-events-businesses-can-strain-media-companies-trust-and-credibility</link>
+      <guid isPermaLink="false">46efddcf22f1</guid>
+      <pubDate>Mon, 23 Nov 2026 02:02:22 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>Article URL: https://github.com/ShinMegamiBoson/lookatmyquant Comments URL: https://news.ycombinator.com/item?id=50591853 Points: 367 # Comments: 94
+      <description>The News Semafor is facing scrutiny for hiring high-profile Washington consultants to assist with event bookings, a revelation that underscores the murkiness embedded into a high-l…
 
-来源：Hacker News Best · 前沿科技与 AI 产业 · 约 1 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>重控制、轻渲染，达瓦科技的 AI 视频工业路线</title>
-      <link>http://www.geekpark.net/news/374303</link>
-      <guid isPermaLink="false">410d1ffddca8</guid>
-      <pubDate>Sun, 22 Nov 2026 02:03:57 GMT</pubDate>
+      <title>Poll shows media ripples of midterm blue wave — and Rogan’s lasting appeal</title>
+      <link>https://www.semafor.com/article/11/22/2026/poll-shows-media-ripples-of-midterm-blue-wave-and-rogans-lasting-appeal</link>
+      <guid isPermaLink="false">06ef6d32febd</guid>
+      <pubDate>Mon, 23 Nov 2026 01:42:35 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>头图来源：极客公园 今年以来，视频生成模型的进步肉眼可见，AI 短剧、换脸、场景合成在各个平台越来越多，但一个现实问题始终存在：生成一条满意的视频，往往要反复「抽卡」，算力和时间成本都不低；而一旦进入专业影视管线，今天的模型能承担的工业级工作仍然有限。 关于这个问题，行业有两种思路。一种堆参数、扩算力，相信通用大模型终会跨过工业门槛；另一种扎进真实片场，从具…
+      <description>Two years out from the “manosphere election,” Joe Rogan remains American men’s most trusted voice in media, even as their electoral sympathies have swung back towards the Democrati…
 
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>资本开支猛增 226%，AI 吞噬百亿利润：腾讯的 AI 故事，进入更重的阶段</title>
-      <link>http://www.geekpark.net/news/374302</link>
-      <guid isPermaLink="false">e6cd54fe6647</guid>
-      <pubDate>Sun, 22 Nov 2026 01:58:48 GMT</pubDate>
+      <title>‘Grand Theft Auto VI’ marks a turning point for the series</title>
+      <link>https://www.semafor.com/article/11/22/2026/grand-theft-auto-vi-marks-a-turning-point-for-the-series</link>
+      <guid isPermaLink="false">514c54c7c506</guid>
+      <pubDate>Mon, 23 Nov 2026 01:41:36 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>头图来源：腾讯 腾讯的 AI 故事，正在进入一个有些沉重的阶段。 11 月 18 日，腾讯发布 2026 年第三季度财报。本季度营收 2073.4 亿元，同比增长 8%；Non-IFRS 经营利润 681 亿元，同比下降 6%；Non-IFRS 归母净利润 665 亿元，同比下降 6%。 图片来源：腾讯财报 本季度，腾讯资本开支达到 814 亿元，同比增长 …
+      <description>The highest-grossing film of all time, , grossed $2.9 billion during its theatrical run. , the long-awaited next installment of the video game franchise, recorded $3.8 billion in s…
 
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+来源：Semafor · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>关于混元 4 模型、算力、刷榜与 RSI，姚顺雨回应一切</title>
-      <link>http://www.geekpark.net/news/374301</link>
-      <guid isPermaLink="false">ce1581c338c2</guid>
-      <pubDate>Sun, 22 Nov 2026 01:56:28 GMT</pubDate>
+      <title>Progress map for the Lean formalization of Alessandro Masullo&apos;s manuscript</title>
+      <link>https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</link>
+      <guid isPermaLink="false">34a260b20c10</guid>
+      <pubDate>Sun, 22 Nov 2026 23:12:10 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>头图来源：ChatGPT 生成 11 月 21 日凌晨，腾讯首席 AI 科学家、混元大模型负责人姚顺雨和混元团队的研究员现身 Reddit LocalLLaMA 社区，开启了混元团队史上第一场面向全球开发者的公开 AMA。 图片来源：x 两小时内，姚顺雨和混元团队解答了 300 余条开发者提问，从底层架构取舍到长期路线规划，从量化落地经验到开源生态适配，几乎…
+      <description>Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 167 # Comments: 144
 
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
+来源：Hacker News · 前沿科技与 AI 产业 · 约 1 分钟</description>
     </item>
     <item>
-      <title>黄仁勋遭董事会罢免主要原因曝光；《GTA6》首发收入 37.9 亿美元，超《复联 4》总票房；马斯克收到上海工厂员工特制边角料手办</title>
-      <link>http://www.geekpark.net/news/374300</link>
-      <guid isPermaLink="false">3cd5cdea4803</guid>
-      <pubDate>Sun, 22 Nov 2026 01:05:22 GMT</pubDate>
+      <title>华为OSTA星芒 O1 Pro 评测：一台真正为 AI 而生的鸿蒙手机</title>
+      <link>https://www.ifanr.com/1690613?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">b174891fc638</guid>
+      <pubDate>Mon, 23 Nov 2026 00:57:34 GMT</pubDate>
       <category>前沿科技与 AI 产业</category>
-      <description>《GTA6》首发收入达 37.9 亿美元，超越《复仇者联盟 4》总票房 Take-Two Interactive 表示，《侠盗猎车手 6》（GTA6）的预购加上首发当日销售额达到 37.9 亿美元，这不仅创下电子游戏史上最高首发收入纪录，也大概率是娱乐史上所有创意作品中规模最大的首发。这场现象级首发展现了游戏 IP 在商业、文化以及好莱坞层面的巨大价值。 G…
-
-来源：极客公园 · 前沿科技与 AI 产业 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>Claude 的黎曼猜想证明获 Lean 官方认证，马斯克直呼惊人成就</title>
-      <link>https://www.ifanr.com/1690820?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
-      <guid isPermaLink="false">d5e39481973f</guid>
-      <pubDate>Sun, 22 Nov 2026 01:35:14 GMT</pubDate>
-      <category>前沿科技与 AI 产业</category>
-      <description>困扰人类数学界 167 年的黎曼猜想，迎来最新进展。 就在刚刚，Lean 和 Mathlib 社区发布联合声明，宣布正式认证 Anthropic 数学家 Levent Alpöge 提交的黎曼猜想形式化证明，并表示对其正确性具有充分信心。 从数学家本人宣布成果，到形式化证明社区公开认证，整个过程仅仅过去一天。 更引人关注的是，Alpöge 此前透露，这项研究…
+      <description>经过了一周多的预热和烘焙，华为旗下全新的子品牌「华为OSTA星芒」终于在 11 月 20 日发布了它们的首款旗舰产品：OSTA O1 Pro。 图｜哔哩哔哩 @OSTA星芒手机 在面对 OSTA O1 Pro 时，我们可以明显感觉到： 「星芒」想要承载的东西，超越了纯粹的市场需求和客群扩张，本质上包含着华为对于「下一个十年人际交互方式」的探索工程。 我们这次…
 
 来源：爱范儿 · 前沿科技与 AI 产业 · 约 4 分钟</description>
     </item>
     <item>
-      <title>贬值世代</title>
-      <link>https://www.huxiu.com/article/4907424.html?f=rss</link>
-      <guid isPermaLink="false">bbaef9016c9f</guid>
-      <pubDate>Sun, 22 Nov 2026 02:28:00 GMT</pubDate>
+      <title>早报｜曝苹果明年下半年发布iPhone 20与智能眼镜/丘成桐：AI证明黎曼猜想，数学进入新纪元/GTA6带动主机溢价，PS5 Pro涨至近1.6万元</title>
+      <link>https://www.ifanr.com/1690857?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=</link>
+      <guid isPermaLink="false">74fb01e1856f</guid>
+      <pubDate>Mon, 23 Nov 2026 00:25:24 GMT</pubDate>
+      <category>前沿科技与 AI 产业</category>
+      <description>苹果明年新品计划曝光：iPhone 18、新款 MacBook Neo 春季登场 Claude 的黎曼猜想证明获 Lean 官方认证 丘成桐：AI 证明黎曼猜想，数学进入新纪元 曝小米汽车欧洲团队再添一名前小鹏高管 神舟二十四号完成发射前最后一次全区合练 《GTA VI》发售后，PS5 Pro 涨至 1.6 万元 特斯拉开始向首批车主推送 FSD v15，车…
+
+来源：爱范儿 · 前沿科技与 AI 产业 · 约 3 分钟</description>
+    </item>
+    <item>
+      <title>Trump&apos;s top intelligence official is also taking charge of cyber policy</title>
+      <link>https://www.axios.com/2026/11/23/jay-clayton-acting-national-cyber-director</link>
+      <guid isPermaLink="false">b3dc91c89110</guid>
+      <pubDate>Mon, 23 Nov 2026 00:31:32 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 满分激光枪 ，作者：轩车干 在Anthropic上市的这一周，我选择不看社交媒体。那种量级的庞然巨物下水，全球资产大幅跳水是可预料的，这是金融常识。 市场情绪会传导给社交媒体，能预料社交媒体必然会充满各种夸张的情绪：激动、焦虑、恐惧、迷茫、愤怒、难过…… 我不用看都能猜到那些受过良好教育且有才华的撰稿人们会写点什么： 科技理工类媒体会写…
+      <description>Director of National Intelligence Jay Clayton will also serve as acting national cyber director while Kirsten Davies awaits Senate confirmation to lead the office, Axios has learne…
+
+来源：Axios · 商业模式与行业深度 · 约 1 分钟</description>
+    </item>
+    <item>
+      <title>iPhone18大更新，明年春天见，但苹果的挑战才刚刚开始</title>
+      <link>https://www.huxiu.com/article/4907565.html?f=rss</link>
+      <guid isPermaLink="false">7873eebf6aab</guid>
+      <pubDate>Sun, 22 Nov 2026 23:23:43 GMT</pubDate>
+      <category>商业模式与行业深度</category>
+      <description>本文来自微信公众号： 爱范儿 ，作者：发现明日产品的，编辑：肖钦鹏，原文标题：《iPhone 18 大更新，明年春天见！但苹果的挑战才刚刚开始》 新旧交替时期，苹果改变了不少「祖宗之法」，新品发布的节奏当然也不例外。 最明显的变化就是，过去集中在秋季发布会上的产品，如今被苹果分拆为连续数月的更新—— 9月，iPhone 18 Pro系列与首款折叠屏iPhon…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>AI智能体为何会在相互聊天中自创语言</title>
-      <link>https://www.huxiu.com/article/4907444.html?f=rss</link>
-      <guid isPermaLink="false">d268146a657e</guid>
-      <pubDate>Sun, 22 Nov 2026 02:10:11 GMT</pubDate>
+      <title>三年市值涨超90%，三叶草生物迎来新转机？｜市值观察</title>
+      <link>https://www.huxiu.com/article/4907624.html?f=rss</link>
+      <guid isPermaLink="false">a138dad8e9fe</guid>
+      <pubDate>Mon, 23 Nov 2026 02:50:44 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 科技导报 ，作者：科技导报，原文标题：《AI智能体为何会在相互聊天中自创语言｜深度报道》 2026年7月，OpenAI的700个智能体联手秘密入侵了在线平台Hugging Face。智能体是能够自主执行任务的人工智能（AI）系统。2026年9月上旬，该公司又动用1万个智能体，解决了纳维-斯托克斯方程问题（Navier-Stokes pr…
+      <description>本文来自微信公众号： 医线Insight ，制图：医线Insight，作者：雨山，原文标题：《三年市值涨超90%，三叶草生物迎来新转机？｜市值观察》 一家半年营收只有17.9万元的疫苗公司，资本市场愿意给出多少估值？ 三叶草生物的最新市值，给出了答案：17.4亿港元——2026年11月20日收盘，三叶草生物股价为1.34港元，总市值约17.4亿港元。 以20…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”</title>
-      <link>https://www.huxiu.com/article/4907443.html?f=rss</link>
-      <guid isPermaLink="false">0bcf22d7fa81</guid>
-      <pubDate>Sun, 22 Nov 2026 02:03:24 GMT</pubDate>
+      <title>OpenAI又想叫暂停</title>
+      <link>https://www.huxiu.com/article/4907607.html?f=rss</link>
+      <guid isPermaLink="false">fc3004bc86cc</guid>
+      <pubDate>Mon, 23 Nov 2026 02:25:32 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 独雕寒江雪 ，作者：独雕寒江雪，原文标题：《行业在喊数据不够，但 80% 的数据可能死于“只奖励走通”》 具身智能的瓶颈不在世界太非标，而在训练目标从未要求模型理解物理 一、一个被误读的因果 在具身智能的圈子里，“得数据者得天下”几乎是一句公理。建数据工厂、上遥操作采集、堆合成数据，仿佛只要攒够了PB级的视频与轨迹，机器人就能像Chat…
+      <description>本文来自微信公众号：腾讯科技，作者：苏扬，编辑：徐青阳，题图来自：视觉中国 模型能力越强，讨论“暂缓”的声音就越多。 美国当地时间11月22日，OpenAI首席科学家雅库布·帕乔茨基（Jakub Pachocki）发表了题为《Perplexity and Intelligence》（困惑度与智能）的文字，公开公司内部追踪多年的预训练数据，并提出建立AI行业共…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
     <item>
-      <title>租宇树智元跳舞的人变少了：日租从上万元跌破2000元</title>
-      <link>https://www.huxiu.com/article/4907442.html?f=rss</link>
-      <guid isPermaLink="false">813717d574dd</guid>
-      <pubDate>Sun, 22 Nov 2026 01:40:30 GMT</pubDate>
+      <title>解读Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈</title>
+      <link>https://www.huxiu.com/article/4907613.html?f=rss</link>
+      <guid isPermaLink="false">eae63703b3ac</guid>
+      <pubDate>Mon, 23 Nov 2026 02:23:57 GMT</pubDate>
       <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 木禾商业财经 ，作者：龚正 具身智能机器人，在2026年只走过两个季节。一是疯狂的火热夏季，二是寒意开吹的冬天。 宇树的王兴兴，在为各路投资人赚得盆满钵满、只留自己继续创业后，明显开始更多活跃于公共舆论与“微博热搜”之间，开始更多push宇树机器人的最新突破，向市场传递技术落地的信心。 智元机器人等这一波，本想趁热上市，却因各种原因推迟…
-
-来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
-    </item>
-    <item>
-      <title>美元基金回来了</title>
-      <link>https://www.huxiu.com/article/4907441.html?f=rss</link>
-      <guid isPermaLink="false">37fbe7509b0f</guid>
-      <pubDate>Sun, 22 Nov 2026 01:34:05 GMT</pubDate>
-      <category>商业模式与行业深度</category>
-      <description>本文来自微信公众号： 科创板日报 ，作者：余诗琪，原文标题：《美元基金回来了！》 新基金的文件还没签完，投资团队已经开始看项目了。 11月，《科创板日报》记者再次与一家双币基金管理机构交流时，得到了这笔募资的最新进展：一只规模3亿美元的新美元基金已经基本落地，剩下的主要是一些文件签署工作。此前10月交流时，对方就曾提到，正在推进这只新基金的募集。 谈及整个募…
+      <description>本文来自微信公众号： 出海同学会 ，作者：出海同学会，原文标题：《干货｜解读 Personal Agent 的挑战与机遇：隐私边界、Context 壁垒与平台博弈》 在上篇，我们讨论了Personal Agent的实际需求、中美市场的差异，以及通用与垂直产品的不同路线。 到了下篇，讨论进一步涉及数据、平台与竞争格局。本篇聚焦三个问题：用户愿意向Agent开放…
 
 来源：虎嗅 · 商业模式与行业深度 · 约 4 分钟</description>
     </item>
@@ -208,7 +208,7 @@
       <title>Superlinear Returns</title>
       <link>http://www.paulgraham.com/superlinear.html</link>
       <guid isPermaLink="false">4639984632fb</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:04 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:01:59 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>October 2023 One of the most important things I didn&apos;t understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…
 
@@ -218,7 +218,7 @@
       <title>How to Do Great Work</title>
       <link>http://www.paulgraham.com/greatwork.html</link>
       <guid isPermaLink="false">f11db37935cd</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:04 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:01:59 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …
 
@@ -228,39 +228,29 @@
       <title>The Need to Read</title>
       <link>http://www.paulgraham.com/read.html</link>
       <guid isPermaLink="false">f45b5ff1ffe9</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:04 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:01:59 GMT</pubDate>
       <category>深度长文与思考</category>
       <description>November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious &quot;tapes&quot; would load it into…
 
 来源：Paul Graham · 深度长文与思考 · 约 2 分钟</description>
     </item>
     <item>
-      <title>Xi’s Apec summit speech is a call to cooperation suited to the times</title>
-      <link>https://www.scmp.com/opinion/china-opinion/article/3375061/xis-apec-summit-speech-call-cooperation-suited-times</link>
-      <guid isPermaLink="false">3acd0c125a70</guid>
-      <pubDate>Sun, 22 Nov 2026 01:30:06 GMT</pubDate>
+      <title>China’s biogas tech turns Argentina’s farm waste into clean energy</title>
+      <link>https://www.scmp.com/news/china/science/article/3375368/chinas-biogas-tech-turns-argentinas-farm-waste-clean-energy</link>
+      <guid isPermaLink="false">269cf9a25595</guid>
+      <pubDate>Mon, 23 Nov 2026 01:00:15 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>In his keynote speech at the Apec CEO Summit in Shenzhen on November 18, President Xi Jinping quoted the ancient Chinese saying “fan yi zhi dao yu shi jie xing”, which suggests tha…
+      <description>China holds nearly 70 per cent of the world’s patents for turning farm waste into energy and useful by-products – a research stockpile born from domestic pressure to manage billion…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
     <item>
-      <title>How the battle to host UN high seas treaty tests China’s push for global leadership</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3375214/how-battle-host-un-high-seas-treaty-tests-chinas-push-global-leadership</link>
-      <guid isPermaLink="false">5c72cf821b3d</guid>
-      <pubDate>Sun, 22 Nov 2026 01:00:09 GMT</pubDate>
+      <title>US seeks answers on Nvidia’s sale of chips to China, Bessent says</title>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3375404/us-seeks-answers-nvidias-sale-chips-china-bessent-says</link>
+      <guid isPermaLink="false">f87286e3d72d</guid>
+      <pubDate>Sun, 22 Nov 2026 20:03:17 GMT</pubDate>
       <category>地缘政治与政策监管</category>
-      <description>A rival joint bid by Belgium and Chile to host the secretariat for the landmark UN high seas treaty could present a fresh diplomatic test for Beijing ahead of the 2027 vote. Observ…
-
-来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
-    </item>
-    <item>
-      <title>How a retracted UK Covid-19 vaccine study tainted the global hunt for mutation-proof shots</title>
-      <link>https://www.scmp.com/news/china/science/article/3375190/how-retracted-uk-covid-19-vaccine-study-tainted-global-hunt-mutation-proof-shots</link>
-      <guid isPermaLink="false">402f3bced77f</guid>
-      <pubDate>Sun, 22 Nov 2026 00:00:11 GMT</pubDate>
-      <category>地缘政治与政策监管</category>
-      <description>A 2022 study exploring a vaccine design for pan-Sars-CoV-2 immunity was retracted last month after its lead author, then in Britain, admitted to fabricating data and falsifying ima…
+      <description>The US ⁠is seeking answers from Nvidia on ⁠its chip sales to China and will find out who was in charge of compliance at the company formerly led by Jensen Huang, who resigned follo…
 
 来源：南华早报 · 地缘政治与政策监管 · 约 1 分钟</description>
     </item>
@@ -268,7 +258,7 @@
       <title>Scientists control a virtual fruit fly with map of insect’s brain</title>
       <link>https://www.science.org/content/article/scientists-control-virtual-fruit-fly-map-insect-s-brain</link>
       <guid isPermaLink="false">b46a320ac3e0</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:07 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:02:02 GMT</pubDate>
       <category>生物医药与健康科技</category>
       <description>Modeling effort aims to predict how neuron activity drives animal movement
 
@@ -278,7 +268,7 @@
       <title>AI may have solved math’s greatest mystery. Can humans understand the answer?</title>
       <link>https://www.science.org/content/article/ai-may-have-solved-math-s-greatest-mystery-can-humans-understand-answer</link>
       <guid isPermaLink="false">e0437b8dccca</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:07 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:02:02 GMT</pubDate>
       <category>生物医药与健康科技</category>
       <description>Anthropic researcher says Claude cracked 166-year-old Riemann hypothesis, but sprawling proof could take years to decipher
 
@@ -288,51 +278,31 @@
       <title>Killing more sea lions won’t help endangered salmon recover, model suggests</title>
       <link>https://www.science.org/content/article/killing-more-sea-lions-won-t-help-endangered-salmon-recover-model-suggests</link>
       <guid isPermaLink="false">af751a6dccf9</guid>
-      <pubDate>Sun, 22 Nov 2026 02:36:07 GMT</pubDate>
+      <pubDate>Mon, 23 Nov 2026 03:02:02 GMT</pubDate>
       <category>生物医药与健康科技</category>
       <description>Surprising result contrasts with earlier studies and complicates policy debates about culling
 
 来源：Science News · 生物医药与健康科技 · 约 1 分钟</description>
     </item>
     <item>
-      <title>“It is a rollercoaster ride”: Angie Jones of the Agentic AI Foundation on keeping up with AI agents</title>
-      <link>https://thenewstack.io/junior-developers-ai-agents-block/</link>
-      <guid isPermaLink="false">058cde10bfe5</guid>
-      <pubDate>Sat, 21 Nov 2026 21:58:14 GMT</pubDate>
+      <title>GPT-6.2 Astra vs. Claude Fable 5.2: Astra’s launch got mixed reviews, but it tested well here</title>
+      <link>https://thenewstack.io/gpt-6-2-astra-vs-claude-fable-5-2/</link>
+      <guid isPermaLink="false">f842ffdd4e37</guid>
+      <pubDate>Sun, 22 Nov 2026 15:00:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>Only a few years ago, it would have been impossible to picture this scenario: A lead developer once gave 10 new hires at Block a codebase they&amp;rsquo;d never seen, access to AI agen…
+      <description>When I compared Anthropic’s Fable 5.2 vs. OpenAI’s GPT-6 Astra last week, Fable 5.2 was slightly more accurate (149 points vs. 145). But it cost 3.4 times as much as Astra, even wi…
 
 来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
     </item>
     <item>
-      <title>If we stop reading the code, what do we read?</title>
-      <link>https://thenewstack.io/ai-agent-code-review/</link>
-      <guid isPermaLink="false">c6a3488988f7</guid>
-      <pubDate>Sat, 21 Nov 2026 17:23:05 GMT</pubDate>
+      <title>QCon San Francisco 2026: The Harness Is the New Operating System</title>
+      <link>https://www.infoq.com/news/2026/11/harness-new-operating-system/?utm_campaign=infoq_content&amp;utm_source=infoq&amp;utm_medium=feed&amp;utm_term=global</link>
+      <guid isPermaLink="false">ce14c7b0a301</guid>
+      <pubDate>Sun, 22 Nov 2026 22:44:00 GMT</pubDate>
       <category>开源与开发者生态</category>
-      <description>“Human beings are too slow when dealing with code. So if we’re going to move at the speed of the agents, we’re all going to have to back off a little bit and maintain the high-leve…
+      <description>At QCon San Francisco 2026, Mad Labs founder and CEO Manju Rajashekhar opened the conference arguing that the harness around an AI model, rather than the model itself, decides what…
 
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>GPT-6.2 Sol vs. Claude Opus 5.5: Not as accurate, but still might be the better buy</title>
-      <link>https://thenewstack.io/gpt-6-2-sol-vs-claude-opus-5-5/</link>
-      <guid isPermaLink="false">6ad729bed128</guid>
-      <pubDate>Sat, 21 Nov 2026 17:08:44 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>Claude Opus 5.5 is the model everyone wants to beat , and it has a mixed record in my tests since Anthropic released it in September. It beat Alibaba’s Qwen4-Max by being more accu…
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
-    </item>
-    <item>
-      <title>Dynatrace just laid out its AI observability playbook at KubeCon. Here’s why it matters for developers.</title>
-      <link>https://thenewstack.io/ai-feature-flags-observability/</link>
-      <guid isPermaLink="false">7968e79e3897</guid>
-      <pubDate>Sat, 21 Nov 2026 16:08:55 GMT</pubDate>
-      <category>开源与开发者生态</category>
-      <description>A new AI model goes live for a small group of users. Some of them start seeing errors. The build is the same for everyone, so checking the deployment history gets you only so far. …
-
-来源：The New Stack · 开源与开发者生态 · 约 2 分钟</description>
+来源：InfoQ · 开源与开发者生态 · 约 1 分钟</description>
     </item>
   </channel>
 </rss>
