@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-23T03:02:16.380Z",
+  "updatedAt": "2026-11-24T06:19:12.187Z",
   "days": [
+    {
+      "date": "2026-11-24",
+      "itemCount": 41,
+      "topPickTitles": [
+        "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+        "Superlinear Returns"
+      ],
+      "degradedMode": true
+    },
     {
       "date": "2026-11-23",
       "itemCount": 29,
