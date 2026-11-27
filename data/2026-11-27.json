@@ -1,0 +1,1134 @@
+{
+  "date": "2026-11-27",
+  "generatedAt": "2026-11-27T04:29:21.793Z",
+  "degradedMode": true,
+  "degradedReason": "未配置 ANTHROPIC_API_KEY，跳过 AI 环节",
+  "brief": {
+    "overview": "本站按来源权威度、报道家数与新鲜度的规则模型自动排序，不使用 AI，因此没有编辑判断，也不解释「为什么重要」。共收录 37 条，覆盖 深度长文与思考、商业模式与行业深度、前沿科技与 AI 产业、宏观经济与资本市场等 10 个领域，全部读完约需 78 分钟。以下 Top 3 只是排序分数最高，不代表编辑推荐。",
+    "topPicks": [
+      {
+        "itemId": "4639984632fb",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f11db37935cd",
+        "reason": "Paul Graham，规则排序分数最高"
+      },
+      {
+        "itemId": "f45b5ff1ffe9",
+        "reason": "Paul Graham，规则排序分数最高"
+      }
+    ],
+    "skip": "本站不做内容取舍判断，建议按栏目快速扫标题，自行决定读什么。",
+    "degraded": true
+  },
+  "sections": [
+    {
+      "topicId": "macro",
+      "name": "宏观经济与资本市场",
+      "description": "建立大局观：央行政策与利率路径、通胀与就业、大宗商品、汇率、股债与供应链。",
+      "core": true,
+      "targetMinutes": [
+        5,
+        8
+      ],
+      "accent": {
+        "light": "#1d4ed8",
+        "dark": "#7ea6ff"
+      },
+      "items": [
+        {
+          "id": "f91d96b6c6cf",
+          "title": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升",
+          "titleZh": "创业板大涨超3%，科创50暴涨4%，AI算力掀涨停潮，半导体大反弹，恒科指涨3%，科网股集体拉升",
+          "url": "https://wallstreetcn.com/articles/3786820",
+          "summary": "11月27日，A股震荡上涨，沪指盘初一度下跌，盘中震荡走高，创业板高开高走，盘中一度大涨超4%，科创综指、科创50均涨超4%，得益于AI算力爆发，润和软件20CM涨停，常山北明、拓维信息涨停。半导体板块大反弹，华虹宏力涨超5%。算力硬件拉升，光电路交换机、光模块、光芯片概念股大涨。军工、基本金属、精细化工等板块走强。银行、煤炭、石油天然气等板块陷入调整。 港…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T04:06:01.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3d5a936710b3",
+          "title": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
+          "titleZh": "两股还不够，马斯克加码“撒钱”：每年再送全美儿童一股SpaceX！",
+          "url": "https://wallstreetcn.com/articles/3786816",
+          "summary": "昨天刚传出要给全美每个孩子送两股SpaceX股票，价值高达约180亿美元。今天，马斯克又在X上直接加码了。 北京时间11月27日，马斯克在X平台回复网友评论时表示： 将每年向所有美国儿童再捐赠一股SpaceX股票。 这意味着，原本就已经刷新纪录的“百亿美元级股权大礼包”，正在从一次性馈赠，变成一项年复一年的长期股权转移。 此前华尔街见闻提及，SpaceX宣布…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T02:16:32.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0dd7c52a6969",
+          "title": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍",
+          "titleZh": "中国10月规模以上工业企业利润同比加速增长至20.1%，AI驱动下电子行业1-10月利润翻倍",
+          "url": "https://wallstreetcn.com/articles/3786817",
+          "summary": "11月27日，国家统计局公布数据显示，1-10月份，全国规模以上工业企业实现利润总额67373.6亿元，同比增长16.0%。全国工业生产总体平稳，新动能快速成长，带动规模以上工业企业利润同比增长16.0%，较1—9月份加快0.5个百分点，今年以来继续保持两位数增长。 其中，10月份，全国规模以上工业企业利润同比增长20.1%，较9月份加快5.7个百分点。 从…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T02:01:58.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b39cd2befee3",
+          "title": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+          "titleZh": "美银Hartnett谈2027年美股：全面泡沫8888，软着陆7777，硬着陆6666",
+          "url": "https://wallstreetcn.com/articles/3786819",
+          "summary": "美银首席投资策略师Michael Hartnett最新发布的2027年展望报告，为2027年标普500指数设定了三大情境：由广度驱动的“软着陆”基准情形（约7777点），由AI和政府干预驱动的“全面泡沫”（约8888点），以及市场极度缺乏防备的“硬着陆”破裂情形（约6666点）。 Hartnett认为，市场当前对宏观经济的定价存在严重偏差，对硬着陆的定价严重…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T01:59:06.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "de74b8ff635d",
+          "title": "私募规模“锣鼓”暂停，10月份证券类私募缩水8700亿元",
+          "titleZh": "私募规模“锣鼓”暂停，10月份证券类私募缩水8700亿元",
+          "url": "https://wallstreetcn.com/articles/3786818",
+          "summary": "被量化对冲和创投产品持续推高的私募行业规模，在10月份按下“暂停键”。 根据中国证券投资基金业协会（后简称中基协）发布的数据，私募基金管理总规模在连续15个月扩张（2025年7月至2026年9月）之后，悄然迎来了近期的首次收缩。 数据显示，10月份私募行业总规模，相比前一个月减少6000亿以上，证券类私募规模缩水尤其明显。 私募业规模首降 根据相关发布，截至…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T01:51:00.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "962c4ae29e09",
+          "title": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高",
+          "titleZh": "Adobe预测：今年圣诞网购2750亿美元，借贷消费占213亿再创新高",
+          "url": "https://wallstreetcn.com/articles/3786823",
+          "summary": "美国消费者在今年假日购物季的借贷消费规模预计将创下历史新高，“先买后付”（BNPL）工具的使用量持续攀升。 据Adobe预测，在11月1日至12月31日期间，美国消费者使用“先买后付”的在线借贷消费支出将达到创纪录的213亿美元，较去年同期增长6.6%。 仅在“网购星期一”（Cyber Monday），该项支出预计将达到10.9亿美元，连续第二年突破10亿美…",
+          "whyItMatters": "",
+          "sourceName": "华尔街见闻",
+          "publishedAt": "2026-11-27T02:58:30.000Z",
+          "topic": "macro",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "ai",
+      "name": "前沿科技与 AI 产业",
+      "description": "理解生产力变革方向：模型能力边界、推理成本、算力与芯片、开发者生态、企业落地与监管。",
+      "core": true,
+      "targetMinutes": [
+        10,
+        15
+      ],
+      "accent": {
+        "light": "#7c3aed",
+        "dark": "#c4a6ff"
+      },
+      "items": [
+        {
+          "id": "8e11dfc43ebf",
+          "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+          "titleZh": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+          "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+          "summary": "Open video on YouTube ↗ Clay wants you to get about the same results whether you use its own agent or point Claude Code at Clay. Usage is already split close to 50/50 between Clay’…",
+          "whyItMatters": "",
+          "sourceName": "Latent Space",
+          "publishedAt": "2026-11-26T23:02:48.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.35,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "61a2138681a6",
+          "title": "AI made self-hosting fun again",
+          "titleZh": "AI made self-hosting fun again",
+          "url": "https://janlukas.blog/posts/ai-self-hosting",
+          "summary": "Article URL: https://janlukas.blog/posts/ai-self-hosting Comments URL: https://news.ycombinator.com/item?id=50660180 Points: 409 # Comments: 223",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-26T21:47:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://janlukas.blog/posts/ai-self-hosting"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "4ba6e2f2e0c4",
+          "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "titleZh": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+          "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+          "summary": "Article URL: https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/ Comments URL: https://news.ycombinator.com/item?id=50659841 Points: 284 # …",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-26T21:08:05.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "85e4aa2ea343",
+          "title": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "titleZh": "Claude Code 灵魂人物，开始反思 Vibe Coding 的未来了",
+          "url": "https://www.ifanr.com/1695671?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "Anthropic 最近真是流年不利。 一边是顶着史上最大 IPO 的光环上市不到一周就破发，另一边是自家最能打的 Claude Code 团队，接连有核心成员转投竞争对手 OpenAI。 昨天，Claude Code 核心工程师 Thariq Shihipar 正式官宣加入 OpenAI。而就在刚刚，有海外网友直接贴脸发问，说真信安全 AI 就不会跳槽，说…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-11-27T03:49:58.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "34ec951922bc",
+          "title": "华为 Mate X8 评测：终局之战",
+          "titleZh": "华为 Mate X8 评测：终局之战",
+          "url": "https://www.ifanr.com/1695642?utm_source=rss&utm_medium=rss&utm_campaign",
+          "summary": "1969 年 7 月 20 日，当尼尔·阿姆斯特朗首次踏上松软、冰冷又滑腻的月壤，他说出了那句足以流传千古的评价： That’s one small step for [a] man, one giant leap for mankind. 这是个人的一小步，却是人类的一大步。 我们无意将消费电子产品的迭代与人类登月相提并论，不过在体验了最新的华为 Mate…",
+          "whyItMatters": "",
+          "sourceName": "爱范儿",
+          "publishedAt": "2026-11-27T03:06:45.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.55,
+          "scores": {
+            "importance": 6,
+            "novelty": 7,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5448a7a23221",
+          "title": "Ford unveils the GT41 as it hopes to win Le Mans again",
+          "titleZh": "Ford unveils the GT41 as it hopes to win Le Mans again",
+          "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+          "summary": "Sixty years ago, after two failed attempts, Ford won the 24 Hours of Le Mans with its GT40 race car. In the years since, the Blue Oval has been back to France more than a few times…",
+          "whyItMatters": "",
+          "sourceName": "Ars Technica",
+          "publishedAt": "2026-11-26T18:00:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "3638cae91160",
+          "title": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "titleZh": "YouTube Ad Punisher – Auto-reloads YouTube pages when an ad plays",
+          "url": "https://github.com/antonpictures/youtube-punisher",
+          "summary": "Article URL: https://github.com/antonpictures/youtube-punisher Comments URL: https://news.ycombinator.com/item?id=50657530 Points: 303 # Comments: 379",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-26T17:36:47.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://github.com/antonpictures/youtube-punisher"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d135d07d0ecd",
+          "title": "AMD-specific fork of llama.cpp",
+          "titleZh": "AMD-specific fork of llama.cpp",
+          "url": "https://devnull.land/amd-specific-llama-cpp",
+          "summary": "Article URL: https://devnull.land/amd-specific-llama-cpp Comments URL: https://news.ycombinator.com/item?id=50657265 Points: 303 # Comments: 74",
+          "whyItMatters": "",
+          "sourceName": "Hacker News Best",
+          "publishedAt": "2026-11-26T17:11:29.000Z",
+          "topic": "ai",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.4,
+          "scores": {
+            "importance": 7,
+            "novelty": 5,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "Hacker News",
+              "url": "https://devnull.land/amd-specific-llama-cpp"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "business",
+      "name": "商业模式与行业深度",
+      "description": "提升商业敏锐度：财报拆解、单位经济模型、并购融资、战略选择、中国企业出海。",
+      "core": true,
+      "targetMinutes": [
+        8,
+        12
+      ],
+      "accent": {
+        "light": "#b45309",
+        "dark": "#f0b45e"
+      },
+      "items": [
+        {
+          "id": "b09699e703e2",
+          "title": "美元升值背后：全球从“石油美元”步入“芯片美元”？",
+          "titleZh": "美元升值背后：全球从“石油美元”步入“芯片美元”？",
+          "url": "https://www.huxiu.com/article/4908837.html?f=rss",
+          "summary": "本文来自微信公众号： 财联社 ，作者：潇湘 今年以来，科技板块的资本持续流入，叠加AI投资与普及提振的经济增长预期，正为美元提供坚实支撑。 而与此同时，德意志银行基于国际贸易中心(ITC)数据的分析显示，在席卷全球的人工智能热潮助推下，半导体的全球出口总额已首次超越石油与天然气。 尽管这一历史性里程碑的到来节点颇显尴尬——当前投资者正重新审视人工智能领域的巨…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-27T01:16:56.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 3,
+          "score": 7.45,
+          "scores": {
+            "importance": 8,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 7
+          },
+          "coverageCount": 3,
+          "alsoCovered": [
+            {
+              "sourceName": "东方财富",
+              "url": "http://finance.eastmoney.com/news/1344,202611273941464331.html"
+            },
+            {
+              "sourceName": "cnBeta",
+              "url": "https://www.cnbeta.com.tw/articles/tech/1588170.htm"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d44f21150010",
+          "title": "在看不见“真人”的红果，人怎么赚钱",
+          "titleZh": "在看不见“真人”的红果，人怎么赚钱",
+          "url": "https://www.huxiu.com/article/4908863.html?f=rss",
+          "summary": "本文来自微信公众号：木禾商业财经，作者：龚正，题图来自：视觉中国 字节的红果，正在大量消费用户时间，也在加速把AI短剧推入变现的快车道。 一个传导链条已经形成：人、钱、流量，都在往红果流、往AI短剧赛道流。传统影视剧公司，无论主动还是被动，都被推到了转型的十字路口。 但转型谈何容易。一位头部影视公司的AI项目负责人，日前与《木禾商业财经》做了一场一个半小时的…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-27T03:23:14.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8220004.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "573e2d01e038",
+          "title": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
+          "titleZh": "比亚迪开始买欧洲工厂：中国汽车出海，进入下半场",
+          "url": "https://www.huxiu.com/article/4908844.html?f=rss",
+          "summary": "本文来自微信公众号： 象限Trine ，作者：张恒 11月24日，比亚迪宣布，与英国英力士汽车（INEOS Automotive）就收购法国汉巴赫（Hambach）汽车工厂进入独家谈判。 这座工厂并不普通。它最早由奔驰建设，用于生产Smart品牌汽车，2020年被英力士从奔驰手中收购，目前主要生产Grenadier越野车。工厂位于法国东北部，靠近德国边境，拥…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-27T01:39:36.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 7.15,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8219833.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ae3cc0ff913e",
+          "title": "白酒的“去库存周期”走到哪了？",
+          "titleZh": "白酒的“去库存周期”走到哪了？",
+          "url": "https://www.huxiu.com/article/4908817.html?f=rss",
+          "summary": "本文来自微信公众号： 锦缎 ，作者：星禾 2026年4月，五粮液一纸《关于前期会计差错更正的公告》，将众人皆知的酒企库存问题扔出了水面。今年以来，白酒在事实层面，已经进入一个相当极端的去库存周期。 消费端的事情见仁见智，年轻人喝不喝、商务场景回不回来，争论很难有结果。从投资的基本面出发，判断反而简单——只有完成去库存带来的基本面修复，白酒才有相对明确的底部，…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-26T23:59:21.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8219964.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b899e92dac19",
+          "title": "他们，将剩菜做成了生意",
+          "titleZh": "他们，将剩菜做成了生意",
+          "url": "https://www.huxiu.com/article/4908815.html?f=rss",
+          "summary": "本文来自微信公众号： 斑马消费 ，作者：范建 剩菜居然也能包装成盲盒，通过特定平台对外出售？ 中国的“余量食物共享”赛道自2021年诞生以来，已让部分城市的年轻群体，养成了“捡漏”的习惯。 当然，平台所出售的剩菜，并不是别人吃剩下的残羹冷炙，而是餐饮店当天没有卖掉的临期食品，通过随机组合的方式低价处理。 这套模式源自丹麦的Too Good To Go。进入国…",
+          "whyItMatters": "",
+          "sourceName": "虎嗅",
+          "publishedAt": "2026-11-26T23:43:02.000Z",
+          "topic": "business",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 4,
+          "score": 6.9,
+          "scores": {
+            "importance": 7,
+            "novelty": 6,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 2,
+          "alsoCovered": [
+            {
+              "sourceName": "钛媒体",
+              "url": "https://www.tmtpost.com/8219729.html"
+            }
+          ],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "longform",
+      "name": "深度长文与思考",
+      "description": "抵抗碎片化。选文标准是半年后仍然成立，而不是今天的热点。适合周末或通勤精读。",
+      "core": true,
+      "targetMinutes": null,
+      "accent": {
+        "light": "#0f766e",
+        "dark": "#5eead4"
+      },
+      "items": [
+        {
+          "id": "4639984632fb",
+          "title": "Superlinear Returns",
+          "titleZh": "Superlinear Returns",
+          "url": "http://www.paulgraham.com/superlinear.html",
+          "summary": "October 2023 One of the most important things I didn't understand about the world when I was a child is the degree to which the returns for performance are superlinear. Teachers an…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-27T04:29:04.504Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f11db37935cd",
+          "title": "How to Do Great Work",
+          "titleZh": "How to Do Great Work",
+          "url": "http://www.paulgraham.com/greatwork.html",
+          "summary": "July 2023 If you collected lists of techniques for doing great work in a lot of different fields, what would the intersection look like? I decided to find out by making it. Partly …",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-27T04:29:04.504Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "f45b5ff1ffe9",
+          "title": "The Need to Read",
+          "titleZh": "The Need to Read",
+          "url": "http://www.paulgraham.com/read.html",
+          "summary": "November 2022 In the science fiction books I read as a kid, reading had often been replaced by some more efficient way of acquiring knowledge. Mysterious \"tapes\" would load it into…",
+          "whyItMatters": "",
+          "sourceName": "Paul Graham",
+          "publishedAt": "2026-11-27T04:29:04.504Z",
+          "topic": "longform",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 7.55,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 8
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": true,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "geopolitics",
+      "name": "地缘政治与政策监管",
+      "description": "只收直接影响资产价格与产业的政策：出口管制、关税、数据与 AI 立法、反垄断、能源制裁。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#9f1239",
+        "dark": "#fda4af"
+      },
+      "items": [
+        {
+          "id": "a115e8279bab",
+          "title": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+          "titleZh": "Huawei guilty on 10 counts in US trial; Nvidia’s Jensen Huang returns: SCMP’s 7 highlights",
+          "url": "https://www.scmp.com/news/world/article/3375979/huawei-guilty-10-counts-us-trial-nvidias-jensen-huang-returns-scmps-7-highlights",
+          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical is…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-27T04:15:06.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "5d7adc37bc76",
+          "title": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
+          "titleZh": "What will Taiwan local elections reveal about 2028 race and cross-strait shifts?",
+          "url": "https://www.scmp.com/news/china/politics/article/3375904/what-will-taiwan-local-elections-reveal-about-2028-race-and-cross-strait-shifts",
+          "summary": "The local elections in Taiwan on Saturday will offer Beijing a window into shifting public sentiment and the island’s political trajectory ahead of its 2028 general poll, with the …",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-27T04:00:12.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "0acc6e55618e",
+          "title": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
+          "titleZh": "Will Taiwan’s referendum bring back nuclear power as chips and AI strain the grid?",
+          "url": "https://www.scmp.com/news/china/politics/article/3375975/will-taiwans-referendum-bring-back-nuclear-power-chips-and-ai-strain-grid",
+          "summary": "Taiwan’s growing demand for electricity to sustain its semiconductor and AI industries has thrust a nuclear power referendum into the spotlight in Saturday’s local elections. The v…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-27T02:59:14.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "d9ea09363147",
+          "title": "Is the US reviving Subic Bay in the Philippines as an ‘unbranded military base’?",
+          "titleZh": "Is the US reviving Subic Bay in the Philippines as an ‘unbranded military base’?",
+          "url": "https://www.scmp.com/news/china/military/article/3375855/us-reviving-subic-bay-philippines-unbranded-military-base",
+          "summary": "The United States is quietly transforming Subic Bay in the Philippines back into an “unbranded military base” that could support US operations in both the South China Sea and the T…",
+          "whyItMatters": "",
+          "sourceName": "南华早报",
+          "publishedAt": "2026-11-27T02:00:13.000Z",
+          "topic": "geopolitics",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.6,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 4
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "bio",
+      "name": "生物医药与健康科技",
+      "description": "临床读出、FDA/NMPA 审批、GLP-1 与减重赛道、AI 制药、脑机接口、医疗支付改革。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        5
+      ],
+      "accent": {
+        "light": "#be185d",
+        "dark": "#f9a8d4"
+      },
+      "items": [
+        {
+          "id": "1823bb5c2b41",
+          "title": "Strange ‘topological’ wires conduct electricity better the thinner they get",
+          "titleZh": "Strange ‘topological’ wires conduct electricity better the thinner they get",
+          "url": "https://www.science.org/content/article/strange-topological-wires-conduct-electricity-better-thinner-they-get",
+          "summary": "Unusual conductors could someday enable even tinier computer chips by ferrying electrons faster when shrunken down",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-27T04:29:06.534Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "50dbc3b78c58",
+          "title": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+          "titleZh": "Release of mosquitoes infected with virus-fighting bacteria slashes dengue in children",
+          "url": "https://www.science.org/content/article/release-mosquitoes-infected-virus-fighting-bacteria-slashes-dengue-children",
+          "summary": "Large trial in Brazil confirms the power of Wolbachia to thwart several mosquito-borne viruses",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-27T04:29:06.534Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "e50a2974d19e",
+          "title": "Europe looks beyond its giant telescope to its next big bet",
+          "titleZh": "Europe looks beyond its giant telescope to its next big bet",
+          "url": "https://www.science.org/content/article/europe-looks-beyond-its-giant-telescope-its-next-big-bet",
+          "summary": "With its 39-meter scope nearly complete, the European Southern Observatory weighs bids for a next-generation instrument",
+          "whyItMatters": "",
+          "sourceName": "Science News",
+          "publishedAt": "2026-11-27T04:29:06.534Z",
+          "topic": "bio",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.65,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "dev",
+      "name": "开源与开发者生态",
+      "description": "重要开源项目发布、语言与框架演进、基础设施、开发范式变化、值得 star 的新项目。",
+      "core": false,
+      "targetMinutes": [
+        4,
+        6
+      ],
+      "accent": {
+        "light": "#4d7c0f",
+        "dark": "#bef264"
+      },
+      "items": [
+        {
+          "id": "8e467f2aa75d",
+          "title": "Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill.",
+          "titleZh": "Cloudflare now lets websites add search for AI agents with a single toggle. Site owners foot the query bill.",
+          "url": "https://thenewstack.io/cloudflare-agent-search-endpoint/",
+          "summary": "Cloudflare has announced a new feature that makes it easier for AI agents to find and retrieve relevant information from websites, helping site owners make their content directly s…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-26T18:46:47.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "c1fe18040562",
+          "title": "AI wrote the code. Can your test data tell you if it works?",
+          "titleZh": "AI wrote the code. Can your test data tell you if it works?",
+          "url": "https://thenewstack.io/protecting-enterprise-ai-data/",
+          "summary": "As organizations invest in AI , many are discovering a new bottleneck: obtaining data that is both protected and useful. Engineering teams need realistic, production-like data to v…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-26T16:18:49.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "b0a4c73d01d0",
+          "title": "A developer ran 50 agents at once. Then his Mac became the bottleneck.",
+          "titleZh": "A developer ran 50 agents at once. Then his Mac became the bottleneck.",
+          "url": "https://thenewstack.io/ai-agents-remote-sandboxes/",
+          "summary": "As developers move from working with individual AI coding agents to orchestrating dozens of concurrent sessions, the hardware they use to develop software is becoming a potential b…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-26T16:12:29.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 5.85,
+          "scores": {
+            "importance": 6,
+            "novelty": 5,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "ffb6c26441d4",
+          "title": "Cognition’s new engineers aren’t even downloading code anymore — they build entirely through Devin",
+          "titleZh": "Cognition’s new engineers aren’t even downloading code anymore — they build entirely through Devin",
+          "url": "https://thenewstack.io/cognition-devin-automated-engineering/",
+          "summary": "Some engineers joining Cognition no longer set up local development environments . Instead, Devin has become their primary interface for software development. Speaking to Patrick O…",
+          "whyItMatters": "",
+          "sourceName": "The New Stack",
+          "publishedAt": "2026-11-26T12:53:43.000Z",
+          "topic": "dev",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 2,
+          "score": 5.6,
+          "scores": {
+            "importance": 6,
+            "novelty": 4,
+            "actionability": 5,
+            "depth": 7
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    },
+    {
+      "topicId": "crypto",
+      "name": "加密与金融科技",
+      "description": "稳定币与支付基础设施、RWA、ETF 与机构资金流、监管框架、链上数据异动。",
+      "core": false,
+      "targetMinutes": [
+        3,
+        4
+      ],
+      "accent": {
+        "light": "#a16207",
+        "dark": "#fde047"
+      },
+      "items": [
+        {
+          "id": "09578033492c",
+          "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+          "titleZh": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+          "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-27T04:18:40.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        },
+        {
+          "id": "aa2200ce49f5",
+          "title": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+          "titleZh": "JPMorgan flags bitcoin ‘capitulation,’ Democrats push back on SEC’s crypto plans, and more",
+          "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+          "summary": "",
+          "whyItMatters": "",
+          "sourceName": "The Block",
+          "publishedAt": "2026-11-27T02:20:00.000Z",
+          "topic": "crypto",
+          "tags": [],
+          "type": "快讯",
+          "readMinutes": 1,
+          "score": 6.3,
+          "scores": {
+            "importance": 7,
+            "novelty": 7,
+            "actionability": 6,
+            "depth": 3
+          },
+          "coverageCount": 1,
+          "alsoCovered": [],
+          "mustRead": false,
+          "paywall": false,
+          "degraded": true
+        }
+      ]
+    }
+  ],
+  "topPickIds": [
+    "4639984632fb",
+    "f11db37935cd",
+    "f45b5ff1ffe9"
+  ],
+  "stats": {
+    "itemsConsidered": 37,
+    "itemsPublished": 35,
+    "itemsFiltered": 2,
+    "sourcesOk": 86,
+    "sourcesFailed": 9,
+    "totalReadMinutes": 76,
+    "usage": {
+      "inputTokens": 0,
+      "outputTokens": 0,
+      "cacheReadTokens": 0,
+      "cacheWriteTokens": 0,
+      "calls": 0,
+      "failedCalls": 0,
+      "estimatedCostUsd": 0,
+      "byModel": {}
+    }
+  }
+}
